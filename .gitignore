@@ -1,0 +1,5 @@
+.DS_Store
+*.db
+api_key.txt
+uploads/
+__pycache__/
