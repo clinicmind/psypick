@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T14:03:42+00:00",
+ "generated_at": "2026-10-04T20:30:00+00:00",
  "today": "2026-10-04",
  "regions": [
   "香港",
@@ -53,20 +53,92 @@
    "speakers": [
     {
      "name": "Robert Allan",
-     "role": "ICEEFT 認證 EFT 培訓師、督導及治療師；高級講師",
+     "role": "ICEEFT 認證 EFT 培訓師、督導及治療師；婚姻及家庭治療副教授",
      "affiliation": "University of Colorado Denver",
      "session": "All the EFTs: Thinking Systemically, Conceptualising Attachmently, Doing Emotionally（主題演講）",
-     "bio_zh": "持牌婚姻及家庭治療師，專長少數壓力、關係多元與 EFT 的多元文化應用；為首個情緒取向個人治療（EFIT）臨床試驗的共同主要研究者（加拿大及美國三地）。",
+     "bio_zh": "科羅拉多大學丹佛分校伴侶與家庭組（MFT 及輔導課程）副教授，也是 ICEEFT 認證培訓師及督導；研究與臨床專長是少數壓力、關係多元，以及 EFT 的文化調適。為首個情緒取向個人治療（EFIT）臨床試驗（加拿大及美國三地）的共同主要研究者，並開辦 ICEEFT 認可的 LGBTQ+ 取向 EFCT 外延訓練（externship）。",
      "works": [
       {
-       "title": "EFIT 臨床試驗（共同主要研究者；情緒取向個人治療首個臨床試驗）",
+       "title": "Conceptual and application issues: Emotionally Focused Therapy with gay male couples（與 Sue Johnson）",
+       "year": "2016",
+       "type": "論文（J Couple & Relationship Therapy 16(4), 286–305）",
+       "url": "https://www.researchgate.net/publication/309904171_Conceptual_and_Application_Issues_Emotionally_Focused_Therapy_With_Gay_Male_Couples"
+      },
+      {
+       "title": "EFIT 臨床試驗（共同主要研究者）",
        "year": "",
        "type": "研究計劃",
        "url": "https://iceeft.com/iceeft-trainers/"
+      },
+      {
+       "title": "LGBTQ+ Centred EFCT Externship（創辦／主持）",
+       "year": "",
+       "type": "培訓",
+       "url": "https://drrobertallan.co.uk/training-events/lgbtq-centered-emotionally-focused-therapy-externship"
       }
      ],
      "verified": true,
-     "note": "代表作暫只核對到一項（研究計劃）；個人論文待查證。"
+     "note": "職銜取自 UCD 與培訓頁面（副教授／高級講師兩種說法並存）。"
+    },
+    {
+     "name": "Helene Igwebuike",
+     "role": "整合輔導員；ICEEFT 認證 EFT 伴侶治療師、督導及培訓師；BEFT 創辦人之一",
+     "bio_zh": "2003 年起私人執業，是英國最早取得 ICEEFT 認證的治療師之一，也是英國 EFT 中心（BEFT）的創辦人之一；在倫敦及網上執業，服務多元文化背景的來訪者。",
+     "verified": true,
+     "note": "作品未核對。",
+     "works": [],
+     "affiliation": "",
+     "session": ""
+    },
+    {
+     "name": "Sandra Taylor",
+     "role": "PhD；EFT 培訓師、督導及治療師；BEFT 創辦人及協調人",
+     "bio_zh": "BEFT 創辦人之一及協調人，BACP 認可成員，在蘭開夏郡網上執業，來訪者以 LGBTQ+ 為主。",
+     "verified": true,
+     "note": "作品未核對。",
+     "works": [],
+     "affiliation": "",
+     "session": ""
+    },
+    {
+     "name": "Gulya Diyarova",
+     "role": "ICEEFT 認證 EFT 治療師及督導；心理性愛與關係治療師；EFT International School 及 EFT Clinic（倫敦）創辦總監",
+     "bio_zh": "自 2009 年起與 ICEEFT 合作在倫敦組織 EFT 培訓，對把 EFT 引入英國有重要貢獻。",
+     "verified": true,
+     "note": "作品未核對。",
+     "works": [],
+     "affiliation": "",
+     "session": ""
+    },
+    {
+     "name": "Matt Davies",
+     "role": "EFT 關係輔導員（倫敦）",
+     "session": "Sex, Attachment & Courage to Want",
+     "bio_zh": "據關係輔導名錄：倫敦的 EFT 關係輔導員。",
+     "verified": false,
+     "note": "背景與作品待查證。",
+     "works": [],
+     "affiliation": ""
+    },
+    {
+     "name": "Fiona Pusey",
+     "role": "EFT 從業者",
+     "session": "Reflections on EFT and Neurodiversity",
+     "bio_zh": "本站只確認她在本屆會議講「EFT 與神經多樣性」。",
+     "verified": false,
+     "note": "背景與作品待查證。這個題目與你的特殊教育需要領域相關。",
+     "works": [],
+     "affiliation": ""
+    },
+    {
+     "name": "Sarah McConnell",
+     "role": "（官方頁面僅列姓名）",
+     "bio_zh": "",
+     "verified": false,
+     "note": "背景與作品待查證。",
+     "works": [],
+     "affiliation": "",
+     "session": ""
     }
    ],
    "last_checked": "2026-10-04"
@@ -198,20 +270,46 @@
      "role": "神經科學與臨床神經心理學教授；亞太心理學聯盟（APPA）會長",
      "affiliation": "La Trobe University",
      "session": "A Strategic Vision for Psychology in the Asia-Pacific",
-     "bio_zh": "澳洲心理學會院士，APPA 首任主席（2019–2023）；研究記憶形成的生物基礎及神經精神疾病的神經心理學；發表三本專著及 140 篇以上期刊論文。",
-     "works": [],
+     "bio_zh": "拉特羅布大學神經科學與臨床神經心理學教授；澳洲心理學會院士，亞太心理學聯盟（APPA）首任主席（2019–2023）並現任會長；也是臨床神經心理學、司法心理學及臨床心理學學院的成員，及國際神經心理學會、神經科學學會成員。研究兩條線：記憶形成的生物基礎（以雛雞學習模型）及神經精神疾病的神經心理學與神經心理評估，已發表三本專著與 140 篇以上期刊論文。",
+     "works": [
+      {
+       "title": "Does the Letter Number Sequencing Task Measure Anything More Than Digit Span?",
+       "year": "2000",
+       "type": "論文（Assessment）",
+       "url": "https://journals.sagepub.com/doi/abs/10.1177/107319110000700202"
+      },
+      {
+       "title": "Neuropsychological Effects of the Psychiatric Disorders",
+       "year": "1998",
+       "type": "書",
+       "url": "https://www.routledge.com/Neuropsychological-Effects-of-the-Psychiatric-Disorders/Crowe/p/book/9781032954677"
+      },
+      {
+       "title": "Brain-derived neurotrophic factor facilitates memory consolidation and reconsolidation of a weak training stimulus in the day-old chick（共同作者）",
+       "year": "",
+       "type": "論文",
+       "url": "https://scholar.google.com/citations?user=X39PvpgAAAAJ&hl=en"
+      }
+     ],
      "verified": true,
-     "note": "個人作品請見 Google Scholar（scholar.google.com 的 Simon F. Crowe 頁面），尚未逐項核對。"
+     "note": "據出版社及 Google Scholar 搜尋摘要；另有被引次數高的 Trail Making Test（1998）與苯二氮平類長期使用認知影響統合分析（2004，共同作者），期刊與作者排序未逐項核對。"
     },
     {
      "name": "楊政達（Cheng-Ta Yang）",
-     "role": "台灣心理學會會長",
+     "role": "國立成功大學心理學系特聘教授；成大人文社會科學研究中心主任；台北醫學大學人文暨社會科學院院長（待核對）",
      "affiliation": "國立成功大學",
      "session": "Psychology in Taiwan",
-     "bio_zh": "據徵稿海報所列。",
-     "works": [],
-     "verified": false,
-     "note": "背景與代表作待查證。"
+     "bio_zh": "台灣大學心理學博士（2009）、學士（2004）。研究專長為數學心理學與實驗認知心理學，題目包括注意力、記憶、物體辨識與情景知覺；2016 年獲中央研究院年輕學者研究著作獎，2019 年升任特聘教授。",
+     "works": [
+      {
+       "title": "成大研究成果頁面（Cheng-Ta Yang）",
+       "year": "",
+       "type": "清單",
+       "url": "https://researchoutput.ncku.edu.tw/zh/persons/cheng-ta-yang/"
+      }
+     ],
+     "verified": true,
+     "note": "「台灣心理學會會長」一職只見於 APPA 徵稿海報的敘述，搜尋結果中未能獨立證實；他的個別代表作未逐項核對。"
     }
    ],
    "last_checked": "2026-10-04"
@@ -279,38 +377,38 @@
     {
      "name": "Alison Cerezo",
      "role": "首席科學官（CSO）",
-     "affiliation": "mpathic",
+     "affiliation": "mpathic；加州大學聖塔芭芭拉分校（輔導、臨床及學校心理學系）",
      "session": "Keeping Humans Safe in the AI Era（AI 主題演講）",
-     "bio_zh": "mpathic 領導科學團隊，專注為行為健康提供者的即時輔導，並以臨床專家資料服務使基礎模型對心理健康更安全；APA AI 顧問成員；Fierce 50 2024 健康公平得獎者。",
+     "bio_zh": "輔導心理學背景（UCSB 輔導、臨床及學校心理學系），研究性與性別少數及拉丁裔社群的心理健康、交叉性與少數壓力；現任 mpathic 首席科學官，領導臨床專家資料服務，使基礎模型在心理健康情境更安全。APA AI 顧問成員；Fierce 50 2024 健康公平得獎者。",
      "works": [
       {
-       "title": "From empathy to AI safety: operationalizing the psychology of safer intelligence",
-       "year": "",
-       "type": "文章（mpathic 部落格）",
-       "url": "https://mpathic.ai/blog/"
+       "title": "Critical behavioral traits foster peer engagement in Online Mental Health Communities（共同作者，PLoS One）",
+       "year": "2025",
+       "type": "論文",
+       "url": "https://doi.org/10.1371/journal.pone.0316906"
       },
       {
-       "title": "To keep humans safe in the AI era, start with behavioral science",
-       "year": "",
-       "type": "文章（mpathic 部落格）",
-       "url": "https://mpathic.ai/blog/"
+       "title": "An intersectional approach to understanding minority stressors and relationship quality in sexual and gender minority women's same-gender interracial/interethnic intimate relationships（共同作者）",
+       "year": "2023",
+       "type": "論文",
+       "url": "https://doi.org/10.1037/sgd0000666"
       },
       {
-       "title": "Relational friction is not a flaw: the dangers of AI sycophancy",
-       "year": "",
-       "type": "文章（mpathic 部落格）",
-       "url": "https://mpathic.ai/blog/"
+       "title": "Cannabis use, risk of cannabis use disorder, and anxiety and depression among bisexual patients（共同作者）",
+       "year": "2025",
+       "type": "論文",
+       "url": "https://doi.org/10.1016/j.drugalcdep.2025.112762"
       }
      ],
      "verified": true,
-     "note": "屬業界文章，非同行評審論文；日期未核對。"
+     "note": "論文據 PubMed 核對，均為共同作者；她在 mpathic 部落格的 AI 安全文章見其官網。"
     },
     {
      "name": "Melba J. T. Vasquez",
      "role": "心理學家；2011 年 APA 會長（首位拉丁裔會長）",
      "affiliation": "Vasquez Associates Mental Health Services",
      "session": "The Ethics of Multicultural Therapy（倫理主題演講）",
-     "bio_zh": "多元文化心理學與專業倫理的重要學者。",
+     "bio_zh": "多元文化心理學與專業倫理的重要學者，2011 年 APA 會長（首位拉丁裔會長），現為 Vasquez Associates Mental Health Services 的心理學家及執行總監；長期與 Kenneth Pope 合著心理治療倫理教科書，並參與《Ethics for Psychologists》評註。",
      "works": [
       {
        "title": "Ethics in Psychotherapy and Counseling: A Practical Guide（第六版，與 Pope、Chavez-Duenas、Adames）",
@@ -330,20 +428,32 @@
     },
     {
      "name": "Hector Adames",
-     "role": "諮商心理學系教授及課程主任",
+     "role": "輔導心理學教授及課程主任；IC-RACE 實驗室共同創辦人",
      "affiliation": "The Chicago School of Professional Psychology",
      "session": "Ethics in the Age of Looking Away",
-     "bio_zh": "專長多元文化諮商與倫理。",
+     "bio_zh": "Wright State University 臨床心理學博士，在波士頓大學醫學院完成神經心理學實習與博士後；現任芝加哥專業心理學院輔導心理學教授，共同創辦並共同主持移民、批判種族與文化公平實驗室（IC-RACE Lab）；學術重點是膚色歧視、種族主義與拉丁裔心理學。",
      "works": [
       {
-       "title": "Ethics in Psychotherapy and Counseling: A Practical Guide（第六版，共同作者）",
-       "year": "2021",
-       "type": "書（Wiley）",
-       "url": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781118001875"
+       "title": "Cultural Foundations and Interventions in Latinx Mental Health（與 Chavez-Dueñas）",
+       "year": "",
+       "type": "書（Routledge）",
+       "url": "https://www.routledge.com/Cultural-Foundations-and-Interventions-in-Latinoa-Mental-Health-History-Theory-and-within-Group-Differences/Adames-Chavez-Duenas/p/book/9780815386377"
+      },
+      {
+       "title": "Decolonial Psychology: Toward Anticolonial Theories, Research, Training, and Practice（共同作者）",
+       "year": "2023",
+       "type": "書（APA）",
+       "url": "https://www.jstor.org/stable/jj.1231873"
+      },
+      {
+       "title": "Toward a Psychological Framework of Radical Healing in Communities of Color（共同作者）",
+       "year": "2020",
+       "type": "論文（The Counseling Psychologist）",
+       "url": "https://journals.sagepub.com/doi/10.1177/0011000019843506"
       }
      ],
      "verified": true,
-     "note": "代表作暫只核對到一項。"
+     "note": "據出版社與期刊頁面；另有《Ethics in Psychotherapy and Counseling》第六版（共同作者，Wiley）。"
     },
     {
      "name": "Kimberlé Crenshaw",
@@ -376,23 +486,49 @@
     },
     {
      "name": "Lisa Bowleg",
-     "role": "創辦人及 CEO；榮休教授",
-     "affiliation": "Intersectionality Training Institute；George Washington University",
+     "role": "創辦人及 CEO（Intersectionality Training Institute）；心理學榮休教授",
+     "affiliation": "喬治華盛頓大學",
      "session": "The Transformative Power of Intersectionality",
-     "bio_zh": "官方頁面所列職銜。",
-     "works": [],
-     "verified": false,
-     "note": "代表作待查證。"
+     "bio_zh": "交叉性（intersectionality）研究的重要心理學者，其研究聚焦黑人性別及性少數群體的交叉性經驗與健康公平，並發展量化與質性方法來研究交叉性。",
+     "works": [
+      {
+       "title": "The Problem with the Phrase Women and Minorities: Intersectionality—An Important Theoretical Framework for Public Health",
+       "year": "2012",
+       "type": "論文（AJPH）",
+       "url": "https://www.scirp.org/reference/referencespapers?referenceid=4123743"
+      },
+      {
+       "title": "“Once You've Blended the Cake, You Can't Take the Parts Back to the Main Ingredients”: Black Gay and Bisexual Men's Descriptions and Experiences of Intersectionality",
+       "year": "2013",
+       "type": "論文",
+       "url": "https://www.researchgate.net/publication/257663695_Once_You've_Blended_the_Cake_You_Can't_Take_the_Parts_Back_to_the_Main_Ingredients"
+      },
+      {
+       "title": "Invited reflection: Quantifying intersectionality（與 Greta Bauer）",
+       "year": "2016",
+       "type": "論文（Psychology of Women Quarterly）",
+       "url": "https://journals.sagepub.com/doi/10.1177/0361684316654282"
+      }
+     ],
+     "verified": true,
+     "note": "據搜尋結果與期刊頁面；2012 年一篇被引用 4,000 次以上（Semantic Scholar 的數字）。"
     },
     {
      "name": "Kieran Snyder",
-     "role": "AI 產品與市場推廣副總裁",
+     "role": "Microsoft AI 產品與市場推廣副總裁；Textio 共同創辦人",
      "affiliation": "Microsoft",
      "session": "The Largest Behavioral Experiment in Human History",
-     "bio_zh": "官方頁面所列職銜。",
-     "works": [],
-     "verified": false,
-     "note": "背景與代表作待查證。"
+     "bio_zh": "賓夕法尼亞大學語言學博士（專攻自然語言處理與計算語言學）；曾在 Microsoft 與 Amazon 做語言產品（拼字檢查、語言偵測、Bing 整合進 Windows）；2014 年共同創辦 Textio（以數據提升招聘及職場文字的包容性），並公開撰寫職場語言偏見（如績效評語中的性別偏見）。她是語言學者與科技人，非心理學者，演講題目「史上最大的行為實驗」是從 AI 產品角度談。",
+     "works": [
+      {
+       "title": "Textio（共同創辦；增強式寫作平台）",
+       "year": "2014",
+       "type": "公司／產品",
+       "url": "https://events.fastcompany.com/innovationfestival21/speaker/309859/kieran-snyder"
+      }
+     ],
+     "verified": true,
+     "note": "未逐一核對其文章標題；只列可證實的公司。"
     }
    ],
    "verify_notes": "",
@@ -591,83 +727,128 @@
    "speakers": [
     {
      "name": "Grace Soo",
-     "role": "首席臨床心理學家",
+     "role": "臨床心理學家（臨床心理學博士），Grace Psychology Services 負責人",
      "affiliation": "Grace Psychology Services",
      "session": "",
-     "bio_zh": "",
+     "bio_zh": "臨床心理學博士，註冊於新加坡心理學會與馬來西亞專職醫療人員委員會（臨床心理）。2010–2026 年在新加坡心理衛生學院（IMH）服務兒童、青少年及成人，期間獲 Sayang 卓越及具同理心服務獎、衛生部 HMDP 獎學金，並獲 2018 年 IACAPAP 大會的 Donald J. Cohen 研究員資格。目前於烏節路與大巴窑私人執業，處理焦慮、抑鬱、創傷、強迫症、ADHD 與自閉症，使用 CBT、ACT、EMDR。",
      "works": [],
-     "verified": false,
-     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+     "verified": true,
+     "note": "為臨床工作者，未找到其出版作品；獎項據其個人網站／LinkedIn 簡介，未向主辦方核對。"
     },
     {
      "name": "Ron Yap",
-     "role": "心理治療師、作家，Inner Hero Therapy 創辦人",
+     "role": "心理治療師、作家；Inner Hero Therapy 創辦人",
      "affiliation": "Inner Hero Therapy",
      "session": "",
-     "bio_zh": "",
-     "works": [],
-     "verified": false,
-     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+     "bio_zh": "新加坡輔導協會（SAC）持牌成員，莫納什大學輔導碩士（2024 年 11 月完成）。多年受強迫症困擾後才確診，並由此成為心理健康工作者；以 Instagram 帳號 @mentalhealthceo 做心理健康內容，追蹤者逾 34 萬。創立 Inner Hero Therapy（帶領個案重建身分的心理治療取向）。",
+     "works": [
+      {
+       "title": "@mentalhealthceo／Befriend Your Mind（Substack 專欄）",
+       "year": "",
+       "type": "專欄",
+       "url": "https://mentalhealthceo.substack.com/about"
+      },
+      {
+       "title": "Inner Hero Awakening（培訓計劃）",
+       "year": "",
+       "type": "培訓",
+       "url": "https://www.mentalhealthceo.com/innerheroawakeningbeta"
+      },
+      {
+       "title": "SingHealth Academy WOW 2025 會議講者",
+       "year": "2025",
+       "type": "演講",
+       "url": "https://www.singhealthacademy.edu.sg/wow-conference-2025/speakers/ronyap"
+      }
+     ],
+     "verified": true,
+     "note": "作品為內容創作與培訓，並非同行評審研究；追蹤者人數據其自述。"
     },
     {
      "name": "Cherie Chan",
-     "role": "Kokoro Psychology 創辦人及總監",
-     "affiliation": "Kokoro Psychology",
+     "role": "臨床心理學家；新加坡心理學會（SPS）現任會長；Kokoro Psychology 創辦人",
+     "affiliation": "Kokoro Psychology；新加坡社會科學大學（SUSS）兼任講師",
      "session": "",
-     "bio_zh": "",
+     "bio_zh": "新加坡國立大學社會科學榮譽學士，澳洲莫道克大學臨床心理學博士；曾在澳洲與新加坡的公共及私營心理健康機構工作。新加坡心理學會正式會員、新加坡註冊心理學家（SRP）註冊心理學家及督導；現任 SPS 會長，並在 SUSS 兼任講師。",
      "works": [],
-     "verified": false,
-     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+     "verified": true,
+     "note": "背景據 LinkedIn 與機構頁面；未找到其出版作品。會長職位據搜尋摘要，建議對照 SPS 官網。"
     },
     {
      "name": "Jonathan Marshall",
-     "role": "負責人",
+     "role": "心理治療師、執行教練、領導力講師；Marshall Consulting 創辦人",
      "affiliation": "Marshall Consulting",
      "session": "",
-     "bio_zh": "",
+     "bio_zh": "史丹福大學心理學博士，哈佛大學博士後；第三代新加坡人，早年為新加坡海軍軍官（管理三個兩棲排、約 100 名水兵），後加入後來成為 Yahoo! 的 20 人新創。曾在新加坡國立大學與新加坡管理大學任教；現為 INSEAD 教練及督導、耶魯–新加坡國立大學學院領導學講師。創辦 Marshall Consulting，結合執行教練、心理治療、領導力發展與公開講座。",
      "works": [],
-     "verified": false,
-     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+     "verified": true,
+     "note": "背景據 LinkedIn 與其網站；未找到其出版作品清單，待查證。"
     },
     {
      "name": "Sanveen Kang",
-     "role": "Psych Connect 及 The Sama Collective 創辦人／首席臨床心理學家",
+     "role": "創辦人及首席臨床心理學家，Psych Connect；The Sama Collective",
      "affiliation": "Psych Connect",
      "session": "",
-     "bio_zh": "",
+     "bio_zh": "詹姆斯庫克大學臨床心理學博士，邦德大學臨床心理學碩士，俄亥俄州立大學理學士；18 年以上臨床、督導、學術與領導經驗；註冊於新加坡心理學家註冊（SRP）及澳洲 AHPRA。長期服務兒童、青少年、青年與家庭，專長診斷性心理評估，受過 CBT、ACT、動機式晤談、情緒取向治療（EFT）、圖式治療、沙盤與象徵遊戲治療、Triple P 親職與焦點解決治療訓練。",
      "works": [],
-     "verified": false,
-     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+     "verified": true,
+     "note": "背景據機構頁面；未找到其出版作品，待查證。她受過情緒取向治療訓練，與你的 EFT 領域有關。"
     },
     {
      "name": "Kati Morton",
      "role": "持牌婚姻及家庭治療師",
      "affiliation": "",
-     "session": "錄影＋網上問答；背景與作品見香港站",
-     "bio_zh": "",
-     "works": [],
-     "verified": false,
-     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+     "session": "錄影＋網上問答（內容見香港站）",
+     "bio_zh": "美國註冊 LMFT，擁有臨床心理學碩士，約 15 年臨床經驗，以 YouTube 心理健康教育與出版聞名。",
+     "works": [
+      {
+       "title": "Are u ok?: A Guide to Caring for Your Mental Health",
+       "year": "2018",
+       "type": "書",
+       "url": "https://www.hachettebookgroup.com/contributor/kati-morton-lmft/"
+      },
+      {
+       "title": "Traumatized: Identify, Understand and Cope with PTSD and Emotional Stress",
+       "year": "",
+       "type": "書",
+       "url": "https://www.hachettebookgroup.com/contributor/kati-morton-lmft/"
+      },
+      {
+       "title": "Why Do I Keep Doing This?",
+       "year": "",
+       "type": "書",
+       "url": "https://www.hachettebookgroup.com/titles/kati-morton-lmft/why-do-i-keep-doing-this/9780306836541/"
+      }
+     ],
+     "verified": true,
+     "note": "三本書名與作者據 Hachette 出版社頁面；《Traumatized》與第三本出版年份未核對。"
     },
     {
      "name": "Asami Koike",
      "role": "Shapes and Sounds 創辦人（澳洲）",
      "affiliation": "",
      "session": "網上直播；背景待查證",
-     "bio_zh": "",
+     "bio_zh": "見香港站；Shapes and Sounds 創辦人，註冊音樂治療師。",
      "works": [],
-     "verified": false,
-     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+     "verified": true,
+     "note": "背景與作品見香港站。"
     },
     {
      "name": "Aditi Sharma Kalra",
      "role": "Human Resources Online 總編輯",
      "affiliation": "",
      "session": "",
-     "bio_zh": "",
-     "works": [],
-     "verified": false,
-     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+     "bio_zh": "HR 與人才領域的資深媒體人，15 年以上經驗；領導 Human Resources Online 在亞洲的記者團隊，負責新聞入口、電郵簡報與新媒體內容，面向 CHRO 與人力資源領袖。屬於人資媒體而非心理專業，本場應是主持或職場心理健康議題的對談角色（待查證）。",
+     "works": [
+      {
+       "title": "Human Resources Online 作者頁",
+       "year": "",
+       "type": "文章",
+       "url": "https://www.humanresourcesonline.net/authors/aditi-sharma-kalra"
+      }
+     ],
+     "verified": true,
+     "note": "與心理專業無直接關係；在議程中的角色待查證。"
     }
    ],
    "last_checked": "2026-10-04"
@@ -901,40 +1082,60 @@
      "role": "臨床心理學家（PsyD）",
      "affiliation": "Central Minds（香港）",
      "session": "The Science of Relational Intelligence（與 Qi Zhai-McCartney 同講，11:05）",
-     "bio_zh": "美國麻省持牌臨床心理學家，紐約大學心理學學士、丹佛大學臨床心理學碩士；於中環私人診所主要處理焦慮、強迫症與抑鬱，使用 ACT、DBT、CBT 與暴露及反應預防。",
+     "bio_zh": "美國麻省持牌臨床心理學家，紐約大學心理學學士、丹佛大學臨床心理學碩士；在中環 Central Minds 執業，面向 14 歲以上青少年及成人，專長焦慮、強迫症與抑鬱，使用 ACT、DBT、CBT 與暴露及反應預防（ERP）。官方議程所列為 PsyD；機構頁面所列的最高學位為碩士，兩者不一致，待核對。",
      "works": [],
      "verified": true,
-     "note": "屬臨床工作者，未找到其出版作品；代表作欄暫缺。"
+     "note": "屬臨床工作者，未找到其出版作品；學位（PsyD 或碩士）議程與診所頁面不一致，待查證。"
     },
     {
      "name": "Qi Zhai-McCartney",
-     "role": "Atlas Therapy & Coaching 創辦人",
-     "affiliation": "",
+     "role": "執行教練及心理治療師，Atlas Therapy & Coaching 創辦人",
+     "affiliation": "新加坡",
      "session": "The Science of Relational Intelligence: Building High-Trust Relationships in the AI Era",
-     "bio_zh": "官方議程僅列職銜。",
-     "works": [],
-     "verified": false,
-     "note": "背景與作品待查證。"
+     "bio_zh": "史丹福大學畢業，前後兩段職涯：先在環球金融業工作約二十年，最高做到管理規模達 3 萬億美元基金的區域主管；之後轉行為心理治療師，並完成詹姆斯庫克大學（新加坡）訓練，登記為新加坡輔導協會（SAC）專業輔導員。主講「關係智能」（Relational Intelligence），服務對象是全球專業人士、領袖與伴侶；通曉英、中、法語，有二十多年橫跨美國、新加坡、中國與歐洲的跨文化經驗。",
+     "works": [
+      {
+       "title": "Seeing Qi（個人執業與「關係智能」培訓網站）",
+       "year": "",
+       "type": "專案／網站",
+       "url": "https://seeingqi.com/"
+      },
+      {
+       "title": "A Second Act: Embracing Her Calling（JCU 新加坡校友專訪）",
+       "year": "",
+       "type": "訪談",
+       "url": "https://www.jcu.edu.sg/alumni/alumni-stories/a-second-act-embracing-her-calling"
+      }
+     ],
+     "verified": true,
+     "note": "屬實務工作者／講者，未找到同行評審出版物；兩項「作品」是她的網站與專訪，並非學術論著。"
     },
     {
      "name": "Amos Cheung 張博士",
      "role": "臨床心理學家；香港心理學會（官方議程稱會長）",
      "affiliation": "香港大學社會工作及社會行政學系；香港心理學會",
      "session": "Beyond Words: Focusing-Oriented Therapy and the Felt Sense（15:25）",
-     "bio_zh": "香港大學臨床心理學博士，註冊臨床心理學家兼註冊社工；國際聚焦研究所（International Focusing Institute）聚焦協調員及培訓員；受過 CBT、聚焦治療與薩提爾家庭治療訓練；曾任香港心理學會臨床心理學組主席（2014–2017）。",
-     "works": [],
+     "bio_zh": "香港大學臨床心理學博士，註冊臨床心理學家兼註冊社工；在香港大學社會工作及社會行政學系任研究助理教授，並兼任心理學系及社工系的客座助理教授。國際聚焦研究所（International Focusing Institute）聚焦協調員及培訓員；受過 CBT、聚焦治療（人本取向）與薩提爾家庭治療訓練。臨床與研究涵蓋抑鬱與焦慮、婚姻關係、兒童與家庭、喪親，以及長者（認知障礙與抑鬱）的評估與介入；曾任香港心理學會臨床心理學組主席（2014–2017）。",
+     "works": [
+      {
+       "title": "Trust as a mediator in the relationship between childhood sexual abuse and IL-6 level in adulthood（共同作者，PLoS One）",
+       "year": "2020",
+       "type": "論文",
+       "url": "https://doi.org/10.1371/journal.pone.0232932"
+      }
+     ],
      "verified": true,
-     "note": "職銜：議程寫「會長」，另一頁面（HKU）寫「候任會長」，請以 HKPS 理事會名單為準。個人論文清單請見 HKU Scholars Hub（hub.hku.hk/cris/rp/rp02215），本站尚未逐項核對，故代表作暫缺。"
+     "note": "PubMed 以姓名核對到的只有這一篇（共同作者）；他的完整論文清單在 HKU Scholars Hub，該站拒絕自動讀取，未能逐項核對，故代表作暫只列一項。職銜：議程寫「會長」，另一頁面寫「候任會長」，請以 HKPS 理事會名單為準。"
     },
     {
      "name": "Julia A. Andre",
      "role": "臨床心理學家、Undertrained 創辦人",
      "affiliation": "Undertrained",
      "session": "Less Theory, More Practice: Working with Dissociation and Parts in the Room（14:15）",
-     "bio_zh": "HCPC 註冊臨床心理學家，ISSTD 認證、EMDR 認證及高級認證圖式治療師；十年以上專注複雜創傷與解離；結構性解離理論、圖式治療與部分取向。",
+     "bio_zh": "HCPC 註冊臨床心理學家（2022），ISSTD（國際創傷與解離研究學會）成員，EMDRIA 認證 EMDR 治療師（2023），高級認證圖式治療師；官方網頁稱十年以上專注複雜創傷與解離，於香港上環執業。創辦 Undertrained（為治療師而設的解離與複雜創傷資源）及共同創辦 Trauma Directory；網站稱已出版《Nothing Happened》與《Emotional Needs》。她的取向結合結構性解離理論、圖式治療與部分取向。",
      "works": [
       {
-       "title": "Undertrained（為治療師而設的解離與複雜創傷資源）",
+       "title": "Undertrained（解離與複雜創傷的治療師資源）",
        "year": "",
        "type": "專案",
        "url": "https://undertrained.org/"
@@ -946,21 +1147,21 @@
        "url": "https://undertrained.org/therapists"
       },
       {
-       "title": "Substack 專欄 Dr. Julia A. Andre",
+       "title": "Dr. Julia A. Andre 的 Substack 專欄",
        "year": "",
        "type": "專欄",
        "url": "https://substack.com/@drjuliaaandre"
       }
      ],
      "verified": true,
-     "note": "屬實務／培訓產出，非同行評審論文。"
+     "note": "屬實務／培訓產出。《Nothing Happened》《Emotional Needs》兩本書只見於搜尋摘要，未見出版社頁面，故未列入代表作。搜尋結果中另有一條稱其為耶魯大學臨床心理學博士，與其他來源（M.Sc. 與專業註冊）不一致，未採用。"
     },
     {
      "name": "Peta Stapleton",
      "role": "心理學教授；研究生研究主任",
      "affiliation": "邦德大學（澳洲）",
      "session": "Fourth-Wave Therapy Approaches: Expanding Possibilities in Complex Clinical Practice（16:10）",
-     "bio_zh": "註冊臨床／健康心理學家，情緒釋放技術（EFT／「敲打」）研究的領導者之一；2019 年澳洲專職醫療獎「年度心理學家」。注意：這裡的 EFT 是 Emotional Freedom Techniques，與情緒取向／聚焦情緒治療（Emotion-Focused／Emotionally Focused Therapy）不同。",
+     "bio_zh": "註冊臨床／健康心理學家，邦德大學心理學教授及研究生研究主任；情緒釋放技術（Emotional Freedom Techniques，EFT，「敲打」）研究的領導者之一，主導多項 EFT 隨機對照試驗，題目包括食物渴求、創傷後壓力、壓力生物化學；曾獲 Harvey Baker 研究獎，並於 2019 年獲澳洲專職醫療獎「年度心理學家」。注意：這裡的 EFT 是 Emotional Freedom Techniques，與情緒取向／聚焦情緒治療不同。",
      "works": [
       {
        "title": "App-Based Delivery of Clinical Emotional Freedom Techniques: Cross-Sectional Study of App User Self-Ratings（Church, Stapleton, Sabot）",
@@ -986,13 +1187,32 @@
     },
     {
      "name": "Asami Koike",
-     "role": "Shapes and Sounds 創辦人及總監（澳洲）",
-     "affiliation": "Shapes and Sounds",
+     "role": "註冊音樂治療師；Shapes and Sounds 創辦人及總監",
+     "affiliation": "Shapes and Sounds（澳洲）",
      "session": "What international education and migration teach us about identity, family and mental health（13:30，網上直播）",
-     "bio_zh": "官方議程僅列職銜。",
-     "works": [],
-     "verified": false,
-     "note": "背景與作品待查證。"
+     "bio_zh": "生於日本、大半生在澳洲生活的註冊音樂治療師，在青少年心理健康、創傷與社區領域有 17 年以上經驗。2020 年疫情期間由個人部落格起步，創辦社會企業 Shapes and Sounds，為澳洲亞裔社群去污名化心理健康，並連結亞裔心理師；2022 年入選「澳洲 40 歲以下最具影響力亞裔 40 人」。",
+     "works": [
+      {
+       "title": "Shapes and Sounds（亞裔澳洲人心理健康平台）",
+       "year": "2020",
+       "type": "社會企業",
+       "url": "https://connect.justshapesandsounds.com/"
+      },
+      {
+       "title": "The Asian Mental Health Podcast（創辦及主持）",
+       "year": "",
+       "type": "播客",
+       "url": "https://connect.justshapesandsounds.com/blog/How-to-tell-your-Asian-parents-you-love-them-The-Asian-Mental-Health-Podcast-Episode-2"
+      },
+      {
+       "title": "Practitioner Connect & Grow（亞裔心理工作者文化勝任力 CPD）",
+       "year": "",
+       "type": "培訓",
+       "url": "https://connect.justshapesandsounds.com/practitioner-connect-and-grow"
+      }
+     ],
+     "verified": true,
+     "note": "作品屬平台、播客與培訓，並非學術論著；2022 獎項據 SBS 報導的敘述。"
     }
    ],
    "last_checked": "2026-10-04"
@@ -1135,7 +1355,7 @@
      "role": "Milton H. Erickson Foundation 創辦人及總監",
      "affiliation": "Milton H. Erickson Foundation",
      "session": "",
-     "bio_zh": "PhD；曾跟隨 Milton Erickson 學習六年，1979 年創辦艾瑞克森基金會，是此大會的構思者，編著或合著超過 20 本心理治療書籍。",
+     "bio_zh": "PhD；1979 年創辦 Milton H. Erickson Foundation 並任總監，曾跟隨 Milton Erickson 學習並受其指導六年；是「心理治療的演進」大會的構思者，編著或合著 20 本以上心理治療書籍，並被譯成 12 種語言。",
      "works": [
       {
        "title": "Experiencing Erickson: An Introduction to the Man and His Work",
@@ -1162,9 +1382,9 @@
     {
      "name": "William R. Miller",
      "role": "榮休傑出心理學及精神醫學教授",
-     "affiliation": "University of New Mexico",
+     "affiliation": "新墨西哥大學",
      "session": "",
-     "bio_zh": "動機式晤談（MI）的創始人之一；於 1983 年發表 MI 的首篇論文，1991 年與 Stephen Rollnick 出版第一版專著。",
+     "bio_zh": "動機式晤談（Motivational Interviewing, MI）的創始人之一。1983 年發表 MI 的首篇論文，1991 年與 Stephen Rollnick 出版第一版專著；其後 MI 成為成癮與行為改變領域最廣泛使用的循證取向之一。他的研究及教學橫跨成癮治療、行為改變，近年亦談論靈性與心理治療。",
      "works": [
       {
        "title": "Motivational Interviewing: Helping People Change and Grow（第四版，與 Rollnick）",
@@ -1193,7 +1413,7 @@
      "role": "心理學家（Stanford 博士）",
      "affiliation": "自雇／Self-Relations 與 Generative 心理治療",
      "session": "",
-     "bio_zh": "Erickson 與 Gregory Bateson 的學生，發展自我關係心理治療與生成式心理治療；2004 年獲艾瑞克森基金會終身成就獎。",
+     "bio_zh": "史丹福大學心理學博士，早年是加州大學聖塔克魯茲分校最早期的 NLP 學生之一，由 Milton Erickson 與 Gregory Bateson 指導；其後成為艾瑞克森催眠治療的代表教學者，並發展自我關係心理治療（Self-Relations Psychotherapy）與生成式心理治療；2004 年獲艾瑞克森基金會終身成就獎，現居加州 Encinitas。",
      "works": [
       {
        "title": "Therapeutic Trances",
@@ -1215,14 +1435,14 @@
       }
      ],
      "verified": true,
-     "note": "書名據搜尋結果核對，出版年份未核對。"
+     "note": "書名據搜尋結果核對，出版年份未核對。另有《The Hero's Journey》（與 Robert Dilts）、《The Legacy of Erickson》、《Walking in Two Worlds》（與 D. Simon）。"
     },
     {
      "name": "Lynn Lyons",
      "role": "臨床社工（LICSW）、心理治療師",
      "affiliation": "私人執業",
      "session": "",
-     "bio_zh": "約 30 年專注於兒童與成人焦慮的治療，重點是打破家庭中焦慮的代際模式；Flusterclux 播客共同主持。",
+     "bio_zh": "臨床社工（LICSW）及心理治療師，約 30 年專注治療兒童與成人焦慮，核心觀點是打破家庭中焦慮的代際傳遞；與 Reid Wilson 合著《Anxious Kids, Anxious Parents》，著有《The Anxiety Audit》（2022），並共同主持播客 Flusterclux；曾於 ADAA 及 Psychotherapy Networker 等發表文章與培訓。",
      "works": [
       {
        "title": "Anxious Kids, Anxious Parents（與 Reid Wilson）",
@@ -1248,43 +1468,95 @@
     },
     {
      "name": "Elliott Connie",
-     "role": "MA, LPC",
-     "affiliation": "",
+     "role": "心理治療師、作者；Solution Focused University 創辦人及總監",
+     "affiliation": "德州私人執業",
      "session": "",
-     "bio_zh": "官方頁面只列學歷與執照。",
-     "works": [],
-     "verified": false,
-     "note": "背景與代表作待查證。"
+     "bio_zh": "美國心理治療師，專注焦點解決短期治療（SFBT）的實踐與推廣；約 15 年臨床經驗，培訓過世界各地數以百計的實務工作者，創辦網上學習社群 Solution Focused University。",
+     "works": [
+      {
+       "title": "The Art of Solution Focused Therapy（與 Linda Metcalf）",
+       "year": "2009",
+       "type": "書",
+       "url": "https://www.amazon.com/Art-Solution-Focused-Therapy/dp/0826117376"
+      },
+      {
+       "title": "Solution Building in Couples Therapy",
+       "year": "2013",
+       "type": "書",
+       "url": "https://en.wikipedia.org/wiki/Elliott_Connie"
+      },
+      {
+       "title": "Solution Focused Brief Therapy Certification（Psychotherapy Networker 培訓）",
+       "year": "",
+       "type": "培訓",
+       "url": "https://catalog.psychotherapynetworker.org/sales/pn_c_001432_elliottconniesfbtlevel1_organic-156743"
+      }
+     ],
+     "verified": true,
+     "note": "書目年份據維基百科摘要；Springer 出版社頁面未逐項核對。"
     },
     {
      "name": "Julie Anné Zeig",
-     "role": "PhD",
-     "affiliation": "",
+     "role": "持牌臨床心理學家；A New Beginning 創辦人及臨床總監",
+     "affiliation": "Mayo Clinic Alix 醫學院（教員）",
      "session": "",
-     "bio_zh": "官方頁面只列學歷。",
-     "works": [],
-     "verified": false,
-     "note": "背景與代表作待查證。"
+     "bio_zh": "1993 年於 California School of Professional Psychology（聖地牙哥）取得博士學位，32 年以上經驗；專攻飲食障礙與複雜創傷。2018 年起任 Mayo Clinic 醫學院教員，共同設計並教授精神醫學導論中的飲食障礙課程；曾到意大利、德國、日本、台灣、中國、西班牙、墨西哥等地教學。",
+     "works": [
+      {
+       "title": "Dr. Julie T. Anné Zeig 個人網站（飲食障礙與複雜創傷）",
+       "year": "",
+       "type": "網站",
+       "url": "https://drjulieannezeig.com/"
+      },
+      {
+       "title": "MasterClass：與 Jeffrey Zeig 的合作課程",
+       "year": "",
+       "type": "課程",
+       "url": "https://drjulieannezeig.com/masterclass-jeffrey-zeig/"
+      }
+     ],
+     "verified": true,
+     "note": "未找到其同行評審出版物。"
     },
     {
      "name": "Dustin Weissman",
-     "role": "PsyD",
-     "affiliation": "",
+     "role": "持牌臨床心理學家及執行教練；加州心理學會（CPA）會長",
+     "affiliation": "Dr. Weissman Psychology（加州 Westlake Village）",
      "session": "",
-     "bio_zh": "官方頁面只列學歷。",
-     "works": [],
-     "verified": false,
-     "note": "背景與代表作待查證。"
+     "bio_zh": "執業於加州，以 CBT、焦點解決與現實治療處理個人、伴侶、家庭與團體；專長包括問題性網絡使用與網絡成癮、成年初期青年（延遲起飛）、男性議題與職涯教練，2019 年起也做高管教練。曾任文圖拉郡心理學會會長，現為加州心理學會會長（據其個人網站，待核對）。",
+     "works": [
+      {
+       "title": "Impacts of Playing MMORPGs on Individuals' Subjective Sense of Feeling Connected with Others（博士論文）",
+       "year": "",
+       "type": "博士論文",
+       "url": "http://www.dustinweissman.com/dustin-weissman/"
+      }
+     ],
+     "verified": true,
+     "note": "博士論文下載量 9,000 次、涵蓋 124 國，據其個人網站自述。"
     },
     {
      "name": "Desirae Ysasi",
-     "role": "LPC-S",
+     "role": "持牌專業輔導員（LPC-S）；Relational Life Texas 創辦人；Relational Life Institute 培訓及認證總監",
      "affiliation": "",
      "session": "",
-     "bio_zh": "官方頁面只列學歷。",
-     "works": [],
-     "verified": false,
-     "note": "背景與代表作待查證。"
+     "bio_zh": "2006 年起持牌，2012 年起為認可督導；德州大學聖安東尼奧分校心理學學士及輔導碩士。Terry Real 親自訓練的認證關係生活治療（Relational Life Therapy, RLT）治療師，專注瀕臨離婚的婚姻、外遇修復與情感疏離；在 Relational Life Institute 負責全球 RLT 培訓與認證。",
+     "works": [
+      {
+       "title": "Desirae Ysasi 於 Psychotherapy Networker 的文章",
+       "year": "",
+       "type": "文章",
+       "url": "https://www.psychotherapynetworker.org/contributors/desirae-ysasi/"
+      },
+      {
+       "title": "Relational Life Texas（團體執業）",
+       "year": "",
+       "type": "專案",
+       "url": "https://relationallifetexas.com/meet-our-therapists/desirae-ysasi/"
+      }
+     ],
+     "verified": true,
+     "note": "實務工作者；未找到同行評審出版物。"
     }
    ],
    "last_checked": "2026-10-04"
