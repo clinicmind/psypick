@@ -1,0 +1,1324 @@
+{
+ "generated_at": "2026-10-04T14:03:42+00:00",
+ "today": "2026-10-04",
+ "regions": [
+  "香港",
+  "澳門",
+  "台灣",
+  "中國大陸",
+  "新加坡",
+  "亞太",
+  "北美",
+  "歐洲"
+ ],
+ "domains": [
+  "臨床心理",
+  "督導",
+  "AI 與心理",
+  "兒童心理",
+  "EFT",
+  "Bodynamic",
+  "特殊教育需要"
+ ],
+ "items": [
+  {
+   "slug": "beft-2026",
+   "name_zh": "英國 EFT 中心（BEFT）2026 年會",
+   "name_en": "BEFT Centre Conference 2026",
+   "start": "2026-04-25",
+   "end": "2026-04-25",
+   "city": "倫敦",
+   "country": "英國",
+   "region": "歐洲",
+   "format": "實體",
+   "language": "英語",
+   "organizer": "British EFT Centre（ICEEFT 認可的附屬機構）",
+   "fee_text": "早鳥 £75（至 3/27）；標準價 £90",
+   "url": "https://www.beftcentre.org/beft-conference-2026/",
+   "register_url": "https://www.beftcentre.org/beft-conference-2026/",
+   "venue": "VAI London",
+   "summary_zh": "情緒取向治療（Emotionally Focused Therapy）從業者的年會，主題演講是 Robert Allan 的〈All the EFTs: Thinking Systemically, Conceptualising Attachmently, Doing Emotionally〉，另設平行場次。",
+   "themes": [
+    "Emotionally Focused Therapy",
+    "依附",
+    "系統思考"
+   ],
+   "interest_zh": "這是你列出的 EFT 領域專屬會議；主題演講整合「所有 EFT」（伴侶、個人、家庭），對如何跨模式使用 EFT 有幫助。已結束，可向 BEFT 查詢錄影或下一屆。",
+   "domains": [
+    "EFT",
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "其他講者（Matt Davies、Helene Igwebuike、Sandra Taylor、Fiona Pusey、Sarah McConnell、Gulya Diyarova）只有姓名，背景待查證；官方頁面當次擷取失敗，資料取自搜尋結果摘要。",
+   "speakers": [
+    {
+     "name": "Robert Allan",
+     "role": "ICEEFT 認證 EFT 培訓師、督導及治療師；高級講師",
+     "affiliation": "University of Colorado Denver",
+     "session": "All the EFTs: Thinking Systemically, Conceptualising Attachmently, Doing Emotionally（主題演講）",
+     "bio_zh": "持牌婚姻及家庭治療師，專長少數壓力、關係多元與 EFT 的多元文化應用；為首個情緒取向個人治療（EFIT）臨床試驗的共同主要研究者（加拿大及美國三地）。",
+     "works": [
+      {
+       "title": "EFIT 臨床試驗（共同主要研究者；情緒取向個人治療首個臨床試驗）",
+       "year": "",
+       "type": "研究計劃",
+       "url": "https://iceeft.com/iceeft-trainers/"
+      }
+     ],
+     "verified": true,
+     "note": "代表作暫只核對到一項（研究計劃）；個人論文待查證。"
+    }
+   ],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "apcpc-2026",
+   "name_zh": "亞太心理學與輔導會議 2026",
+   "name_en": "Asia Pacific Conference on Psychology and Counselling 2026",
+   "start": "2026-06-09",
+   "end": "2026-06-11",
+   "city": "雲頂高原",
+   "country": "馬來西亞",
+   "region": "亞太",
+   "format": "實體",
+   "language": "英語",
+   "organizer": "Taylor's University",
+   "fee_text": "早鳥至 2026-03-01；一般至 2026-05-11（金額未核對）",
+   "url": "https://apcpctaylors.com/",
+   "register_url": "https://apcpctaylors.com/",
+   "summary_zh": "由 Taylor's University 主辦的亞太心理與輔導學術會議，徵稿制。",
+   "themes": [
+    "心理與輔導",
+    "亞太"
+   ],
+   "interest_zh": "可作為東南亞心理與輔導研究的窗口。已結束。",
+   "domains": [
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "只核對到日期、地點與報名截止；講者與主題未核對；學術與商業性質需進一步判斷。",
+   "speakers": [],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "hkps-annual-2026",
+   "name_zh": "香港心理學會 2026 年度會議",
+   "name_en": "HKPS 2026 Annual Conference",
+   "start": "2026-06-13",
+   "end": "2026-06-13",
+   "city": "香港",
+   "country": "香港",
+   "region": "香港",
+   "format": "實體",
+   "language": "待查證",
+   "organizer": "香港心理學會",
+   "fee_text": "公眾 $480（早鳥）／$600；會員 $320／$400；學生 $200／$250",
+   "url": "https://hkps.org.hk/en/conferences_and_events/detail/65/",
+   "register_url": "https://forms.gle/K66JZwUVBQmyKaL47",
+   "venue": "THEi 柴灣校園",
+   "summary_zh": "主題「行動中的心理學：以科學與創意塑造青年文化」，副題涵蓋兒童心理、教育心理與心理健康；主題演講者為香港殘奧運動員、運動心理顧問及前排球隊長。",
+   "themes": [
+    "青年文化",
+    "運動心理",
+    "兒童與教育心理"
+   ],
+   "interest_zh": "香港心理學會的本地年會，能觀察本地行業重點；青少年與運動心理題材可轉為親子版內容。已結束。",
+   "domains": [
+    "兒童心理",
+    "臨床心理"
+   ],
+   "verify_needed": false,
+   "speakers": [
+    {
+     "name": "陳浩源 MH",
+     "role": "香港輪椅羽毛球運動員；2024 巴黎殘奧會銀牌",
+     "affiliation": "",
+     "session": "主題演講",
+     "bio_zh": "據官方頁面。",
+     "works": [],
+     "verified": false,
+     "note": "運動員，非研究者；代表作欄暫缺。"
+    },
+    {
+     "name": "盧卓恒（Karen Lo）",
+     "role": "認證心理表現顧問（AASP）；香港運動及體育心理學會副會長",
+     "affiliation": "",
+     "session": "主題演講",
+     "bio_zh": "據官方頁面。",
+     "works": [],
+     "verified": false,
+     "note": "代表作待查證。"
+    },
+    {
+     "name": "蕭彰雄",
+     "role": "前香港男子排球隊隊長；香港精英排球學院創辦人",
+     "affiliation": "",
+     "session": "主題演講",
+     "bio_zh": "據官方頁面。",
+     "works": [],
+     "verified": false,
+     "note": "代表作待查證。"
+    }
+   ],
+   "verify_notes": "",
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "appa-2026",
+   "name_zh": "2026 亞太心理學聯盟（APPA）高峰會暨研討會",
+   "name_en": "2026 APPA Summit & Conference – Connecting Through Taiwan",
+   "start": "2026-06-17",
+   "end": "2026-06-19",
+   "city": "台南",
+   "country": "台灣",
+   "region": "台灣",
+   "format": "實體",
+   "language": "英語（待查證）",
+   "organizer": "台灣心理學會；國立成功大學人文社會科學研究中心",
+   "fee_text": "未核對",
+   "url": "https://psych.or.jp/wp-content/uploads/2026/02/2026_APPA_Summit_Conference_Call4Poster.pdf",
+   "register_url": "",
+   "venue": "國立成功大學",
+   "summary_zh": "主題「經由台灣連結：福祉、科技與社會」，聚焦災難與韌性、福祉與青少年、AI 與科技創新、司法心理等。APPA 會長 Simon Crowe 及 TPA 會長楊政達為主題演講者。",
+   "themes": [
+    "災難與韌性",
+    "福祉與青少年",
+    "AI 與科技"
+   ],
+   "interest_zh": "亞太區心理學會的跨國網絡，澳門、香港心理學者也有參與；AI 與青少年福祉主題對你有參考價值。已結束。",
+   "domains": [
+    "AI 與心理",
+    "兒童心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "資料取自徵稿海報 PDF 的搜尋摘要，官方主頁未核對。",
+   "speakers": [
+    {
+     "name": "Simon F. Crowe",
+     "role": "神經科學與臨床神經心理學教授；亞太心理學聯盟（APPA）會長",
+     "affiliation": "La Trobe University",
+     "session": "A Strategic Vision for Psychology in the Asia-Pacific",
+     "bio_zh": "澳洲心理學會院士，APPA 首任主席（2019–2023）；研究記憶形成的生物基礎及神經精神疾病的神經心理學；發表三本專著及 140 篇以上期刊論文。",
+     "works": [],
+     "verified": true,
+     "note": "個人作品請見 Google Scholar（scholar.google.com 的 Simon F. Crowe 頁面），尚未逐項核對。"
+    },
+    {
+     "name": "楊政達（Cheng-Ta Yang）",
+     "role": "台灣心理學會會長",
+     "affiliation": "國立成功大學",
+     "session": "Psychology in Taiwan",
+     "bio_zh": "據徵稿海報所列。",
+     "works": [],
+     "verified": false,
+     "note": "背景與代表作待查證。"
+    }
+   ],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "iacapap-2026",
+   "name_zh": "第 27 屆 IACAPAP 世界大會",
+   "name_en": "27th IACAPAP World Congress 2026",
+   "start": "2026-07-01",
+   "end": "2026-07-04",
+   "city": "漢堡",
+   "country": "德國",
+   "region": "歐洲",
+   "format": "實體",
+   "language": "英語",
+   "organizer": "International Association for Child and Adolescent Psychiatry and Allied Professions",
+   "fee_text": "未核對",
+   "url": "https://www.kongreuzmani.com/27-world-congress-of-iacapap-2026.html",
+   "register_url": "",
+   "summary_zh": "兒童與青少年精神醫學及相關專業的世界級大會。",
+   "themes": [
+    "兒童青少年精神健康"
+   ],
+   "interest_zh": "兒童心理與特殊教育需要的最新研究；已結束，可留意之後出版的大會摘要。",
+   "domains": [
+    "兒童心理",
+    "特殊教育需要"
+   ],
+   "verify_needed": true,
+   "verify_notes": "只從第三方會議資訊頁取得日期與地點；官方網站、講者與費用未核對。",
+   "speakers": [],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "apa-2026",
+   "name_zh": "美國心理學會（APA）2026 年會",
+   "name_en": "APA 2026 Annual Convention",
+   "start": "2026-08-06",
+   "end": "2026-08-08",
+   "city": "華盛頓特區",
+   "country": "美國",
+   "region": "北美",
+   "format": "實體＋網上",
+   "language": "英語",
+   "organizer": "American Psychological Association",
+   "fee_text": "未列",
+   "url": "https://convention.apa.org/keynotes",
+   "register_url": "https://convention.apa.org/",
+   "venue": "Walter E. Washington Convention Center",
+   "summary_zh": "美國心理學界最大的年會。主舞台包括倫理、交叉性（intersectionality）與人工智慧三大主題演講：AI 場次由 mpathic 首席科學官 Alison Cerezo 與微軟 Kieran Snyder 主講，談 AI 時代如何讓心理科學參與模型安全評估。",
+   "themes": [
+    "AI 安全與心理科學",
+    "倫理",
+    "交叉性",
+    "多元文化治療"
+   ],
+   "interest_zh": "AI 主題演講（Cerezo 談把心理科學放入模型評估）與你的 AI 與心理領域直接相關；倫理場次（Vasquez、Adames）可補充督導倫理教材，兩者都可轉為 PsyPick 的案例註解。已結束，APA 通常之後會釋出錄影。",
+   "domains": [
+    "AI 與心理",
+    "督導",
+    "臨床心理"
+   ],
+   "verify_needed": false,
+   "speakers": [
+    {
+     "name": "Alison Cerezo",
+     "role": "首席科學官（CSO）",
+     "affiliation": "mpathic",
+     "session": "Keeping Humans Safe in the AI Era（AI 主題演講）",
+     "bio_zh": "mpathic 領導科學團隊，專注為行為健康提供者的即時輔導，並以臨床專家資料服務使基礎模型對心理健康更安全；APA AI 顧問成員；Fierce 50 2024 健康公平得獎者。",
+     "works": [
+      {
+       "title": "From empathy to AI safety: operationalizing the psychology of safer intelligence",
+       "year": "",
+       "type": "文章（mpathic 部落格）",
+       "url": "https://mpathic.ai/blog/"
+      },
+      {
+       "title": "To keep humans safe in the AI era, start with behavioral science",
+       "year": "",
+       "type": "文章（mpathic 部落格）",
+       "url": "https://mpathic.ai/blog/"
+      },
+      {
+       "title": "Relational friction is not a flaw: the dangers of AI sycophancy",
+       "year": "",
+       "type": "文章（mpathic 部落格）",
+       "url": "https://mpathic.ai/blog/"
+      }
+     ],
+     "verified": true,
+     "note": "屬業界文章，非同行評審論文；日期未核對。"
+    },
+    {
+     "name": "Melba J. T. Vasquez",
+     "role": "心理學家；2011 年 APA 會長（首位拉丁裔會長）",
+     "affiliation": "Vasquez Associates Mental Health Services",
+     "session": "The Ethics of Multicultural Therapy（倫理主題演講）",
+     "bio_zh": "多元文化心理學與專業倫理的重要學者。",
+     "works": [
+      {
+       "title": "Ethics in Psychotherapy and Counseling: A Practical Guide（第六版，與 Pope、Chavez-Duenas、Adames）",
+       "year": "2021",
+       "type": "書（Wiley）",
+       "url": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781118001875"
+      },
+      {
+       "title": "Ethics for Psychologists: A Commentary on the APA Ethics Code（共同作者）",
+       "year": "",
+       "type": "書",
+       "url": "https://en.wikipedia.org/wiki/Melba_J._T._Vasquez"
+      }
+     ],
+     "verified": true,
+     "note": "只核對到兩項，第三項待查證；第六版年份據搜尋結果。"
+    },
+    {
+     "name": "Hector Adames",
+     "role": "諮商心理學系教授及課程主任",
+     "affiliation": "The Chicago School of Professional Psychology",
+     "session": "Ethics in the Age of Looking Away",
+     "bio_zh": "專長多元文化諮商與倫理。",
+     "works": [
+      {
+       "title": "Ethics in Psychotherapy and Counseling: A Practical Guide（第六版，共同作者）",
+       "year": "2021",
+       "type": "書（Wiley）",
+       "url": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781118001875"
+      }
+     ],
+     "verified": true,
+     "note": "代表作暫只核對到一項。"
+    },
+    {
+     "name": "Kimberlé Crenshaw",
+     "role": "法學教授",
+     "affiliation": "Columbia Law School",
+     "session": "Backtalking to Reclaim Intersectionality in Theory and Practice",
+     "bio_zh": "提出「交叉性」（intersectionality）一詞的法學者。",
+     "works": [
+      {
+       "title": "Demarginalizing the Intersection of Race and Sex",
+       "year": "1989",
+       "type": "論文（U Chicago Legal Forum）",
+       "url": "https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8/"
+      },
+      {
+       "title": "Mapping the Margins: Intersectionality, Identity Politics, and Violence Against Women of Color",
+       "year": "1991",
+       "type": "論文（Stanford Law Review）",
+       "url": "https://blackwomenintheblackfreedomstruggle.voices.wooster.edu/wp-content/uploads/sites/210/2019/02/Crenshaw_mapping-the-margins1991.pdf"
+      },
+      {
+       "title": "On Intersectionality: Essential Writings",
+       "year": "2019",
+       "type": "書（The New Press）",
+       "url": "https://portersquarebooks.com/book/9781620975510"
+      }
+     ],
+     "verified": true,
+     "note": "據搜尋結果核對。"
+    },
+    {
+     "name": "Lisa Bowleg",
+     "role": "創辦人及 CEO；榮休教授",
+     "affiliation": "Intersectionality Training Institute；George Washington University",
+     "session": "The Transformative Power of Intersectionality",
+     "bio_zh": "官方頁面所列職銜。",
+     "works": [],
+     "verified": false,
+     "note": "代表作待查證。"
+    },
+    {
+     "name": "Kieran Snyder",
+     "role": "AI 產品與市場推廣副總裁",
+     "affiliation": "Microsoft",
+     "session": "The Largest Behavioral Experiment in Human History",
+     "bio_zh": "官方頁面所列職銜。",
+     "works": [],
+     "verified": false,
+     "note": "背景與代表作待查證。"
+    }
+   ],
+   "verify_notes": "",
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "eabp-2026",
+   "name_zh": "第 19 屆歐洲身體心理治療協會（EABP）國際大會",
+   "name_en": "19th EABP International Congress in Body Psychotherapy",
+   "start": "2026-09-03",
+   "end": "2026-09-06",
+   "city": "科克",
+   "country": "愛爾蘭",
+   "region": "歐洲",
+   "format": "實體",
+   "language": "英語",
+   "organizer": "European Association for Body Psychotherapy",
+   "fee_text": "官網摘要未列",
+   "url": "https://eabp.org/19-eabp-congress-in-body-psychotherapy/",
+   "register_url": "https://congress.eabp.org/2026/site/",
+   "venue": "Cork City Hall 及 Clayton Hotel",
+   "summary_zh": "主題「邊緣上的身體心理治療：穿越兩極」，有主題演講、體驗式工作坊、座談與科學與研究研討會；最多 34 CPD 小時。議程中有一個 Bodynamic 工作坊「Coming Closer: Meeting Trauma And Polarities Through The Body」。",
+   "themes": [
+    "身體心理治療",
+    "創傷",
+    "兩極性",
+    "Bodynamic"
+   ],
+   "interest_zh": "這是你關注的 Bodynamic 少有的國際舞台，議程中有 Bodynamic 工作坊。已經結束，但可留意 EABP 之後釋出的錄影或下一屆（通常兩年一次）。",
+   "domains": [
+    "Bodynamic",
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "工作坊講者與主題講者官網摘要未列；Bodynamic 工作坊的資訊取自搜尋結果的議程頁標題。",
+   "speakers": [],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "istss-2026",
+   "name_zh": "第 42 屆國際創傷壓力研究學會（ISTSS）年會",
+   "name_en": "ISTSS 42nd Annual Meeting 2026",
+   "start": "2026-09-23",
+   "end": "2026-09-26",
+   "city": "聖安東尼奧",
+   "country": "美國",
+   "region": "北美",
+   "format": "實體",
+   "language": "英語",
+   "organizer": "International Society for Traumatic Stress Studies",
+   "fee_text": "未列",
+   "url": "https://istss.org/annual-meeting-hub/",
+   "register_url": "https://istss.org/annual-meeting-hub/",
+   "venue": "San Antonio Marriott Rivercenter",
+   "summary_zh": "創傷研究與臨床的年度大會，主題「行動中的協作」。主講包括 Mary-Frances O'Connor（哀傷的神經科學）、Miranda Olff（性別與創傷），及探討為持續大規模衝突作社區準備的主席小組。",
+   "themes": [
+    "創傷",
+    "哀傷",
+    "性別與創傷",
+    "衝突與社區準備"
+   ],
+   "interest_zh": "哀傷與創傷的最新實證可補充你的臨床與督導材料；O'Connor 的「哀傷是大腦學習失去」觀點，亦適合轉成親子版中處理兒童喪失與悲傷的白話內容。",
+   "domains": [
+    "臨床心理",
+    "兒童心理"
+   ],
+   "verify_needed": false,
+   "speakers": [
+    {
+     "name": "Mary-Frances O'Connor",
+     "role": "心理學教授；GLASS（哀傷、失落與社會壓力）實驗室主任",
+     "affiliation": "亞利桑那大學",
+     "session": "The Neuroscience of Grief: How We Learn From Love and Loss（9/24 9:30）",
+     "bio_zh": "臨床心理學與認知神經科學背景，研究哀傷如何改變大腦與身體，是延長哀傷障礙領域的領導學者。",
+     "works": [
+      {
+       "title": "The Grieving Brain: The Surprising Science of How We Learn from Love and Loss",
+       "year": "2022",
+       "type": "書",
+       "url": "https://hospicefoundation.org/hfa-product/the-grieving-brain/"
+      },
+      {
+       "title": "Immunological and neuroimaging biomarkers of complicated grief",
+       "year": "2012",
+       "type": "論文（Dialogues Clin Neurosci）",
+       "url": "https://doi.org/10.31887/DCNS.2012.14.2/mfoconnor"
+      },
+      {
+       "title": "Prolonged Grief Disorder and the Cultural Crisis（與 Stelzer 等）",
+       "year": "2020",
+       "type": "論文（Front Psychol，共同作者）",
+       "url": "https://doi.org/10.3389/fpsyg.2019.02982"
+      }
+     ],
+     "verified": true,
+     "note": "論文據 PubMed 核對。"
+    },
+    {
+     "name": "Miranda Olff",
+     "role": "創傷中心主任",
+     "affiliation": "Amsterdam UMC／阿姆斯特丹大學",
+     "session": "Sex/Gender and Trauma in a Troubled World（9/26 9:30）",
+     "bio_zh": "ISTSS 與 ESTSS 前任會長，歐洲心理創傷學雜誌（EJPT）創刊總編輯；主持 Global Collaboration on Traumatic Stress。",
+     "works": [
+      {
+       "title": "Global Psychotrauma Screen（GPS，荷蘭語版評估研究）",
+       "year": "2025",
+       "type": "論文（Eur J Psychotraumatol）",
+       "url": "https://www.tandfonline.com/doi/full/10.1080/20008066.2025.2572850"
+      },
+      {
+       "title": "Sex and gender in psychotrauma research",
+       "year": "2024",
+       "type": "論文（Eur J Psychotraumatol）",
+       "url": "https://www.tandfonline.com/doi/full/10.1080/20008066.2024.2358702"
+      },
+      {
+       "title": "The impact of trauma and how to intervene: a narrative review of psychotraumatology over the past 15 years",
+       "year": "",
+       "type": "論文",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11803766/"
+      }
+     ],
+     "verified": true,
+     "note": "據搜尋結果與 PMC／Taylor & Francis 頁面核對；第一項是荷蘭版 GPS 的研究，並非她個人一作的原始 GPS 論文。"
+    }
+   ],
+   "verify_notes": "",
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "waimh-2026",
+   "name_zh": "第十九屆世界嬰幼兒心理健康協會（WAIMH）世界大會",
+   "name_en": "19th WAIMH World Congress – Harmony in Diversity",
+   "start": "2026-10-02",
+   "end": "2026-10-06",
+   "city": "多倫多",
+   "country": "加拿大",
+   "region": "北美",
+   "format": "實體＋網上（實體名額已售罄，網上仍可報名）",
+   "language": "英語",
+   "organizer": "World Association for Infant Mental Health；與 SickKids 嬰幼兒心理健康促進中心合辦",
+   "fee_text": "官網未列；實體已售罄",
+   "url": "https://waimh.org/page/upcoming_congress",
+   "register_url": "https://web.cvent.com/event/a3c53b35-3d90-41f2-ab6b-a7bbcb3c13c7/websitePage:4e3c38cf-6847-49df-86f9-ed987c8a975e",
+   "venue": "Sheraton Centre Toronto Hotel",
+   "summary_zh": "嬰幼兒心理健康領域最大型的國際學術大會，主題「多元中的和諧：滋養全球最年幼的心靈」，預計約 1,500–2,000 名研究者、臨床工作者與政策制定者參加，內容包括全體大會、專題研討與互動討論。",
+   "themes": [
+    "嬰幼兒心理健康",
+    "依附與關係",
+    "文化多元",
+    "早期介入"
+   ],
+   "interest_zh": "對你的兒童心理與親子版最有參考價值：嬰幼兒階段的依附與親子關係研究，可補充親子版「發展與求助」的內容，也與 EFT（依附取向）呼應。大會已經開始（10 月 2 日起），到 10 月 6 日結束，只剩網上參與的可能。",
+   "domains": [
+    "兒童心理",
+    "EFT"
+   ],
+   "verify_needed": true,
+   "verify_notes": "全體大會講者名單未能從官方頁面取得。",
+   "speakers": [],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "ncpc-sg-2026",
+   "name_zh": "全國輔導及心理治療會議 新加坡站 2026",
+   "name_en": "National Counselling & Psychotherapy Conference – Singapore 2026",
+   "start": "2026-10-07",
+   "end": "2026-10-07",
+   "city": "新加坡",
+   "country": "新加坡",
+   "region": "新加坡",
+   "format": "實體（兩位講者以網上方式參與）",
+   "language": "英語",
+   "organizer": "National Counselling & Psychotherapy Conference 系列（商業主辦）",
+   "fee_text": "官方首頁未列價格，請看報名頁",
+   "url": "https://nationalcounsellingconference.asia/sg/",
+   "register_url": "https://nationalcounsellingconference.asia/sg/prices/",
+   "venue": "One Farrer Hotel, Singapore（9:00–16:30）",
+   "summary_zh": "與香港站同系列的一日會議，七大主題包括專業標準、臨床框架、複雜個案、文化影響、治療中的科技、關係動力與可持續的執業。講者以新加坡本地臨床心理師與治療師為主，另有兩位網上講者。",
+   "themes": [
+    "專業標準",
+    "複雜個案",
+    "文化與心理健康",
+    "治療中的科技",
+    "可持續執業"
+   ],
+   "interest_zh": "想了解新加坡的華人／多元文化背景下臨床實務可看這場；「治療中的科技」與「可持續執業」兩個主題與你的 AI 與督導興趣有關。距今只有三天，若要參加需盡快；內容與香港站相近，不必兩場都去。",
+   "domains": [
+    "臨床心理",
+    "督導",
+    "AI 與心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "官方講者頁只列姓名與職銜，沒有場次題目、時間與簡介；價格未見。",
+   "speakers": [
+    {
+     "name": "Grace Soo",
+     "role": "首席臨床心理學家",
+     "affiliation": "Grace Psychology Services",
+     "session": "",
+     "bio_zh": "",
+     "works": [],
+     "verified": false,
+     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+    },
+    {
+     "name": "Ron Yap",
+     "role": "心理治療師、作家，Inner Hero Therapy 創辦人",
+     "affiliation": "Inner Hero Therapy",
+     "session": "",
+     "bio_zh": "",
+     "works": [],
+     "verified": false,
+     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+    },
+    {
+     "name": "Cherie Chan",
+     "role": "Kokoro Psychology 創辦人及總監",
+     "affiliation": "Kokoro Psychology",
+     "session": "",
+     "bio_zh": "",
+     "works": [],
+     "verified": false,
+     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+    },
+    {
+     "name": "Jonathan Marshall",
+     "role": "負責人",
+     "affiliation": "Marshall Consulting",
+     "session": "",
+     "bio_zh": "",
+     "works": [],
+     "verified": false,
+     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+    },
+    {
+     "name": "Sanveen Kang",
+     "role": "Psych Connect 及 The Sama Collective 創辦人／首席臨床心理學家",
+     "affiliation": "Psych Connect",
+     "session": "",
+     "bio_zh": "",
+     "works": [],
+     "verified": false,
+     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+    },
+    {
+     "name": "Kati Morton",
+     "role": "持牌婚姻及家庭治療師",
+     "affiliation": "",
+     "session": "錄影＋網上問答；背景與作品見香港站",
+     "bio_zh": "",
+     "works": [],
+     "verified": false,
+     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+    },
+    {
+     "name": "Asami Koike",
+     "role": "Shapes and Sounds 創辦人（澳洲）",
+     "affiliation": "",
+     "session": "網上直播；背景待查證",
+     "bio_zh": "",
+     "works": [],
+     "verified": false,
+     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+    },
+    {
+     "name": "Aditi Sharma Kalra",
+     "role": "Human Resources Online 總編輯",
+     "affiliation": "",
+     "session": "",
+     "bio_zh": "",
+     "works": [],
+     "verified": false,
+     "note": "官方講者頁只列姓名與職銜；背景與代表作待查證。"
+    }
+   ],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "camh-18-2026",
+   "name_zh": "第十八次全國心理衛生學術大會",
+   "name_en": "18th National Mental Health Academic Conference (China Association for Mental Health)",
+   "start": "2026-10-16",
+   "end": "2026-10-18",
+   "city": "北京",
+   "country": "中國大陸",
+   "region": "中國大陸",
+   "format": "實體（細節待查證）",
+   "language": "普通話",
+   "organizer": "中國心理衛生協會",
+   "fee_text": "官網未載明",
+   "url": "https://conf.camh.org.cn/",
+   "register_url": "https://conf.camh.org.cn/",
+   "summary_zh": "中國心理衛生協會的全國性學術大會。協會官網另列「第十屆學術年會」（2026-10-25 至 27 日，北京朝陽區），兩個活動的關係與區別官網未說明。",
+   "themes": [
+    "心理衛生",
+    "學術年會"
+   ],
+   "interest_zh": "想接觸中國大陸臨床與心理衛生的最新議題與人脈可留意；但官網目前未公開主題與報告人，建議等官方公布議程後再決定。",
+   "domains": [
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "官網只列日期與地點；主題、報告人、費用、報名連結皆未載明；另一個「第十屆學術年會」（10/25–27）與本會議的關係待查證；官網對自動抓取回應 403，資料是經 WebFetch 取得的摘要。",
+   "speakers": [],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "tpa-65-2026",
+   "name_zh": "2026 台灣心理學會年會暨心理學門發表會（第 65 屆）",
+   "name_en": "Taiwanese Psychological Association 65th Annual Meeting 2026",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "city": "（亞洲大學，台灣）",
+   "country": "台灣",
+   "region": "台灣",
+   "format": "實體",
+   "language": "繁體中文／英語",
+   "organizer": "台灣心理學會；亞洲大學承辦",
+   "fee_text": "官網未載明",
+   "deadline": "早鳥 2026-09-28 已截止；一般報名截止 2026-10-05",
+   "url": "https://www.tpa-tw.org/2026theme",
+   "register_url": "https://www.tpa-tw.org/2026main",
+   "venue": "亞洲大學國際會議廳",
+   "summary_zh": "台灣心理學會的年度學術年會，主題「AI 時代的社會情緒學習：從心理學基礎理論到臨床與健康的跨域整合」，以自我覺察、社會覺察、人際技巧、自我管理與負責任決策五個面向，討論 AI 時代人類心智與行為的轉變。設專題研討、工作坊、口頭及海報發表。",
+   "themes": [
+    "AI 與社會情緒學習",
+    "臨床與健康心理",
+    "跨域整合"
+   ],
+   "interest_zh": "主題直接是「AI × 心理」，且包含兒童與教育的社會情緒學習（SEL），與你的 AI 與心理、兒童心理、特殊教育需要三個領域都有連結。一般報名截止 10 月 5 日（明天），要參加需立即行動。",
+   "domains": [
+    "AI 與心理",
+    "兒童心理",
+    "特殊教育需要"
+   ],
+   "verify_needed": true,
+   "verify_notes": "官網未列主講者與費用。",
+   "speakers": [],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "isps-us-2026",
+   "name_zh": "ISPS-US 全國精神病性障礙會議 2026",
+   "name_en": "ISPS-US 25th Annual Conference – Psychosis & The Social Link",
+   "start": "2026-11-06",
+   "end": "2026-11-08",
+   "city": "紐約",
+   "country": "美國",
+   "region": "北美",
+   "format": "混合（John Jay College＋網上）",
+   "language": "英語",
+   "organizer": "ISPS-US（國際心理與社會取向精神病性障礙治療學會，美國分會）",
+   "fee_text": "官網未於搜尋摘要中列出",
+   "url": "https://isps-us.org/conference/annual-conference/overview.html",
+   "register_url": "https://ispsus2026.sched.com/",
+   "venue": "John Jay College of Criminal Justice, New York",
+   "summary_zh": "第 25 屆年會，主題「精神病性障礙與社會連結」，強調心理與社會取向（而非只靠藥物）。議程有非自願社區治療、女性與精神病、精神病的種族差異等主題；議程在 Sched 平台公開。",
+   "themes": [
+    "精神病性障礙",
+    "心理社會取向",
+    "社會正義"
+   ],
+   "interest_zh": "如果你的臨床興趣包含嚴重精神病的心理治療與家庭／社會脈絡，這是少見以心理取向為主的會議；對督導時討論倫理議題（非自願治療）也有參考價值。與你的 EFT、兒童主題關係較遠。",
+   "domains": [
+    "臨床心理",
+    "督導"
+   ],
+   "verify_needed": true,
+   "verify_notes": "主講者名單及費用未核對；請到 Sched 議程頁確認。",
+   "speakers": [],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "hkps-dcop-20th-2026",
+   "name_zh": "「全民心理健康」：香港及華人社區的優勢為本與預防性介入會議（香港心理學會輔導心理學組 20 週年）",
+   "name_en": "Mental Well-Being for All – 20th Anniversary Conference of the Division of Counselling Psychology, HKPS",
+   "start": "2026-11-06",
+   "end": "2026-11-08",
+   "city": "香港",
+   "country": "香港",
+   "region": "香港",
+   "format": "實體（六個平行分組；11 月 8 日為會後工作坊）",
+   "language": "英語／中文（待查證）",
+   "organizer": "香港心理學會輔導心理學組；香港樹仁大學",
+   "fee_text": "官網未載明；早鳥優惠至 2026-10-10（名額已擴大並延長）",
+   "deadline": "早鳥 2026-10-10",
+   "url": "https://counpconf2026.hksyu.edu/",
+   "register_url": "https://counpconf2026.hksyu.edu/registration/",
+   "venue": "香港樹仁大學寶馬山校園",
+   "summary_zh": "由香港心理學會輔導心理學組 20 週年舉辦的學術會議，聚焦華人社區的優勢為本與預防性介入，匯集中國大陸、香港、澳門與亞太地區的學者、實務工作者與學生。11 月 8 日設全日工作坊，由 Mick Cooper 教授主講「人本取向治療：當代入門」（10:00–17:00）。",
+   "themes": [
+    "優勢為本",
+    "預防性介入",
+    "華人社區",
+    "人本取向治療"
+   ],
+   "interest_zh": "港澳華人社區的輔導心理學，語境最貼近你的日常實務；Mick Cooper 的工作坊涉及人本取向與關係深度，與 EFT 的情緒與關係取向可互相對照，也適合作督導培訓的參考。時間緊迫：早鳥只到 10 月 10 日。",
+   "domains": [
+    "臨床心理",
+    "督導",
+    "EFT"
+   ],
+   "verify_needed": true,
+   "verify_notes": "主會議講者名單、費用、語言官網未列；目前只確認 Mick Cooper。",
+   "speakers": [
+    {
+     "name": "Mick Cooper",
+     "role": "輔導心理學教授，CREST（社會與心理轉化研究中心）主任",
+     "affiliation": "英國 University of Roehampton",
+     "session": "Person-Centred Therapy: A Contemporary Introduction（11 月 8 日工作坊）",
+     "bio_zh": "特許心理學家、UKCP 註冊心理治療師、BACP 院士；研究人本、存在與多元取向治療，並領導多項青少年人本輔導研究。",
+     "works": [
+      {
+       "title": "Working at Relational Depth in Counselling and Psychotherapy（與 Dave Mearns）",
+       "year": "2005",
+       "type": "書（SAGE）",
+       "url": "https://us.sagepub.com/en-us/nam/author/mick-cooper"
+      },
+      {
+       "title": "Pluralistic Counselling and Psychotherapy（與 John McLeod）",
+       "year": "2011",
+       "type": "書（SAGE）",
+       "url": "https://www.karnacbooks.com/product/pluralistic-counselling-and-psychotherapy/30405/"
+      },
+      {
+       "title": "Existential Therapies（第二版）",
+       "year": "2017",
+       "type": "書（SAGE）",
+       "url": "https://us.sagepub.com/en-us/nam/author/mick-cooper"
+      }
+     ],
+     "verified": true,
+     "note": "據 SAGE 作者頁與 Karnac 書目核對。"
+    }
+   ],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "ncpc-hk-2026",
+   "name_zh": "全國輔導及心理治療會議 香港站 2026",
+   "name_en": "National Counselling & Psychotherapy Conference – Hong Kong 2026",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "city": "香港",
+   "country": "香港",
+   "region": "香港",
+   "format": "實體（部分講者以錄影／網上直播參與）",
+   "language": "英語",
+   "organizer": "National Counselling & Psychotherapy Conference 系列（商業主辦）",
+   "fee_text": "港幣 2,699（正價）；早鳥價 2,399 已於 2026-09-30 結束；4 人或以上團體另有優惠",
+   "deadline": "",
+   "url": "https://nationalcounsellingconference.asia/hk/agenda/",
+   "register_url": "https://nationalcounsellingconference.asia/hk/prices/",
+   "venue": "New World Millennium Hong Kong Hotel（據官方首頁）",
+   "summary_zh": "一日制、強調臨床實用的輔導與心理治療會議，議程涵蓋依附理論、整體治療、AI 時代的關係、AI 與強迫症的安心保證、跨文化與移民身分、解離與「部分」工作、聚焦取向治療及第四波治療。九個場次，混合現場與網上講者。",
+   "themes": [
+    "依附理論",
+    "AI 與心理",
+    "解離與部分工作",
+    "第四波治療",
+    "聚焦取向治療",
+    "移民與身分"
+   ],
+   "interest_zh": "與你的領域高度重疊：（1）AI 場次：「Reassurance Robots」談 AI 如何變成強迫症的新安心保證行為，可直接連結你的 AI 與心理主題；（2）依附理論（Kati Morton）與 EFT 的依附取向互補；（3）Amos Cheung 的聚焦取向治療是香港本地臨床心理的人本路線；（4）Julia Andre 的解離與部分工作，可作為督導討論個案概念化的材料。商業大會，內容偏實務與入門，學術深度不如學會年會。",
+   "domains": [
+    "臨床心理",
+    "AI 與心理",
+    "EFT"
+   ],
+   "verify_needed": true,
+   "verify_notes": "官方頁面未列場次 3 與 5 的講者姓名（「Talk Therapy 到 Holistic Therapy」與「Reassurance Robots」）；網上搜尋到同名論文（CHI EA '26，作者 Grace Barkhuff）但沒有證據顯示她是此場講者，故不採用。",
+   "speakers": [
+    {
+     "name": "Kati Morton",
+     "role": "持牌婚姻及家庭治療師（LMFT）",
+     "affiliation": "",
+     "session": "Beyond Anxious & Avoidant: Applying Attachment Theory in Therapeutic Practice（9:05，錄影＋網上問答）",
+     "bio_zh": "美國註冊 LMFT，擁有臨床心理學碩士，約 15 年臨床經驗，以 YouTube 心理健康教育與出版聞名。",
+     "works": [
+      {
+       "title": "Are u ok?: A Guide to Caring for Your Mental Health",
+       "year": "2018",
+       "type": "書",
+       "url": "https://www.hachettebookgroup.com/contributor/kati-morton-lmft/"
+      },
+      {
+       "title": "Traumatized: Identify, Understand and Cope with PTSD and Emotional Stress",
+       "year": "",
+       "type": "書",
+       "url": "https://www.hachettebookgroup.com/contributor/kati-morton-lmft/"
+      },
+      {
+       "title": "Why Do I Keep Doing This?",
+       "year": "",
+       "type": "書",
+       "url": "https://www.hachettebookgroup.com/titles/kati-morton-lmft/why-do-i-keep-doing-this/9780306836541/"
+      }
+     ],
+     "verified": true,
+     "note": "三本書名與作者據 Hachette 出版社頁面；《Traumatized》與第三本出版年份未核對。"
+    },
+    {
+     "name": "Edward C.K. Lam 林博士",
+     "role": "臨床心理學家（PsyD）",
+     "affiliation": "Central Minds（香港）",
+     "session": "The Science of Relational Intelligence（與 Qi Zhai-McCartney 同講，11:05）",
+     "bio_zh": "美國麻省持牌臨床心理學家，紐約大學心理學學士、丹佛大學臨床心理學碩士；於中環私人診所主要處理焦慮、強迫症與抑鬱，使用 ACT、DBT、CBT 與暴露及反應預防。",
+     "works": [],
+     "verified": true,
+     "note": "屬臨床工作者，未找到其出版作品；代表作欄暫缺。"
+    },
+    {
+     "name": "Qi Zhai-McCartney",
+     "role": "Atlas Therapy & Coaching 創辦人",
+     "affiliation": "",
+     "session": "The Science of Relational Intelligence: Building High-Trust Relationships in the AI Era",
+     "bio_zh": "官方議程僅列職銜。",
+     "works": [],
+     "verified": false,
+     "note": "背景與作品待查證。"
+    },
+    {
+     "name": "Amos Cheung 張博士",
+     "role": "臨床心理學家；香港心理學會（官方議程稱會長）",
+     "affiliation": "香港大學社會工作及社會行政學系；香港心理學會",
+     "session": "Beyond Words: Focusing-Oriented Therapy and the Felt Sense（15:25）",
+     "bio_zh": "香港大學臨床心理學博士，註冊臨床心理學家兼註冊社工；國際聚焦研究所（International Focusing Institute）聚焦協調員及培訓員；受過 CBT、聚焦治療與薩提爾家庭治療訓練；曾任香港心理學會臨床心理學組主席（2014–2017）。",
+     "works": [],
+     "verified": true,
+     "note": "職銜：議程寫「會長」，另一頁面（HKU）寫「候任會長」，請以 HKPS 理事會名單為準。個人論文清單請見 HKU Scholars Hub（hub.hku.hk/cris/rp/rp02215），本站尚未逐項核對，故代表作暫缺。"
+    },
+    {
+     "name": "Julia A. Andre",
+     "role": "臨床心理學家、Undertrained 創辦人",
+     "affiliation": "Undertrained",
+     "session": "Less Theory, More Practice: Working with Dissociation and Parts in the Room（14:15）",
+     "bio_zh": "HCPC 註冊臨床心理學家，ISSTD 認證、EMDR 認證及高級認證圖式治療師；十年以上專注複雜創傷與解離；結構性解離理論、圖式治療與部分取向。",
+     "works": [
+      {
+       "title": "Undertrained（為治療師而設的解離與複雜創傷資源）",
+       "year": "",
+       "type": "專案",
+       "url": "https://undertrained.org/"
+      },
+      {
+       "title": "The Dissociative Intensive（四週實時臨床培訓）",
+       "year": "",
+       "type": "培訓",
+       "url": "https://undertrained.org/therapists"
+      },
+      {
+       "title": "Substack 專欄 Dr. Julia A. Andre",
+       "year": "",
+       "type": "專欄",
+       "url": "https://substack.com/@drjuliaaandre"
+      }
+     ],
+     "verified": true,
+     "note": "屬實務／培訓產出，非同行評審論文。"
+    },
+    {
+     "name": "Peta Stapleton",
+     "role": "心理學教授；研究生研究主任",
+     "affiliation": "邦德大學（澳洲）",
+     "session": "Fourth-Wave Therapy Approaches: Expanding Possibilities in Complex Clinical Practice（16:10）",
+     "bio_zh": "註冊臨床／健康心理學家，情緒釋放技術（EFT／「敲打」）研究的領導者之一；2019 年澳洲專職醫療獎「年度心理學家」。注意：這裡的 EFT 是 Emotional Freedom Techniques，與情緒取向／聚焦情緒治療（Emotion-Focused／Emotionally Focused Therapy）不同。",
+     "works": [
+      {
+       "title": "App-Based Delivery of Clinical Emotional Freedom Techniques: Cross-Sectional Study of App User Self-Ratings（Church, Stapleton, Sabot）",
+       "year": "2020",
+       "type": "論文（JMIR mHealth）",
+       "url": "https://doi.org/10.2196/18545"
+      },
+      {
+       "title": "Is Tapping on Acupuncture Points an Active Ingredient in EFT? Meta-analysis（Church, Stapleton, Kip, Gallo；勘誤版）",
+       "year": "2020",
+       "type": "論文（J Nerv Ment Dis）",
+       "url": "https://doi.org/10.1097/NMD.0000000000001222"
+      },
+      {
+       "title": "Skinny Genes' Six-week Online Clinical EFT Program（Church, Stapleton, Raynor）",
+       "year": "2022",
+       "type": "論文（Adv Mind Body Med）",
+       "url": "https://pubmed.ncbi.nlm.nih.gov/35476748/"
+      }
+     ],
+     "verified": true,
+     "note": "據 PubMed 核對；EFT（敲打）的證據品質有爭議，上述論文有一篇為勘誤版，閱讀時請留意。"
+    },
+    {
+     "name": "Asami Koike",
+     "role": "Shapes and Sounds 創辦人及總監（澳洲）",
+     "affiliation": "Shapes and Sounds",
+     "session": "What international education and migration teach us about identity, family and mental health（13:30，網上直播）",
+     "bio_zh": "官方議程僅列職銜。",
+     "works": [],
+     "verified": false,
+     "note": "背景與作品待查證。"
+    }
+   ],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "abct-2026",
+   "name_zh": "第 60 屆行為與認知治療協會（ABCT）年會",
+   "name_en": "ABCT 60th Annual Convention 2026",
+   "start": "2026-11-12",
+   "end": "2026-11-15",
+   "city": "巴爾的摩",
+   "country": "美國",
+   "region": "北美",
+   "format": "實體",
+   "language": "英語",
+   "organizer": "Association for Behavioral and Cognitive Therapies",
+   "fee_text": "官網摘要未列",
+   "url": "https://www.abct.org/convention-ce/annual-conventions/",
+   "register_url": "https://www.abct.org/2026-convention/",
+   "venue": "Hilton Baltimore Inner Harbor / Baltimore Convention Center",
+   "summary_zh": "CBT 與行為治療領域最大的年度會議，主題「整合慈悲與科學：賦能社群參與循證的集體行動」。涵蓋兒童與青少年、成人、督導與培訓、科技與數位介入等多條軌道。",
+   "themes": [
+    "CBT",
+    "循證治療",
+    "慈悲",
+    "督導與培訓"
+   ],
+   "interest_zh": "督導與培訓、兒童與青少年治療、以及數位／AI 輔助治療都有專門軌道，可作為你搜集督導能力培訓與 AI 研究的資源池；若你要引用最新的實證研究，這是美國方面的主要來源。",
+   "domains": [
+    "臨床心理",
+    "督導",
+    "兒童心理",
+    "AI 與心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "主講者、費用與軌道清單未能從官網摘要取得；各軌道描述屬依會議性質的概括，非逐項核對。",
+   "speakers": [],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "twcpa-2026",
+   "name_zh": "2026 臺灣諮商心理學會年會暨國際學術研討會",
+   "name_en": "Taiwan Counseling Psychology Association Annual Conference 2026",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "city": "高雄",
+   "country": "台灣",
+   "region": "台灣",
+   "format": "實體",
+   "language": "繁體中文／英語（待查證）",
+   "organizer": "臺灣諮商心理學會",
+   "fee_text": "未載明",
+   "url": "https://www.twcpa.org.tw/",
+   "register_url": "https://www.twcpa.org.tw/",
+   "venue": "國立高雄師範大學（9:00–17:30）",
+   "summary_zh": "臺灣諮商心理學會年度年會，主題「躍動年代的初衷再展、數位跨域與倫理實踐」，設口頭及壁報論文發表，並有獎項徵選。",
+   "themes": [
+    "數位跨域",
+    "倫理實踐",
+    "諮商心理"
+   ],
+   "interest_zh": "「數位跨域與倫理實踐」與你的 AI 倫理、督導倫理題材相近；台灣諮商心理師的專業倫理討論可作香港與澳門的對照。",
+   "domains": [
+    "臨床心理",
+    "督導",
+    "AI 與心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "日期、地點、主題取自搜尋結果摘要（官網首頁僅見主題橫幅，未見日期、講者與費用），請到官網最新公告核對。",
+   "speakers": [],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "cpsy-school-2026",
+   "name_zh": "中國心理學會學校心理專業委員會 2026 年學術年會",
+   "name_en": "CPS School Psychology Committee Annual Conference 2026",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "city": "（待查證）",
+   "country": "中國大陸",
+   "region": "中國大陸",
+   "format": "實體（待查證）",
+   "language": "普通話",
+   "organizer": "中國心理學會學校心理專業委員會",
+   "fee_text": "未載明",
+   "url": "https://www.huiyi-123.com/article/5o2k0l3g-179.html",
+   "register_url": "",
+   "summary_zh": "中國心理學會學校心理專業委員會的年度學術年會，涉及學校心理學、兒童青少年心理與教育。",
+   "themes": [
+    "學校心理",
+    "兒童青少年心理"
+   ],
+   "interest_zh": "與兒童心理、特殊教育需要的實務與研究相關；如果你關心內地學校心理輔導的制度與研究，這是接觸同行的窗口。",
+   "domains": [
+    "兒童心理",
+    "特殊教育需要"
+   ],
+   "verify_needed": true,
+   "verify_notes": "資料只來自第三方會議資訊站「會議通」，沒有查到學會官方頁面，地點、主題、費用皆未知；請以學會官方通知為準。",
+   "speakers": [],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "evolution-of-psychotherapy-2026",
+   "name_zh": "心理治療的演進大會 2026",
+   "name_en": "The Evolution of Psychotherapy Conference 2026",
+   "start": "2026-12-07",
+   "end": "2026-12-09",
+   "city": "奧蘭多",
+   "country": "美國",
+   "region": "北美",
+   "format": "實體（單軌主舞台，無平行場次）",
+   "language": "英語",
+   "organizer": "HMP Global（自 2020 年起收購）；Milton H. Erickson Foundation 為教育顧問",
+   "fee_text": "分級定價（早鳥優惠），數字見官方 rates 頁",
+   "url": "https://www.hmpglobalevents.com/evolutionofpsychotherapy",
+   "register_url": "https://hmp-global.swoogo.com/EVPE26",
+   "venue": "Walt Disney World Swan & Dolphin Resort, Orlando, FL",
+   "summary_zh": "1985 年創辦的經典心理治療大會，由 Jeffrey Zeig 構思，今年改為單軌三天，邀請「傳奇」與新銳臨床聲音，議題涵蓋 AI、整合心理健康、迷幻藥物、GLP-1、臨床督導、伴侶治療中的外遇及 DSM 診斷；提供 18 個以上 CE 學分（APA、ASWB、NBCC 等）。",
+   "themes": [
+    "心理治療整合",
+    "動機式晤談",
+    "艾瑞克森催眠",
+    "焦慮與兒童家庭",
+    "AI",
+    "督導"
+   ],
+   "interest_zh": "臨床督導單元與 AI 單元與你的興趣直接相關；Lynn Lyons 的兒童與家長焦慮工作可補充兒童心理內容；Miller 的動機式晤談適合放進督導能力訓練。單軌形式令你可以完整看到所有講者，適合作為「一次看到各流派」的考察。",
+   "domains": [
+    "臨床心理",
+    "督導",
+    "AI 與心理",
+    "兒童心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "官網摘要列 12/7–12/9；搜尋摘要曾寫 12/6–12/9，可能含會前活動，請以官網為準。各講者的場次題目官網未列。",
+   "speakers": [
+    {
+     "name": "Jeffrey K. Zeig",
+     "role": "Milton H. Erickson Foundation 創辦人及總監",
+     "affiliation": "Milton H. Erickson Foundation",
+     "session": "",
+     "bio_zh": "PhD；曾跟隨 Milton Erickson 學習六年，1979 年創辦艾瑞克森基金會，是此大會的構思者，編著或合著超過 20 本心理治療書籍。",
+     "works": [
+      {
+       "title": "Experiencing Erickson: An Introduction to the Man and His Work",
+       "year": "1985",
+       "type": "書",
+       "url": "https://archive.org/details/experiencingeric0000zeig"
+      },
+      {
+       "title": "The Induction of Hypnosis: An Ericksonian Elicitation Approach",
+       "year": "2014",
+       "type": "書",
+       "url": "https://www.erickson-foundation.org/books/p/ebook-the-induction-of-hypnosis"
+      },
+      {
+       "title": "The Evolution of Psychotherapy（第一屆大會文集，主編）",
+       "year": "1987",
+       "type": "書",
+       "url": "https://www.routledge.com/Evolution-Of-Psychotherapy-The-1st-Conference/Zeig/p/book/9781138869035"
+      }
+     ],
+     "verified": true,
+     "note": "據書商／圖書館／出版社頁面核對。"
+    },
+    {
+     "name": "William R. Miller",
+     "role": "榮休傑出心理學及精神醫學教授",
+     "affiliation": "University of New Mexico",
+     "session": "",
+     "bio_zh": "動機式晤談（MI）的創始人之一；於 1983 年發表 MI 的首篇論文，1991 年與 Stephen Rollnick 出版第一版專著。",
+     "works": [
+      {
+       "title": "Motivational Interviewing: Helping People Change and Grow（第四版，與 Rollnick）",
+       "year": "2023",
+       "type": "書（Guilford）",
+       "url": "https://www.guilford.com/author/William-R-Miller"
+      },
+      {
+       "title": "Motivational Interviewing（第一版，與 Rollnick）",
+       "year": "1991",
+       "type": "書",
+       "url": ""
+      },
+      {
+       "title": "Motivational interviewing with problem drinkers（MI 首篇論文）",
+       "year": "1983",
+       "type": "論文",
+       "url": ""
+      }
+     ],
+     "verified": true,
+     "note": "1991 年第一版與 1983 年論文的年份據搜尋結果的敘述，書目連結未逐項核對。"
+    },
+    {
+     "name": "Stephen Gilligan",
+     "role": "心理學家（Stanford 博士）",
+     "affiliation": "自雇／Self-Relations 與 Generative 心理治療",
+     "session": "",
+     "bio_zh": "Erickson 與 Gregory Bateson 的學生，發展自我關係心理治療與生成式心理治療；2004 年獲艾瑞克森基金會終身成就獎。",
+     "works": [
+      {
+       "title": "Therapeutic Trances",
+       "year": "",
+       "type": "書",
+       "url": ""
+      },
+      {
+       "title": "The Courage to Love: Principles and Practices of Self-Relations Psychotherapy",
+       "year": "",
+       "type": "書",
+       "url": "https://www.amazon.com/Courage-Love-Principles-Self-Relations-Psychotherapy/dp/0393702472"
+      },
+      {
+       "title": "Generative Trance: The Experience of Creative Flow",
+       "year": "",
+       "type": "書",
+       "url": "https://www.amazon.com/Generative-Trance-Experience-Creative-Flow/dp/178583388X"
+      }
+     ],
+     "verified": true,
+     "note": "書名據搜尋結果核對，出版年份未核對。"
+    },
+    {
+     "name": "Lynn Lyons",
+     "role": "臨床社工（LICSW）、心理治療師",
+     "affiliation": "私人執業",
+     "session": "",
+     "bio_zh": "約 30 年專注於兒童與成人焦慮的治療，重點是打破家庭中焦慮的代際模式；Flusterclux 播客共同主持。",
+     "works": [
+      {
+       "title": "Anxious Kids, Anxious Parents（與 Reid Wilson）",
+       "year": "",
+       "type": "書",
+       "url": "https://www.simonandschuster.com/books/Anxious-Kids-Anxious-Parents/Lynn-Lyons/Anxiety-Series/9780757317620"
+      },
+      {
+       "title": "Playing with Anxiety: Casey's Guide for Teens and Kids（與 Reid Wilson）",
+       "year": "",
+       "type": "書",
+       "url": ""
+      },
+      {
+       "title": "The Anxiety Audit: 7 Sneaky Ways Anxiety Takes Hold and How to Escape Them",
+       "year": "2022",
+       "type": "書",
+       "url": "https://www.amazon.com/Anxiety-Audit-Lynn-Lyons-LICSW/dp/0757324258"
+      }
+     ],
+     "verified": true,
+     "note": "據搜尋結果核對。"
+    },
+    {
+     "name": "Elliott Connie",
+     "role": "MA, LPC",
+     "affiliation": "",
+     "session": "",
+     "bio_zh": "官方頁面只列學歷與執照。",
+     "works": [],
+     "verified": false,
+     "note": "背景與代表作待查證。"
+    },
+    {
+     "name": "Julie Anné Zeig",
+     "role": "PhD",
+     "affiliation": "",
+     "session": "",
+     "bio_zh": "官方頁面只列學歷。",
+     "works": [],
+     "verified": false,
+     "note": "背景與代表作待查證。"
+    },
+    {
+     "name": "Dustin Weissman",
+     "role": "PsyD",
+     "affiliation": "",
+     "session": "",
+     "bio_zh": "官方頁面只列學歷。",
+     "works": [],
+     "verified": false,
+     "note": "背景與代表作待查證。"
+    },
+    {
+     "name": "Desirae Ysasi",
+     "role": "LPC-S",
+     "affiliation": "",
+     "session": "",
+     "bio_zh": "官方頁面只列學歷。",
+     "works": [],
+     "verified": false,
+     "note": "背景與代表作待查證。"
+    }
+   ],
+   "last_checked": "2026-10-04"
+  },
+  {
+   "slug": "tsap-jung-2026",
+   "name_zh": "2026 榮格心理學國際研討會暨家庭心理健康論文發表：亞洲女性——榮格心理學觀點",
+   "name_en": "2026 Jungian Psychology International Conference – Asian Women: A Jungian Perspective",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "city": "（待查證）",
+   "country": "台灣",
+   "region": "台灣",
+   "format": "實體（待查證）",
+   "language": "繁體中文／英語（待查證）",
+   "organizer": "臺灣榮格心理學會；實踐大學家庭研究與兒童發展學系",
+   "fee_text": "未載明",
+   "url": "https://tsap.info/",
+   "register_url": "https://tsap.info/",
+   "summary_zh": "圍繞亞洲女性在多代家庭結構中的精神紐帶與一生個體化歷程，邀請來自美國、英國、丹麥、日本、中國大陸與台灣的榮格分析師及社會學者作跨境、跨領域對話，並設家庭心理健康論文發表。",
+   "themes": [
+    "榮格分析心理學",
+    "家庭心理健康",
+    "女性與個體化"
+   ],
+   "interest_zh": "與你的家庭、親子與跨代主題相關，也是深度心理學取向的難得華語會議；與 EFT 的依附與情感取向可作理論對照。",
+   "domains": [
+    "臨床心理",
+    "兒童心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "實踐大學公告頁當時無法開啟（503），日期與主題取自搜尋結果摘要；地點、講者名單、費用、報名方式未核對。",
+   "speakers": [],
+   "last_checked": "2026-10-04"
+  }
+ ]
+}
