@@ -628,6 +628,100 @@
     window.scrollTo(0, 0);
   }
 
+  // ---------- 會議：全球心理健康／輔導／心理治療會議 ----------
+  var CSTR = {
+    zh: { navConf: "會議", cTitle: "會議", cSub: "全球英文及華語區心理健康、輔導與心理治療會議：即將舉行與近期已舉行。每場附摘要、費用、報名連結、講者背景與代表作，以及對你的領域的看點。資料取自官方頁面，查不到的標「待查證」。",
+      cUpcoming: "即將舉行", cPast: "已舉行", cAllRegions: "全部地區", cAllDomains: "全部領域", cOnline: "含網上參與", cEmpty: "沒有符合條件的會議",
+      cWhen: "日期", cWhere: "地點", cFormat: "形式", cLang: "語言", cOrg: "主辦", cFee: "費用", cDeadline: "報名截止", cSite: "官方網頁 ↗", cReg: "報名 ↗",
+      cSummary: "會議摘要", cInterest: "你可能感興趣的點", cInfo: "會議資訊", cSpeakers: "講者與代表作", cNoSpeakers: "官方尚未公布講者名單（或本站未能取得）。",
+      cWorks: "代表作", cSession: "場次", cNoWorks: "代表作待查證", cVerified: "已核對", cUnverified: "待查證", cVerifyNote: "核對說明", cChecked: "資料查核日",
+      cDays: "{n} 天後開始", cToday: "進行中", cEnded: "已結束", cNote: "會議資訊以官方頁面為準；講者簡介與代表作由 Claude 從公開資料整理，標「待查證」者尚未核對。內容以繁體中文提供。" },
+    en: { navConf: "Conferences", cTitle: "Conferences", cSub: "Mental health, counselling and psychotherapy conferences in the English- and Chinese-speaking world, upcoming and recent. Each has a summary, fees, sign-up link, speaker backgrounds with key works, and why it may interest you. Content is in Traditional Chinese; unverified items are flagged.",
+      cUpcoming: "Upcoming", cPast: "Recent", cAllRegions: "All regions", cAllDomains: "All fields", cOnline: "Online option", cEmpty: "No matching conferences",
+      cWhen: "Dates", cWhere: "Where", cFormat: "Format", cLang: "Language", cOrg: "Organiser", cFee: "Fee", cDeadline: "Deadline", cSite: "Official site ↗", cReg: "Register ↗",
+      cSummary: "Summary", cInterest: "Why it may interest you", cInfo: "Details", cSpeakers: "Speakers & key works", cNoSpeakers: "No speaker list published (or not retrievable).",
+      cWorks: "Key works", cSession: "Session", cNoWorks: "Key works unverified", cVerified: "Verified", cUnverified: "Unverified", cVerifyNote: "Verification notes", cChecked: "Last checked",
+      cDays: "starts in {n} days", cToday: "In progress", cEnded: "Ended", cNote: "Event details: check the official page. Speaker bios and key works are compiled by Claude from public sources; items marked unverified are not yet checked." }
+  };
+  Object.keys(CSTR).forEach(function (l) { Object.keys(CSTR[l]).forEach(function (k) { STR[l][k] = CSTR[l][k]; }); });
+  var CONF = null, cState = { when: "upcoming", region: null, domain: null, online: false };
+  function loadConf() {
+    if (CONF) return Promise.resolve(CONF);
+    return getJSON("data/conferences.json").then(function (d) { CONF = d; return d; });
+  }
+  function confSpan(c) { return c.start === c.end ? c.start : c.start + " – " + c.end; }
+  function confNote(c) {
+    var today = CONF.today || new Date().toISOString().slice(0, 10);
+    if (c.end < today) return t("cEnded");
+    if (c.start <= today) return t("cToday");
+    var n = Math.round((new Date(c.start + "T00:00:00Z") - new Date(today + "T00:00:00Z")) / 86400000);
+    return t("cDays", { n: n });
+  }
+  function confCard(c) {
+    var badges = ['<span class="badge">' + esc(c.region) + "</span>"];
+    (c.domains || []).slice(0, 3).forEach(function (d) { badges.push('<span class="badge">' + esc(d) + "</span>"); });
+    if (c.verify_needed) badges.push('<span class="badge badge-warn">' + t("cUnverified") + "</span>");
+    return '<article class="card fam-card conf-card"><div class="card-author"><span class="cat-avatar fam-avatar" aria-hidden="true">' + esc(c.country.charAt(0)) + "</span>" +
+      '<div class="card-author-names"><span class="card-author-name">' + esc(c.city + "，" + c.country) + "</span><time>" + esc(confSpan(c)) + " · " + esc(confNote(c)) + "</time></div></div>" +
+      '<h3 class="card-title"><a href="#/conferences/' + encodeURIComponent(c.slug) + '">' + esc(pick(c, "name")) + "</a></h3>" +
+      '<div class="training-line">' + [esc(c.format), esc(c.fee_text)].filter(Boolean).join(" · ") + "</div>" +
+      '<p class="card-summary">' + esc(c.summary_zh) + "</p>" +
+      '<div class="card-meta">' + badges.join("") + "</div></article>";
+  }
+  function renderConferences() {
+    var today = CONF.today, all = CONF.items;
+    var list = all.filter(function (c) {
+      var past = c.end < today;
+      return (cState.when === "past" ? past : !past) && (!cState.region || c.region === cState.region) &&
+        (!cState.domain || (c.domains || []).indexOf(cState.domain) >= 0) && (!cState.online || /網上|混合|online|hybrid/i.test(c.format));
+    }).sort(function (a, b) { return cState.when === "past" ? (a.start < b.start ? 1 : -1) : (a.start < b.start ? -1 : 1); });
+    app.innerHTML = '<h2 class="page-title">' + t("cTitle") + '</h2><p class="page-sub">' + t("cSub") + '</p><div class="toolbar">' +
+      '<div class="chip-row"><button class="chip' + (cState.when === "upcoming" ? " on" : "") + '" data-conf="when" data-v="upcoming">' + t("cUpcoming") + '</button>' +
+      '<button class="chip' + (cState.when === "past" ? " on" : "") + '" data-conf="when" data-v="past">' + t("cPast") + '</button>' +
+      '<button class="chip' + (cState.online ? " on" : "") + '" data-conf="online" data-v="1">' + t("cOnline") + "</button></div>" +
+      famChips("c:region", CONF.regions, cState.region, t("cAllRegions")) + famChips("c:domain", CONF.domains, cState.domain, t("cAllDomains")) + "</div>" +
+      (list.length ? '<div class="masonry">' + list.map(confCard).join("") + "</div>" : '<div class="status-line">' + t("cEmpty") + "</div>") +
+      '<p class="fam-disclaimer">' + t("cNote") + "</p>";
+  }
+  function speakerBlock(s) {
+    var works = (s.works || []).length ? "<ol class=\"conf-works\">" + s.works.map(function (w) {
+      var label = esc(w.title) + (w.year ? "（" + esc(w.year) + "）" : "") + (w.type ? " · " + esc(w.type) : "");
+      return "<li>" + (safeUrl(w.url) ? '<a href="' + esc(w.url) + '" target="_blank" rel="noopener noreferrer">' + label + "</a>" : label) + "</li>";
+    }).join("") + "</ol>" : '<p class="conf-nowork">' + t("cNoWorks") + "</p>";
+    return '<div class="panel conf-speaker"><h4>' + esc(s.name) + ' <span class="badge ' + (s.verified ? "badge-free" : "badge-warn") + '">' + (s.verified ? t("cVerified") : t("cUnverified")) + "</span></h4>" +
+      '<div class="conf-role">' + esc([s.role, s.affiliation].filter(Boolean).join(" · ")) + "</div>" +
+      (s.session ? '<div class="conf-session"><b>' + t("cSession") + "：</b>" + esc(s.session) + "</div>" : "") +
+      (s.bio_zh ? "<p>" + esc(s.bio_zh) + "</p>" : "") + '<div class="conf-worksh">' + t("cWorks") + "</div>" + works +
+      (s.note ? '<p class="conf-note">' + esc(s.note) + "</p>" : "") + "</div>";
+  }
+  function renderConference(slug) {
+    var c = CONF.items.filter(function (x) { return x.slug === slug; })[0];
+    if (!c) { app.innerHTML = '<div class="status-line">' + t("cEmpty") + ' <a href="#/conferences">' + t("back") + "</a></div>"; return; }
+    var rows = [["cWhen", confSpan(c) + "（" + confNote(c) + "）"], ["cWhere", [c.venue, c.city, c.country].filter(Boolean).join("，")], ["cFormat", c.format], ["cLang", c.language],
+      ["cOrg", c.organizer], ["cFee", c.fee_text], ["cDeadline", c.deadline], ["cChecked", c.last_checked]];
+    var links = (safeUrl(c.url) ? '<a class="chip" href="' + esc(c.url) + '" target="_blank" rel="noopener noreferrer">' + t("cSite") + "</a> " : "") +
+      (safeUrl(c.register_url) ? '<a class="chip" href="' + esc(c.register_url) + '" target="_blank" rel="noopener noreferrer">' + t("cReg") + "</a>" : "");
+    var main = '<h2 class="detail-title">' + esc(c.name_zh) + '</h2><p class="conf-en">' + esc(c.name_en) + '</p><div class="card-meta"><span class="badge">' + esc(c.region) + "</span>" +
+      (c.themes || []).map(function (x) { return '<span class="badge">' + esc(x) + "</span>"; }).join("") + (c.verify_needed ? '<span class="badge badge-warn">' + t("cUnverified") + "</span>" : "") + "</div>" +
+      '<div class="chip-row" style="margin-top:12px">' + links + "</div>" +
+      '<h3 class="section-title">' + t("cSummary") + '</h3><p class="detail-summary">' + esc(c.summary_zh) + "</p>" +
+      '<h3 class="section-title">' + t("cInterest") + '</h3><div class="panel conf-interest">' + esc(c.interest_zh) + "</div>" +
+      '<h3 class="section-title">' + t("cInfo") + '</h3><div class="panel"><dl class="kv">' + rows.filter(function (r) { return r[1]; }).map(function (r) { return "<dt>" + t(r[0]) + "</dt><dd>" + esc(r[1]) + "</dd>"; }).join("") + "</dl></div>" +
+      (c.verify_notes ? '<div class="panel fam-seek"><b>' + t("cVerifyNote") + "：</b>" + esc(c.verify_notes) + "</div>" : "") +
+      '<h3 class="section-title">' + t("cSpeakers") + "</h3>" + ((c.speakers || []).length ? c.speakers.map(speakerBlock).join("") : '<div class="status-line">' + t("cNoSpeakers") + "</div>");
+    app.innerHTML = '<div class="detail-page"><p style="margin-top:16px"><a href="#/conferences" id="back">' + t("back") + '</a></p><div class="fam-detail">' + main + "</div>" + '<p class="fam-disclaimer">' + t("cNote") + "</p></div>";
+    document.getElementById("back").addEventListener("click", function (e) { if (history.length > 1) { e.preventDefault(); history.back(); } });
+    window.scrollTo(0, 0);
+  }
+  document.addEventListener("click", function (e) {
+    var ch = e.target.closest("[data-conf], [data-fam^='c:']");
+    if (!ch) return;
+    e.stopPropagation();
+    var k = ch.getAttribute("data-conf") || ch.getAttribute("data-fam").slice(2), v = ch.getAttribute("data-v") || null;
+    if (k === "online") cState.online = !cState.online; else if (k === "when") cState.when = v; else cState[k] = cState[k] === v ? null : v;
+    renderConferences();
+  }, true);
+
   // ---------- 外框、路由 ----------
   function applyChrome() {
     document.documentElement.lang = prefs.lang === "en" ? "en" : "zh-Hant";
@@ -646,11 +740,13 @@
     var h = location.hash.replace(/^#/, "") || "/";
     document.querySelectorAll(".header-nav a").forEach(function (a) {
       var href = a.getAttribute("href");
-      a.classList.toggle("active", href === "#" + h || (href === "#/family" && h.indexOf("/family") === 0) || (href === "#/bounty" && h.indexOf("/bounty") === 0));
+      a.classList.toggle("active", href === "#" + h || (href === "#/family" && h.indexOf("/family") === 0) || (href === "#/bounty" && h.indexOf("/bounty") === 0) || (href === "#/conferences" && h.indexOf("/conferences") === 0));
     });
     document.getElementById("site-nav").classList.remove("open");
     loadIndex().then(function () {
       applyChrome();
+      var cm = h.match(/^\/conferences(?:\/(.+))?$/);
+      if (cm) return loadConf().then(function () { return cm[1] ? renderConference(decodeURIComponent(cm[1])) : renderConferences(); });
       var bm = h.match(/^\/bounty(?:\/(.+))?$/);
       if (bm) return loadFamily().then(function () { return bm[1] ? renderBountyItem(decodeURIComponent(bm[1])) : renderBounty(); });
       var fm = h.match(/^\/family(?:\/(.*))?$/);
