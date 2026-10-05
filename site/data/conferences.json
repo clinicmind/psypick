@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-04T20:30:00+00:00",
- "today": "2026-10-04",
+ "generated_at": "2026-10-05T03:00:00+00:00",
+ "today": "2026-10-05",
  "regions": [
   "香港",
   "澳門",
@@ -688,9 +688,9 @@
     "EFT"
    ],
    "verify_needed": true,
-   "verify_notes": "全體大會講者名單未能從官方頁面取得。",
+   "verify_notes": "全體大會講者名單未能從官方頁面取得。 2026-10-05：會議將於 10/6 結束，本週後轉入「已結束」。",
    "speakers": [],
-   "last_checked": "2026-10-04"
+   "last_checked": "2026-10-05"
   },
   {
    "slug": "ncpc-sg-2026",
@@ -716,7 +716,7 @@
     "治療中的科技",
     "可持續執業"
    ],
-   "interest_zh": "想了解新加坡的華人／多元文化背景下臨床實務可看這場；「治療中的科技」與「可持續執業」兩個主題與你的 AI 與督導興趣有關。距今只有三天，若要參加需盡快；內容與香港站相近，不必兩場都去。",
+   "interest_zh": "想了解新加坡的華人／多元文化背景下臨床實務可看這場；「治療中的科技」與「可持續執業」兩個主題與你的 AI 與督導興趣有關。距今只有兩天，若要參加需盡快；內容與香港站相近，不必兩場都去。",
    "domains": [
     "臨床心理",
     "督導",
@@ -851,7 +851,7 @@
      "note": "與心理專業無直接關係；在議程中的角色待查證。"
     }
    ],
-   "last_checked": "2026-10-04"
+   "last_checked": "2026-10-05"
   },
   {
    "slug": "camh-18-2026",
@@ -880,7 +880,7 @@
    "verify_needed": true,
    "verify_notes": "官網只列日期與地點；主題、報告人、費用、報名連結皆未載明；另一個「第十屆學術年會」（10/25–27）與本會議的關係待查證；官網對自動抓取回應 403，資料是經 WebFetch 取得的摘要。",
    "speakers": [],
-   "last_checked": "2026-10-04"
+   "last_checked": "2026-10-05"
   },
   {
    "slug": "tpa-65-2026",
@@ -894,7 +894,7 @@
    "format": "實體",
    "language": "繁體中文／英語",
    "organizer": "台灣心理學會；亞洲大學承辦",
-   "fee_text": "官網未載明",
+   "fee_text": "官網未載明；一般報名已於 2026-10-05 截止，是否仍可現場／補報請洽主辦",
    "deadline": "早鳥 2026-09-28 已截止；一般報名截止 2026-10-05",
    "url": "https://www.tpa-tw.org/2026theme",
    "register_url": "https://www.tpa-tw.org/2026main",
@@ -914,7 +914,7 @@
    "verify_needed": true,
    "verify_notes": "官網未列主講者與費用。",
    "speakers": [],
-   "last_checked": "2026-10-04"
+   "last_checked": "2026-10-05"
   },
   {
    "slug": "isps-us-2026",
@@ -946,7 +946,7 @@
    "verify_needed": true,
    "verify_notes": "主講者名單及費用未核對；請到 Sched 議程頁確認。",
    "speakers": [],
-   "last_checked": "2026-10-04"
+   "last_checked": "2026-10-05"
   },
   {
    "slug": "hkps-dcop-20th-2026",
@@ -1011,7 +1011,7 @@
      "note": "據 SAGE 作者頁與 Karnac 書目核對。"
     }
    ],
-   "last_checked": "2026-10-04"
+   "last_checked": "2026-10-05"
   },
   {
    "slug": "ncpc-hk-2026",
@@ -1215,7 +1215,7 @@
      "note": "作品屬平台、播客與培訓，並非學術論著；2022 獎項據 SBS 報導的敘述。"
     }
    ],
-   "last_checked": "2026-10-04"
+   "last_checked": "2026-10-05"
   },
   {
    "slug": "abct-2026",
@@ -1250,7 +1250,7 @@
    "verify_needed": true,
    "verify_notes": "主講者、費用與軌道清單未能從官網摘要取得；各軌道描述屬依會議性質的概括，非逐項核對。",
    "speakers": [],
-   "last_checked": "2026-10-04"
+   "last_checked": "2026-10-05"
   },
   {
    "slug": "twcpa-2026",
@@ -1283,7 +1283,7 @@
    "verify_needed": true,
    "verify_notes": "日期、地點、主題取自搜尋結果摘要（官網首頁僅見主題橫幅，未見日期、講者與費用），請到官網最新公告核對。",
    "speakers": [],
-   "last_checked": "2026-10-04"
+   "last_checked": "2026-10-05"
   },
   {
    "slug": "cpsy-school-2026",
@@ -1313,7 +1313,7 @@
    "verify_needed": true,
    "verify_notes": "資料只來自第三方會議資訊站「會議通」，沒有查到學會官方頁面，地點、主題、費用皆未知；請以學會官方通知為準。",
    "speakers": [],
-   "last_checked": "2026-10-04"
+   "last_checked": "2026-10-05"
   },
   {
    "slug": "evolution-of-psychotherapy-2026",
@@ -1559,7 +1559,7 @@
      "note": "實務工作者；未找到同行評審出版物。"
     }
    ],
-   "last_checked": "2026-10-04"
+   "last_checked": "2026-10-05"
   },
   {
    "slug": "tsap-jung-2026",
@@ -1590,7 +1590,117 @@
    "verify_needed": true,
    "verify_notes": "實踐大學公告頁當時無法開啟（503），日期與主題取自搜尋結果摘要；地點、講者名單、費用、報名方式未核對。",
    "speakers": [],
-   "last_checked": "2026-10-04"
+   "last_checked": "2026-10-05"
+  },
+  {
+   "slug": "midas-ai-mental-health-2026",
+   "name_zh": "密西根大學「AI 與心理健康」會議 2026",
+   "name_en": "AI and Mental Health Conference 2026 (U-M MIDAS)",
+   "start": "2026-10-05",
+   "end": "2026-10-05",
+   "city": "安娜堡（密西根州）",
+   "country": "美國",
+   "region": "北美",
+   "format": "實體（一天；9:00–17:00）",
+   "language": "英語",
+   "organizer": "University of Michigan MIDAS（資料與人工智慧社會研究院）",
+   "fee_text": "官網未載明（官網擋爬蟲，未能核對）",
+   "url": "https://midas.umich.edu/",
+   "register_url": "https://midas.umich.edu/",
+   "venue": "Michigan Union, Rogel Ballroom, Ann Arbor",
+   "summary_zh": "由密西根大學 MIDAS 主辦的一日會議，聚焦 AI 在心理健康的應用與風險。主題演講者包括美國心理學會（APA）醫療創新資深主任 Vaile Wright、臨床心理師暨 Slingshot AI 研究主管 Caitlin Stamatis，以及人道 AI 顧問 Michael Tjalve；小組討論邀請校園心理健康與科技業代表。",
+   "themes": [
+    "AI 與心理健康",
+    "數位治療",
+    "AI 聊天機器人風險與安全",
+    "校園心理健康"
+   ],
+   "interest_zh": "這是目前清單中少數直接談「AI 與心理」的會議，且講者來自 APA 與臨床研究背景，可作為你追蹤 AI 心理治療倫理與實證的參考。會議就在今天（10/5），多半已無法參加，但演講者在 APA 播客與論文中的觀點可事後查閱。",
+   "domains": [
+    "AI 與心理",
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "官方頁面（midas.umich.edu）抓取遭 403，日期、場地、講者與小組成員取自搜尋結果摘要；費用與完整議程未核對。",
+   "last_checked": "2026-10-05",
+   "speakers": [
+    {
+     "name": "Vaile Wright",
+     "role": "美國心理學會（APA）醫療創新資深主任",
+     "affiliation": "American Psychological Association",
+     "session": "主題演講",
+     "bio_zh": "臨床心理學家，伊利諾大學香檳分校博士，APA 首任醫療創新資深主任；曾任華盛頓特區 Saint Elizabeths 醫院心理訓練主任。常在 APA《Speaking of Psychology》播客談 AI 與心理健康、數位治療等議題。",
+     "works": [],
+     "verified": false,
+     "note": "經 PubMed 檢索未找到可確認屬於她的論文，故不列作品，不臆測；播客集數未逐一核對。"
+    },
+    {
+     "name": "Caitlin A. Stamatis",
+     "role": "臨床心理學家；Slingshot AI 研究主管",
+     "affiliation": "Slingshot AI；曾任 Akili Interactive Labs",
+     "session": "主題演講",
+     "bio_zh": "臨床心理學家，曾在 Akili 參與 ADHD 數位治療 EndeavorRx 相關研究，並與 Otsuka 的憂鬱症數位療法 Rejoyn 有關，現任 Slingshot AI 研究主管，並隸屬西北大學預防醫學系。",
+     "works": [
+      {
+       "title": "Two single arm trials of AKL-T01, a digital therapeutic for adolescents and adults with ADHD",
+       "year": 2024,
+       "type": "期刊論文（npj Mental Health Research）",
+       "url": "https://doi.org/10.1038/s44184-024-00075-w"
+      },
+      {
+       "title": "Real-time cognitive performance metrics derived from a digital therapeutic for inattention predict ADHD-related clinical outcomes: replication across three independent trials of AKL-T01",
+       "year": 2024,
+       "type": "期刊論文（Translational Psychiatry）",
+       "url": "https://doi.org/10.1038/s41398-024-03045-0"
+      },
+      {
+       "title": "A digital intervention for cognitive deficits following COVID-19: a randomized clinical trial",
+       "year": 2024,
+       "type": "期刊論文（Neuropsychopharmacology；共同作者）",
+       "url": "https://doi.org/10.1038/s41386-024-01995-z"
+      }
+     ],
+     "verified": true,
+     "note": "作品經 PubMed 核對（第一、二篇為第一作者）；現職取自會議摘要，未向主辦方核對。"
+    },
+    {
+     "name": "Michael Tjalve",
+     "role": "Humanitarian AI Advisory 創辦人；華盛頓大學助理教授",
+     "affiliation": "Humanitarian AI Advisory；RootsAI Foundation；University of Washington",
+     "session": "主題演講",
+     "bio_zh": "人工智慧博士（倫敦大學學院），2009 年起任教華盛頓大學，共同創辦 RootsAI Foundation，並擔任聯合國 OCHA 資深顧問，專注人道與弱勢社群的負責任 AI。",
+     "works": [
+      {
+       "title": "SAFE-AI Framework",
+       "year": null,
+       "type": "框架文件",
+       "url": "https://faculty.washington.edu/mtjalve/SAFE-AI.Framework.pdf"
+      }
+     ],
+     "verified": false,
+     "note": "僅憑搜尋結果得知此框架，未開啟核對年份與內容；其餘作品未查證。"
+    },
+    {
+     "name": "Lindsey Mortenson",
+     "role": "密西根大學 University Health and Counseling 執行主任、首席心理健康官",
+     "affiliation": "University of Michigan",
+     "session": "小組討論",
+     "bio_zh": "校園心理健康領導者，負責密西根大學健康與諮商服務。",
+     "works": [],
+     "verified": false,
+     "note": "僅取自會議摘要；未另行查證。"
+    },
+    {
+     "name": "Beata Stylianos",
+     "role": "Mission Critical Technologies 執行長",
+     "affiliation": "Mission Critical Technologies",
+     "session": "小組討論",
+     "bio_zh": "科技公司執行長，於小組討論代表產業觀點。",
+     "works": [],
+     "verified": false,
+     "note": "僅取自會議摘要；未另行查證。"
+    }
+   ]
   }
  ]
 }
