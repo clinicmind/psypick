@@ -21,7 +21,8 @@
       helpCollection: "多個來源講同一件事時合併成一個案例，顯示「合集 · N 篇」。",
       helpEvidence: "0 個人經驗或評論、1 產品宣稱、2 前導或質性研究、3 對照試驗、4 系統性回顧或統合分析。",
       helpVerify: "資訊不完整或來自社群平台、尚未查證的內容。", footerRights: "內容版權屬原作者；本站提供導讀與專業註解，不構成醫療或治療建議。",
-      week: "週"
+      week: "週", notFound: "找不到這一頁，可能已移除或網址有誤。", toHome: "回首頁",
+      intro: "AI × 心理學的案例訊號站：研究、倫理事件與進修資訊，每則附心理專業註解。按右上「?」看卡片標記的意思。"
     },
     en: {
       appName: "PsyPick", tagline: "A signal station for AI × psychology", navHome: "Home", navFeatured: "Featured", navTraining: "Training", navSaved: "★ Saved",
@@ -41,7 +42,8 @@
       helpCollection: "When several sources cover the same thing they are merged into one case, shown as \"Collection · N posts\".",
       helpEvidence: "0 opinion, 1 vendor claim, 2 pilot/qualitative, 3 controlled trial, 4 systematic review/meta-analysis.",
       helpVerify: "Incomplete or social-media-sourced details not yet verified.", footerRights: "All content belongs to its original creators. Commentary here is not medical or treatment advice.",
-      week: "Week"
+      week: "Week", notFound: "This page could not be found. It may have been removed or the link is wrong.", toHome: "Back to home",
+      intro: "Signals from AI × psychology: research, ethics cases and training, each with a note from a psychology perspective. Tap \"?\" for what the card labels mean."
     }
   };
 
@@ -58,7 +60,7 @@
   } catch (e) { /* ignore */ }
   if (!prefs.lang) {
     var langs = (navigator.languages || [navigator.language || ""]).join(",").toLowerCase();
-    prefs.lang = /(^|,)zh/.test(langs) ? "zh" : "en";
+    prefs.lang = /(^|,)zh|-(hk|mo|tw)(,|$)/.test(langs) ? "zh" : "en";
   }
   function persist() { try { localStorage.setItem(STORE_KEY, JSON.stringify(prefs)); } catch (e) { /* ignore */ } }
   function t(k, vars) {
@@ -177,7 +179,7 @@
       return '<button class="chip' + (homeState.dom === d.name ? " on" : "") + '" data-dom="' + esc(d.name) + '">' +
         esc(prefs.lang === "en" ? d.en : d.name) + ' <span class="count">' + n + "</span></button>";
     }).join("");
-    app.innerHTML = '<div class="toolbar"><input class="search" id="search" type="search" placeholder="' + t("search") + '" value="' + esc(homeState.q) + '">' +
+    app.innerHTML = '<p class="home-intro">' + esc(t("intro")) + '</p><div class="toolbar"><input class="search" id="search" type="search" aria-label="' + t("search") + '" placeholder="' + t("search") + '" value="' + esc(homeState.q) + '">' +
       '<div class="chip-row">' + chips + '</div>' + (doms ? '<div class="chip-row chip-row-domain">' + doms + '</div>' : '') + '</div><div id="results"></div>';
     renderResults();
     document.getElementById("search").addEventListener("input", function (e) { homeState.q = e.target.value; renderResults(); });
@@ -237,7 +239,7 @@
 
   function renderCase(slug) {
     app.innerHTML = '<div class="status-line">' + t("loading") + "</div>";
-    getJSON("data/cases/" + encodeURIComponent(slug) + ".json").then(function (c) {
+    return getJSON("data/cases/" + encodeURIComponent(slug) + ".json").then(function (c) {
       prefs.readMarks[slug] = new Date().toISOString(); persist();
       var cat = catInfo(c.category), isTraining = c.category === DATA.config.training_category, brief = prefs.lang === "en" ? (c.brief_en || c.brief_zh) : (c.brief_zh || c.brief_en);
       var kind = DATA.config.kinds[c.kind], ev = DATA.config.evidence_levels[String(c.evidence_level)];
@@ -289,10 +291,11 @@
 
       var rel = (c.related || []).length ? '<h3 class="section-title">' + t("related") + "</h3>" + grid(c.related) : "";
       app.innerHTML = '<div class="detail-page"><p style="margin-top:16px"><a href="#/" id="back">' + t("back") + '</a></p><div class="detail-layout"><div>' + main + "</div><aside>" + aside + "</aside></div>" + rel + "</div>";
-      document.getElementById("back").addEventListener("click", function (e) { if (history.length > 1) { e.preventDefault(); history.back(); } });
+      document.getElementById("back").addEventListener("click", goBack);
       window.scrollTo(0, 0);
-    }).catch(function () {
-      app.innerHTML = '<div class="status-line">' + t("loadError") + ' <a href="#/">' + t("back") + "</a></div>";
+    }).catch(function (err) {
+      var gone = /404/.test(String(err && err.message));
+      app.innerHTML = '<div class="status-line">' + t(gone ? "notFound" : "loadError") + ' <a href="#/">' + t("toHome") + "</a></div>";
     });
   }
 
@@ -541,7 +544,7 @@
     var back = dl ? "#/family/deals" : a ? "#/family/events" : "#/family/read";
     app.innerHTML = '<div class="detail-page"><p style="margin-top:16px"><a href="' + back + '" id="back">' + t("back") + "</a></p><div class=\"fam-detail\">" + main + "</div>" +
       '<p class="fam-disclaimer">' + t("famDisclaimer") + "</p></div>";
-    document.getElementById("back").addEventListener("click", function (e) { if (history.length > 1) { e.preventDefault(); history.back(); } });
+    document.getElementById("back").addEventListener("click", goBack);
     window.scrollTo(0, 0);
   }
   function renderFamily(sub) {
@@ -624,7 +627,7 @@
       '<p class="ref">' + t("famAI") + "</p>";
     app.innerHTML = '<div class="detail-page"><p style="margin-top:16px"><a href="#/bounty" id="back">' + t("back") + '</a></p><div class="fam-detail">' + main + "</div>" +
       '<p class="fam-disclaimer">' + t("bSub") + "</p></div>";
-    document.getElementById("back").addEventListener("click", function (e) { if (history.length > 1) { e.preventDefault(); history.back(); } });
+    document.getElementById("back").addEventListener("click", goBack);
     window.scrollTo(0, 0);
   }
 
@@ -710,7 +713,7 @@
       (c.verify_notes ? '<div class="panel fam-seek"><b>' + t("cVerifyNote") + "：</b>" + esc(c.verify_notes) + "</div>" : "") +
       '<h3 class="section-title">' + t("cSpeakers") + "</h3>" + ((c.speakers || []).length ? c.speakers.map(speakerBlock).join("") : '<div class="status-line">' + t("cNoSpeakers") + "</div>");
     app.innerHTML = '<div class="detail-page"><p style="margin-top:16px"><a href="#/conferences" id="back">' + t("back") + '</a></p><div class="fam-detail">' + main + "</div>" + '<p class="fam-disclaimer">' + t("cNote") + "</p></div>";
-    document.getElementById("back").addEventListener("click", function (e) { if (history.length > 1) { e.preventDefault(); history.back(); } });
+    document.getElementById("back").addEventListener("click", goBack);
     window.scrollTo(0, 0);
   }
   document.addEventListener("click", function (e) {
@@ -736,13 +739,68 @@
       "<dt>" + t("evidence") + " E0–E4</dt><dd>" + esc(t("helpEvidence")) + "</dd>" +
       "<dt>" + t("verify") + "</dt><dd>" + esc(t("helpVerify")) + "</dd></dl>";
   }
+  // ---------- 返回、捲動位置、每次渲染後的整理 ----------
+  var navCount = 0, linkNav = false, scrollMem = {}, pendingY = null;
+  function goBack(e) { if (navCount > 0) { e.preventDefault(); linkNav = false; history.back(); } }
+  document.addEventListener("click", function (e) { var a = e.target.closest && e.target.closest('a[href^="#"]'); if (a) linkNav = true; }, true);
+  window.addEventListener("hashchange", function (e) {
+    navCount++;
+    try { scrollMem[new URL(e.oldURL).hash || "#/"] = window.scrollY; } catch (x) { /* ignore */ }
+    pendingY = linkNav ? 0 : (scrollMem[location.hash || "#/"] || 0);
+    linkNav = false;
+    route();
+  });
+  function layoutMasonry() {
+    document.querySelectorAll("#app .masonry").forEach(function (m) {
+      var n = Math.max(1, Math.min(3, Math.floor((m.clientWidth + 14) / 314)));
+      var laid = m.hasAttribute("data-cols");
+      if (laid ? m.getAttribute("data-cols") === String(n) : n === 1) return;
+      var items = laid ? [].slice.call(m.querySelectorAll(":scope > .mcol > [data-mi]")) : [].slice.call(m.children);
+      if (laid) items.sort(function (a, b) { return a.getAttribute("data-mi") - b.getAttribute("data-mi"); });
+      else items.forEach(function (el, i) { el.setAttribute("data-mi", i); });
+      m.innerHTML = "";
+      if (n === 1) { m.classList.remove("mlaid"); m.removeAttribute("data-cols"); items.forEach(function (el) { m.appendChild(el); }); return; }
+      m.classList.add("mlaid"); m.setAttribute("data-cols", n);
+      var cols = []; for (var i = 0; i < n; i++) { cols.push(document.createElement("div")); cols[i].className = "mcol"; m.appendChild(cols[i]); }
+      items.forEach(function (el) {
+        var c = cols.reduce(function (a, b) { return b.offsetHeight < a.offsetHeight ? b : a; });
+        c.appendChild(el);
+      });
+    });
+  }
+  function afterRender() {
+    layoutMasonry();
+    document.querySelectorAll("#app button.chip").forEach(function (b) { b.setAttribute("aria-pressed", b.classList.contains("on")); });
+    document.querySelectorAll("#app .fam-tabs a").forEach(function (a) { if (a.classList.contains("on")) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current"); });
+    var h2 = document.querySelector("#app h2"), base = prefs.lang === "en" ? t("appName") : t("appName") + " PsyPick";
+    var name = h2 && (location.hash || "#/") !== "#/" ? h2.textContent.trim() : "";
+    document.title = name ? name.slice(0, 60) + " · " + t("appName") : base;
+  }
+  var afterQueued = false;
+  new MutationObserver(function () {
+    if (afterQueued) return; afterQueued = true;
+    requestAnimationFrame(function () { afterQueued = false; afterRender(); });
+  }).observe(document.getElementById("app"), { childList: true, subtree: true });
+  var resizeT = null;
+  window.addEventListener("resize", function () { clearTimeout(resizeT); resizeT = setTimeout(layoutMasonry, 150); });
+  function closePopups() {
+    var nav = document.getElementById("site-nav"), pop = document.getElementById("help-pop");
+    nav.classList.remove("open"); document.getElementById("nav-toggle").setAttribute("aria-expanded", "false");
+    pop.hidden = true; document.getElementById("help-btn").setAttribute("aria-expanded", "false");
+  }
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape") closePopups(); });
+  document.addEventListener("click", function (e) { if (!e.target.closest(".site-header")) closePopups(); });
+
   function route() {
     var h = location.hash.replace(/^#/, "") || "/";
+    var y = pendingY === null ? window.scrollY : pendingY; pendingY = null;
     document.querySelectorAll(".header-nav a").forEach(function (a) {
       var href = a.getAttribute("href");
-      a.classList.toggle("active", href === "#" + h || (href === "#/family" && h.indexOf("/family") === 0) || (href === "#/bounty" && h.indexOf("/bounty") === 0) || (href === "#/conferences" && h.indexOf("/conferences") === 0));
+      var on = href === "#" + h || (href === "#/family" && h.indexOf("/family") === 0) || (href === "#/bounty" && h.indexOf("/bounty") === 0) || (href === "#/conferences" && h.indexOf("/conferences") === 0);
+      a.classList.toggle("active", on);
+      if (on) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
     });
-    document.getElementById("site-nav").classList.remove("open");
+    closePopups();
     loadIndex().then(function () {
       applyChrome();
       var cm = h.match(/^\/conferences(?:\/(.+))?$/);
@@ -757,6 +815,8 @@
       if (h === "/training") return renderTraining();
       if (h === "/saved") return renderSaved();
       renderHome();
+    }).then(function () {
+      requestAnimationFrame(function () { afterRender(); window.scrollTo(0, y); });
     }).catch(function () {
       app.innerHTML = '<div class="status-line">' + t("loadError") + ' <button class="lang-toggle" id="retry">' + t("retry") + "</button></div>";
       document.getElementById("retry").addEventListener("click", function () { DATA = null; route(); });
@@ -809,7 +869,7 @@
     var a = document.getElementById("nav-support"), note = document.getElementById("support-note");
     if (!SUPPORT || !/^https:\/\//i.test(SUPPORT.url || "")) { a.hidden = true; note.hidden = true; return; }
     var en = prefs.lang === "en", label = en ? SUPPORT.label_en : SUPPORT.label_zh;
-    a.href = SUPPORT.url; a.textContent = "☕ " + (label || ""); a.hidden = false;
+    a.href = SUPPORT.url; a.innerHTML = '☕ <span class="sup-label">' + esc(label || "") + "</span>"; a.title = label || ""; a.setAttribute("aria-label", label || "☕"); a.hidden = false;
     var n = en ? SUPPORT.note_en : SUPPORT.note_zh;
     note.innerHTML = n ? esc(n) + ' <a href="' + esc(SUPPORT.url) + '" target="_blank" rel="noopener noreferrer">☕ ' + esc(label || "") + "</a>" : "";
     note.hidden = !n;
@@ -822,6 +882,5 @@
   document.getElementById("nav-toggle").addEventListener("click", function () {
     var nav = document.getElementById("site-nav"); nav.classList.toggle("open"); this.setAttribute("aria-expanded", nav.classList.contains("open"));
   });
-  window.addEventListener("hashchange", route);
   route();
 })();
