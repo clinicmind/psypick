@@ -1,0 +1,462 @@
+{
+  "format": "psypick-muse-v1",
+  "items": [
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "官網課程頁（2026-10-05 直接開啟核實）",
+      "evidence_quote": "Registration Fee: FREE. *AMA PRA Category 1 Credits™* (2.00 hours), Non-Physician Participation Credit (2.00 hours). Expiration Date: January 7, 2027. Estimated Time to Complete: 2 Hours.",
+      "key_points_zh": [
+        "免費線上隨選課程，約 2 小時，2027-01-07 到期，現在報名仍有效",
+        "2.00 AMA PRA Category 1 學分；非醫師可拿 2.00 小時參與學分",
+        "內容：精神病早期徵兆識別、高產出篩查問句、與青少年及其家庭談論精神病的案例示範",
+        "附完整參考文獻（含 2023 年科技輔助青少年早期精神病協作照護研究）"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "",
+      "population": [
+        "臨床工作者"
+      ],
+      "source": {
+        "author_name": "Stanford University School of Medicine, Department of Psychiatry and Behavioral Sciences",
+        "description": "史丹佛醫學院精神科推出的免費 CME：以敘事與案例教學，訓練臨床工作者識別青少年及年輕成人精神病早期徵兆、運用篩查問句，並與年輕人及其家庭談論精神病。",
+        "platform": "web",
+        "title": "Identifying Early Signs of Psychosis in Adolescents and Young Adults - Stanford Center for Continuing Medical Education",
+        "url": "https://stanford.cloud-cme.com/course/courseoverview?P=0&EID=49032"
+      },
+      "summary_en": "Stanford's free on-demand CME (2 hrs, 2.00 AMA PRA Category 1 credits, expires 2027-01-07) trains clinicians to recognize early signs of psychosis in adolescents and young adults, use high-yield screening questions, and talk with young people and families about psychosis, using narrative storytelling and case scenarios.",
+      "summary_zh": "史丹佛醫學院精神科的免費線上 CME（約 2 小時，2.00 AMA PRA Category 1 學分，2027-01-07 到期）：以敘事與案例示範，訓練臨床工作者識別青少年及年輕成人精神病早期徵兆、運用高產出篩查問句，並學習如何與年輕人及其家庭談論精神病。適合家醫、兒科、精神科、護理及學校社工。",
+      "tags": [
+        "精神病早期識別",
+        "青少年心理健康",
+        "CME學分",
+        "免費課程",
+        "篩查問句"
+      ],
+      "title_en": "Identifying Early Signs of Psychosis in Adolescents and Young Adults",
+      "title_zh": "識別青少年及年輕成人精神病早期徵兆",
+      "training": {
+        "audience_level": "家庭醫生、基層醫療、兒科、精神科醫生、執業護理師、醫師助理、學校社工",
+        "ce_credits": "2.00 AMA PRA Category 1 Credits；非醫師參與學分 2.00 小時",
+        "deadline": "2027-01-07（課程到期日）",
+        "event_date": "隨選（2024-01-08 至 2027-01-07）",
+        "format": "線上隨選（約 2 小時）",
+        "language": "英文",
+        "price": "免費",
+        "price_tier": "免費",
+        "provider": "Stanford Center for Continuing Medical Education",
+        "signup_url": "https://stanford.cloud-cme.com/course/courseoverview?P=0&EID=49032",
+        "topic": "青少年及年輕成人精神病早期徵兆的識別與篩查"
+      },
+      "type": "case",
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "官網課程頁（proxy.edx.org 鏡像，內容與 edx.org 官方頁一致）",
+      "evidence_quote": "7 weeks / 1–2 hours per week / Self-paced / Progress at your own speed / Free / Optional upgrade available",
+      "key_points_zh": [
+        "7 週自定進度，每週 1–2 小時",
+        "免費旁聽上完整課程；證書軌 $249 USD（頁面原文 Optional upgrade available）",
+        "涵蓋心理疾病成因、治療取向與常見疾患（焦慮、憂鬱、思覺失調症）"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-10-05",
+      "population": [
+        "臨床工作者"
+      ],
+      "source": {
+        "author_name": "The University of Queensland",
+        "description": "UQx 在 edX 開設的臨床心理學導論課程，免費旁聽",
+        "platform": "web",
+        "title": "Introduction to Clinical Psychology | edX",
+        "url": "https://www.edx.org/learn/psychology/the-university-of-queensland-introduction-to-clinical-psychology"
+      },
+      "summary_en": "A 7-week self-paced course from the University of Queensland covering causes of psychological disorders, effective therapies, and management of common issues like anxiety, depression and schizophrenia.",
+      "summary_zh": "昆士蘭大學開設的 7 週自定進度課程，介紹心理疾病的成因、各種有效治療取向，以及焦慮、憂鬱、思覺失調症等常見疾患的處理。免費旁聽即可上完整課程，適合想系統認識臨床心理學的臨床工作者與實習生。",
+      "tags": [
+        "臨床心理學",
+        "心理治療取向",
+        "免費旁聽",
+        "edX"
+      ],
+      "title_en": "Introduction to Clinical Psychology",
+      "title_zh": "臨床心理學導論",
+      "training": {
+        "audience_level": "初學者至臨床工作者進修皆宜",
+        "ce_credits": "無（頁面未提及）",
+        "deadline": "免費軌 Expires on Dec 26（據頁面）",
+        "event_date": "隨選",
+        "format": "線上自定進度",
+        "language": "英文",
+        "price": "Free（免費旁聽）；證書軌 $249 USD（頁面原文 Optional upgrade available）",
+        "price_tier": "免費",
+        "provider": "edX / The University of Queensland",
+        "signup_url": "https://www.edx.org/learn/psychology/the-university-of-queensland-introduction-to-clinical-psychology",
+        "topic": "臨床心理學導論"
+      },
+      "type": "case",
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "官網課程頁",
+      "evidence_quote": "Some courses may also offer a Full Course, No Certificate option. This lets you access course materials, submit required assessments, and receive a final grade, but you won't be able to earn or purchase a Certificate. / 5 modules / 2 weeks, 10 hours a week / 315,474 already enrolled / 3,899 reviews",
+      "key_points_zh": [
+        "5 個模組，約 2 週（每週 10 小時）",
+        "免費旁聽（Full Course, No Certificate）：可看教材、交作業、有成績，無證書",
+        "導師 Sonia Kumar；315,474 人註冊，3,899 則評價"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-10-05",
+      "population": [
+        "臨床工作者"
+      ],
+      "source": {
+        "author_name": "The University of Sydney",
+        "description": "雪梨大學在 Coursera 的正向精神醫學課程，可免費旁聽",
+        "platform": "web",
+        "title": "Positive Psychiatry and Mental Health | Coursera",
+        "url": "https://www.coursera.org/learn/positive-psychiatry"
+      },
+      "summary_en": "A University of Sydney Coursera course on positive psychiatry — promoting wellbeing and resilience alongside treating mental illness — with 5 modules and over 315,000 enrolled learners.",
+      "summary_zh": "雪梨大學在 Coursera 開設的正向精神醫學課程，談如何在治療精神疾病之外促進幸福感與心理韌性，共 5 個模組、約 2 週。免費旁聽可交作業、拿成績（無證書），適合臨床工作者拓展復元取向視角。",
+      "tags": [
+        "正向精神醫學",
+        "心理健康",
+        "復元取向",
+        "免費旁聽",
+        "Coursera"
+      ],
+      "title_en": "Positive Psychiatry and Mental Health",
+      "title_zh": "正向精神醫學與心理健康",
+      "training": {
+        "audience_level": "初學者／一般大眾及臨床工作者",
+        "ce_credits": "無（頁面未提及）",
+        "deadline": "",
+        "event_date": "隨選",
+        "format": "線上隨選",
+        "language": "英文",
+        "price": "免費旁聽（頁面原文 Full Course, No Certificate）；證書費用頁面未列",
+        "price_tier": "免費",
+        "provider": "Coursera / The University of Sydney",
+        "signup_url": "https://www.coursera.org/learn/positive-psychiatry",
+        "topic": "正向精神醫學與心理健康"
+      },
+      "type": "case",
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "官網課程頁",
+      "evidence_quote": "Some courses may also offer a Full Course, No Certificate option. This lets you access course materials, submit required assessments, and receive a final grade, but you won't be able to earn or purchase a Certificate. / 5 modules / 6 hours to complete / 623,606 already enrolled / 20,161 reviews / Instructor: George Everly, Jr., PhD",
+      "key_points_zh": [
+        "5 個模組，約 6 小時學完",
+        "免費旁聽（Full Course, No Certificate）",
+        "RAPID 心理急救模型；導師 George Everly, Jr., PhD；623,606 人註冊"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-10-05",
+      "population": [
+        "臨床工作者"
+      ],
+      "source": {
+        "author_name": "Johns Hopkins University",
+        "description": "約翰霍普金斯大學在 Coursera 的心理急救課程，可免費旁聽",
+        "platform": "web",
+        "title": "Psychological First Aid | Coursera",
+        "url": "https://www.coursera.org/learn/psychological-first-aid"
+      },
+      "summary_en": "Johns Hopkins' widely-taken Coursera course teaching the RAPID model of psychological first aid for disaster and crisis settings — 5 modules, about 6 hours total.",
+      "summary_zh": "約翰霍普金斯大學在 Coursera 的心理急救課程，教授 RAPID 模型在災難與危機現場的應用，共 5 個模組約 6 小時，超過 62 萬人註冊。免費旁聽可完整學習，是臨床工作者與第一線助人者的實用危機介入入門課。",
+      "tags": [
+        "心理急救",
+        "危機介入",
+        "RAPID 模型",
+        "免費旁聽",
+        "Coursera"
+      ],
+      "title_en": "Psychological First Aid",
+      "title_zh": "心理急救",
+      "training": {
+        "audience_level": "初學者／第一線工作者及臨床工作者",
+        "ce_credits": "無（頁面未提及）",
+        "deadline": "",
+        "event_date": "隨選",
+        "format": "線上隨選",
+        "language": "英文",
+        "price": "免費旁聽（頁面原文 Full Course, No Certificate）；證書費用頁面未列",
+        "price_tier": "免費",
+        "provider": "Coursera / Johns Hopkins University",
+        "signup_url": "https://www.coursera.org/learn/psychological-first-aid",
+        "topic": "心理急救（危機介入）"
+      },
+      "type": "case",
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "官網課程頁",
+      "evidence_quote": "Some courses may also offer a Full Course, No Certificate option. This lets you access course materials, submit required assessments, and receive a final grade, but you won't be able to earn or purchase a Certificate. / 4 modules / Intermediate / 1 week, 10 hours a week / 5,447 already enrolled / Instructor: Adrienne Lapidos",
+      "key_points_zh": [
+        "4 個模組，中階程度，約 1 週（每週 10 小時）",
+        "免費旁聽（Full Course, No Certificate）",
+        "可經 MiCME（EID=93315）另行申請最高 8.5 AMA PRA Category 1 學分"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-10-05",
+      "population": [
+        "臨床工作者"
+      ],
+      "source": {
+        "author_name": "University of Michigan",
+        "description": "密西根大學在 Coursera 的思覺失調症課程，可免費旁聽",
+        "platform": "web",
+        "title": "Understanding Psychosis | Coursera",
+        "url": "https://www.coursera.org/learn/understanding-psychosis"
+      },
+      "summary_en": "A University of Michigan Coursera course on psychosis — symptoms, causes and treatments — with optional CME credits via MiCME for eligible clinicians.",
+      "summary_zh": "密西根大學在 Coursera 的思覺失調症課程，講解症狀、成因與治療，共 4 個模組、中階程度。免費旁聽可完整學習；另可經 MiCME 申請最高 8.5 個 AMA PRA Category 1 學分，適合精神科相關臨床工作者。",
+      "tags": [
+        "思覺失調症",
+        "精神病學",
+        "CME 學分",
+        "免費旁聽",
+        "Coursera"
+      ],
+      "title_en": "Understanding Psychosis",
+      "title_zh": "認識思覺失調症",
+      "training": {
+        "audience_level": "Intermediate（中階），適合臨床工作者",
+        "ce_credits": "有 — 最高 8.5 AMA PRA Category 1 Credits，需經 MiCME 另行申請（EID=93315），非 Coursera 直接提供",
+        "deadline": "",
+        "event_date": "隨選",
+        "format": "線上隨選",
+        "language": "英文",
+        "price": "免費旁聽（頁面原文 Full Course, No Certificate）；證書費用頁面未列",
+        "price_tier": "免費",
+        "provider": "Coursera / University of Michigan",
+        "signup_url": "https://www.coursera.org/learn/understanding-psychosis",
+        "topic": "思覺失調症（精神病學入門）"
+      },
+      "type": "case",
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "官網課程頁（Class Central 課程頁標註免費資訊）",
+      "evidence_quote": "Cost: Free to audit / Certificate: Paid / Price: 0 USD / Duration: 5 weeks / Rating 4.8/5 (1,115 ratings on FutureLearn) / ~168,000 enrolled / Instructors: Shirley Reynolds (clinical psychologist), Michelle Lee",
+      "key_points_zh": [
+        "5 週課程，免費旁聽（Free to audit，Price: 0 USD）；證書需付費",
+        "由臨床心理學家 Shirley Reynolds 主講，講解焦慮、憂鬱與 CBT",
+        "4.8/5 評分，約 168,000 人註冊"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-10-05",
+      "population": [
+        "臨床工作者",
+        "家長",
+        "教師"
+      ],
+      "source": {
+        "author_name": "University of Reading",
+        "description": "瑞汀大學在 FutureLearn 的焦慮、憂鬱與 CBT 課程，免費旁聽",
+        "platform": "web",
+        "title": "Understanding Anxiety, Depression and CBT | FutureLearn",
+        "url": "https://www.futurelearn.com/courses/anxiety-depression-and-cbt/1?utm_campaign=Share+Links&utm_medium=futurelearn-run_details&utm_source=facebook"
+      },
+      "summary_en": "A 5-week University of Reading FutureLearn course led by clinical psychologist Shirley Reynolds, explaining anxiety and depression and how CBT — an evidence-based treatment — works.",
+      "summary_zh": "英國瑞汀大學在 FutureLearn 的 5 週課程，由臨床心理學家 Shirley Reynolds 主講，講解焦慮與憂鬱的成因，以及實證治療 CBT 的原理與應用。免費旁聽，約 16.8 萬人註冊，適合臨床工作者複習 CBT 基礎，也適合家長教師增進心理健康素養。",
+      "tags": [
+        "焦慮",
+        "憂鬱",
+        "認知行為治療",
+        "免費旁聽",
+        "FutureLearn"
+      ],
+      "title_en": "Understanding Anxiety, Depression and CBT",
+      "title_zh": "認識焦慮、憂鬱與認知行為治療",
+      "training": {
+        "audience_level": "初學者；臨床工作者、家長、教師皆宜",
+        "ce_credits": "無（頁面未提及）",
+        "deadline": "",
+        "event_date": "隨選",
+        "format": "線上隨選（5 週）",
+        "language": "英文",
+        "price": "免費旁聽（Class Central 原文 Cost: Free to audit, Price: 0 USD）；證書需付費（Certificate: Paid）",
+        "price_tier": "免費",
+        "provider": "FutureLearn / University of Reading",
+        "signup_url": "https://www.futurelearn.com/courses/anxiety-depression-and-cbt/1?utm_campaign=Share+Links&utm_medium=futurelearn-run_details&utm_source=facebook"
+      },
+      "type": "case",
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "官網課程頁（proxy.edx.org 鏡像，內容與 edx.org 官方頁一致）",
+      "evidence_quote": "6 weeks / 2–3 hours per week / Self-paced / Progress at your own speed / Free / Optional upgrade available / There is one session available: Starts Nov 7",
+      "key_points_zh": [
+        "6 週自定進度，每週 2–3 小時；免費（Free），證書可選升級",
+        "涵蓋心理健康惡化因子辨識、危機溝通、自傷與自殺預防策略",
+        "對象：家長、教師、社工、諮商師、GP、心理健康專業人員等守門人"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-10-05",
+      "population": [
+        "臨床工作者",
+        "家長",
+        "教師"
+      ],
+      "source": {
+        "author_name": "Curtin University",
+        "description": "科廷大學在 edX 的青少年心理健康與自殺預防課程，免費旁聽",
+        "platform": "web",
+        "title": "'Talk to me': Improving mental health and suicide prevention in young adults | edX",
+        "url": "https://www.edX.org/learn/mental-health/curtin-university-talk-to-me-improving-mental-health-and-suicide-prevention-in-young-adults"
+      },
+      "summary_en": "A 6-week Curtin University edX course (German-Australian collaboration) on recognising and responding to mental health challenges and suicide risk in young adults, aimed at parents, teachers and health professionals as gatekeepers.",
+      "summary_zh": "澳洲科廷大學在 edX 的 6 週課程（德澳合作、經科學評估），教導如何辨識與回應青少年的心理健康危機、自傷與自殺風險，後四個模組專為家長、教師、基層醫療與心理健康專業等「守門人」設計。免費旁聽，適合臨床工作者、家長與教師。",
+      "tags": [
+        "青少年心理健康",
+        "自殺預防",
+        "守門人訓練",
+        "免費旁聽",
+        "edX"
+      ],
+      "title_en": "'Talk to me': Improving mental health and suicide prevention in young adults",
+      "title_zh": "「跟我談談」：青少年心理健康促進與自殺預防",
+      "training": {
+        "audience_level": "家長、教師、基層醫療及心理健康專業人員（守門人）",
+        "ce_credits": "無（頁面未提及）",
+        "deadline": "",
+        "event_date": "隨選（頁面顯示 There is one session available: Starts Nov 7）",
+        "format": "線上自定進度（6 週）",
+        "language": "英文（另有德文版）",
+        "price": "Free（免費）；頁面原文 Optional upgrade available",
+        "price_tier": "免費",
+        "provider": "edX / Curtin University",
+        "signup_url": "https://www.edX.org/learn/mental-health/curtin-university-talk-to-me-improving-mental-health-and-suicide-prevention-in-young-adults"
+      },
+      "type": "case",
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "官網課程頁（Class Central 課程頁標註免費資訊）",
+      "evidence_quote": "The course has been specifically created for parents of young people with depression and low mood, teachers and primary (or other) healthcare professionals who play a role in detecting mental health difficulties and offering appropriate support and guidance to young people. / Available now / Cost: Free to audit / Certificate: Paid / 4.78/5 (415 ratings) / 61,000+ enrolled",
+      "key_points_zh": [
+        "5 週課程，免費旁聽（Free to audit）；證書需付費",
+        "內容：辨識青少年憂鬱徵兆、行為活化、挑戰負向思考、家庭溝通",
+        "對象：家長、教師、基層醫療人員；獲 CPD Certification Service 認證"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-10-05",
+      "population": [
+        "家長",
+        "教師",
+        "臨床工作者"
+      ],
+      "source": {
+        "author_name": "University of Reading",
+        "description": "瑞汀大學在 FutureLearn 的青少年憂鬱辨識與協助課程，免費旁聽",
+        "platform": "web",
+        "title": "Depression and low mood in young people | FutureLearn",
+        "url": "http://futurelearn.com/courses/depression-young-people"
+      },
+      "summary_en": "A 5-week University of Reading FutureLearn course teaching parents, teachers and primary care professionals to recognise adolescent depression and low mood, and to use CBT-based strategies and better family communication to help.",
+      "summary_zh": "瑞汀大學在 FutureLearn 的 5 週課程，專為憂鬱青少年的家長、教師與基層醫療人員設計，教導辨識青少年憂鬱徵兆、區分低落情緒與憂鬱症，並運用 CBT 策略（行為活化、挑戰負向思考）與改善家庭溝通。免費旁聽，逾 6.1 萬人註冊，獲 CPD 認證可作持續專業發展證明。",
+      "tags": [
+        "青少年憂鬱",
+        "親職",
+        "教師",
+        "認知行為治療",
+        "免費旁聽",
+        "FutureLearn"
+      ],
+      "title_en": "Depression and low mood in young people",
+      "title_zh": "青少年憂鬱與低落情緒：辨識與協助",
+      "training": {
+        "audience_level": "家長、教師、基層醫療專業人員",
+        "ce_credits": "可作 CPD 持續專業發展證明（The CPD Certification Service 認證）；非學分制",
+        "deadline": "",
+        "event_date": "隨選（頁面顯示 Available now）",
+        "format": "線上隨選（5 週）",
+        "language": "英文",
+        "price": "免費旁聽（Class Central 原文 Cost: Free to audit）；證書需付費（Certificate: Paid）",
+        "price_tier": "免費",
+        "provider": "FutureLearn / University of Reading",
+        "signup_url": "http://futurelearn.com/courses/depression-young-people"
+      },
+      "type": "case",
+      "verify_needed": false,
+      "verify_reason": ""
+    }
+  ],
+  "notes": "2026-10-05 臨時增補（非例行巡查）：Gu 轉發 Stanford CME 證書截圖，要求找報名連結並收錄；另按 Gu 要求加掃 Coursera／edX／FutureLearn 免費心理健康（尤其臨床心理）MOOC。Stanford 頁已直接開啟核實（免費、2.00 學分、2027-01-07 到期）。MOOC 共收錄 7 門（edX 2、Coursera 3、FutureLearn 2），每門均開啟課程頁核實免費狀態；edx.org 主站兩頁打不開，改用 proxy.edx.org 鏡像核實（內容一致）。略過 8 門（見 skipped）。請 Claude 查證去重後再上傳。",
+  "run_date": "2026-10-05",
+  "skipped": [
+    {
+      "reason": "Mind Control（多倫多大學／Coursera）：疫情時效性過強，不收",
+      "url": ""
+    },
+    {
+      "reason": "Yale Introduction to Psychology（Coursera）：太通識，非臨床優先，不收",
+      "url": ""
+    },
+    {
+      "reason": "Psychology and Mental Health: Beyond Nature and Nurture（利物浦大學／FutureLearn）：目前停開無法報名，不收",
+      "url": ""
+    },
+    {
+      "reason": "Forensic Psychology: Witness Investigation：主題太冷僻，不收",
+      "url": ""
+    },
+    {
+      "reason": "The Many Faces of Dementia（UCL／FutureLearn）：失智主題偏離臨床心理核心且免費狀態不明，不收",
+      "url": ""
+    },
+    {
+      "reason": "Depressive and Bipolar Disorders（APA／Coursera）：Class Central 明確標註為付費課程，不收",
+      "url": ""
+    },
+    {
+      "reason": "Able-Minded（昆士蘭大學／edX）：無該課程免費狀態的直接證據，不收",
+      "url": ""
+    },
+    {
+      "reason": "Major Depression in the Population（JHU／Coursera）：搜尋結果中無官方課程頁 verbatim URL，不可猜連結，不收",
+      "url": ""
+    }
+  ],
+  "unreachable_sources": [
+    {
+      "name": "edX 官方課程頁：Introduction to Clinical Psychology",
+      "problem": "edx.org 主站 browser.open 無法讀取；改用 proxy.edx.org 同課程頁核實，內容一致，已收錄",
+      "url": "https://www.edx.org/learn/psychology/the-university-of-queensland-introduction-to-clinical-psychology"
+    },
+    {
+      "name": "edX 官方課程頁：'Talk to me' 青少年心理健康與自殺預防",
+      "problem": "edx.org 主站 browser.open 無法讀取；改用 proxy.edx.org 同課程頁核實，內容一致，已收錄",
+      "url": "https://www.edX.org/learn/mental-health/curtin-university-talk-to-me-improving-mental-health-and-suicide-prevention-in-young-adults"
+    },
+    {
+      "name": "edX 官方課程頁：Able-Minded",
+      "problem": "edx.org 主站無法讀取且無可用鏡像；該課程亦無免費狀態直接證據，未收錄",
+      "url": "https://www.edx.org/course/able-minded-mental-health-and-people-with-intellectual-disability-3"
+    }
+  ]
+}
