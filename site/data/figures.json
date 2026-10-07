@@ -1,0 +1,1206 @@
+{
+ "people": [
+  {
+   "slug": "sam-altman",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Sam Altman",
+   "name_zh": "薩姆·奧特曼",
+   "role_zh": "OpenAI CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/sama",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "常談 AI 安全與權力集中，發布 OpenAI 產品動態",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "demis-hassabis",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Demis Hassabis",
+   "name_zh": "戴密斯·哈薩比斯",
+   "role_zh": "Google DeepMind 聯合創始人兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/demishassabis",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "討論 AI 研究進展、科學發現，偶爾回應 AI 政策",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "dario-amodei",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Dario Amodei",
+   "name_zh": "達里奧·阿莫迪",
+   "role_zh": "Anthropic 聯合創始人兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/DarioAmodei",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "聚焦 AI 安全，主張放慢前沿模型競賽，常發表長篇論述",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "mark-zuckerberg",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Mark Zuckerberg",
+   "name_zh": "馬克·扎克伯格",
+   "role_zh": "Meta 董事長兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/finkd",
+     "note": "Threads／IG @zuck",
+     "verified": false
+    }
+   ],
+   "focus_zh": "宣傳 Meta AI 模型、招攬 AI 人才",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "elon-musk",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Elon Musk",
+   "name_zh": "埃隆·馬斯克",
+   "role_zh": "xAI 創始人兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/elonmusk",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "評論 AI 安全議題、推廣 Grok",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "arthur-mensch",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Arthur Mensch",
+   "name_zh": "阿瑟·門施",
+   "role_zh": "Mistral AI 聯合創始人兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/arthurmensch",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布 Mistral 開放權重模型動態、歐洲主權 AI 與開源生態議題",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "aravind-srinivas",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Aravind Srinivas",
+   "name_zh": "阿拉文德·斯里尼瓦斯",
+   "role_zh": "Perplexity 聯合創始人兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/AravSrinivas",
+     "note": "3 個月活躍度待查證",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布 Perplexity 產品更新、AI 搜尋進展",
+   "list_note": "名單註明近 3 個月活躍度待查證",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "ilya-sutskever",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Ilya Sutskever",
+   "name_zh": "伊利亞·蘇茨克弗",
+   "role_zh": "Safe Superintelligence（SSI）聯合創始人兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/ilyasut",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "極少發文，僅在重大事項時發聲",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "mira-murati",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Mira Murati",
+   "name_zh": "米拉·穆拉蒂",
+   "role_zh": "Thinking Machines Lab 創始人兼 CEO（前 OpenAI CTO）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/miramurati",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布公司進展、模型發布與 AI 安全合作動態",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "alexandr-wang",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Alexandr Wang",
+   "name_zh": "亞歷山大·王",
+   "role_zh": "Meta 首席 AI 官、Meta Superintelligence Labs 負責人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/alexandr_wang",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布 MSL 模型進展、評論競爭對手動態",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "jensen-huang",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Jensen Huang",
+   "name_zh": "黃仁勳",
+   "role_zh": "NVIDIA 聯合創始人兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/JensenHuang",
+     "note": "年 7 月新開",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享 AI 算力基礎設施、開源 AI 政策立場",
+   "list_note": "X 帳號 2026 年 7 月新開",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "satya-nadella",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Satya Nadella",
+   "name_zh": "薩蒂亞·納德拉",
+   "role_zh": "Microsoft 董事長兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/satyanadella",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布微軟 AI 產品動態（Copilot、Azure AI）、AI 戰略思考",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "mustafa-suleyman",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Mustafa Suleyman",
+   "name_zh": "穆斯塔法·蘇萊曼",
+   "role_zh": "Microsoft AI CEO（DeepMind 聯創）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/mustafasuleyman",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "談 Copilot／MAI 模型、AI 安全與治理、智能體時代展望",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "clement-delangue",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Clement Delangue",
+   "name_zh": "克萊門特·德朗格",
+   "role_zh": "Hugging Face 聯創兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/ClementDelangue",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "力挺開源 AI、回應 AI 安全爭議、分享 HF 生態動態",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "yann-lecun",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Yann LeCun",
+   "name_zh": "楊立昆",
+   "role_zh": "AMI Labs（巴黎）聯合創始人兼執行董事長（2025 年底離開 Meta）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/ylecun",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "批判 LLM 通往 AGI 的路線、嘲諷 AI 末日論、宣傳世界模型（JEPA）",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "geoffrey-hinton",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Geoffrey Hinton",
+   "name_zh": "傑弗里·辛頓",
+   "role_zh": "多倫多大學名譽教授（2024 諾貝爾物理學獎得主）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/geoffreyhinton",
+     "note": "X 上有仿冒號 @geoffreyhlnton",
+     "verified": false
+    }
+   ],
+   "focus_zh": "聚焦 AI 存在性風險、呼籲 AI 監管",
+   "list_note": "X 上有仿冒號 @geoffreyhlnton，請認明 @geoffreyhinton",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "yoshua-bengio",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Yoshua Bengio",
+   "name_zh": "約書亞·本吉奧",
+   "role_zh": "蒙特利爾大學教授、Mila 科學總監、LawZero 創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/Yoshua_Bengio",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "推動 AI 安全治理、參與國際政策討論",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "fei-fei-li",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Fei-Fei Li",
+   "name_zh": "李飛飛",
+   "role_zh": "史丹佛大學教授、HAI 聯創主任、World Labs 聯創兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/drfeifei",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享空間智能、世界模型研究進展與以人為本 AI 理念",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "jeff-dean",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Jeff Dean",
+   "name_zh": "傑夫·迪恩",
+   "role_zh": "Discovery Loop 聯合創始人（2026 年 8 月結束 27 年 Google 生涯）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/JeffDean",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享 ML 系統研究、AI for Science",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "andrew-ng",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Andrew Ng",
+   "name_zh": "吳恩達",
+   "role_zh": "DeepLearning.AI、Landing AI、AI Fund 創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/AndrewYNg",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "推廣 AI 工程實踐、為開源 AI 辯護、談 AI 對就業的影響",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "andrej-karpathy",
+   "group": "ai",
+   "subgroup": "獨立研究者、教育者與評論員",
+   "name_en": "Andrej Karpathy",
+   "name_zh": "Andrej Karpathy",
+   "role_zh": "2026 年 5 月加入 Anthropic 預訓練團隊",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/karpathy",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "「vibe coding」一詞創造者，發長文點評 AI 行業動態",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "jeremy-howard",
+   "group": "ai",
+   "subgroup": "獨立研究者、教育者與評論員",
+   "name_en": "Jeremy Howard",
+   "name_zh": "Jeremy Howard",
+   "role_zh": "fast.ai 創始研究員、Answer.ai 創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/jeremyphoward",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "深度學習教育、開源模型技術評論",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "sebastian-raschka",
+   "group": "ai",
+   "subgroup": "獨立研究者、教育者與評論員",
+   "name_en": "Sebastian Raschka",
+   "name_zh": "Sebastian Raschka",
+   "role_zh": "獨立 AI 研究工程師、《Build a Large Language Model（From Scratch）》作者",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/rasbt",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享 LLM 從零實現的教學與架構解析",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "ethan-mollick",
+   "group": "ai",
+   "subgroup": "獨立研究者、教育者與評論員",
+   "name_en": "Ethan Mollick",
+   "name_zh": "Ethan Mollick",
+   "role_zh": "賓州大學沃頓商學院副教授",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/emollick｜Substack《One",
+     "note": "Useful Thing》",
+     "verified": false
+    }
+   ],
+   "focus_zh": "研究 AI 對工作、創業與教育的影響",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "nathan-lambert",
+   "group": "ai",
+   "subgroup": "獨立研究者、教育者與評論員",
+   "name_en": "Nathan Lambert",
+   "name_zh": "Nathan Lambert",
+   "role_zh": "獨立研究者（前 Ai2 後訓練主管；新職待核對）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/natolambert",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "開源模型與 RLHF 專家，深度分析模型發布",
+   "list_note": "2026 年 7 月確認離開 Ai2（有報導）；「Trillium Labs」一說未能在搜尋中證實，待 Muse 核對。",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "lex-fridman",
+   "group": "ai",
+   "subgroup": "獨立研究者、教育者與評論員",
+   "name_en": "Lex Fridman",
+   "name_zh": "Lex Fridman",
+   "role_zh": "Lex Fridman Podcast 主持人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/lexfridman",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "長訪談播客，訪問 AI 領袖、科學家與思想家",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "dwarkesh-patel",
+   "group": "ai",
+   "subgroup": "獨立研究者、教育者與評論員",
+   "name_en": "Dwarkesh Patel",
+   "name_zh": "Dwarkesh Patel",
+   "role_zh": "Dwarkesh Podcast 主持人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/dwarkesh_SP",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "深度訪談型播客，以長篇技術訪談記錄 AI 革命口述史",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "simon-willison",
+   "group": "ai",
+   "subgroup": "獨立研究者、教育者與評論員",
+   "name_en": "Simon Willison",
+   "name_zh": "Simon Willison",
+   "role_zh": "獨立開發者、Datasette 創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/simonw",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "開發者視角的 LLM 實戰記錄、prompt injection 安全議題",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "dylan-patel",
+   "group": "ai",
+   "subgroup": "獨立研究者、教育者與評論員",
+   "name_en": "Dylan Patel",
+   "name_zh": "Dylan Patel",
+   "role_zh": "SemiAnalysis 創始人兼首席分析師",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/dylan522p",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "半導體與 AI 基礎設施分析：GPU／晶片供應鏈、資料中心",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "rowan-cheung",
+   "group": "ai",
+   "subgroup": "獨立研究者、教育者與評論員",
+   "name_en": "Rowan Cheung",
+   "name_zh": "Rowan Cheung",
+   "role_zh": "The Rundown AI 創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/rowancheung",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "AI 新聞快訊創作者，每日整理 AI 產品發布與行業動態",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "serine-warwar",
+   "group": "psy",
+   "subgroup": "EFT 與伴侶治療",
+   "name_en": "Serine Warwar",
+   "name_zh": "塞琳·沃瓦爾",
+   "role_zh": "EFT-Greenberg｜Greenberg Institute of Emotion Focused Therapy 聯合創始人（機構帳號；Les Greenberg 本人無個人社交帳號）",
+   "accounts": [
+    {
+     "platform": "Facebook",
+     "url": "https://www.facebook.com/cpeh.ca",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://instagram.com/centreforpsychologytoronto",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布 EFT 培訓、工作坊資訊與臨床案例講解",
+   "list_note": "機構帳號",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "sue-johnson",
+   "group": "psy",
+   "subgroup": "EFT 與伴侶治療",
+   "name_en": "Sue Johnson",
+   "name_zh": "蘇·約翰遜",
+   "role_zh": "EFT-Sue Johnson｜EFCT 創始人（2024 年逝世；官方紀念帳號）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/Dr_SueJohnson",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/drsuejohnson/",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布依戀科學、伴侶修復課程資訊與 EFT 培訓動態",
+   "list_note": "已於 2024 年逝世；此為官方紀念帳號，不會有本人新發言",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "esther-perel",
+   "group": "psy",
+   "subgroup": "EFT 與伴侶治療",
+   "name_en": "Esther Perel",
+   "name_zh": "埃絲特·佩雷爾",
+   "role_zh": "伴侶治療｜《Mating in Captivity》作者",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/EstherPerel",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/estherperelofficial",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "探討現代親密關係中的慾望、背叛與修復",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "bessel-van-der-kolk",
+   "group": "psy",
+   "subgroup": "身體／軀體與創傷治療",
+   "name_en": "Bessel van der Kolk",
+   "name_zh": "貝塞爾·范德考克",
+   "role_zh": "創傷／身體導向｜《身體從未忘記》作者",
+   "accounts": [
+    {
+     "platform": "Facebook",
+     "url": "https://www.facebook.com/thebodykeepsthescore",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/thebodykeepsthescore/",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享創傷治療研究、神經回饋與瑜伽等身心療法資訊",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "pat-ogden",
+   "group": "psy",
+   "subgroup": "身體／軀體與創傷治療",
+   "name_en": "Pat Ogden",
+   "name_zh": "帕特·奧格登",
+   "role_zh": "感覺運動心理治療 Sensorimotor Psychotherapy 創始人（機構帳號）",
+   "accounts": [
+    {
+     "platform": "Facebook",
+     "url": "https://www.facebook.com/SensorimotorPsychotherapyInstitute/",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布身體導向創傷治療培訓課程與身體感知練習教學",
+   "list_note": "機構帳號",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "peter-levine",
+   "group": "psy",
+   "subgroup": "身體／軀體與創傷治療",
+   "name_en": "Peter Levine",
+   "name_zh": "彼得·列文",
+   "role_zh": "Somatic Experiencing（身體體驗療法）創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/peteralevine",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/drpeteralevine/",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享創傷的身體化療癒、SE 培訓與新書動態",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "stephen-porges",
+   "group": "psy",
+   "subgroup": "身體／軀體與創傷治療",
+   "name_en": "Stephen Porges",
+   "name_zh": "斯蒂芬·波吉斯",
+   "role_zh": "多重迷走神經理論 Polyvagal Theory",
+   "accounts": [
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/polyvagalinstitute",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布迷走神經科學、安全感建立與神經系統調節的臨床應用",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "richard-schwartz",
+   "group": "psy",
+   "subgroup": "身體／軀體與創傷治療",
+   "name_en": "Richard Schwartz",
+   "name_zh": "理查德·施瓦茨",
+   "role_zh": "IFS（內在家庭系統）創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/dickschwartzcsl",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/internalfamilysystems/",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享「部分工作」（parts work）、自我領導力練習與 IFS 培訓資訊",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "janina-fisher",
+   "group": "psy",
+   "subgroup": "身體／軀體與創傷治療",
+   "name_en": "Janina Fisher",
+   "name_zh": "賈尼娜·費舍爾",
+   "role_zh": "創傷／結構性解離（TIST 創始人）",
+   "accounts": [
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/drjaninafisher",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布複雜創傷、解離的穩定化技術與 TIST 培訓動態",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "gabor-mat",
+   "group": "psy",
+   "subgroup": "身體／軀體與創傷治療",
+   "name_en": "Gabor Maté",
+   "name_zh": "加博爾·馬泰",
+   "role_zh": "創傷／成癮",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/drgabormate",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/gabormatemd/",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "探討童年創傷、成癮與身心疾病的關聯",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "judith-beck",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Judith Beck",
+   "name_zh": "朱迪思·貝克",
+   "role_zh": "CBT｜Beck Institute 主席（機構帳號）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/beckinstitute",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享 CBT 研究、培訓與臨床技巧",
+   "list_note": "機構帳號",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "steven-hayes",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Steven Hayes",
+   "name_zh": "史蒂文·海耶斯",
+   "role_zh": "ACT 創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/StevenCHayes",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享 ACT、心理靈活性與過程取向治療的觀點",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "jill-stoddard",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Jill Stoddard",
+   "name_zh": "吉爾·斯托達德",
+   "role_zh": "ACT｜《The Big Book of ACT Metaphors》作者",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/jill_stoddard",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享 ACT 隱喻練習、焦慮應對技巧",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "russ-harris",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Russ Harris",
+   "name_zh": "Russ Harris",
+   "role_zh": "ACT｜《The Happiness Trap》作者",
+   "accounts": [
+    {
+     "platform": "YouTube",
+     "url": "https://www.youtube.com/@dr.russharris-acceptanceco972",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/happiness_trap_program",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布 ACT 解鉤技巧與正念練習短片，風格幽默實用",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "marsha-linehan",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Marsha Linehan",
+   "name_zh": "瑪莎·萊恩漢",
+   "role_zh": "DBT 創始人（機構帳號 Behavioral Tech）",
+   "accounts": [
+    {
+     "platform": "Facebook",
+     "url": "https://www.facebook.com/BehavioralTech",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布 DBT 培訓、認證課程與研究動態",
+   "list_note": "機構帳號",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "paul-gilbert",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Paul Gilbert",
+   "name_zh": "保羅·吉爾伯特",
+   "role_zh": "CFT（慈悲聚焦治療）創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/ProfPaulGilbert",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享慈悲聚焦治療理論、羞恥與自我批評研究",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "kristin-neff",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Kristin Neff",
+   "name_zh": "克里斯汀·內夫",
+   "role_zh": "自我關懷研究先驅",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/self_compassion",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/self_compassion",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享自我關懷練習、研究發現與冥想引導",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "willem-kuyken",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Willem Kuyken",
+   "name_zh": "Willem Kuyken",
+   "role_zh": "MBCT｜牛津大學正念中心主任",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/WillemKuyken",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享正念、憂鬱預防研究與 MBCT 課程動態",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "richard-davidson",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Richard Davidson",
+   "name_zh": "理查德·戴維森",
+   "role_zh": "冥想神經科學（機構帳號 Center for Healthy Minds）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/healthyminds",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布正念與大腦研究、免費冥想 App 動態",
+   "list_note": "機構帳號",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "daniel-siegel",
+   "group": "psy",
+   "subgroup": "兒童與青少年",
+   "name_en": "Daniel Siegel",
+   "name_zh": "丹尼爾·西格爾",
+   "role_zh": "人際神經生物學 IPNB",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/DrDanSiegel",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享全腦教養、整合大腦與正念練習",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "tina-payne-bryson",
+   "group": "psy",
+   "subgroup": "兒童與青少年",
+   "name_en": "Tina Payne Bryson",
+   "name_zh": "蒂娜·佩恩·布賴森",
+   "role_zh": "《全腦教養法》合著者",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/TinaBryson",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布腦科學育兒技巧、依戀與情緒調節內容",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "ross-greene",
+   "group": "psy",
+   "subgroup": "兒童與青少年",
+   "name_en": "Ross Greene",
+   "name_zh": "羅斯·格林",
+   "role_zh": "CPS《爆炸性孩子》作者（機構帳號）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/LivesInTheBalance",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布非懲罰式管教資源與免費家長課程",
+   "list_note": "機構帳號",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "mona-delahooke",
+   "group": "psy",
+   "subgroup": "兒童與青少年",
+   "name_en": "Mona Delahooke",
+   "name_zh": "莫娜·德拉胡克",
+   "role_zh": "兒童臨床心理師",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/monadelahooke",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "從腦身視角解讀兒童「問題行為」背後的神經狀態",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "stuart-shanker",
+   "group": "psy",
+   "subgroup": "兒童與青少年",
+   "name_en": "Stuart Shanker",
+   "name_zh": "斯圖爾特·尚克",
+   "role_zh": "Self-Reg 創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/stuartshanker",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "講解壓力與自我調節五步法，面向家長與教師",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "lisa-damour",
+   "group": "psy",
+   "subgroup": "兒童與青少年",
+   "name_en": "Lisa Damour",
+   "name_zh": "麗莎·達穆爾",
+   "role_zh": "青少年心理",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/LDamour",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "聚焦青春期情緒、焦慮與親子溝通",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "becky-kennedy",
+   "group": "psy",
+   "subgroup": "兒童與青少年",
+   "name_en": "Becky Kennedy",
+   "name_zh": "貝基·肯尼迪",
+   "role_zh": "《Good Inside》作者",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/GoodInside",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/drbeckyatgoodinside",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享修復式親子溝通技巧",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "andrew-huberman",
+   "group": "psy",
+   "subgroup": "具學術資歷的科普傳播者",
+   "name_en": "Andrew Huberman",
+   "name_zh": "安德魯·休伯曼",
+   "role_zh": "史丹佛神經科學教授",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/hubermanlab",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "以長篇播客拆解睡眠、壓力、學習的神經機制",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "laurie-santos",
+   "group": "psy",
+   "subgroup": "具學術資歷的科普傳播者",
+   "name_en": "Laurie Santos",
+   "name_zh": "蘿莉·桑托斯",
+   "role_zh": "Yale 幸福心理學教授",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/lauriesantos",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享幸福感研究的反直覺發現",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "adam-grant",
+   "group": "psy",
+   "subgroup": "具學術資歷的科普傳播者",
+   "name_en": "Adam Grant",
+   "name_zh": "亞當·格蘭特",
+   "role_zh": "Wharton 組織心理學教授",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/AdamMGrant",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布研究驅動的心理學科普",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "ethan-kross",
+   "group": "psy",
+   "subgroup": "具學術資歷的科普傳播者",
+   "name_en": "Ethan Kross",
+   "name_zh": "伊森·克羅斯",
+   "role_zh": "密西根大學情緒調節教授",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/ethan_kross",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "講解「內心獨白」如何影響情緒與表現",
+   "list_note": "",
+   "verified_by_muse": false
+  }
+ ],
+ "updates": [],
+ "updated": ""
+}

@@ -1,10 +1,10 @@
-/* 心理挖寶 PsyPick 前端：讀 data/index.json 與 data/cases/<slug>.json，全部在瀏覽器渲染。 */
+/* 知心選 PsyPick 前端：讀 data/index.json 與 data/cases/<slug>.json，全部在瀏覽器渲染。 */
 (function () {
   "use strict";
 
   var STR = {
     zh: {
-      appName: "心理挖寶", tagline: "AI × 心理學的案例訊號站", navHome: "首頁", navFeatured: "精選", navTraining: "進修", navSaved: "★ 收藏",
+      appName: "知心選", tagline: "AI × 心理學的案例訊號站", navHome: "首頁", navFeatured: "精選", navTraining: "進修", navSaved: "★ 收藏",
       langLabel: "EN", loading: "載入中…", loadError: "資料載入失敗", retry: "重試", empty: "還沒有案例。",
       search: "搜尋標題、摘要、標籤…", all: "全部", heat: "熱度", collection: "合集 · {n} 篇", verify: "待查證", ethics: "⚑ 倫理提醒",
       free: "免費", lowCost: "低價", deadline: "截止", soon: "即將截止", anytime: "隨時可上", ce: "有學分",
@@ -725,6 +725,64 @@
     renderConferences();
   }, true);
 
+  // ---------- 動向：AI 名人／心理大師 ----------
+  var FSTR = {
+    zh: { navFig: "動向", fTitle: "名人動向", fSub: "AI 領域與臨床心理領域代表人物的最新動態與發言。只收錄本人帳號、官方頁面或其親自接受的訪談，附原文連結；名單職位與帳號持續核對，查不到的標「待查證」。",
+      fAi: "AI 名人動向", fPsy: "心理大師動向", fAllP: "全部人物", fUpdates: "最新動態", fRoster: "人物名單", fNoUp: "尚未有動態收錄，待 Muse 首次整理後出現。",
+      fSrc: "原文 ↗", fVerified: "帳號已核對", fUnverified: "帳號待查證", fAcc: "帳號", fNote: "動態內容為摘要與短引述，版權屬原作者；請以原文為準。名單來自 Gu 提供的清單，職位可能已變動。" },
+    en: { navFig: "Voices", fTitle: "Voices", fSub: "Latest activity and statements from leading figures in AI and clinical psychology, from their own accounts, official pages or interviews, with source links. Roster positions and accounts are verified on a rolling basis.",
+      fAi: "AI voices", fPsy: "Clinical voices", fAllP: "Everyone", fUpdates: "Latest", fRoster: "Roster", fNoUp: "No updates yet; they appear after Muse's first run.",
+      fSrc: "Source ↗", fVerified: "Account verified", fUnverified: "Account unverified", fAcc: "Accounts", fNote: "Updates are summaries and short quotes; copyright belongs to the authors. Positions may have changed since the roster was compiled." }
+  };
+  Object.keys(FSTR).forEach(function (l) { Object.keys(FSTR[l]).forEach(function (k) { STR[l][k] = FSTR[l][k]; }); });
+  var FIG = null, fState = { grp: "ai", person: null };
+  function loadFig() {
+    if (FIG) return Promise.resolve(FIG);
+    return getJSON("data/figures.json").then(function (d) { FIG = d; return d; });
+  }
+  function figName(p) { return p.name_zh && p.name_zh !== p.name_en ? p.name_en + "（" + p.name_zh + "）" : p.name_en; }
+  function figUpdateCard(u, p) {
+    return '<article class="card fam-card"><div class="card-author"><span class="cat-avatar fam-avatar" aria-hidden="true">' + esc((p ? p.name_en : "?").charAt(0)) + "</span>" +
+      '<div class="card-author-names"><span class="card-author-name">' + esc(p ? figName(p) : u.person) + "</span><time>" + esc(u.page_date || "") + (u.platform ? " · " + esc(u.platform) : "") + "</time></div></div>" +
+      '<p class="card-summary">' + esc(u.summary_zh) + "</p>" +
+      (u.quote_en ? '<blockquote class="conf-note">“' + esc(u.quote_en) + "”</blockquote>" : "") +
+      '<div class="card-meta">' + (u.kind ? '<span class="badge">' + esc(u.kind) + "</span>" : "") + (u.topics || []).slice(0, 3).map(function (x) { return '<span class="badge">' + esc(x) + "</span>"; }).join("") +
+      (safeUrl(u.url) ? ' <a class="chip" href="' + esc(u.url) + '" target="_blank" rel="noopener noreferrer">' + t("fSrc") + "</a>" : "") + "</div></article>";
+  }
+  function figPersonCard(p) {
+    var accs = (p.accounts || []).filter(function (a) { return safeUrl(a.url); }).map(function (a) {
+      return '<a class="chip" href="' + esc(a.url) + '" target="_blank" rel="noopener noreferrer">' + esc(a.platform) + (a.verified ? " ✓" : "") + "</a>";
+    }).join(" ");
+    return '<article class="card fam-card"><h3 class="card-title"><a href="#" data-fig="person" data-v="' + esc(p.slug) + '">' + esc(figName(p)) + "</a></h3>" +
+      '<div class="training-line">' + esc(p.role_zh) + "</div><p class=\"card-summary\">" + esc(p.focus_zh) + "</p>" +
+      (p.list_note ? '<p class="conf-note">' + esc(p.list_note) + "</p>" : "") +
+      '<div class="card-meta"><span class="badge ' + (p.verified_by_muse ? "badge-free" : "badge-warn") + '">' + (p.verified_by_muse ? t("fVerified") : t("fUnverified")) + "</span> " + accs + "</div></article>";
+  }
+  function renderFigures() {
+    var people = FIG.people.filter(function (p) { return p.group === fState.grp; });
+    var by = {}; FIG.people.forEach(function (p) { by[p.slug] = p; });
+    var ups = (FIG.updates || []).filter(function (u) { return by[u.person] && by[u.person].group === fState.grp && (!fState.person || u.person === fState.person); })
+      .sort(function (a, b) { return (a.page_date || "") < (b.page_date || "") ? 1 : -1; });
+    var shown = fState.person ? people.filter(function (p) { return p.slug === fState.person; }) : people;
+    app.innerHTML = '<h2 class="page-title">' + t("fTitle") + '</h2><p class="page-sub">' + t("fSub") + '</p><div class="toolbar"><div class="chip-row">' +
+      '<button class="chip' + (fState.grp === "ai" ? " on" : "") + '" data-fig="grp" data-v="ai">' + t("fAi") + "</button>" +
+      '<button class="chip' + (fState.grp === "psy" ? " on" : "") + '" data-fig="grp" data-v="psy">' + t("fPsy") + "</button>" +
+      (fState.person ? '<button class="chip on" data-fig="person" data-v="">' + t("fAllP") + " ✕</button>" : "") + "</div></div>" +
+      '<h3 class="section-title">' + t("fUpdates") + "</h3>" +
+      (ups.length ? '<div class="masonry">' + ups.map(function (u) { return figUpdateCard(u, by[u.person]); }).join("") + "</div>" : '<div class="status-line">' + t("fNoUp") + "</div>") +
+      '<h3 class="section-title">' + t("fRoster") + "（" + shown.length + "）</h3>" +
+      '<div class="masonry">' + shown.map(figPersonCard).join("") + "</div>" +
+      '<p class="fam-disclaimer">' + t("fNote") + "</p>";
+  }
+  document.addEventListener("click", function (e) {
+    var ch = e.target.closest("[data-fig]");
+    if (!ch) return;
+    e.preventDefault(); e.stopPropagation();
+    var k = ch.getAttribute("data-fig"), v = ch.getAttribute("data-v") || null;
+    if (k === "grp") { fState.grp = v; fState.person = null; } else fState.person = v;
+    renderFigures(); afterRender(); window.scrollTo(0, 0);
+  }, true);
+
   // ---------- 外框、路由 ----------
   function applyChrome() {
     document.documentElement.lang = prefs.lang === "en" ? "en" : "zh-Hant";
@@ -796,13 +854,14 @@
     var y = pendingY === null ? window.scrollY : pendingY; pendingY = null;
     document.querySelectorAll(".header-nav a").forEach(function (a) {
       var href = a.getAttribute("href");
-      var on = href === "#" + h || (href === "#/family" && h.indexOf("/family") === 0) || (href === "#/bounty" && h.indexOf("/bounty") === 0) || (href === "#/conferences" && h.indexOf("/conferences") === 0);
+      var on = href === "#" + h || (href === "#/family" && h.indexOf("/family") === 0) || (href === "#/bounty" && h.indexOf("/bounty") === 0) || (href === "#/conferences" && h.indexOf("/conferences") === 0) || (href === "#/figures" && h.indexOf("/figures") === 0);
       a.classList.toggle("active", on);
       if (on) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
     });
     closePopups();
     loadIndex().then(function () {
       applyChrome();
+      if (h.indexOf("/figures") === 0) return loadFig().then(renderFigures);
       var cm = h.match(/^\/conferences(?:\/(.+))?$/);
       if (cm) return loadConf().then(function () { return cm[1] ? renderConference(decodeURIComponent(cm[1])) : renderConferences(); });
       var bm = h.match(/^\/bounty(?:\/(.+))?$/);
