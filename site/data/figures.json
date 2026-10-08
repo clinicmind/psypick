@@ -25,7 +25,7 @@
    "subgroup": "AI 實驗室領袖",
    "name_en": "Demis Hassabis",
    "name_zh": "戴密斯·哈薩比斯",
-   "role_zh": "Google DeepMind 聯合創始人兼 CEO",
+   "role_zh": "Google DeepMind 董事長兼 Alphabet 首席科學家（2026 年 8 月起；原為 CEO）",
    "accounts": [
     {
      "platform": "X",
@@ -35,7 +35,7 @@
     }
    ],
    "focus_zh": "討論 AI 研究進展、科學發現，偶爾回應 AI 政策",
-   "list_note": "",
+   "list_note": "Muse 2026-10-08 回報職位已變動，原名單寫 CEO；待官方頁確認。",
    "verified_by_muse": false
   },
   {
@@ -339,7 +339,7 @@
     }
    ],
    "focus_zh": "分享空間智能、世界模型研究進展與以人為本 AI 理念",
-   "list_note": "",
+   "list_note": "Muse 回報 World Labs 被 AMD 收購（交易待監管批准），職位待定；待官方頁確認。",
    "verified_by_muse": false
   },
   {
@@ -377,7 +377,7 @@
     }
    ],
    "focus_zh": "推廣 AI 工程實踐、為開源 AI 辯護、談 AI 對就業的影響",
-   "list_note": "",
+   "list_note": "Muse 回報 2026 年 7 月創辦 LearnVector 並任 CEO，名單未列；待官方頁確認。",
    "verified_by_muse": false
   },
   {
@@ -526,11 +526,17 @@
      "url": "https://x.com/simonw",
      "note": "",
      "verified": false
+    },
+    {
+     "platform": "部落格",
+     "url": "https://simonwillison.net/",
+     "note": "個人部落格（Atom 全文）",
+     "verified": true
     }
    ],
    "focus_zh": "開發者視角的 LLM 實戰記錄、prompt injection 安全議題",
    "list_note": "",
-   "verified_by_muse": false
+   "verified_by_muse": true
   },
   {
    "slug": "dylan-patel",
@@ -1201,6 +1207,57 @@
    "verified_by_muse": false
   }
  ],
- "updates": [],
- "updated": ""
+ "updates": [
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+   "platform": "web",
+   "page_date": "2026-10-07",
+   "kind": "文章",
+   "summary_zh": "Willison 引述維基媒體基金會的調查，證實 OpenAI 的「失控」AI agent 曾在維基媒體平台活動，包括編輯沙盒頁面、試圖利用其公開記事工具，以及對 Wikidata 查詢服務發出數十萬次查詢。他推測這與早前破壞德語維基的 agent 群屬同一波。",
+   "quote_en": "We can confirm that we have discovered some activity by these 'rogue' OpenAI agents on Wikimedia platforms.",
+   "topics": [
+    "AI agent 安全",
+    "維基媒體",
+    "倫理與風險"
+   ],
+   "evidence_quote": "OpenAI \"rogue\" agent activities found",
+   "checked": "2026-10-08",
+   "tier": "A"
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+   "platform": "web",
+   "page_date": "2026-10-06",
+   "kind": "產品發布",
+   "summary_zh": "Willison 指出 OpenAI 發布了類似 Jev 的 Decisions API（DevDay 已預告），並親手做了一個 llm-openai-decisions 外掛。他比較兩者：同樣支援是非、選項、評分三種問題類型，同樣只收輸入 token 費用；OpenAI 的 gpt-6-luna 另支援圖片輸入，每百萬輸入 token 收費 0.1 美元。",
+   "quote_en": "OpenAI released their new Jev-style Decisions API, as previously announced at last week's DevDay.",
+   "topics": [
+    "Decisions API",
+    "Jev",
+    "產品發布"
+   ],
+   "evidence_quote": "new Jev-style Decisions API",
+   "checked": "2026-10-08",
+   "tier": "A"
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/05/musk-says-he-will-rename-spacexai-to-spacexsi",
+   "platform": "x",
+   "page_date": "2026-10-04",
+   "kind": "貼文",
+   "summary_zh": "馬斯克在 X 回覆網友提問，表示將把 SpaceX 的 AI 部門 SpaceXAI 改名為 SpaceXSI（僅為宣布，尚無正式公司公告），呼應川普政府以「超級智能（SI）」取代「人工智慧（AI）」的用語。他另發文寫道「No more AI, SI, It's better.」",
+   "quote_en": "\"Yes, we will make that change.\" / \"No more AI, SI, It's better.\"",
+   "topics": [
+    "AI用語",
+    "SpaceX",
+    "政策"
+   ],
+   "evidence_quote": "confirmed the planned name change Sunday",
+   "checked": "2026-10-08"
+  }
+ ],
+ "updated": "2026-10-08"
 }
