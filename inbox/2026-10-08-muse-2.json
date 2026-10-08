@@ -1,0 +1,257 @@
+{
+  "format": "psypick-muse-v1",
+  "run_date": "2026-10-08",
+  "items": [
+    {
+      "type": "figure_update",
+      "source": {
+        "url": "https://www.barrons.com/articles/microsoft-and-nvidia-will-present-new-ai-centric-laptop-today-why-it-matters-1a5fb9e9",
+        "platform": "web"
+      },
+      "page_date": "2026-10-07",
+      "evidence_quote": "Jensen Huang joined the festivities",
+      "figure": {
+        "person": "jensen-huang",
+        "kind": "演講",
+        "summary_zh": "10 月 7 日在舊金山與 Satya Nadella 同台發表 AI 筆電。重點產品：Surface Laptop Ultra（2,599 美元起，10 月 16 日出貨）、RTX Spark；Windows 主打「Hybrid Intelligence」（混合智慧）。",
+        "quote_en": "Jensen Huang joined the festivities",
+        "topics": [
+          "Surface Laptop Ultra",
+          "RTX Spark",
+          "混合智慧"
+        ]
+      },
+      "tier_hint": "B",
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "figure_update",
+      "source": {
+        "url": "https://www.barrons.com/articles/microsoft-and-nvidia-will-present-new-ai-centric-laptop-today-why-it-matters-1a5fb9e9",
+        "platform": "web"
+      },
+      "page_date": "2026-10-07",
+      "evidence_quote": "took to the stage in San Francisco",
+      "figure": {
+        "person": "satya-nadella",
+        "kind": "演講",
+        "summary_zh": "10 月 7 日在舊金山與 Jensen Huang 同台發表 AI 筆電。重點產品：Surface Laptop Ultra（2,599 美元起，10 月 16 日出貨）、RTX Spark；Windows 主打「Hybrid Intelligence」（混合智慧）。",
+        "quote_en": "took to the stage in San Francisco",
+        "topics": [
+          "Surface Laptop Ultra",
+          "Windows",
+          "AI PC"
+        ]
+      },
+      "tier_hint": "B",
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "figure_update",
+      "source": {
+        "url": "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/",
+        "platform": "web"
+      },
+      "page_date": "2026-10-06",
+      "evidence_quote": "for alternative technology suppliers",
+      "figure": {
+        "person": "arthur-mensch",
+        "kind": "演講",
+        "summary_zh": "10 月 6 日在阿布達比 Ai Everything 大會宣布新模型 Mistral Large 4（代號 Le Chonk），10 月 27 日公開提供。宣稱在網路安全等面向超越中國開源模型，強調歐洲能在 AI 競賽中競爭。",
+        "quote_en": "The narrative that Europe cannot compete is something that is not true",
+        "topics": [
+          "Mistral Large 4",
+          "開源模型",
+          "網路安全"
+        ]
+      },
+      "tier_hint": "B",
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "figure_update",
+      "source": {
+        "url": "https://www.bestpodcasts.co.uk/podcast/where-should-we-begin-with-esther-perel/",
+        "platform": "web"
+      },
+      "page_date": "2026-10-05",
+      "evidence_quote": "explores the world of relationships",
+      "figure": {
+        "person": "esther-perel",
+        "kind": "訪談",
+        "summary_zh": "10 月 5 日發布 Where Should We Begin? 新單集「I Don't Mean to Be Mean, But...」（66 分鐘）。Perel 親自主持，引導真實伴侶面對最私密的關係難題。",
+        "quote_en": "",
+        "topics": [
+          "伴侶關係",
+          "Podcast"
+        ]
+      },
+      "tier_hint": "B",
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "figure_update",
+      "source": {
+        "url": "https://podcasts.apple.com/us/podcast/andrew-huberman-the-frontier-of-neurotechnology/id1154105909?i=1000793402226",
+        "platform": "web"
+      },
+      "page_date": "2026-10-06",
+      "evidence_quote": "my conversation with Andrew Huberman",
+      "figure": {
+        "person": "andrew-huberman",
+        "kind": "訪談",
+        "summary_zh": "10 月 6 日作客 Invest Like the Best 第 494 集，與 Patrick O'Shaughnessy 談神經科技前沿：基因治療、穿戴裝置調節動機，以及神經科學的下一步。",
+        "quote_en": "",
+        "topics": [
+          "神經科技",
+          "基因治療",
+          "Podcast"
+        ]
+      },
+      "tier_hint": "B",
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "figure_update",
+      "source": {
+        "url": "https://www.iheart.com/podcast/1297-the-happiness-lab-with-dr-47445035/?autoplay=true",
+        "platform": "web"
+      },
+      "page_date": "2026-10-05",
+      "evidence_quote": "the sense of wonder we had as children",
+      "figure": {
+        "person": "laurie-santos",
+        "kind": "訪談",
+        "summary_zh": "10 月 5 日發布 The Happiness Lab 新單集（33 分鐘），與前 NPR 記者、旅行哲學家 Eric Weiner 對談：重拾童年好奇心，找回對日常微小美好事物的驚奇，並以此度過人生低谷。",
+        "quote_en": "",
+        "topics": [
+          "好奇心",
+          "幸福感",
+          "Podcast"
+        ]
+      },
+      "tier_hint": "B",
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "figure_update",
+      "source": {
+        "url": "https://self-compassion.org/event/conversation-with-laurie-santos-october-7-2026/",
+        "platform": "web"
+      },
+      "page_date": "2026-10-07",
+      "evidence_quote": "conversation with Laurie Santos",
+      "figure": {
+        "person": "laurie-santos",
+        "kind": "訪談",
+        "summary_zh": "10 月 7 日受邀參加 Self-Compassion Community 的線上嘉賓對談，由 Kristin Neff 主持，分享幸福感、決策與身心健康的實證研究見解。活動錄影可索取。",
+        "quote_en": "",
+        "topics": [
+          "自我慈悲",
+          "幸福感",
+          "線上對談"
+        ]
+      },
+      "tier_hint": "B",
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "figure_update",
+      "source": {
+        "url": "https://stocktwits.com/news-articles/markets/equity/will-ai-take-your-job-microsoft-s-ai-chief-now-points-to-nobel-laureate-s-research-saying-only-5-of-human-work-is-at-risk/cZDvG3sRBlU",
+        "platform": "web"
+      },
+      "page_date": "2026-10-07",
+      "evidence_quote": "The last 1% is the hard part",
+      "figure": {
+        "person": "mustafa-suleyman",
+        "kind": "貼文",
+        "summary_zh": "10 月 7 日在 X 發文引用諾貝爾經濟學獎得主 Daron Acemoglu 的研究：未來十年 AI 只會取代約 5% 的人類工作。主張產業應聚焦打造讓人更強的工具，而非取代人力。",
+        "quote_en": "Even 99% accuracy isn't enough for full automation. The last 1% is the hard part",
+        "topics": [
+          "AI 就業",
+          "Acemoglu"
+        ]
+      },
+      "tier_hint": "B",
+      "verify_needed": true,
+      "verify_reason": "原文為 X 貼文（需登入無法直接開啟），內容經多家媒體同日確認；請 Claude 驗證原文。"
+    },
+    {
+      "type": "figure_update",
+      "source": {
+        "url": "https://biztoc.com/x/c10507a8c81ecebd",
+        "platform": "web"
+      },
+      "page_date": "2026-10-07",
+      "evidence_quote": "undercutting calls to ban open models",
+      "figure": {
+        "person": "nathan-lambert",
+        "kind": "文章",
+        "summary_zh": "10 月 7 日在個人刊物 Interconnects AI 發表分析：GLM-5.3 開源至今未造成重大攻擊事件，反駁 Anthropic 對其「Mythos 級網路風險」的警告，認為禁止開源模型的主張站不住腳。",
+        "quote_en": "",
+        "topics": [
+          "開源模型",
+          "AI 安全",
+          "GLM-5.3"
+        ]
+      },
+      "tier_hint": "B",
+      "verify_needed": true,
+      "verify_reason": "僅透過 techmeme/biztoc 二手頁面確認是 Lambert 本人 10/7 在 Interconnects AI 發表，未能取得原文網址；請 Claude 驗證。"
+    }
+  ],
+  "skipped": [
+    "sam-altman：10/3 X 貼文，超出 10/5-10/8 窗口",
+    "elon-musk：10/4 X 貼文，超出窗口",
+    "dario-amodei：10/6 Reuters 薪酬報導為第三方非本人發言，未收",
+    "demis-hassabis：窗內無新動態",
+    "yann-lecun：Fortune 訪談 10/1 超窗；10/6 上 Unsupervised Learning podcast 但無逐字頁面 URL，未收",
+    "mira-murati：Inkling 募資為 7 月舊事",
+    "mark-zuckerberg：Biohub 為機構動態非本人",
+    "ilya-sutskever：窗內無新動態",
+    "geoffrey-hinton：只有舊訪談",
+    "yoshua-bengio：10/2 委員會活動超窗",
+    "dwarkesh-patel：10/1 節目超窗",
+    "lex-fridman：9/17 節目超窗",
+    "simon-willison：10/3 部落格超窗",
+    "ethan-mollick、sebastian-raschka：窗內無新文章",
+    "clement-delangue：窗內無本人新動態（10/12 Netflix 紀錄片 Instadocs: AI Gone Wild 尚未播出）",
+    "jeremy-howard：窗內無新動態",
+    "dylan-patel：Latent Space 節目約 10/2 發布，超窗",
+    "rowan-cheung：窗內無新動態",
+    "aravind-srinivas：Perplexity 新聞皆在 10/1 以前，超窗",
+    "fei-fei-li：AMD 82 億美元收購 World Labs 為 9/29 公布，超窗",
+    "alexandr-wang：窗內無新動態（WSJ 專訪約 10/4，超窗）",
+    "jeff-dean：8 月 Google/DeepMind 人事異動為舊聞",
+    "nathan-lambert：Trillium Labs 創立發布為 10/2，超窗",
+    "peter-levine、steven-hayes、ethan-kross、richard-schwartz：窗內無新動態",
+    "kristin-neff：10/17 未來活動，未發生",
+    "daniel-siegel：新書 10/20 未上市",
+    "becky-kennedy：9/24 商業通稿超窗",
+    "gabor-mate：YouTube 為第三方頻道轉貼，非本人帳號",
+    "adam-grant：VIBE 巡演皆為未來場次",
+    "paul-gilbert：psychwire Q&A 約 10/1，超窗",
+    "lisa-damour：窗內無可確認動態（MARI 10 月訪問未標註日期）",
+    "russ-harris：psychwire 課程 10/13 開課，為未來廣告",
+    "jill-stoddard：只有舊節目",
+    "willem-kuyken、tina-payne-bryson：窗內無新動態",
+    "mona-delahooke：7/1 活動為舊事",
+    "stuart-shanker：窗內無新動態",
+    "stephen-porges：Transforming Trauma 節目約 10/2 發布，超窗",
+    "janina-fisher：9 月中舊節目",
+    "bessel-van-der-kolk：10/31 都柏林活動為未來"
+  ],
+  "unreachable_sources": [
+    "X／Threads／Instagram 需登入，未嘗試登入（依政策跳過）",
+    "Andrew Ng 的 The Batch 本週刊號頁：未找到逐字 URL，未收"
+  ],
+  "notes": "未做去重：~/workspace/user/files/ 下無檔名含「已收錄」的比對檔，請 Claude 把關。今早 2026-10-08-muse.json 無 figure_update 項目，無重複。本輪 9 則中 2 則 verify_needed=true（mustafa-suleyman 的 X 貼文、nathan-lambert 的 Interconnects AI 文章皆經多家二手來源確認為本人＋日期在窗內）。帳號核對：Arthur Mensch 在 Reuters 頁面拼作 Artur／Arthur（同一人，法國 Mistral CEO），無冒充帳號需通報。"
+}
