@@ -1226,6 +1226,38 @@
    "tier": "A"
   },
   {
+   "person": "laurie-santos",
+   "url": "https://self-compassion.org/event/conversation-with-laurie-santos-october-7-2026/",
+   "platform": "web",
+   "page_date": "2026-10-07",
+   "kind": "訪談",
+   "summary_zh": "10 月 7 日受邀參加 Self-Compassion Community 的線上嘉賓對談，由 Kristin Neff 主持，分享幸福感、決策與身心健康的實證研究見解。活動錄影可索取。",
+   "quote_en": "",
+   "topics": [
+    "自我慈悲",
+    "幸福感",
+    "線上對談"
+   ],
+   "evidence_quote": "conversation with Laurie Santos",
+   "checked": "2026-10-08"
+  },
+  {
+   "person": "nathan-lambert",
+   "url": "https://biztoc.com/x/c10507a8c81ecebd",
+   "platform": "web",
+   "page_date": "2026-10-07",
+   "kind": "文章",
+   "summary_zh": "10 月 7 日在個人刊物 Interconnects AI 發表分析：GLM-5.3 開源至今未造成重大攻擊事件，反駁 Anthropic 對其「Mythos 級網路風險」的警告，認為禁止開源模型的主張站不住腳。",
+   "quote_en": "",
+   "topics": [
+    "開源模型",
+    "AI 安全",
+    "GLM-5.3"
+   ],
+   "evidence_quote": "undercutting calls to ban open models",
+   "checked": "2026-10-08"
+  },
+  {
    "person": "simon-willison",
    "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
    "platform": "web",
@@ -1241,6 +1273,68 @@
    "evidence_quote": "new Jev-style Decisions API",
    "checked": "2026-10-08",
    "tier": "A"
+  },
+  {
+   "person": "andrew-huberman",
+   "url": "https://podcasts.apple.com/us/podcast/andrew-huberman-the-frontier-of-neurotechnology/id1154105909?i=1000793402226",
+   "platform": "web",
+   "page_date": "2026-10-06",
+   "kind": "訪談",
+   "summary_zh": "10 月 6 日作客 Invest Like the Best 第 494 集，與 Patrick O'Shaughnessy 談神經科技前沿：基因治療、穿戴裝置調節動機，以及神經科學的下一步。",
+   "quote_en": "",
+   "topics": [
+    "神經科技",
+    "基因治療",
+    "Podcast"
+   ],
+   "evidence_quote": "my conversation with Andrew Huberman",
+   "checked": "2026-10-08"
+  },
+  {
+   "person": "mustafa-suleyman",
+   "url": "https://stocktwits.com/news-articles/markets/equity/will-ai-take-your-job-microsoft-s-ai-chief-now-points-to-nobel-laureate-s-research-saying-only-5-of-human-work-is-at-risk/cZDvG3sRBlU",
+   "platform": "web",
+   "page_date": "2026-10-06",
+   "kind": "貼文",
+   "summary_zh": "10 月 6 日（週二）在 X 發文引用諾貝爾經濟學獎得主 Daron Acemoglu 的研究：未來十年 AI 只會取代約 5% 的人類工作。主張產業應聚焦打造讓人更強的工具，而非取代人力。",
+   "quote_en": "Even 99% accuracy isn't enough for full automation. The last 1% is the hard part",
+   "topics": [
+    "AI 就業",
+    "Acemoglu"
+   ],
+   "evidence_quote": "The last 1% is the hard part",
+   "checked": "2026-10-08"
+  },
+  {
+   "person": "esther-perel",
+   "url": "https://www.bestpodcasts.co.uk/podcast/where-should-we-begin-with-esther-perel/",
+   "platform": "web",
+   "page_date": "2026-10-05",
+   "kind": "訪談",
+   "summary_zh": "10 月 5 日發布 Where Should We Begin? 新單集「I Don't Mean to Be Mean, But...」（66 分鐘）。Perel 親自主持，引導真實伴侶面對最私密的關係難題。",
+   "quote_en": "",
+   "topics": [
+    "伴侶關係",
+    "Podcast"
+   ],
+   "evidence_quote": "explores the world of relationships",
+   "checked": "2026-10-08"
+  },
+  {
+   "person": "laurie-santos",
+   "url": "https://www.iheart.com/podcast/1297-the-happiness-lab-with-dr-47445035/?autoplay=true",
+   "platform": "web",
+   "page_date": "2026-10-05",
+   "kind": "訪談",
+   "summary_zh": "10 月 5 日發布 The Happiness Lab 新單集（33 分鐘），與前 NPR 記者、旅行哲學家 Eric Weiner 對談：重拾童年好奇心，找回對日常微小美好事物的驚奇，並以此度過人生低谷。",
+   "quote_en": "",
+   "topics": [
+    "好奇心",
+    "幸福感",
+    "Podcast"
+   ],
+   "evidence_quote": "the sense of wonder we had as children",
+   "checked": "2026-10-08"
   },
   {
    "person": "elon-musk",
