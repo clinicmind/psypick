@@ -635,13 +635,13 @@
   var CSTR = {
     zh: { navConf: "會議", cTitle: "會議", cSub: "全球英文及華語區心理健康、輔導與心理治療會議：即將舉行與近期已舉行。每場附摘要、費用、報名連結、講者背景與代表作，以及對你的領域的看點。資料取自官方頁面，查不到的標「待查證」。",
       cUpcoming: "即將舉行", cPast: "已舉行", cAllRegions: "全部地區", cAllDomains: "全部領域", cOnline: "含網上參與", cEmpty: "沒有符合條件的會議",
-      cWhen: "日期", cWhere: "地點", cFormat: "形式", cLang: "語言", cOrg: "主辦", cFee: "費用", cDeadline: "報名截止", cSite: "官方網頁 ↗", cReg: "報名 ↗",
+      cWhen: "日期", cWhere: "地點", cFormat: "形式", cLang: "語言", cOrg: "主辦", cFee: "費用", cDeadline: "報名截止", cSite: "官方網頁 ↗", cReg: "報名（前往主辦方網站）↗",
       cSummary: "會議摘要", cInterest: "你可能感興趣的點", cInfo: "會議資訊", cSpeakers: "講者與代表作", cNoSpeakers: "官方尚未公布講者名單（或本站未能取得）。",
       cWorks: "代表作", cSession: "場次", cNoWorks: "代表作待查證", cVerified: "已核對", cUnverified: "待查證", cVerifyNote: "核對說明", cChecked: "資料查核日",
       cDays: "{n} 天後開始", cToday: "進行中", cEnded: "已結束", cNote: "會議資訊以官方頁面為準；講者簡介與代表作由 Claude 從公開資料整理，標「待查證」者尚未核對。內容以繁體中文提供。" },
     en: { navConf: "Conferences", cTitle: "Conferences", cSub: "Mental health, counselling and psychotherapy conferences in the English- and Chinese-speaking world, upcoming and recent. Each has a summary, fees, sign-up link, speaker backgrounds with key works, and why it may interest you. Content is in Traditional Chinese; unverified items are flagged.",
       cUpcoming: "Upcoming", cPast: "Recent", cAllRegions: "All regions", cAllDomains: "All fields", cOnline: "Online option", cEmpty: "No matching conferences",
-      cWhen: "Dates", cWhere: "Where", cFormat: "Format", cLang: "Language", cOrg: "Organiser", cFee: "Fee", cDeadline: "Deadline", cSite: "Official site ↗", cReg: "Register ↗",
+      cWhen: "Dates", cWhere: "Where", cFormat: "Format", cLang: "Language", cOrg: "Organiser", cFee: "Fee", cDeadline: "Deadline", cSite: "Official site ↗", cReg: "Register (opens organiser site) ↗",
       cSummary: "Summary", cInterest: "Why it may interest you", cInfo: "Details", cSpeakers: "Speakers & key works", cNoSpeakers: "No speaker list published (or not retrievable).",
       cWorks: "Key works", cSession: "Session", cNoWorks: "Key works unverified", cVerified: "Verified", cUnverified: "Unverified", cVerifyNote: "Verification notes", cChecked: "Last checked",
       cDays: "starts in {n} days", cToday: "In progress", cEnded: "Ended", cNote: "Event details: check the official page. Speaker bios and key works are compiled by Claude from public sources; items marked unverified are not yet checked." }
@@ -653,12 +653,14 @@
     return getJSON("data/conferences.json").then(function (d) { CONF = d; return d; });
   }
   function confSpan(c) { return c.start === c.end ? c.start : c.start + " – " + c.end; }
+  // 狀態與倒數一律在瀏覽當日以港澳日曆日期計算（site/dates.js），不使用建置時寫入的 today。
+  function confStatus(c) { return PsyDates.eventStatus(c.start, c.end, PsyDates.todayMacau()); }
   function confNote(c) {
-    var today = CONF.today || new Date().toISOString().slice(0, 10);
-    if (c.end < today) return t("cEnded");
-    if (c.start <= today) return t("cToday");
-    var n = Math.round((new Date(c.start + "T00:00:00Z") - new Date(today + "T00:00:00Z")) / 86400000);
-    return t("cDays", { n: n });
+    var st = confStatus(c);
+    if (st === "ended") return t("cEnded");
+    if (st === "ongoing") return t("cToday");
+    var n = PsyDates.dayDiff(PsyDates.todayMacau(), c.start);
+    return n === null ? "" : t("cDays", { n: n });
   }
   function confCard(c) {
     var badges = ['<span class="badge">' + esc(c.region) + "</span>"];
@@ -672,9 +674,9 @@
       '<div class="card-meta">' + badges.join("") + "</div></article>";
   }
   function renderConferences() {
-    var today = CONF.today, all = CONF.items;
+    var all = CONF.items;
     var list = all.filter(function (c) {
-      var past = c.end < today;
+      var past = confStatus(c) === "ended";
       return (cState.when === "past" ? past : !past) && (!cState.region || c.region === cState.region) &&
         (!cState.domain || (c.domains || []).indexOf(cState.domain) >= 0) && (!cState.online || /網上|混合|online|hybrid/i.test(c.format));
     }).sort(function (a, b) { return cState.when === "past" ? (a.start < b.start ? 1 : -1) : (a.start < b.start ? -1 : 1); });
@@ -700,10 +702,10 @@
   function renderConference(slug) {
     var c = CONF.items.filter(function (x) { return x.slug === slug; })[0];
     if (!c) { app.innerHTML = '<div class="status-line">' + t("cEmpty") + ' <a href="#/conferences">' + t("back") + "</a></div>"; return; }
-    var rows = [["cWhen", confSpan(c) + "（" + confNote(c) + "）"], ["cWhere", [c.venue, c.city, c.country].filter(Boolean).join("，")], ["cFormat", c.format], ["cLang", c.language],
+    var rows = [["cWhen", confSpan(c) + (confNote(c) ? "（" + confNote(c) + "）" : "")], ["cWhere", [c.venue, c.city, c.country].filter(Boolean).join("，")], ["cFormat", c.format], ["cLang", c.language],
       ["cOrg", c.organizer], ["cFee", c.fee_text], ["cDeadline", c.deadline], ["cChecked", c.last_checked]];
     var links = (safeUrl(c.url) ? '<a class="chip" href="' + esc(c.url) + '" target="_blank" rel="noopener noreferrer">' + t("cSite") + "</a> " : "") +
-      (safeUrl(c.register_url) ? '<a class="chip" href="' + esc(c.register_url) + '" target="_blank" rel="noopener noreferrer">' + t("cReg") + "</a>" : "");
+      (safeUrl(c.register_url) && confStatus(c) !== "ended" ? '<a class="chip" href="' + esc(c.register_url) + '" target="_blank" rel="noopener noreferrer">' + t("cReg") + "</a>" : "");
     var main = '<h2 class="detail-title">' + esc(c.name_zh) + '</h2><p class="conf-en">' + esc(c.name_en) + '</p><div class="card-meta"><span class="badge">' + esc(c.region) + "</span>" +
       (c.themes || []).map(function (x) { return '<span class="badge">' + esc(x) + "</span>"; }).join("") + (c.verify_needed ? '<span class="badge badge-warn">' + t("cUnverified") + "</span>" : "") + "</div>" +
       '<div class="chip-row" style="margin-top:12px">' + links + "</div>" +
