@@ -311,7 +311,7 @@
       famAllAges: "全部年齡", famAllTopics: "全部主題", famAllRegions: "全部地區", famSearch: "搜尋文章…",
       famWhenAll: "全部日期", famWeek: "本週", famNextWeek: "下週", famMonth: "本月", famFreeOnly: "只看免費",
       famEnded: "已結束（{n}）", famNoItems: "沒有符合條件的內容", famNoEvents: "這段時間沒有收錄的活動。",
-      famTips: "實用做法", famSeekHelp: "何時該求助", famAct: "活動資訊", famDate: "日期", famTime: "時間", famVenue: "地點",
+      famTips: "實用做法", famCorrection: "更正說明", famSeekHelp: "何時該求助", famAct: "活動資訊", famDate: "日期", famTime: "時間", famVenue: "地點",
       famPrice: "費用", famAge: "年齡", famSignup: "報名方式", famDeadline: "截止", famOrganizer: "主辦", famChecked: "最後核對",
       famAI: "AI 協助整理，內容以原文為準", famDisclaimer: "本版只供參考，不能取代醫生、心理學家或其他專業人員的評估。擔心孩子的情況，請聯絡家庭醫生、母嬰健康院（香港）或衛生中心（澳門）。活動資料可能有變，報名前請以主辦單位公布為準。",
       famStages: "各年齡發展重點", famPhysical: "生理", famPsych: "心理與社交", famWatch: "值得留意的警號", famChecklists: "發展檢核表",
@@ -327,7 +327,7 @@
       famAllAges: "All ages", famAllTopics: "All topics", famAllRegions: "All regions", famSearch: "Search articles…",
       famWhenAll: "Any date", famWeek: "This week", famNextWeek: "Next week", famMonth: "This month", famFreeOnly: "Free only",
       famEnded: "Ended ({n})", famNoItems: "Nothing matches", famNoEvents: "No activities listed for this period.",
-      famTips: "What you can do", famSeekHelp: "When to get help", famAct: "Activity details", famDate: "Date", famTime: "Time", famVenue: "Venue",
+      famTips: "What you can do", famCorrection: "Correction", famSeekHelp: "When to get help", famAct: "Activity details", famDate: "Date", famTime: "Time", famVenue: "Venue",
       famPrice: "Fee", famAge: "Ages", famSignup: "How to sign up", famDeadline: "Deadline", famOrganizer: "Organiser", famChecked: "Last checked",
       famAI: "Summarised with AI help; the original source prevails", famDisclaimer: "For reference only and not a substitute for assessment by a doctor, psychologist or other professional. Activity details may change; check with the organiser before signing up.",
       famStages: "Development by age", famPhysical: "Physical", famPsych: "Psychological & social", famWatch: "Signs to watch", famChecklists: "Milestone checklists",
@@ -522,7 +522,8 @@
       (it.posted_at ? "<time>" + esc(it.posted_at) + "</time>" : "") + "</div>";
     var main = '<h2 class="detail-title">' + esc(pick(it, "title")) + "</h2>" + meta +
       (it.verify_needed ? '<p class="badge badge-warn" style="display:inline-block;margin-top:12px">' + t("verifyNote") + (it.verify_reason ? "（" + esc(it.verify_reason) + "）" : "") + "</p>" : "") +
-      '<p class="detail-summary">' + esc(pick(it, "summary")) + "</p>";
+      '<p class="detail-summary">' + esc(pick(it, "summary")) + "</p>" +
+      (it.correction_note ? '<div class="panel fam-seek"><b>' + t("famCorrection") + "：</b>" + esc(it.correction_note) + "</div>" : "");
     if (a) {
       var rows = [["famDate", famDateText(it)], ["famTime", a.time], ["famVenue", a.venue], ["famPrice", a.price], ["famAge", a.age_range],
         ["famSignup", a.signup], ["famDeadline", a.deadline], ["famOrganizer", a.organizer || it.org], ["famChecked", a.last_checked]];
