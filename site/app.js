@@ -561,32 +561,59 @@
   }
 
 
-  // ---------- 賞金獵人：有報酬的研究項目 ----------
+  // ---------- 研究參與（路由維持 #/bounty；資料 kind 仍為 bounty） ----------
   var BSTR = {
-    zh: { navBounty: "賞金獵人", bTitle: "賞金獵人", bSub: "香港、澳門、美國的大學和機構正在招募參加者、有現金或禮券報酬的研究問卷、訪談和實驗。本站只整理公開資料，沒有參與招募；參加前請細閱主辦方的說明和私隱條款，不要提供銀行密碼，也不需要先付任何費用。",
-      bAllRegions: "全部地區", bAllTypes: "全部報酬", bSure: "人人有份", bLucky: "抽獎", bOnline: "網上參加", bReward: "報酬", bOrganizer: "主辦", bFunder: "資助／贊助",
+    zh: { navBounty: "研究參與", bTitle: "研究參與", bSub: "公開招募、參加條件與補償資訊。香港、澳門、美國的大學和機構正在招募參加者的研究問卷、訪談、實驗與臨床研究。研究的目的在產生知識，參與不保證有直接的治療效益。",
+      bFoot: "本站只整理公開資料，沒有參與招募，也不判斷你是否合資格。參加前請細閱主辦方的說明、知情同意書和私隱條款；不要提供銀行密碼，也不需要先付任何費用。補償與退出安排以研究團隊的書面說明為準。",
+      bAllRegions: "全部地區", bAllTypes: "全部補償形式", bSure: "合資格者可獲補償", bSureNote: "合資格並符合研究條件者可獲補償", bLucky: "抽獎", bOnline: "網上參加", bReward: "補償", bOrganizer: "主辦", bFunder: "資助／贊助",
       bMethod: "形式", bElig: "參加資格", bDuration: "所需時間", bDeadline: "截止", bHow: "參加方法", bContact: "查詢", bLocation: "地點", bCaution: "注意",
-      bInfo: "項目資訊", bNoDeadline: "截止日未公布，請向研究團隊確認", bEnded: "已截止（{n}）", bEmpty: "目前沒有收錄的項目。", bNoMatch: "沒有符合條件的項目" },
-    en: { navBounty: "Paid studies", bTitle: "Paid research studies", bSub: "Surveys, interviews and experiments by universities and organisations in Hong Kong, Macau and the US that pay participants in cash or vouchers. We only list public information and are not involved in recruitment. Read the organiser's information and privacy terms first; never give bank passwords or pay anything to take part.",
-      bAllRegions: "All regions", bAllTypes: "All rewards", bSure: "Everyone paid", bLucky: "Lucky draw", bOnline: "Online", bReward: "Reward", bOrganizer: "Organiser", bFunder: "Funded / sponsored by",
+      bInfo: "項目資訊", bNoDeadline: "截止日未公布，請向研究團隊確認", bEnded: "已截止（{n}）", bEmpty: "目前沒有收錄的項目。", bNoMatch: "沒有符合條件的項目",
+      bGrpSurvey: "問卷與訪談", bGrpExp: "行為與生理實驗", bGrpClinical: "臨床介入研究", bGrpOther: "其他",
+      bClinicalNote: "臨床介入研究：可能涉及醫療程序、隨機分組、住院或藥物／儀器介入。報名前請先看清程序、所需時間、風險與退出安排，並與醫生商量。",
+      bAskTitle: "報名前可以問研究團隊", bAskNote: "以下是一般提問清單，不代表該研究的實際安排；實際條件以研究團隊的書面說明為準。",
+      bAsk: ["如果中途退出，我的資料會怎樣處理？可以隨時退出嗎？", "只完成部分，補償會怎樣計算？", "我的資料會被如何使用、由誰保管、會否與其他機構分享？", "參加可能有哪些風險或不適？出現問題時找誰？",
+        "是否會被隨機分組？分到哪一組會有甚麼不同？", "如果不參加，我還有哪些其他照護選項？", "如果參加者是未成年人：家長或監護人的同意，以及孩子本人意願的安排是甚麼？"] },
+    en: { navBounty: "Research participation", bTitle: "Research participation", bSub: "Public recruitment notices with eligibility and compensation details. Universities and organisations in Hong Kong, Macau and the US are recruiting for surveys, interviews, experiments and clinical studies. Research exists to produce knowledge; taking part does not guarantee any personal treatment benefit.",
+      bFoot: "We only list public information; we are not involved in recruitment and cannot tell whether you qualify. Read the organiser's information, consent form and privacy terms first; never give bank passwords or pay anything to take part. Compensation and withdrawal arrangements follow the research team's written information.",
+      bAllRegions: "All regions", bAllTypes: "All compensation types", bSure: "Eligible participants compensated", bSureNote: "Compensation for eligible participants who meet the study conditions", bLucky: "Lucky draw", bOnline: "Online", bReward: "Compensation", bOrganizer: "Organiser", bFunder: "Funded / sponsored by",
       bMethod: "Format", bElig: "Eligibility", bDuration: "Time needed", bDeadline: "Deadline", bHow: "How to join", bContact: "Enquiries", bLocation: "Where", bCaution: "Note",
-      bInfo: "Study details", bNoDeadline: "Deadline not published; ask the research team", bEnded: "Closed ({n})", bEmpty: "No studies listed right now.", bNoMatch: "No matching studies" }
+      bInfo: "Study details", bNoDeadline: "Deadline not published; ask the research team", bEnded: "Closed ({n})", bEmpty: "No studies listed right now.", bNoMatch: "No matching studies",
+      bGrpSurvey: "Surveys & interviews", bGrpExp: "Behavioural & physiological experiments", bGrpClinical: "Clinical intervention studies", bGrpOther: "Other",
+      bClinicalNote: "Clinical intervention study: may involve medical procedures, random assignment, hospital stays, or drug/device interventions. Check the procedures, time commitment, risks and withdrawal terms first, and talk to your doctor.",
+      bAskTitle: "Questions to ask the research team before joining", bAskNote: "A general checklist, not the actual arrangements of this study; follow the research team's written information.",
+      bAsk: ["If I withdraw part-way, what happens to my data? Can I leave at any time?", "How is compensation worked out if I only complete part of it?", "How will my data be used, who keeps it, and will it be shared with other organisations?", "What risks or discomforts might there be, and who do I contact if something goes wrong?",
+        "Will I be randomly assigned to a group, and what differs between groups?", "If I don't take part, what other care options do I have?", "If the participant is a minor: how are parent/guardian consent and the child's own willingness handled?"] }
   };
   Object.keys(BSTR).forEach(function (l) { Object.keys(BSTR[l]).forEach(function (k) { STR[l][k] = BSTR[l][k]; }); });
   var bState = { region: null, type: null, sure: false, online: false };
+  // 依「形式」分三組；先看到程序與負擔，補償放在後面。method 可含「|」複選。
+  function bountyGroup(it) {
+    var m = it.bounty.method || "";
+    if (/臨床/.test(m)) return "bGrpClinical";
+    if (/實驗/.test(m)) return "bGrpExp";
+    if (/問卷|訪談/.test(m)) return "bGrpSurvey";
+    return "bGrpOther";
+  }
+  // 截止日以瀏覽當日（港澳）重算；只有明確的招募截止日才會令項目歸入已截止，缺漏不補值。
+  function bountyEnded(it) {
+    var dl = it.bounty && it.bounty.deadline;
+    return !!it.ended || (PsyDates.valid(dl) && dl < PsyDates.todayMacau());
+  }
   function bountyCard(it) {
     var b = it.bounty, badges = ['<span class="badge">' + esc(it.region) + "</span>"];
     if (b.method) badges.push('<span class="badge">' + esc(b.method) + "</span>");
     badges.push('<span class="badge ' + (b.guaranteed ? "badge-free" : "") + '">' + (b.guaranteed ? t("bSure") : t("bLucky")) + "</span>");
     if (it.verify_needed) badges.push('<span class="badge badge-warn">' + t("verify") + "</span>");
+    var clinical = bountyGroup(it) === "bGrpClinical";
     return '<article class="card fam-card fam-bounty">' +
       '<div class="card-author"><span class="cat-avatar fam-avatar" aria-hidden="true">' + esc((b.organizer || it.org || "?").charAt(0)) + "</span>" +
       '<div class="card-author-names"><span class="card-author-name">' + esc(b.organizer || it.org) + "</span><time>" +
       esc(b.deadline ? t("bDeadline") + " " + b.deadline : t("bNoDeadline")) + "</time></div></div>" +
       '<h3 class="card-title"><a href="#/bounty/' + encodeURIComponent(it.slug) + '">' + esc(pick(it, "title")) + "</a></h3>" +
-      '<div class="deal-discount">' + esc(b.reward) + "</div>" +
-      '<div class="training-line">' + [esc(b.eligibility), esc(b.duration)].filter(Boolean).join(" · ") + "</div>" +
       '<p class="card-summary">' + esc(pick(it, "summary")) + "</p>" +
+      '<div class="training-line">' + [esc(b.duration), esc(b.eligibility)].filter(Boolean).join(" · ") + "</div>" +
+      (clinical ? '<p class="fam-seek bounty-clinical">' + esc(t("bClinicalNote")) + "</p>" : "") +
+      (b.reward ? '<div class="training-line"><b>' + t("bReward") + "：</b>" + esc(b.reward) + "</div>" : "") +
       '<div class="card-meta">' + badges.join("") + "</div></article>";
   }
   function renderBounty() {
@@ -594,26 +621,33 @@
     var types = []; all.forEach(function (it) { var x = it.bounty.reward_type; if (x && types.indexOf(x) < 0) types.push(x); });
     var list = all.filter(function (it) {
       var b = it.bounty;
-      return !it.ended && (!bState.region || it.region === bState.region) && (!bState.type || b.reward_type === bState.type) &&
+      return !bountyEnded(it) && (!bState.region || it.region === bState.region) && (!bState.type || b.reward_type === bState.type) &&
         (!bState.sure || b.guaranteed) && (!bState.online || /網上|online/i.test(b.location || b.method || ""));
     }).sort(function (a, b) { var x = a.bounty.deadline || "9999", y = b.bounty.deadline || "9999"; return x < y ? -1 : x > y ? 1 : 0; });
-    var ended = all.filter(function (it) { return it.ended; });
+    var ended = all.filter(bountyEnded);
+    var groups = ["bGrpSurvey", "bGrpExp", "bGrpClinical", "bGrpOther"].map(function (g) {
+      var xs = list.filter(function (it) { return bountyGroup(it) === g; });
+      return xs.length ? '<h3 class="section-title">' + t(g) + "（" + xs.length + "）</h3>" + famGrid(xs) : "";
+    }).join("");
     app.innerHTML = '<h2 class="page-title">' + t("bTitle") + '</h2><p class="page-sub">' + t("bSub") + '</p><div class="toolbar">' +
       famChips("b:region", FAM.bounty_regions || ["香港", "澳門", "美國"], bState.region, t("bAllRegions")) +
       (types.length > 1 ? famChips("b:type", types, bState.type, t("bAllTypes")) : "") +
       '<div class="chip-row"><button class="chip' + (bState.sure ? " on" : "") + '" data-fam="b:sure" data-v="1">' + t("bSure") + '</button>' +
       '<button class="chip' + (bState.online ? " on" : "") + '" data-fam="b:online" data-v="1">' + t("bOnline") + "</button></div></div>" +
-      (list.length ? famGrid(list) : '<div class="status-line">' + (all.length ? t("bNoMatch") : t("bEmpty")) + "</div>") +
+      (list.length ? groups : '<div class="status-line">' + (all.length ? t("bNoMatch") : t("bEmpty")) + "</div>") +
       (ended.length ? '<details class="archive-fold"><summary>' + t("bEnded", { n: ended.length }) + "</summary>" + ended.map(function (it) {
         return '<div class="card-row"><span class="cat-dot"></span><a href="#/bounty/' + encodeURIComponent(it.slug) + '">' + esc(pick(it, "title")) + "</a><time>" + esc(it.bounty.deadline) + "</time></div>";
-      }).join("") + "</details>" : "");
+      }).join("") + "</details>" : "") +
+      '<p class="fam-disclaimer">' + t("bFoot") + "</p>";
   }
   function renderBountyItem(slug) {
     var it = FAM.items.filter(function (x) { return x.slug === slug && x.bounty; })[0];
     if (!it) { app.innerHTML = '<div class="status-line">' + t("bNoMatch") + ' <a href="#/bounty">' + t("back") + "</a></div>"; return; }
     var b = it.bounty;
-    var rows = [["bReward", b.reward + (b.guaranteed ? "（" + t("bSure") + "）" : "（" + t("bLucky") + "）")], ["bOrganizer", b.organizer || it.org], ["bFunder", b.funder],
-      ["bMethod", b.method], ["bElig", b.eligibility], ["bDuration", b.duration], ["bDeadline", b.deadline || t("bNoDeadline")], ["bLocation", b.location],
+    var clinical = bountyGroup(it) === "bGrpClinical";
+    // 次序：形式與負擔 → 資格 → 主辦 → 補償 → 截止與聯絡。補償條件未明時不加「合資格者可獲補償」以外的推測。
+    var rows = [["bMethod", b.method], ["bDuration", b.duration], ["bElig", b.eligibility], ["bLocation", b.location], ["bOrganizer", b.organizer || it.org], ["bFunder", b.funder],
+      ["bReward", b.reward + "（" + (b.guaranteed ? t("bSureNote") : t("bLucky")) + "）"], ["bDeadline", b.deadline || t("bNoDeadline")],
       ["bHow", b.how_to_join], ["bContact", b.contact], ["famChecked", b.last_checked]];
     var main = '<h2 class="detail-title">' + esc(pick(it, "title")) + '</h2><div class="card-meta"><span class="badge">' + esc(it.region) + "</span>" +
       (it.posted_at ? "<time>" + esc(it.posted_at) + "</time>" : "") + "</div>" +
@@ -621,13 +655,16 @@
       '<p class="detail-summary">' + esc(pick(it, "summary")) + '</p><h3 class="section-title">' + t("bInfo") + '</h3><div class="panel"><dl class="kv">' +
       rows.filter(function (r) { return r[1]; }).map(function (r) { return "<dt>" + t(r[0]) + "</dt><dd>" + linkify(r[1]) + "</dd>"; }).join("") + "</dl></div>";
     if ((it.tips || []).length) main += '<h3 class="section-title">' + t("famTips") + "</h3><ul>" + it.tips.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul>";
+    if (clinical) main += '<p class="fam-seek bounty-clinical">' + esc(t("bClinicalNote")) + "</p>";
     if (b.caution) main += '<h3 class="section-title">' + t("bCaution") + '</h3><div class="panel fam-seek">' + esc(b.caution) + "</div>";
+    main += '<h3 class="section-title">' + t("bAskTitle") + '</h3><div class="panel"><p class="ref">' + esc(t("bAskNote")) + "</p><ul>" +
+      t("bAsk").map(function (q) { return "<li>" + esc(q) + "</li>"; }).join("") + "</ul></div>";
     main += '<h3 class="section-title">' + t("source") + '</h3><div class="source-post"><div class="handle">' + esc([it.org, it.source_type].filter(Boolean).join(" · ")) + "</div>" +
       (it.source_title ? "<b>" + esc(it.source_title) + "</b><br>" : "") +
       (safeUrl(it.url) ? '<a href="' + esc(it.url) + '" target="_blank" rel="noopener noreferrer">' + t("openSource") + "</a>" : "") + "</div>" +
       '<p class="ref">' + t("famAI") + "</p>";
     app.innerHTML = '<div class="detail-page"><p style="margin-top:16px"><a href="#/bounty" id="back">' + t("back") + '</a></p><div class="fam-detail">' + main + "</div>" +
-      '<p class="fam-disclaimer">' + t("bSub") + "</p></div>";
+      '<p class="fam-disclaimer">' + t("bFoot") + "</p></div>";
     document.getElementById("back").addEventListener("click", goBack);
     window.scrollTo(0, 0);
   }
