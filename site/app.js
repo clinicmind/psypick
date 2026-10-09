@@ -668,10 +668,9 @@
     var main = '<h2 class="detail-title">' + esc(pick(it, "title")) + '</h2><div class="card-meta"><span class="badge">' + esc(it.region) + "</span>" +
       (it.posted_at ? "<time>" + esc(it.posted_at) + "</time>" : "") + "</div>" +
       (it.verify_needed ? '<p class="badge badge-warn" style="display:inline-block;margin-top:12px">' + t("verifyNote") + (it.verify_reason ? "（" + esc(it.verify_reason) + "）" : "") + "</p>" : "") +
-      '<p class="detail-summary">' + esc(pick(it, "summary")) + '</p><h3 class="section-title">' + t("bInfo") + '</h3><div class="panel"><dl class="kv">' +
+      '<p class="detail-summary">' + esc(pick(it, "summary")) + "</p>" + (clinical ? '<p class="fam-seek bounty-clinical">' + esc(t("bClinicalNote")) + "</p>" : "") + '<h3 class="section-title">' + t("bInfo") + '</h3><div class="panel"><dl class="kv">' +
       rows.filter(function (r) { return r[1]; }).map(function (r) { return "<dt>" + t(r[0]) + "</dt><dd>" + linkify(r[1]) + "</dd>"; }).join("") + "</dl></div>";
     if ((it.tips || []).length) main += '<h3 class="section-title">' + t("famTips") + "</h3><ul>" + it.tips.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul>";
-    if (clinical) main += '<p class="fam-seek bounty-clinical">' + esc(t("bClinicalNote")) + "</p>";
     if (b.caution) main += '<h3 class="section-title">' + t("bCaution") + '</h3><div class="panel fam-seek">' + esc(b.caution) + "</div>";
     main += '<h3 class="section-title">' + t("bAskTitle") + '</h3><div class="panel"><p class="ref">' + esc(t("bAskNote")) + "</p><ul>" +
       t("bAsk").map(function (q) { return "<li>" + esc(q) + "</li>"; }).join("") + "</ul></div>";
