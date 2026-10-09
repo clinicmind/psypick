@@ -7,9 +7,9 @@
       appName: "知心選", tagline: "AI × 心理學的案例訊號站", navHome: "首頁", navFeatured: "精選", navTraining: "進修", navSaved: "★ 收藏",
       langLabel: "EN", loading: "載入中…", loadError: "資料載入失敗", retry: "重試", empty: "還沒有案例。",
       search: "搜尋標題、摘要、標籤…", all: "全部", heat: "熱度", collection: "合集 · {n} 篇", verify: "待查證", ethics: "⚑ 倫理提醒",
-      free: "免費", lowCost: "低價", deadline: "截止", soon: "即將截止", anytime: "隨時可上", ce: "有學分",
+      free: "免費", lowCost: "低價", deadline: "截止", soon: "即將截止", anytime: "隨時可上", ce: "有學分", cs_yes: "有學分", cs_extra: "CE 另付費", cs_none: "非學分", cs_unknown: "學分待確認",
       archive: "歸檔（{n}）", noMatches: "沒有符合條件的案例", back: "← 返回", save: "收藏", saved: "已收藏",
-      brief: "看點", psych: "心理學視角", evidence: "證據等級", population: "適用對象", flags: "倫理旗標", concepts: "相關概念",
+      brief: "看點", psych: "心理學視角", evidence: "證據等級", design: "研究設計", population: "適用對象", flags: "倫理旗標", concepts: "相關概念",
       questions: "督導討論題", caution: "使用提醒", source: "來源", related: "相關案例", openSource: "開啟原文 ↗", prompt: "原文 Prompt",
       trainingInfo: "培訓資訊", provider: "主辦", format: "形式", price: "費用", credits: "學分", language: "語言", eventDate: "上課日期",
       audience: "適合對象", topic: "主題", signup: "報名連結 ↗", ref: "出處", verifyNote: "這則內容的部分資訊尚未查證，使用前請自行確認。",
@@ -19,7 +19,7 @@
       onlyFree: "只看免費", helpTitle: "卡片上的數字與標記",
       helpHeat: "綜合分數的四捨五入值，不是按讚數。由編輯評的吸引力分（0–3）、同一件事被幾篇來源提到（取對數）、證據等級達對照試驗以上加 1 分、編輯加星加 3 分組成；分數每 {d} 天減半。原始分數達 {m} 分且在全站前 {n} 名就進入精選。培訓不衰減，截止前 7 天加分。",
       helpCollection: "多個來源講同一件事時合併成一個案例，顯示「合集 · N 篇」。",
-      helpEvidence: "0 個人經驗或評論、1 產品宣稱、2 前導或質性研究、3 對照試驗、4 系統性回顧或統合分析。",
+      helpEvidence: "E0–E4 是舊版粗略分層，只按資料種類排序（0 個人經驗或評論、1 產品宣稱、2 前導或質性研究、3 對照試驗、4 系統性回顧或統合分析），不代表研究可靠度，也不是正式的證據確定性評級。已標明研究設計的項目改顯示研究設計（例如範圍回顧、橫斷面調查、研究方案）；各研究的限制見詳情頁的說明。",
       helpVerify: "資訊不完整或來自社群平台、尚未查證的內容。", footerRights: "內容版權屬原作者；本站提供導讀與專業註解，不構成醫療或治療建議。",
       week: "週", notFound: "找不到這一頁，可能已移除或網址有誤。", toHome: "回首頁",
       intro: "AI × 心理學的案例訊號站：研究、倫理事件與進修資訊，每則附心理專業註解。按右上「?」看卡片標記的意思。"
@@ -28,9 +28,9 @@
       appName: "PsyPick", tagline: "A signal station for AI × psychology", navHome: "Home", navFeatured: "Featured", navTraining: "Training", navSaved: "★ Saved",
       langLabel: "中文", loading: "Loading…", loadError: "Failed to load data", retry: "Retry", empty: "No cases yet.",
       search: "Search titles, summaries, tags…", all: "All", heat: "Heat", collection: "Collection · {n} posts", verify: "Unverified", ethics: "⚑ Ethics note",
-      free: "Free", lowCost: "Low cost", deadline: "Deadline", soon: "Closing soon", anytime: "Self-paced", ce: "CE credits",
+      free: "Free", lowCost: "Low cost", deadline: "Deadline", soon: "Closing soon", anytime: "Self-paced", ce: "CE credits", cs_yes: "CE credits", cs_extra: "CE costs extra", cs_none: "Not CE credit", cs_unknown: "Credit to be confirmed",
       archive: "Archive ({n})", noMatches: "No matching cases", back: "← Back", save: "Save", saved: "Saved",
-      brief: "Highlights", psych: "Psychology lens", evidence: "Evidence", population: "Population", flags: "Ethics flags", concepts: "Concepts",
+      brief: "Highlights", psych: "Psychology lens", evidence: "Evidence", design: "Study design", population: "Population", flags: "Ethics flags", concepts: "Concepts",
       questions: "Supervision questions", caution: "Caution", source: "Sources", related: "Related cases", openSource: "Open source ↗", prompt: "Original prompt",
       trainingInfo: "Training details", provider: "Provider", format: "Format", price: "Price", credits: "Credits", language: "Language", eventDate: "Date",
       audience: "Audience", topic: "Topic", signup: "Sign up ↗", ref: "Source", verifyNote: "Some details have not been verified yet. Please check before relying on them.",
@@ -40,7 +40,7 @@
       onlyFree: "Free only", helpTitle: "What the numbers mean",
       helpHeat: "A rounded composite score, not a like count: an editor appeal score (0–3), how many sources mention it (log-scaled), +1 for controlled-trial evidence or better, +3 for an editor star. It halves every {d} days. Raw score ≥ {m} and inside the top {n} → Featured. Trainings don't decay and get a boost in their last 7 days.",
       helpCollection: "When several sources cover the same thing they are merged into one case, shown as \"Collection · N posts\".",
-      helpEvidence: "0 opinion, 1 vendor claim, 2 pilot/qualitative, 3 controlled trial, 4 systematic review/meta-analysis.",
+      helpEvidence: "E0–E4 is an older, coarse grouping by kind of source (0 opinion, 1 vendor claim, 2 pilot/qualitative, 3 controlled trial, 4 systematic review/meta-analysis). It is not a measure of reliability or a formal certainty-of-evidence rating. Items with a known study design show the design instead (e.g. scoping review, cross-sectional survey, protocol); see each item for its limitations.",
       helpVerify: "Incomplete or social-media-sourced details not yet verified.", footerRights: "All content belongs to its original creators. Commentary here is not medical or treatment advice.",
       week: "Week", notFound: "This page could not be found. It may have been removed or the link is wrong.", toHome: "Back to home",
       intro: "Signals from AI × psychology: research, ethics cases and training, each with a note from a psychology perspective. Tap \"?\" for what the card labels mean."
@@ -111,12 +111,26 @@
     });
   }
 
+  // 研究設計（可選欄位 study_design，陣列）。有值時顯示設計，不再顯示 E0–E4 資料種類標籤；缺值則沿用舊標籤。
+  var DESIGN = {
+    rct: { zh: "隨機對照試驗", en: "Randomised controlled trial" }, randomised_experiment: { zh: "隨機分派實驗", en: "Randomised experiment" },
+    nonrandomised_controlled: { zh: "非隨機對照研究", en: "Non-randomised controlled study" }, nonrandomised_comparison: { zh: "回溯性非隨機比較", en: "Retrospective non-randomised comparison" },
+    single_arm: { zh: "單組前後測", en: "Single-arm pre/post" }, cohort: { zh: "觀察性世代／縱貫研究", en: "Observational cohort / longitudinal" },
+    cross_sectional: { zh: "橫斷面調查", en: "Cross-sectional survey" }, survey: { zh: "問卷調查", en: "Questionnaire survey" }, qualitative: { zh: "質性研究", en: "Qualitative study" },
+    scoping_review: { zh: "範圍回顧", en: "Scoping review" }, systematic_review: { zh: "系統性回顧", en: "Systematic review" }, meta_analysis: { zh: "統合分析", en: "Meta-analysis" },
+    protocol: { zh: "研究方案（尚無結果）", en: "Study protocol (no results yet)" }
+  };
+  function designLabel(c) {
+    return (c.study_design || []).map(function (k) { return DESIGN[k] ? DESIGN[k][prefs.lang] : null; }).filter(Boolean).join(" · ");
+  }
+
   // ---------- 卡片 ----------
   function trainingBadges(c) {
     var tr = c.training || {}, out = [];
     if (tr.price_tier === "免費") out.push('<span class="badge badge-free">' + t("free") + "</span>");
     else if (tr.price_tier === "低價") out.push('<span class="badge">' + t("lowCost") + (tr.price ? " " + esc(tr.price) : "") + "</span>");
-    if (tr.ce_credits && !/^(無|否|no|none)$/i.test(tr.ce_credits)) out.push('<span class="badge">' + t("ce") + "</span>");
+    var cs = PsyCredits.creditStatus(tr.ce_credits);
+    out.push('<span class="badge' + (cs === "yes" ? "" : " badge-warn") + '">' + t("cs_" + cs) + "</span>");
     if (c.deadline_soon) out.push('<span class="badge badge-soon">' + t("soon") + "</span>");
     return out.join("");
   }
@@ -130,7 +144,9 @@
     var isTraining = c.category === DATA.config.training_category;
     var meta = ['<span class="card-stat">' + t("heat") + " " + Math.round(c.hot_score || 0) + "</span>"];
     if (c.mention_count > 1) meta.push('<span class="card-stat">' + t("collection", { n: c.mention_count }) + "</span>");
-    if (!isTraining && c.evidence_level != null) {
+    if (!isTraining && designLabel(c)) {
+      meta.push('<span class="badge" title="' + t("design") + '">' + esc(designLabel(c)) + "</span>");
+    } else if (!isTraining && c.evidence_level != null) {
       var ev = DATA.config.evidence_levels[String(c.evidence_level)];
       meta.push('<span class="badge" title="' + t("evidence") + '">E' + c.evidence_level + (ev ? " " + esc(ev[prefs.lang]) : "") + "</span>");
     }
@@ -259,7 +275,7 @@
       if (c.original_prompt) main += '<h3 class="section-title">' + t("prompt") + '</h3><pre class="prompt-block">' + esc(c.original_prompt) + "</pre>";
 
       if (isTraining && c.training) {
-        var tr = c.training, rows = [["provider", tr.provider], ["format", tr.format], ["price", tr.price || tr.price_tier], ["credits", tr.ce_credits],
+        var tr = c.training, rows = [["provider", tr.provider], ["format", tr.format], ["price", tr.price || tr.price_tier], ["credits", tr.ce_credits ? t("cs_" + PsyCredits.creditStatus(tr.ce_credits)) + "：" + tr.ce_credits : t("cs_unknown")],
           ["language", tr.language], ["eventDate", tr.event_date], ["deadline", tr.deadline], ["audience", tr.audience_level], ["topic", tr.topic]];
         main += '<h3 class="section-title">' + t("trainingInfo") + '</h3><div class="panel"><dl class="kv">' +
           rows.filter(function (r) { return r[1]; }).map(function (r) { return "<dt>" + t(r[0]) + "</dt><dd>" + esc(r[1]) + "</dd>"; }).join("") + "</dl>" +
@@ -273,9 +289,10 @@
       }).join("");
 
       var aside = "";
-      if (!isTraining && ev) {
+      var dsg = designLabel(c);
+      if (!isTraining && (ev || dsg)) {
         aside += '<div class="panel"><h4>' + t("psych") + "</h4>";
-        aside += '<dl class="kv"><dt>' + t("evidence") + "</dt><dd>E" + esc(c.evidence_level) + " " + esc(ev[prefs.lang]) + (c.evidence_note ? '<div class="ref">' + esc(c.evidence_note) + "</div>" : "") + "</dd>" +
+        aside += '<dl class="kv"><dt>' + (dsg ? t("design") : t("evidence")) + "</dt><dd>" + (dsg ? esc(dsg) : "E" + esc(c.evidence_level) + " " + esc(ev[prefs.lang])) + (c.evidence_note ? '<div class="ref">' + esc(c.evidence_note) + "</div>" : "") + "</dd>" +
           ((c.population || []).length ? "<dt>" + t("population") + "</dt><dd>" + esc(c.population.join("、")) + "</dd>" : "") + "</dl>";
         aside += "</div>";
       }
@@ -311,7 +328,7 @@
       famAllAges: "全部年齡", famAllTopics: "全部主題", famAllRegions: "全部地區", famSearch: "搜尋文章…",
       famWhenAll: "全部日期", famWeek: "本週", famNextWeek: "下週", famMonth: "本月", famFreeOnly: "只看免費",
       famEnded: "已結束（{n}）", famNoItems: "沒有符合條件的內容", famNoEvents: "這段時間沒有收錄的活動。",
-      famTips: "實用做法", famSeekHelp: "何時該求助", famAct: "活動資訊", famDate: "日期", famTime: "時間", famVenue: "地點",
+      famTips: "實用做法", famCorrection: "更正說明", famSeekHelp: "何時該求助", famAct: "活動資訊", famDate: "日期", famTime: "時間", famVenue: "地點",
       famPrice: "費用", famAge: "年齡", famSignup: "報名方式", famDeadline: "截止", famOrganizer: "主辦", famChecked: "最後核對",
       famAI: "AI 協助整理，內容以原文為準", famDisclaimer: "本版只供參考，不能取代醫生、心理學家或其他專業人員的評估。擔心孩子的情況，請聯絡家庭醫生、母嬰健康院（香港）或衛生中心（澳門）。活動資料可能有變，報名前請以主辦單位公布為準。",
       famStages: "各年齡發展重點", famPhysical: "生理", famPsych: "心理與社交", famWatch: "值得留意的警號", famChecklists: "發展檢核表",
@@ -327,7 +344,7 @@
       famAllAges: "All ages", famAllTopics: "All topics", famAllRegions: "All regions", famSearch: "Search articles…",
       famWhenAll: "Any date", famWeek: "This week", famNextWeek: "Next week", famMonth: "This month", famFreeOnly: "Free only",
       famEnded: "Ended ({n})", famNoItems: "Nothing matches", famNoEvents: "No activities listed for this period.",
-      famTips: "What you can do", famSeekHelp: "When to get help", famAct: "Activity details", famDate: "Date", famTime: "Time", famVenue: "Venue",
+      famTips: "What you can do", famCorrection: "Correction", famSeekHelp: "When to get help", famAct: "Activity details", famDate: "Date", famTime: "Time", famVenue: "Venue",
       famPrice: "Fee", famAge: "Ages", famSignup: "How to sign up", famDeadline: "Deadline", famOrganizer: "Organiser", famChecked: "Last checked",
       famAI: "Summarised with AI help; the original source prevails", famDisclaimer: "For reference only and not a substitute for assessment by a doctor, psychologist or other professional. Activity details may change; check with the organiser before signing up.",
       famStages: "Development by age", famPhysical: "Physical", famPsych: "Psychological & social", famWatch: "Signs to watch", famChecklists: "Milestone checklists",
@@ -522,7 +539,8 @@
       (it.posted_at ? "<time>" + esc(it.posted_at) + "</time>" : "") + "</div>";
     var main = '<h2 class="detail-title">' + esc(pick(it, "title")) + "</h2>" + meta +
       (it.verify_needed ? '<p class="badge badge-warn" style="display:inline-block;margin-top:12px">' + t("verifyNote") + (it.verify_reason ? "（" + esc(it.verify_reason) + "）" : "") + "</p>" : "") +
-      '<p class="detail-summary">' + esc(pick(it, "summary")) + "</p>";
+      '<p class="detail-summary">' + esc(pick(it, "summary")) + "</p>" +
+      (it.correction_note ? '<div class="panel fam-seek"><b>' + t("famCorrection") + "：</b>" + esc(it.correction_note) + "</div>" : "");
     if (a) {
       var rows = [["famDate", famDateText(it)], ["famTime", a.time], ["famVenue", a.venue], ["famPrice", a.price], ["famAge", a.age_range],
         ["famSignup", a.signup], ["famDeadline", a.deadline], ["famOrganizer", a.organizer || it.org], ["famChecked", a.last_checked]];
@@ -560,32 +578,59 @@
   }
 
 
-  // ---------- 賞金獵人：有報酬的研究項目 ----------
+  // ---------- 研究參與（路由維持 #/bounty；資料 kind 仍為 bounty） ----------
   var BSTR = {
-    zh: { navBounty: "賞金獵人", bTitle: "賞金獵人", bSub: "香港、澳門、美國的大學和機構正在招募參加者、有現金或禮券報酬的研究問卷、訪談和實驗。本站只整理公開資料，沒有參與招募；參加前請細閱主辦方的說明和私隱條款，不要提供銀行密碼，也不需要先付任何費用。",
-      bAllRegions: "全部地區", bAllTypes: "全部報酬", bSure: "人人有份", bLucky: "抽獎", bOnline: "網上參加", bReward: "報酬", bOrganizer: "主辦", bFunder: "資助／贊助",
+    zh: { navBounty: "研究參與", bTitle: "研究參與", bSub: "公開招募、參加條件與補償資訊。香港、澳門、美國的大學和機構正在招募參加者的研究問卷、訪談、實驗與臨床研究。研究的目的在產生知識，參與不保證有直接的治療效益。",
+      bFoot: "本站只整理公開資料，沒有參與招募，也不判斷你是否合資格。參加前請細閱主辦方的說明、知情同意書和私隱條款；不要提供銀行密碼，也不需要先付任何費用。補償與退出安排以研究團隊的書面說明為準。",
+      bAllRegions: "全部地區", bAllTypes: "全部補償形式", bSure: "合資格者可獲補償", bSureNote: "合資格並符合研究條件者可獲補償", bLucky: "抽獎", bOnline: "網上參加", bReward: "補償", bOrganizer: "主辦", bFunder: "資助／贊助",
       bMethod: "形式", bElig: "參加資格", bDuration: "所需時間", bDeadline: "截止", bHow: "參加方法", bContact: "查詢", bLocation: "地點", bCaution: "注意",
-      bInfo: "項目資訊", bNoDeadline: "未列截止日", bEnded: "已截止（{n}）", bEmpty: "目前沒有收錄的項目。", bNoMatch: "沒有符合條件的項目" },
-    en: { navBounty: "Paid studies", bTitle: "Paid research studies", bSub: "Surveys, interviews and experiments by universities and organisations in Hong Kong, Macau and the US that pay participants in cash or vouchers. We only list public information and are not involved in recruitment. Read the organiser's information and privacy terms first; never give bank passwords or pay anything to take part.",
-      bAllRegions: "All regions", bAllTypes: "All rewards", bSure: "Everyone paid", bLucky: "Lucky draw", bOnline: "Online", bReward: "Reward", bOrganizer: "Organiser", bFunder: "Funded / sponsored by",
+      bInfo: "項目資訊", bNoDeadline: "截止日未公布，請向研究團隊確認", bEnded: "已截止（{n}）", bEmpty: "目前沒有收錄的項目。", bNoMatch: "沒有符合條件的項目",
+      bGrpSurvey: "問卷與訪談", bGrpExp: "行為與生理實驗", bGrpClinical: "臨床介入研究", bGrpOther: "其他",
+      bClinicalNote: "臨床介入研究：可能涉及醫療程序、隨機分組、住院或藥物／儀器介入。報名前請先看清程序、所需時間、風險與退出安排，並與醫生商量。",
+      bAskTitle: "報名前可以問研究團隊", bAskNote: "以下是一般提問清單，不代表該研究的實際安排；實際條件以研究團隊的書面說明為準。",
+      bAsk: ["如果中途退出，我的資料會怎樣處理？可以隨時退出嗎？", "只完成部分，補償會怎樣計算？", "我的資料會被如何使用、由誰保管、會否與其他機構分享？", "參加可能有哪些風險或不適？出現問題時找誰？",
+        "是否會被隨機分組？分到哪一組會有甚麼不同？", "如果不參加，我還有哪些其他照護選項？", "如果參加者是未成年人：家長或監護人的同意，以及孩子本人意願的安排是甚麼？"] },
+    en: { navBounty: "Research participation", bTitle: "Research participation", bSub: "Public recruitment notices with eligibility and compensation details. Universities and organisations in Hong Kong, Macau and the US are recruiting for surveys, interviews, experiments and clinical studies. Research exists to produce knowledge; taking part does not guarantee any personal treatment benefit.",
+      bFoot: "We only list public information; we are not involved in recruitment and cannot tell whether you qualify. Read the organiser's information, consent form and privacy terms first; never give bank passwords or pay anything to take part. Compensation and withdrawal arrangements follow the research team's written information.",
+      bAllRegions: "All regions", bAllTypes: "All compensation types", bSure: "Eligible participants compensated", bSureNote: "Compensation for eligible participants who meet the study conditions", bLucky: "Lucky draw", bOnline: "Online", bReward: "Compensation", bOrganizer: "Organiser", bFunder: "Funded / sponsored by",
       bMethod: "Format", bElig: "Eligibility", bDuration: "Time needed", bDeadline: "Deadline", bHow: "How to join", bContact: "Enquiries", bLocation: "Where", bCaution: "Note",
-      bInfo: "Study details", bNoDeadline: "No deadline listed", bEnded: "Closed ({n})", bEmpty: "No studies listed right now.", bNoMatch: "No matching studies" }
+      bInfo: "Study details", bNoDeadline: "Deadline not published; ask the research team", bEnded: "Closed ({n})", bEmpty: "No studies listed right now.", bNoMatch: "No matching studies",
+      bGrpSurvey: "Surveys & interviews", bGrpExp: "Behavioural & physiological experiments", bGrpClinical: "Clinical intervention studies", bGrpOther: "Other",
+      bClinicalNote: "Clinical intervention study: may involve medical procedures, random assignment, hospital stays, or drug/device interventions. Check the procedures, time commitment, risks and withdrawal terms first, and talk to your doctor.",
+      bAskTitle: "Questions to ask the research team before joining", bAskNote: "A general checklist, not the actual arrangements of this study; follow the research team's written information.",
+      bAsk: ["If I withdraw part-way, what happens to my data? Can I leave at any time?", "How is compensation worked out if I only complete part of it?", "How will my data be used, who keeps it, and will it be shared with other organisations?", "What risks or discomforts might there be, and who do I contact if something goes wrong?",
+        "Will I be randomly assigned to a group, and what differs between groups?", "If I don't take part, what other care options do I have?", "If the participant is a minor: how are parent/guardian consent and the child's own willingness handled?"] }
   };
   Object.keys(BSTR).forEach(function (l) { Object.keys(BSTR[l]).forEach(function (k) { STR[l][k] = BSTR[l][k]; }); });
   var bState = { region: null, type: null, sure: false, online: false };
+  // 依「形式」分三組；先看到程序與負擔，補償放在後面。method 可含「|」複選。
+  function bountyGroup(it) {
+    var m = it.bounty.method || "";
+    if (/臨床/.test(m)) return "bGrpClinical";
+    if (/實驗/.test(m)) return "bGrpExp";
+    if (/問卷|訪談/.test(m)) return "bGrpSurvey";
+    return "bGrpOther";
+  }
+  // 截止日以瀏覽當日（港澳）重算；只有明確的招募截止日才會令項目歸入已截止，缺漏不補值。
+  function bountyEnded(it) {
+    var dl = it.bounty && it.bounty.deadline;
+    return !!it.ended || (PsyDates.valid(dl) && dl < PsyDates.todayMacau());
+  }
   function bountyCard(it) {
     var b = it.bounty, badges = ['<span class="badge">' + esc(it.region) + "</span>"];
     if (b.method) badges.push('<span class="badge">' + esc(b.method) + "</span>");
     badges.push('<span class="badge ' + (b.guaranteed ? "badge-free" : "") + '">' + (b.guaranteed ? t("bSure") : t("bLucky")) + "</span>");
     if (it.verify_needed) badges.push('<span class="badge badge-warn">' + t("verify") + "</span>");
+    var clinical = bountyGroup(it) === "bGrpClinical";
     return '<article class="card fam-card fam-bounty">' +
       '<div class="card-author"><span class="cat-avatar fam-avatar" aria-hidden="true">' + esc((b.organizer || it.org || "?").charAt(0)) + "</span>" +
       '<div class="card-author-names"><span class="card-author-name">' + esc(b.organizer || it.org) + "</span><time>" +
       esc(b.deadline ? t("bDeadline") + " " + b.deadline : t("bNoDeadline")) + "</time></div></div>" +
       '<h3 class="card-title"><a href="#/bounty/' + encodeURIComponent(it.slug) + '">' + esc(pick(it, "title")) + "</a></h3>" +
-      '<div class="deal-discount">' + esc(b.reward) + "</div>" +
-      '<div class="training-line">' + [esc(b.eligibility), esc(b.duration)].filter(Boolean).join(" · ") + "</div>" +
       '<p class="card-summary">' + esc(pick(it, "summary")) + "</p>" +
+      '<div class="training-line">' + [esc(b.duration), esc(b.eligibility)].filter(Boolean).join(" · ") + "</div>" +
+      (clinical ? '<p class="fam-seek bounty-clinical">' + esc(t("bClinicalNote")) + "</p>" : "") +
+      (b.reward ? '<div class="training-line"><b>' + t("bReward") + "：</b>" + esc(b.reward) + "</div>" : "") +
       '<div class="card-meta">' + badges.join("") + "</div></article>";
   }
   function renderBounty() {
@@ -593,40 +638,49 @@
     var types = []; all.forEach(function (it) { var x = it.bounty.reward_type; if (x && types.indexOf(x) < 0) types.push(x); });
     var list = all.filter(function (it) {
       var b = it.bounty;
-      return !it.ended && (!bState.region || it.region === bState.region) && (!bState.type || b.reward_type === bState.type) &&
+      return !bountyEnded(it) && (!bState.region || it.region === bState.region) && (!bState.type || b.reward_type === bState.type) &&
         (!bState.sure || b.guaranteed) && (!bState.online || /網上|online/i.test(b.location || b.method || ""));
     }).sort(function (a, b) { var x = a.bounty.deadline || "9999", y = b.bounty.deadline || "9999"; return x < y ? -1 : x > y ? 1 : 0; });
-    var ended = all.filter(function (it) { return it.ended; });
+    var ended = all.filter(bountyEnded);
+    var groups = ["bGrpSurvey", "bGrpExp", "bGrpClinical", "bGrpOther"].map(function (g) {
+      var xs = list.filter(function (it) { return bountyGroup(it) === g; });
+      return xs.length ? '<h3 class="section-title">' + t(g) + "（" + xs.length + "）</h3>" + famGrid(xs) : "";
+    }).join("");
     app.innerHTML = '<h2 class="page-title">' + t("bTitle") + '</h2><p class="page-sub">' + t("bSub") + '</p><div class="toolbar">' +
       famChips("b:region", FAM.bounty_regions || ["香港", "澳門", "美國"], bState.region, t("bAllRegions")) +
       (types.length > 1 ? famChips("b:type", types, bState.type, t("bAllTypes")) : "") +
       '<div class="chip-row"><button class="chip' + (bState.sure ? " on" : "") + '" data-fam="b:sure" data-v="1">' + t("bSure") + '</button>' +
       '<button class="chip' + (bState.online ? " on" : "") + '" data-fam="b:online" data-v="1">' + t("bOnline") + "</button></div></div>" +
-      (list.length ? famGrid(list) : '<div class="status-line">' + (all.length ? t("bNoMatch") : t("bEmpty")) + "</div>") +
+      (list.length ? groups : '<div class="status-line">' + (all.length ? t("bNoMatch") : t("bEmpty")) + "</div>") +
       (ended.length ? '<details class="archive-fold"><summary>' + t("bEnded", { n: ended.length }) + "</summary>" + ended.map(function (it) {
         return '<div class="card-row"><span class="cat-dot"></span><a href="#/bounty/' + encodeURIComponent(it.slug) + '">' + esc(pick(it, "title")) + "</a><time>" + esc(it.bounty.deadline) + "</time></div>";
-      }).join("") + "</details>" : "");
+      }).join("") + "</details>" : "") +
+      '<p class="fam-disclaimer">' + t("bFoot") + "</p>";
   }
   function renderBountyItem(slug) {
     var it = FAM.items.filter(function (x) { return x.slug === slug && x.bounty; })[0];
     if (!it) { app.innerHTML = '<div class="status-line">' + t("bNoMatch") + ' <a href="#/bounty">' + t("back") + "</a></div>"; return; }
     var b = it.bounty;
-    var rows = [["bReward", b.reward + (b.guaranteed ? "（" + t("bSure") + "）" : "（" + t("bLucky") + "）")], ["bOrganizer", b.organizer || it.org], ["bFunder", b.funder],
-      ["bMethod", b.method], ["bElig", b.eligibility], ["bDuration", b.duration], ["bDeadline", b.deadline || t("bNoDeadline")], ["bLocation", b.location],
+    var clinical = bountyGroup(it) === "bGrpClinical";
+    // 次序：形式與負擔 → 資格 → 主辦 → 補償 → 截止與聯絡。補償條件未明時不加「合資格者可獲補償」以外的推測。
+    var rows = [["bMethod", b.method], ["bDuration", b.duration], ["bElig", b.eligibility], ["bLocation", b.location], ["bOrganizer", b.organizer || it.org], ["bFunder", b.funder],
+      ["bReward", b.reward + "（" + (b.guaranteed ? t("bSureNote") : t("bLucky")) + "）"], ["bDeadline", b.deadline || t("bNoDeadline")],
       ["bHow", b.how_to_join], ["bContact", b.contact], ["famChecked", b.last_checked]];
     var main = '<h2 class="detail-title">' + esc(pick(it, "title")) + '</h2><div class="card-meta"><span class="badge">' + esc(it.region) + "</span>" +
       (it.posted_at ? "<time>" + esc(it.posted_at) + "</time>" : "") + "</div>" +
       (it.verify_needed ? '<p class="badge badge-warn" style="display:inline-block;margin-top:12px">' + t("verifyNote") + (it.verify_reason ? "（" + esc(it.verify_reason) + "）" : "") + "</p>" : "") +
-      '<p class="detail-summary">' + esc(pick(it, "summary")) + '</p><h3 class="section-title">' + t("bInfo") + '</h3><div class="panel"><dl class="kv">' +
+      '<p class="detail-summary">' + esc(pick(it, "summary")) + "</p>" + (clinical ? '<p class="fam-seek bounty-clinical">' + esc(t("bClinicalNote")) + "</p>" : "") + '<h3 class="section-title">' + t("bInfo") + '</h3><div class="panel"><dl class="kv">' +
       rows.filter(function (r) { return r[1]; }).map(function (r) { return "<dt>" + t(r[0]) + "</dt><dd>" + linkify(r[1]) + "</dd>"; }).join("") + "</dl></div>";
     if ((it.tips || []).length) main += '<h3 class="section-title">' + t("famTips") + "</h3><ul>" + it.tips.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul>";
     if (b.caution) main += '<h3 class="section-title">' + t("bCaution") + '</h3><div class="panel fam-seek">' + esc(b.caution) + "</div>";
+    main += '<h3 class="section-title">' + t("bAskTitle") + '</h3><div class="panel"><p class="ref">' + esc(t("bAskNote")) + "</p><ul>" +
+      t("bAsk").map(function (q) { return "<li>" + esc(q) + "</li>"; }).join("") + "</ul></div>";
     main += '<h3 class="section-title">' + t("source") + '</h3><div class="source-post"><div class="handle">' + esc([it.org, it.source_type].filter(Boolean).join(" · ")) + "</div>" +
       (it.source_title ? "<b>" + esc(it.source_title) + "</b><br>" : "") +
       (safeUrl(it.url) ? '<a href="' + esc(it.url) + '" target="_blank" rel="noopener noreferrer">' + t("openSource") + "</a>" : "") + "</div>" +
       '<p class="ref">' + t("famAI") + "</p>";
     app.innerHTML = '<div class="detail-page"><p style="margin-top:16px"><a href="#/bounty" id="back">' + t("back") + '</a></p><div class="fam-detail">' + main + "</div>" +
-      '<p class="fam-disclaimer">' + t("bSub") + "</p></div>";
+      '<p class="fam-disclaimer">' + t("bFoot") + "</p></div>";
     document.getElementById("back").addEventListener("click", goBack);
     window.scrollTo(0, 0);
   }
@@ -635,13 +689,13 @@
   var CSTR = {
     zh: { navConf: "會議", cTitle: "會議", cSub: "全球英文及華語區心理健康、輔導與心理治療會議：即將舉行與近期已舉行。每場附摘要、費用、報名連結、講者背景與代表作，以及對你的領域的看點。資料取自官方頁面，查不到的標「待查證」。",
       cUpcoming: "即將舉行", cPast: "已舉行", cAllRegions: "全部地區", cAllDomains: "全部領域", cOnline: "含網上參與", cEmpty: "沒有符合條件的會議",
-      cWhen: "日期", cWhere: "地點", cFormat: "形式", cLang: "語言", cOrg: "主辦", cFee: "費用", cDeadline: "報名截止", cSite: "官方網頁 ↗", cReg: "報名 ↗",
+      cWhen: "日期", cWhere: "地點", cFormat: "形式", cLang: "語言", cOrg: "主辦", cFee: "費用", cDeadline: "報名截止", cSite: "官方網頁 ↗", cReg: "報名（前往主辦方網站）↗",
       cSummary: "會議摘要", cInterest: "你可能感興趣的點", cInfo: "會議資訊", cSpeakers: "講者與代表作", cNoSpeakers: "官方尚未公布講者名單（或本站未能取得）。",
       cWorks: "代表作", cSession: "場次", cNoWorks: "代表作待查證", cVerified: "已核對", cUnverified: "待查證", cVerifyNote: "核對說明", cChecked: "資料查核日",
       cDays: "{n} 天後開始", cToday: "進行中", cEnded: "已結束", cNote: "會議資訊以官方頁面為準；講者簡介與代表作由 Claude 從公開資料整理，標「待查證」者尚未核對。內容以繁體中文提供。" },
     en: { navConf: "Conferences", cTitle: "Conferences", cSub: "Mental health, counselling and psychotherapy conferences in the English- and Chinese-speaking world, upcoming and recent. Each has a summary, fees, sign-up link, speaker backgrounds with key works, and why it may interest you. Content is in Traditional Chinese; unverified items are flagged.",
       cUpcoming: "Upcoming", cPast: "Recent", cAllRegions: "All regions", cAllDomains: "All fields", cOnline: "Online option", cEmpty: "No matching conferences",
-      cWhen: "Dates", cWhere: "Where", cFormat: "Format", cLang: "Language", cOrg: "Organiser", cFee: "Fee", cDeadline: "Deadline", cSite: "Official site ↗", cReg: "Register ↗",
+      cWhen: "Dates", cWhere: "Where", cFormat: "Format", cLang: "Language", cOrg: "Organiser", cFee: "Fee", cDeadline: "Deadline", cSite: "Official site ↗", cReg: "Register (opens organiser site) ↗",
       cSummary: "Summary", cInterest: "Why it may interest you", cInfo: "Details", cSpeakers: "Speakers & key works", cNoSpeakers: "No speaker list published (or not retrievable).",
       cWorks: "Key works", cSession: "Session", cNoWorks: "Key works unverified", cVerified: "Verified", cUnverified: "Unverified", cVerifyNote: "Verification notes", cChecked: "Last checked",
       cDays: "starts in {n} days", cToday: "In progress", cEnded: "Ended", cNote: "Event details: check the official page. Speaker bios and key works are compiled by Claude from public sources; items marked unverified are not yet checked." }
@@ -653,12 +707,14 @@
     return getJSON("data/conferences.json").then(function (d) { CONF = d; return d; });
   }
   function confSpan(c) { return c.start === c.end ? c.start : c.start + " – " + c.end; }
+  // 狀態與倒數一律在瀏覽當日以港澳日曆日期計算（site/dates.js），不使用建置時寫入的 today。
+  function confStatus(c) { return PsyDates.eventStatus(c.start, c.end, PsyDates.todayMacau()); }
   function confNote(c) {
-    var today = CONF.today || new Date().toISOString().slice(0, 10);
-    if (c.end < today) return t("cEnded");
-    if (c.start <= today) return t("cToday");
-    var n = Math.round((new Date(c.start + "T00:00:00Z") - new Date(today + "T00:00:00Z")) / 86400000);
-    return t("cDays", { n: n });
+    var st = confStatus(c);
+    if (st === "ended") return t("cEnded");
+    if (st === "ongoing") return t("cToday");
+    var n = PsyDates.dayDiff(PsyDates.todayMacau(), c.start);
+    return n === null ? "" : t("cDays", { n: n });
   }
   function confCard(c) {
     var badges = ['<span class="badge">' + esc(c.region) + "</span>"];
@@ -672,9 +728,9 @@
       '<div class="card-meta">' + badges.join("") + "</div></article>";
   }
   function renderConferences() {
-    var today = CONF.today, all = CONF.items;
+    var all = CONF.items;
     var list = all.filter(function (c) {
-      var past = c.end < today;
+      var past = confStatus(c) === "ended";
       return (cState.when === "past" ? past : !past) && (!cState.region || c.region === cState.region) &&
         (!cState.domain || (c.domains || []).indexOf(cState.domain) >= 0) && (!cState.online || /網上|混合|online|hybrid/i.test(c.format));
     }).sort(function (a, b) { return cState.when === "past" ? (a.start < b.start ? 1 : -1) : (a.start < b.start ? -1 : 1); });
@@ -700,10 +756,10 @@
   function renderConference(slug) {
     var c = CONF.items.filter(function (x) { return x.slug === slug; })[0];
     if (!c) { app.innerHTML = '<div class="status-line">' + t("cEmpty") + ' <a href="#/conferences">' + t("back") + "</a></div>"; return; }
-    var rows = [["cWhen", confSpan(c) + "（" + confNote(c) + "）"], ["cWhere", [c.venue, c.city, c.country].filter(Boolean).join("，")], ["cFormat", c.format], ["cLang", c.language],
+    var rows = [["cWhen", confSpan(c) + (confNote(c) ? "（" + confNote(c) + "）" : "")], ["cWhere", [c.venue, c.city, c.country].filter(Boolean).join("，")], ["cFormat", c.format], ["cLang", c.language],
       ["cOrg", c.organizer], ["cFee", c.fee_text], ["cDeadline", c.deadline], ["cChecked", c.last_checked]];
     var links = (safeUrl(c.url) ? '<a class="chip" href="' + esc(c.url) + '" target="_blank" rel="noopener noreferrer">' + t("cSite") + "</a> " : "") +
-      (safeUrl(c.register_url) ? '<a class="chip" href="' + esc(c.register_url) + '" target="_blank" rel="noopener noreferrer">' + t("cReg") + "</a>" : "");
+      (safeUrl(c.register_url) && confStatus(c) !== "ended" ? '<a class="chip" href="' + esc(c.register_url) + '" target="_blank" rel="noopener noreferrer">' + t("cReg") + "</a>" : "");
     var main = '<h2 class="detail-title">' + esc(c.name_zh) + '</h2><p class="conf-en">' + esc(c.name_en) + '</p><div class="card-meta"><span class="badge">' + esc(c.region) + "</span>" +
       (c.themes || []).map(function (x) { return '<span class="badge">' + esc(x) + "</span>"; }).join("") + (c.verify_needed ? '<span class="badge badge-warn">' + t("cUnverified") + "</span>" : "") + "</div>" +
       '<div class="chip-row" style="margin-top:12px">' + links + "</div>" +
@@ -727,12 +783,12 @@
 
   // ---------- 動向：AI 名人／心理大師 ----------
   var FSTR = {
-    zh: { navFig: "動向", fTitle: "名人動向", fSub: "AI 領域與臨床心理領域代表人物的最新動態與發言。只收錄本人帳號、官方頁面或其親自接受的訪談，附原文連結；名單職位與帳號持續核對，查不到的標「待查證」。",
+    zh: { navFig: "動向", fTitle: "名人動向", fSub: "AI 領域與臨床心理領域代表人物的最新動態與發言。優先收錄本人帳號、官方頁面或其親自接受的訪談；若連結是媒體轉述或聚合頁，會標明來源類型。名單職位與帳號持續核對，查不到的標「待查證」。",
       fAi: "AI 名人動向", fPsy: "心理大師動向", fAllP: "全部人物", fUpdates: "最新動態", fRoster: "人物名單", fNoUp: "尚未有動態收錄，待 Muse 首次整理後出現。",
-      fSrc: "原文 ↗", fVerified: "帳號已核對", fUnverified: "帳號待查證", fAcc: "帳號", fNote: "動態內容為摘要與短引述，版權屬原作者；請以原文為準。名單來自 Gu 提供的清單，職位可能已變動。" },
-    en: { navFig: "Voices", fTitle: "Voices", fSub: "Latest activity and statements from leading figures in AI and clinical psychology, from their own accounts, official pages or interviews, with source links. Roster positions and accounts are verified on a rolling basis.",
+      fSrc: "原文 ↗", fSrcRelay: "轉述來源 ↗", fRoleUnknown: "來源類型待確認", fRole: { "本人文章": "本人文章", "本人貼文": "本人貼文", "官方頁面": "官方頁面", "訪談": "訪談", "媒體轉述": "媒體轉述", "聚合轉載": "聚合轉載" }, fVerified: "帳號已核對", fUnverified: "帳號待查證", fAcc: "帳號", fNote: "動態內容為摘要與短引述，版權屬原作者；請以原文為準。名單來自 Gu 提供的清單，職位可能已變動。" },
+    en: { navFig: "Voices", fTitle: "Voices", fSub: "Latest activity and statements from leading figures in AI and clinical psychology, preferably from their own accounts, official pages or interviews; media reports and aggregator pages are labelled by source type. Roster positions and accounts are verified on a rolling basis.",
       fAi: "AI voices", fPsy: "Clinical voices", fAllP: "Everyone", fUpdates: "Latest", fRoster: "Roster", fNoUp: "No updates yet; they appear after Muse's first run.",
-      fSrc: "Source ↗", fVerified: "Account verified", fUnverified: "Account unverified", fAcc: "Accounts", fNote: "Updates are summaries and short quotes; copyright belongs to the authors. Positions may have changed since the roster was compiled." }
+      fSrc: "Source ↗", fSrcRelay: "Relayed via ↗", fRoleUnknown: "Source type unconfirmed", fRole: { "本人文章": "Own article", "本人貼文": "Own post", "官方頁面": "Official page", "訪談": "Interview", "媒體轉述": "Media report", "聚合轉載": "Aggregator repost" }, fVerified: "Account verified", fUnverified: "Account unverified", fAcc: "Accounts", fNote: "Updates are summaries and short quotes; copyright belongs to the authors. Positions may have changed since the roster was compiled." }
   };
   Object.keys(FSTR).forEach(function (l) { Object.keys(FSTR[l]).forEach(function (k) { STR[l][k] = FSTR[l][k]; }); });
   var FIG = null, fState = { grp: "ai", person: null };
@@ -746,14 +802,15 @@
       '<div class="card-author-names"><span class="card-author-name">' + esc(p ? figName(p) : u.person) + "</span><time>" + esc(u.page_date || "") + (u.platform ? " · " + esc(u.platform) : "") + "</time></div></div>" +
       '<p class="card-summary">' + esc(u.summary_zh) + "</p>" +
       (u.quote_en ? '<blockquote class="conf-note">“' + esc(u.quote_en) + "”</blockquote>" : "") +
-      '<div class="card-meta">' + (u.kind ? '<span class="badge">' + esc(u.kind) + "</span>" : "") + (u.topics || []).slice(0, 3).map(function (x) { return '<span class="badge">' + esc(x) + "</span>"; }).join("") +
-      (safeUrl(u.url) ? ' <a class="chip" href="' + esc(u.url) + '" target="_blank" rel="noopener noreferrer">' + t("fSrc") + "</a>" : "") + "</div></article>";
+      '<div class="card-meta">' + (u.kind ? '<span class="badge">' + esc(u.kind) + "</span>" : "") +
+      '<span class="badge' + (u.source_role ? (/媒體轉述|聚合轉載/.test(u.source_role) ? " badge-warn" : "") : " badge-warn") + '">' + esc(u.source_role ? (t("fRole")[u.source_role] || u.source_role) : t("fRoleUnknown")) + "</span>" + (u.topics || []).slice(0, 3).map(function (x) { return '<span class="badge">' + esc(x) + "</span>"; }).join("") +
+      (safeUrl(u.url) ? ' <a class="chip" href="' + esc(u.url) + '" target="_blank" rel="noopener noreferrer">' + t(/媒體轉述|聚合轉載/.test(u.source_role || "") ? "fSrcRelay" : "fSrc") + "</a>" : "") + "</div></article>";
   }
   function figPersonCard(p) {
     var accs = (p.accounts || []).filter(function (a) { return safeUrl(a.url); }).map(function (a) {
       return '<a class="chip" href="' + esc(a.url) + '" target="_blank" rel="noopener noreferrer">' + esc(a.platform) + (a.verified ? " ✓" : "") + "</a>";
     }).join(" ");
-    return '<article class="card fam-card"><h3 class="card-title"><a href="#" data-fig="person" data-v="' + esc(p.slug) + '">' + esc(figName(p)) + "</a></h3>" +
+    return '<article class="card fam-card"><h3 class="card-title"><button type="button" class="link-btn" data-fig="person" data-v="' + esc(p.slug) + '">' + esc(figName(p)) + "</button></h3>" +
       '<div class="training-line">' + esc(p.role_zh) + "</div><p class=\"card-summary\">" + esc(p.focus_zh) + "</p>" +
       (p.list_note ? '<p class="conf-note">' + esc(p.list_note) + "</p>" : "") +
       '<div class="card-meta"><span class="badge ' + (p.verified_by_muse ? "badge-free" : "badge-warn") + '">' + (p.verified_by_muse ? t("fVerified") : t("fUnverified")) + "</span> " + accs + "</div></article>";
@@ -794,7 +851,7 @@
     document.getElementById("help-pop").innerHTML = "<b>" + t("helpTitle") + "</b><dl>" +
       "<dt>" + t("heat") + "</dt><dd>" + esc(t("helpHeat", { d: c.half_life_days, m: c.featured_min_score, n: c.featured_top_n })) + "</dd>" +
       "<dt>" + esc(t("collection", { n: "N" })) + "</dt><dd>" + esc(t("helpCollection")) + "</dd>" +
-      "<dt>" + t("evidence") + " E0–E4</dt><dd>" + esc(t("helpEvidence")) + "</dd>" +
+      "<dt>E0–E4</dt><dd>" + esc(t("helpEvidence")) + "</dd>" +
       "<dt>" + t("verify") + "</dt><dd>" + esc(t("helpVerify")) + "</dd></dl>";
   }
   // ---------- 返回、捲動位置、每次渲染後的整理 ----------

@@ -168,3 +168,8 @@ a:focus-visible, button:focus-visible, summary:focus-visible, input:focus-visibl
 }
 .header-nav a, .wordmark { white-space: nowrap; }
 @media (min-width: 721px) and (max-width: 1000px) { .nav-support .sup-label { display: none; } .header-nav a { padding: 6px 8px; } }
+
+/* 研究參與：臨床介入研究的程序提醒（列表與詳情共用） */
+.bounty-clinical { margin: 8px 0; padding: 8px 12px; font-size: 14px; color: var(--ink); background: var(--surface-2); border-radius: 8px; }
+.link-btn { background: none; border: 0; padding: 0; font: inherit; color: inherit; text-align: left; cursor: pointer; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.link-btn:hover { text-decoration-color: currentColor; }
