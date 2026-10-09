@@ -1223,7 +1223,8 @@
    ],
    "evidence_quote": "OpenAI \"rogue\" agent activities found",
    "checked": "2026-10-08",
-   "tier": "A"
+   "tier": "A",
+   "source_role": "本人文章"
   },
   {
    "person": "laurie-santos",
@@ -1239,7 +1240,8 @@
     "線上對談"
    ],
    "evidence_quote": "conversation with Laurie Santos",
-   "checked": "2026-10-08"
+   "checked": "2026-10-08",
+   "source_role": "官方頁面"
   },
   {
    "person": "nathan-lambert",
@@ -1255,7 +1257,8 @@
     "GLM-5.3"
    ],
    "evidence_quote": "undercutting calls to ban open models",
-   "checked": "2026-10-08"
+   "checked": "2026-10-08",
+   "source_role": "聚合轉載"
   },
   {
    "person": "simon-willison",
@@ -1272,7 +1275,8 @@
    ],
    "evidence_quote": "new Jev-style Decisions API",
    "checked": "2026-10-08",
-   "tier": "A"
+   "tier": "A",
+   "source_role": "本人文章"
   },
   {
    "person": "andrew-huberman",
@@ -1288,7 +1292,8 @@
     "Podcast"
    ],
    "evidence_quote": "my conversation with Andrew Huberman",
-   "checked": "2026-10-08"
+   "checked": "2026-10-08",
+   "source_role": "訪談"
   },
   {
    "person": "mustafa-suleyman",
@@ -1303,7 +1308,8 @@
     "Acemoglu"
    ],
    "evidence_quote": "The last 1% is the hard part",
-   "checked": "2026-10-08"
+   "checked": "2026-10-08",
+   "source_role": "聚合轉載"
   },
   {
    "person": "esther-perel",
@@ -1318,7 +1324,8 @@
     "Podcast"
    ],
    "evidence_quote": "explores the world of relationships",
-   "checked": "2026-10-08"
+   "checked": "2026-10-08",
+   "source_role": "聚合轉載"
   },
   {
    "person": "laurie-santos",
@@ -1334,7 +1341,8 @@
     "Podcast"
    ],
    "evidence_quote": "the sense of wonder we had as children",
-   "checked": "2026-10-08"
+   "checked": "2026-10-08",
+   "source_role": "官方頁面"
   },
   {
    "person": "elon-musk",
@@ -1350,7 +1358,8 @@
     "政策"
    ],
    "evidence_quote": "confirmed the planned name change Sunday",
-   "checked": "2026-10-08"
+   "checked": "2026-10-08",
+   "source_role": "媒體轉述"
   }
  ],
  "updated": "2026-10-08"

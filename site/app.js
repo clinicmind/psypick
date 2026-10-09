@@ -767,12 +767,12 @@
 
   // ---------- 動向：AI 名人／心理大師 ----------
   var FSTR = {
-    zh: { navFig: "動向", fTitle: "名人動向", fSub: "AI 領域與臨床心理領域代表人物的最新動態與發言。只收錄本人帳號、官方頁面或其親自接受的訪談，附原文連結；名單職位與帳號持續核對，查不到的標「待查證」。",
+    zh: { navFig: "動向", fTitle: "名人動向", fSub: "AI 領域與臨床心理領域代表人物的最新動態與發言。優先收錄本人帳號、官方頁面或其親自接受的訪談；若連結是媒體轉述或聚合頁，會標明來源類型。名單職位與帳號持續核對，查不到的標「待查證」。",
       fAi: "AI 名人動向", fPsy: "心理大師動向", fAllP: "全部人物", fUpdates: "最新動態", fRoster: "人物名單", fNoUp: "尚未有動態收錄，待 Muse 首次整理後出現。",
-      fSrc: "原文 ↗", fVerified: "帳號已核對", fUnverified: "帳號待查證", fAcc: "帳號", fNote: "動態內容為摘要與短引述，版權屬原作者；請以原文為準。名單來自 Gu 提供的清單，職位可能已變動。" },
-    en: { navFig: "Voices", fTitle: "Voices", fSub: "Latest activity and statements from leading figures in AI and clinical psychology, from their own accounts, official pages or interviews, with source links. Roster positions and accounts are verified on a rolling basis.",
+      fSrc: "原文 ↗", fSrcRelay: "轉述來源 ↗", fRoleUnknown: "來源類型待確認", fRole: { "本人文章": "本人文章", "本人貼文": "本人貼文", "官方頁面": "官方頁面", "訪談": "訪談", "媒體轉述": "媒體轉述", "聚合轉載": "聚合轉載" }, fVerified: "帳號已核對", fUnverified: "帳號待查證", fAcc: "帳號", fNote: "動態內容為摘要與短引述，版權屬原作者；請以原文為準。名單來自 Gu 提供的清單，職位可能已變動。" },
+    en: { navFig: "Voices", fTitle: "Voices", fSub: "Latest activity and statements from leading figures in AI and clinical psychology, preferably from their own accounts, official pages or interviews; media reports and aggregator pages are labelled by source type. Roster positions and accounts are verified on a rolling basis.",
       fAi: "AI voices", fPsy: "Clinical voices", fAllP: "Everyone", fUpdates: "Latest", fRoster: "Roster", fNoUp: "No updates yet; they appear after Muse's first run.",
-      fSrc: "Source ↗", fVerified: "Account verified", fUnverified: "Account unverified", fAcc: "Accounts", fNote: "Updates are summaries and short quotes; copyright belongs to the authors. Positions may have changed since the roster was compiled." }
+      fSrc: "Source ↗", fSrcRelay: "Relayed via ↗", fRoleUnknown: "Source type unconfirmed", fRole: { "本人文章": "Own article", "本人貼文": "Own post", "官方頁面": "Official page", "訪談": "Interview", "媒體轉述": "Media report", "聚合轉載": "Aggregator repost" }, fVerified: "Account verified", fUnverified: "Account unverified", fAcc: "Accounts", fNote: "Updates are summaries and short quotes; copyright belongs to the authors. Positions may have changed since the roster was compiled." }
   };
   Object.keys(FSTR).forEach(function (l) { Object.keys(FSTR[l]).forEach(function (k) { STR[l][k] = FSTR[l][k]; }); });
   var FIG = null, fState = { grp: "ai", person: null };
@@ -786,14 +786,15 @@
       '<div class="card-author-names"><span class="card-author-name">' + esc(p ? figName(p) : u.person) + "</span><time>" + esc(u.page_date || "") + (u.platform ? " · " + esc(u.platform) : "") + "</time></div></div>" +
       '<p class="card-summary">' + esc(u.summary_zh) + "</p>" +
       (u.quote_en ? '<blockquote class="conf-note">“' + esc(u.quote_en) + "”</blockquote>" : "") +
-      '<div class="card-meta">' + (u.kind ? '<span class="badge">' + esc(u.kind) + "</span>" : "") + (u.topics || []).slice(0, 3).map(function (x) { return '<span class="badge">' + esc(x) + "</span>"; }).join("") +
-      (safeUrl(u.url) ? ' <a class="chip" href="' + esc(u.url) + '" target="_blank" rel="noopener noreferrer">' + t("fSrc") + "</a>" : "") + "</div></article>";
+      '<div class="card-meta">' + (u.kind ? '<span class="badge">' + esc(u.kind) + "</span>" : "") +
+      '<span class="badge' + (u.source_role ? (/媒體轉述|聚合轉載/.test(u.source_role) ? " badge-warn" : "") : " badge-warn") + '">' + esc(u.source_role ? (t("fRole")[u.source_role] || u.source_role) : t("fRoleUnknown")) + "</span>" + (u.topics || []).slice(0, 3).map(function (x) { return '<span class="badge">' + esc(x) + "</span>"; }).join("") +
+      (safeUrl(u.url) ? ' <a class="chip" href="' + esc(u.url) + '" target="_blank" rel="noopener noreferrer">' + t(/媒體轉述|聚合轉載/.test(u.source_role || "") ? "fSrcRelay" : "fSrc") + "</a>" : "") + "</div></article>";
   }
   function figPersonCard(p) {
     var accs = (p.accounts || []).filter(function (a) { return safeUrl(a.url); }).map(function (a) {
       return '<a class="chip" href="' + esc(a.url) + '" target="_blank" rel="noopener noreferrer">' + esc(a.platform) + (a.verified ? " ✓" : "") + "</a>";
     }).join(" ");
-    return '<article class="card fam-card"><h3 class="card-title"><a href="#" data-fig="person" data-v="' + esc(p.slug) + '">' + esc(figName(p)) + "</a></h3>" +
+    return '<article class="card fam-card"><h3 class="card-title"><button type="button" class="link-btn" data-fig="person" data-v="' + esc(p.slug) + '">' + esc(figName(p)) + "</button></h3>" +
       '<div class="training-line">' + esc(p.role_zh) + "</div><p class=\"card-summary\">" + esc(p.focus_zh) + "</p>" +
       (p.list_note ? '<p class="conf-note">' + esc(p.list_note) + "</p>" : "") +
       '<div class="card-meta"><span class="badge ' + (p.verified_by_muse ? "badge-free" : "badge-warn") + '">' + (p.verified_by_muse ? t("fVerified") : t("fUnverified")) + "</span> " + accs + "</div></article>";
