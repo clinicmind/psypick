@@ -9,7 +9,7 @@
       search: "搜尋標題、摘要、標籤…", all: "全部", heat: "熱度", collection: "合集 · {n} 篇", verify: "待查證", ethics: "⚑ 倫理提醒",
       free: "免費", lowCost: "低價", deadline: "截止", soon: "即將截止", anytime: "隨時可上", ce: "有學分",
       archive: "歸檔（{n}）", noMatches: "沒有符合條件的案例", back: "← 返回", save: "收藏", saved: "已收藏",
-      brief: "看點", psych: "心理學視角", evidence: "證據等級", population: "適用對象", flags: "倫理旗標", concepts: "相關概念",
+      brief: "看點", psych: "心理學視角", evidence: "證據等級", design: "研究設計", population: "適用對象", flags: "倫理旗標", concepts: "相關概念",
       questions: "督導討論題", caution: "使用提醒", source: "來源", related: "相關案例", openSource: "開啟原文 ↗", prompt: "原文 Prompt",
       trainingInfo: "培訓資訊", provider: "主辦", format: "形式", price: "費用", credits: "學分", language: "語言", eventDate: "上課日期",
       audience: "適合對象", topic: "主題", signup: "報名連結 ↗", ref: "出處", verifyNote: "這則內容的部分資訊尚未查證，使用前請自行確認。",
@@ -19,7 +19,7 @@
       onlyFree: "只看免費", helpTitle: "卡片上的數字與標記",
       helpHeat: "綜合分數的四捨五入值，不是按讚數。由編輯評的吸引力分（0–3）、同一件事被幾篇來源提到（取對數）、證據等級達對照試驗以上加 1 分、編輯加星加 3 分組成；分數每 {d} 天減半。原始分數達 {m} 分且在全站前 {n} 名就進入精選。培訓不衰減，截止前 7 天加分。",
       helpCollection: "多個來源講同一件事時合併成一個案例，顯示「合集 · N 篇」。",
-      helpEvidence: "0 個人經驗或評論、1 產品宣稱、2 前導或質性研究、3 對照試驗、4 系統性回顧或統合分析。",
+      helpEvidence: "E0–E4 是舊版粗略分層，只按資料種類排序（0 個人經驗或評論、1 產品宣稱、2 前導或質性研究、3 對照試驗、4 系統性回顧或統合分析），不代表研究可靠度，也不是正式的證據確定性評級。已標明研究設計的項目改顯示研究設計（例如範圍回顧、橫斷面調查、研究方案）；各研究的限制見詳情頁的說明。",
       helpVerify: "資訊不完整或來自社群平台、尚未查證的內容。", footerRights: "內容版權屬原作者；本站提供導讀與專業註解，不構成醫療或治療建議。",
       week: "週", notFound: "找不到這一頁，可能已移除或網址有誤。", toHome: "回首頁",
       intro: "AI × 心理學的案例訊號站：研究、倫理事件與進修資訊，每則附心理專業註解。按右上「?」看卡片標記的意思。"
@@ -30,7 +30,7 @@
       search: "Search titles, summaries, tags…", all: "All", heat: "Heat", collection: "Collection · {n} posts", verify: "Unverified", ethics: "⚑ Ethics note",
       free: "Free", lowCost: "Low cost", deadline: "Deadline", soon: "Closing soon", anytime: "Self-paced", ce: "CE credits",
       archive: "Archive ({n})", noMatches: "No matching cases", back: "← Back", save: "Save", saved: "Saved",
-      brief: "Highlights", psych: "Psychology lens", evidence: "Evidence", population: "Population", flags: "Ethics flags", concepts: "Concepts",
+      brief: "Highlights", psych: "Psychology lens", evidence: "Evidence", design: "Study design", population: "Population", flags: "Ethics flags", concepts: "Concepts",
       questions: "Supervision questions", caution: "Caution", source: "Sources", related: "Related cases", openSource: "Open source ↗", prompt: "Original prompt",
       trainingInfo: "Training details", provider: "Provider", format: "Format", price: "Price", credits: "Credits", language: "Language", eventDate: "Date",
       audience: "Audience", topic: "Topic", signup: "Sign up ↗", ref: "Source", verifyNote: "Some details have not been verified yet. Please check before relying on them.",
@@ -40,7 +40,7 @@
       onlyFree: "Free only", helpTitle: "What the numbers mean",
       helpHeat: "A rounded composite score, not a like count: an editor appeal score (0–3), how many sources mention it (log-scaled), +1 for controlled-trial evidence or better, +3 for an editor star. It halves every {d} days. Raw score ≥ {m} and inside the top {n} → Featured. Trainings don't decay and get a boost in their last 7 days.",
       helpCollection: "When several sources cover the same thing they are merged into one case, shown as \"Collection · N posts\".",
-      helpEvidence: "0 opinion, 1 vendor claim, 2 pilot/qualitative, 3 controlled trial, 4 systematic review/meta-analysis.",
+      helpEvidence: "E0–E4 is an older, coarse grouping by kind of source (0 opinion, 1 vendor claim, 2 pilot/qualitative, 3 controlled trial, 4 systematic review/meta-analysis). It is not a measure of reliability or a formal certainty-of-evidence rating. Items with a known study design show the design instead (e.g. scoping review, cross-sectional survey, protocol); see each item for its limitations.",
       helpVerify: "Incomplete or social-media-sourced details not yet verified.", footerRights: "All content belongs to its original creators. Commentary here is not medical or treatment advice.",
       week: "Week", notFound: "This page could not be found. It may have been removed or the link is wrong.", toHome: "Back to home",
       intro: "Signals from AI × psychology: research, ethics cases and training, each with a note from a psychology perspective. Tap \"?\" for what the card labels mean."
@@ -111,6 +111,19 @@
     });
   }
 
+  // 研究設計（可選欄位 study_design，陣列）。有值時顯示設計，不再顯示 E0–E4 資料種類標籤；缺值則沿用舊標籤。
+  var DESIGN = {
+    rct: { zh: "隨機對照試驗", en: "Randomised controlled trial" }, randomised_experiment: { zh: "隨機分派實驗", en: "Randomised experiment" },
+    nonrandomised_controlled: { zh: "非隨機對照研究", en: "Non-randomised controlled study" }, nonrandomised_comparison: { zh: "回溯性非隨機比較", en: "Retrospective non-randomised comparison" },
+    single_arm: { zh: "單組前後測", en: "Single-arm pre/post" }, cohort: { zh: "觀察性世代／縱貫研究", en: "Observational cohort / longitudinal" },
+    cross_sectional: { zh: "橫斷面調查", en: "Cross-sectional survey" }, survey: { zh: "問卷調查", en: "Questionnaire survey" }, qualitative: { zh: "質性研究", en: "Qualitative study" },
+    scoping_review: { zh: "範圍回顧", en: "Scoping review" }, systematic_review: { zh: "系統性回顧", en: "Systematic review" }, meta_analysis: { zh: "統合分析", en: "Meta-analysis" },
+    protocol: { zh: "研究方案（尚無結果）", en: "Study protocol (no results yet)" }
+  };
+  function designLabel(c) {
+    return (c.study_design || []).map(function (k) { return DESIGN[k] ? DESIGN[k][prefs.lang] : null; }).filter(Boolean).join(" · ");
+  }
+
   // ---------- 卡片 ----------
   function trainingBadges(c) {
     var tr = c.training || {}, out = [];
@@ -130,7 +143,9 @@
     var isTraining = c.category === DATA.config.training_category;
     var meta = ['<span class="card-stat">' + t("heat") + " " + Math.round(c.hot_score || 0) + "</span>"];
     if (c.mention_count > 1) meta.push('<span class="card-stat">' + t("collection", { n: c.mention_count }) + "</span>");
-    if (!isTraining && c.evidence_level != null) {
+    if (!isTraining && designLabel(c)) {
+      meta.push('<span class="badge" title="' + t("design") + '">' + esc(designLabel(c)) + "</span>");
+    } else if (!isTraining && c.evidence_level != null) {
       var ev = DATA.config.evidence_levels[String(c.evidence_level)];
       meta.push('<span class="badge" title="' + t("evidence") + '">E' + c.evidence_level + (ev ? " " + esc(ev[prefs.lang]) : "") + "</span>");
     }
@@ -273,9 +288,10 @@
       }).join("");
 
       var aside = "";
-      if (!isTraining && ev) {
+      var dsg = designLabel(c);
+      if (!isTraining && (ev || dsg)) {
         aside += '<div class="panel"><h4>' + t("psych") + "</h4>";
-        aside += '<dl class="kv"><dt>' + t("evidence") + "</dt><dd>E" + esc(c.evidence_level) + " " + esc(ev[prefs.lang]) + (c.evidence_note ? '<div class="ref">' + esc(c.evidence_note) + "</div>" : "") + "</dd>" +
+        aside += '<dl class="kv"><dt>' + (dsg ? t("design") : t("evidence")) + "</dt><dd>" + (dsg ? esc(dsg) : "E" + esc(c.evidence_level) + " " + esc(ev[prefs.lang])) + (c.evidence_note ? '<div class="ref">' + esc(c.evidence_note) + "</div>" : "") + "</dd>" +
           ((c.population || []).length ? "<dt>" + t("population") + "</dt><dd>" + esc(c.population.join("、")) + "</dd>" : "") + "</dl>";
         aside += "</div>";
       }
@@ -835,7 +851,7 @@
     document.getElementById("help-pop").innerHTML = "<b>" + t("helpTitle") + "</b><dl>" +
       "<dt>" + t("heat") + "</dt><dd>" + esc(t("helpHeat", { d: c.half_life_days, m: c.featured_min_score, n: c.featured_top_n })) + "</dd>" +
       "<dt>" + esc(t("collection", { n: "N" })) + "</dt><dd>" + esc(t("helpCollection")) + "</dd>" +
-      "<dt>" + t("evidence") + " E0–E4</dt><dd>" + esc(t("helpEvidence")) + "</dd>" +
+      "<dt>E0–E4</dt><dd>" + esc(t("helpEvidence")) + "</dd>" +
       "<dt>" + t("verify") + "</dt><dd>" + esc(t("helpVerify")) + "</dd></dl>";
   }
   // ---------- 返回、捲動位置、每次渲染後的整理 ----------
