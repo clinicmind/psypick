@@ -7,7 +7,7 @@
       appName: "知心選", tagline: "AI × 心理學的案例訊號站", navHome: "首頁", navFeatured: "精選", navTraining: "進修", navSaved: "★ 收藏",
       langLabel: "EN", loading: "載入中…", loadError: "資料載入失敗", retry: "重試", empty: "還沒有案例。",
       search: "搜尋標題、摘要、標籤…", all: "全部", heat: "熱度", collection: "合集 · {n} 篇", verify: "待查證", ethics: "⚑ 倫理提醒",
-      free: "免費", lowCost: "低價", deadline: "截止", soon: "即將截止", anytime: "隨時可上", ce: "有學分",
+      free: "免費", lowCost: "低價", deadline: "截止", soon: "即將截止", anytime: "隨時可上", ce: "有學分", cs_yes: "有學分", cs_extra: "CE 另付費", cs_none: "非學分", cs_unknown: "學分待確認",
       archive: "歸檔（{n}）", noMatches: "沒有符合條件的案例", back: "← 返回", save: "收藏", saved: "已收藏",
       brief: "看點", psych: "心理學視角", evidence: "證據等級", design: "研究設計", population: "適用對象", flags: "倫理旗標", concepts: "相關概念",
       questions: "督導討論題", caution: "使用提醒", source: "來源", related: "相關案例", openSource: "開啟原文 ↗", prompt: "原文 Prompt",
@@ -28,7 +28,7 @@
       appName: "PsyPick", tagline: "A signal station for AI × psychology", navHome: "Home", navFeatured: "Featured", navTraining: "Training", navSaved: "★ Saved",
       langLabel: "中文", loading: "Loading…", loadError: "Failed to load data", retry: "Retry", empty: "No cases yet.",
       search: "Search titles, summaries, tags…", all: "All", heat: "Heat", collection: "Collection · {n} posts", verify: "Unverified", ethics: "⚑ Ethics note",
-      free: "Free", lowCost: "Low cost", deadline: "Deadline", soon: "Closing soon", anytime: "Self-paced", ce: "CE credits",
+      free: "Free", lowCost: "Low cost", deadline: "Deadline", soon: "Closing soon", anytime: "Self-paced", ce: "CE credits", cs_yes: "CE credits", cs_extra: "CE costs extra", cs_none: "Not CE credit", cs_unknown: "Credit to be confirmed",
       archive: "Archive ({n})", noMatches: "No matching cases", back: "← Back", save: "Save", saved: "Saved",
       brief: "Highlights", psych: "Psychology lens", evidence: "Evidence", design: "Study design", population: "Population", flags: "Ethics flags", concepts: "Concepts",
       questions: "Supervision questions", caution: "Caution", source: "Sources", related: "Related cases", openSource: "Open source ↗", prompt: "Original prompt",
@@ -129,7 +129,8 @@
     var tr = c.training || {}, out = [];
     if (tr.price_tier === "免費") out.push('<span class="badge badge-free">' + t("free") + "</span>");
     else if (tr.price_tier === "低價") out.push('<span class="badge">' + t("lowCost") + (tr.price ? " " + esc(tr.price) : "") + "</span>");
-    if (tr.ce_credits && !/^(無|否|no|none)$/i.test(tr.ce_credits)) out.push('<span class="badge">' + t("ce") + "</span>");
+    var cs = PsyCredits.creditStatus(tr.ce_credits);
+    out.push('<span class="badge' + (cs === "yes" ? "" : " badge-warn") + '">' + t("cs_" + cs) + "</span>");
     if (c.deadline_soon) out.push('<span class="badge badge-soon">' + t("soon") + "</span>");
     return out.join("");
   }
@@ -274,7 +275,7 @@
       if (c.original_prompt) main += '<h3 class="section-title">' + t("prompt") + '</h3><pre class="prompt-block">' + esc(c.original_prompt) + "</pre>";
 
       if (isTraining && c.training) {
-        var tr = c.training, rows = [["provider", tr.provider], ["format", tr.format], ["price", tr.price || tr.price_tier], ["credits", tr.ce_credits],
+        var tr = c.training, rows = [["provider", tr.provider], ["format", tr.format], ["price", tr.price || tr.price_tier], ["credits", tr.ce_credits ? t("cs_" + PsyCredits.creditStatus(tr.ce_credits)) + "：" + tr.ce_credits : t("cs_unknown")],
           ["language", tr.language], ["eventDate", tr.event_date], ["deadline", tr.deadline], ["audience", tr.audience_level], ["topic", tr.topic]];
         main += '<h3 class="section-title">' + t("trainingInfo") + '</h3><div class="panel"><dl class="kv">' +
           rows.filter(function (r) { return r[1]; }).map(function (r) { return "<dt>" + t(r[0]) + "</dt><dd>" + esc(r[1]) + "</dd>"; }).join("") + "</dl>" +
