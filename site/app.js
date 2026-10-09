@@ -566,11 +566,11 @@
     zh: { navBounty: "賞金獵人", bTitle: "賞金獵人", bSub: "香港、澳門、美國的大學和機構正在招募參加者、有現金或禮券報酬的研究問卷、訪談和實驗。本站只整理公開資料，沒有參與招募；參加前請細閱主辦方的說明和私隱條款，不要提供銀行密碼，也不需要先付任何費用。",
       bAllRegions: "全部地區", bAllTypes: "全部報酬", bSure: "人人有份", bLucky: "抽獎", bOnline: "網上參加", bReward: "報酬", bOrganizer: "主辦", bFunder: "資助／贊助",
       bMethod: "形式", bElig: "參加資格", bDuration: "所需時間", bDeadline: "截止", bHow: "參加方法", bContact: "查詢", bLocation: "地點", bCaution: "注意",
-      bInfo: "項目資訊", bNoDeadline: "未列截止日", bEnded: "已截止（{n}）", bEmpty: "目前沒有收錄的項目。", bNoMatch: "沒有符合條件的項目" },
+      bInfo: "項目資訊", bNoDeadline: "截止日未公布，請向研究團隊確認", bEnded: "已截止（{n}）", bEmpty: "目前沒有收錄的項目。", bNoMatch: "沒有符合條件的項目" },
     en: { navBounty: "Paid studies", bTitle: "Paid research studies", bSub: "Surveys, interviews and experiments by universities and organisations in Hong Kong, Macau and the US that pay participants in cash or vouchers. We only list public information and are not involved in recruitment. Read the organiser's information and privacy terms first; never give bank passwords or pay anything to take part.",
       bAllRegions: "All regions", bAllTypes: "All rewards", bSure: "Everyone paid", bLucky: "Lucky draw", bOnline: "Online", bReward: "Reward", bOrganizer: "Organiser", bFunder: "Funded / sponsored by",
       bMethod: "Format", bElig: "Eligibility", bDuration: "Time needed", bDeadline: "Deadline", bHow: "How to join", bContact: "Enquiries", bLocation: "Where", bCaution: "Note",
-      bInfo: "Study details", bNoDeadline: "No deadline listed", bEnded: "Closed ({n})", bEmpty: "No studies listed right now.", bNoMatch: "No matching studies" }
+      bInfo: "Study details", bNoDeadline: "Deadline not published; ask the research team", bEnded: "Closed ({n})", bEmpty: "No studies listed right now.", bNoMatch: "No matching studies" }
   };
   Object.keys(BSTR).forEach(function (l) { Object.keys(BSTR[l]).forEach(function (k) { STR[l][k] = BSTR[l][k]; }); });
   var bState = { region: null, type: null, sure: false, online: false };
