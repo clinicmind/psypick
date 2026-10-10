@@ -1,0 +1,489 @@
+{
+  "format": "psypick-muse-v1",
+  "run_date": "2026-10-10",
+  "items": [
+    {
+      "type": "family",
+      "source": {
+        "url": "https://www.uniexp.hk",
+        "platform": "web",
+        "title": "實驗港 UniExp HK - 香港高校實驗參與者招募平台",
+        "author_name": "UniExp HK",
+        "description": "香港高校實驗參與者招募平台；列表頁顯示公開招募中的研究，含報酬、時長與剩餘名額。"
+      },
+      "page_date": "",
+      "evidence_quote": "HKD 150, 報酬, 1小時, 總時長, 25, 剩餘名額",
+      "family": {
+        "kind": "bounty",
+        "title_zh": "認知決策行為研究（實驗參與者招募）",
+        "title_en": "Cognitive Decision-Making Behavior Study",
+        "summary_zh": "UniExp HK 是連結香港高校的實驗參與者招募平台。這項認知決策行為研究正在公開招募，了解人在不同情境下的選擇與判斷模式。參加約 1 小時，可獲 HKD 150 報酬，列表顯示尚餘 25 個名額，參加者須年滿 18 歲。",
+        "summary_en": "",
+        "ages": [],
+        "topic": "賞金獵人",
+        "region": "香港",
+        "tips": [
+          "先在列表頁確認報酬、時長與資格要求，再決定是否報名",
+          "報名後等候研究者審核，留意站內通知與電郵"
+        ],
+        "when_to_seek_help": "",
+        "source_type": "大學",
+        "posted_at": "",
+        "tags": [
+          "實驗參與",
+          "認知決策"
+        ],
+        "verify_needed": true,
+        "verify_reason": "列表頁未標註發布日期；研究詳情連結無法開啟，僅以列表頁「公開招募中」及剩餘名額判斷仍在招募",
+        "activity": null,
+        "deal": null,
+        "bounty": {
+          "organizer": "UniExp HK（香港高校實驗參與者招募平台）",
+          "funder": "",
+          "method": "實驗",
+          "eligibility": "年滿 18 歲",
+          "reward": "HKD 150",
+          "reward_type": "現金",
+          "guaranteed": true,
+          "duration": "約 1 小時",
+          "deadline": "",
+          "how_to_join": "在 UniExp HK 平台（https://www.uniexp.hk）瀏覽並報名",
+          "contact": "",
+          "location": "",
+          "last_checked": "2026-10-10",
+          "caution": ""
+        }
+      }
+    },
+    {
+      "type": "family",
+      "source": {
+        "url": "https://www.purdue.edu/newsroom/purduetoday/2024/Q3/researchers-in-various-studies-looking-for-participants/",
+        "platform": "web",
+        "title": "Researchers in various studies looking for participants",
+        "author_name": "Purdue University",
+        "description": "普渡大學持續更新的研究參與者招募清單，頁首註明所列研究正在招募參加者。"
+      },
+      "page_date": "",
+      "evidence_quote": "may be paid $20 an hour for their time",
+      "family": {
+        "kind": "bounty",
+        "title_zh": "圍絕經期情緒與認知研究（參與者招募）",
+        "title_en": "Study on Mood and Cognition in Perimenopause",
+        "summary_zh": "普渡大學 PACER 實驗室正在招募 40 至 60 歲女性，參與圍絕經期情緒與認知研究。參加者需到校進行約 5 小時實驗，包括腦電圖、電腦作業、問卷與少量抽血。完成可按時計酬，每小時 20 美元，另有小額獎勵。",
+        "summary_en": "",
+        "ages": [],
+        "topic": "賞金獵人",
+        "region": "美國",
+        "tips": [
+          "先填寫篩查問卷，確認符合資格再報名",
+          "可致電 765-496-0377 或電郵聯絡研究團隊查詢"
+        ],
+        "when_to_seek_help": "",
+        "source_type": "大學",
+        "posted_at": "",
+        "tags": [
+          "圍絕經期",
+          "情緒",
+          "認知"
+        ],
+        "verify_needed": true,
+        "verify_reason": "彙整頁未標註各研究發布日期；依頁首「currently looking for participants」及 IRB-2026-00000840 判斷仍在招募中",
+        "activity": null,
+        "deal": null,
+        "bounty": {
+          "organizer": "Purdue University PACER Lab（心理科學系，PI: Dan Foti）",
+          "funder": "",
+          "method": "實驗",
+          "eligibility": "40–60 歲，出生時指定性別為女性，距上次月經已 60 天",
+          "reward": "每小時 20 美元（約 5 小時），另有小額獎勵",
+          "reward_type": "現金",
+          "guaranteed": true,
+          "duration": "約 5 小時（到校一次）",
+          "deadline": "",
+          "how_to_join": "填寫頁面內篩查問卷，或致電 765-496-0377",
+          "contact": "765-496-0377",
+          "location": "美國普渡大學（西拉法葉校區）",
+          "last_checked": "2026-10-10",
+          "caution": "涉及抽血等程序，參加前請與醫生商量並細閱知情同意書"
+        }
+      }
+    },
+    {
+      "type": "family",
+      "source": {
+        "url": "https://www.purdue.edu/newsroom/purduetoday/2024/Q3/researchers-in-various-studies-looking-for-participants/",
+        "platform": "web",
+        "title": "Researchers in various studies looking for participants",
+        "author_name": "Purdue University",
+        "description": "普渡大學持續更新的研究參與者招募清單，頁首註明所列研究正在招募參加者。"
+      },
+      "page_date": "",
+      "evidence_quote": "could earn up to $100 for taking part",
+      "family": {
+        "kind": "bounty",
+        "title_zh": "幼兒父母日常壓力與婚姻滿意度研究（參與者招募）",
+        "title_en": "How Parenting Stress Affects Marriage",
+        "summary_zh": "普渡大學心理科學系 Susan South 教授團隊招募 5 歲以下幼兒的父母，探討日常育兒壓力如何影響婚姻滿意度。參加者連續 14 天、每天完成 3 份約 10 分鐘的問卷，最高可獲 100 美元。",
+        "summary_en": "",
+        "ages": [
+          "1-3歲",
+          "3-6歲"
+        ],
+        "topic": "賞金獵人",
+        "region": "美國",
+        "tips": [
+          "透過頁面內連結預約，或電郵 pasar@purdue.edu 報名",
+          "問卷為期 14 天，每天約需 30 分鐘，先評估時間再參加"
+        ],
+        "when_to_seek_help": "",
+        "source_type": "大學",
+        "posted_at": "",
+        "tags": [
+          "育兒壓力",
+          "婚姻關係",
+          "問卷研究"
+        ],
+        "verify_needed": true,
+        "verify_reason": "彙整頁未標註各研究發布日期；依頁首「currently looking for participants」及 IRB-2025-1563 判斷仍在招募中",
+        "activity": null,
+        "deal": null,
+        "bounty": {
+          "organizer": "Purdue University（心理科學系，PI: Susan South）",
+          "funder": "",
+          "method": "網上問卷",
+          "eligibility": "5 歲以下幼兒的父母",
+          "reward": "最高 100 美元",
+          "reward_type": "現金",
+          "guaranteed": true,
+          "duration": "連續 14 天，每天約 30 分鐘",
+          "deadline": "",
+          "how_to_join": "用頁面內連結預約，或電郵 pasar@purdue.edu",
+          "contact": "pasar@purdue.edu",
+          "location": "網上",
+          "last_checked": "2026-10-10",
+          "caution": ""
+        }
+      }
+    },
+    {
+      "type": "family",
+      "source": {
+        "url": "https://www.purdue.edu/newsroom/purduetoday/2024/Q3/researchers-in-various-studies-looking-for-participants/",
+        "platform": "web",
+        "title": "Researchers in various studies looking for participants",
+        "author_name": "Purdue University",
+        "description": "普渡大學持續更新的研究參與者招募清單，頁首註明所列研究正在招募參加者。"
+      },
+      "page_date": "",
+      "evidence_quote": "receive up to $85 in gift cards",
+      "family": {
+        "kind": "bounty",
+        "title_zh": "兒童與家長螢幕媒體處理研究（參與者招募）",
+        "title_en": "Stimulating Screen Study",
+        "summary_zh": "普渡大學人類發展與家庭科學系招募家長與 7 至 9 歲孩子，探討親子如何處理視覺媒體。共兩次到校、每次約 90 分鐘，包括問卷、短片觀看與生理感測，家長最高可獲 85 美元禮卡。",
+        "summary_en": "",
+        "ages": [
+          "6-12歲"
+        ],
+        "topic": "賞金獵人",
+        "region": "美國",
+        "tips": [
+          "先填寫頁面內線上問卷確認資格",
+          "有疑問可電郵 childhealth@purdue.edu"
+        ],
+        "when_to_seek_help": "",
+        "source_type": "大學",
+        "posted_at": "",
+        "tags": [
+          "螢幕媒體",
+          "親子",
+          "兒童發展"
+        ],
+        "verify_needed": true,
+        "verify_reason": "彙整頁未標註各研究發布日期；依頁首「currently looking for participants」及 IRB-2025-1114 判斷仍在招募中",
+        "activity": null,
+        "deal": null,
+        "bounty": {
+          "organizer": "Purdue University（人類發展與家庭科學系，PI: Kameron Moding）",
+          "funder": "",
+          "method": "實驗",
+          "eligibility": "家長與 7–9 歲孩子",
+          "reward": "家長最高可獲 85 美元禮卡",
+          "reward_type": "禮券",
+          "guaranteed": true,
+          "duration": "兩次到校，每次約 90 分鐘",
+          "deadline": "",
+          "how_to_join": "填寫頁面內線上問卷確認資格，或電郵 childhealth@purdue.edu",
+          "contact": "childhealth@purdue.edu",
+          "location": "美國普渡大學（西拉法葉校區）",
+          "last_checked": "2026-10-10",
+          "caution": ""
+        }
+      }
+    },
+    {
+      "type": "family",
+      "source": {
+        "url": "https://www.purdue.edu/newsroom/purduetoday/2024/Q3/researchers-in-various-studies-looking-for-participants/",
+        "platform": "web",
+        "title": "Researchers in various studies looking for participants",
+        "author_name": "Purdue University",
+        "description": "普渡大學持續更新的研究參與者招募清單，頁首註明所列研究正在招募參加者。"
+      },
+      "page_date": "",
+      "evidence_quote": "$10 per hour for their participation",
+      "family": {
+        "kind": "bounty",
+        "title_zh": "幼兒語言與閱讀發展研究（4–7 歲參與者招募）",
+        "title_en": "Morphological Awareness in Early Childhood",
+        "summary_zh": "普渡大學人類發展與家庭科學系招募 4 至 7 歲兒童，參與語言與閱讀發展研究。孩子到校一次約 1.5 至 2 小時，與研究員做語言閱讀活動，家長填寫短問卷，家庭每小時可獲 10 美元。",
+        "summary_en": "",
+        "ages": [
+          "3-6歲",
+          "6-12歲"
+        ],
+        "topic": "賞金獵人",
+        "region": "美國",
+        "tips": [
+          "電郵 marks95@purdue.edu 或經頁面內連結報名",
+          "家長需陪同並填寫一份短問卷"
+        ],
+        "when_to_seek_help": "",
+        "source_type": "大學",
+        "posted_at": "",
+        "tags": [
+          "語言發展",
+          "閱讀",
+          "幼兒"
+        ],
+        "verify_needed": true,
+        "verify_reason": "彙整頁未標註各研究發布日期；依頁首「currently looking for participants」及 IRB-2026-499 判斷仍在招募中",
+        "activity": null,
+        "deal": null,
+        "bounty": {
+          "organizer": "Purdue University（人類發展與家庭科學系，PI: Rebecca Marks）",
+          "funder": "",
+          "method": "實驗",
+          "eligibility": "4–7 歲兒童及家長／監護人",
+          "reward": "每小時 10 美元",
+          "reward_type": "現金",
+          "guaranteed": true,
+          "duration": "到校一次，約 1.5–2 小時",
+          "deadline": "",
+          "how_to_join": "電郵 marks95@purdue.edu 或經頁面內連結報名",
+          "contact": "marks95@purdue.edu",
+          "location": "美國普渡大學（西拉法葉校區）",
+          "last_checked": "2026-10-10",
+          "caution": ""
+        }
+      }
+    },
+    {
+      "type": "family",
+      "source": {
+        "url": "https://www.purdue.edu/newsroom/purduetoday/2024/Q3/researchers-in-various-studies-looking-for-participants/",
+        "platform": "web",
+        "title": "Researchers in various studies looking for participants",
+        "author_name": "Purdue University",
+        "description": "普渡大學持續更新的研究參與者招募清單，頁首註明所列研究正在招募參加者。"
+      },
+      "page_date": "",
+      "evidence_quote": "participants could earn up to $100.",
+      "family": {
+        "kind": "bounty",
+        "title_zh": "長者認知衰退日常追蹤研究 CADI（參與者招募）",
+        "title_en": "Cognition and Daily Interactions: The CADI Study",
+        "summary_zh": "普渡大學心理科學系 Susan South 教授團隊招募 55 至 70 歲、近來記憶力變差或有輕度認知障礙的長者，探討日常生活與認知衰退的關聯。先經 10 至 15 分鐘電話篩查，再到校或視像會面，另加兩週每日手機短問卷，最高可獲 100 美元。",
+        "summary_en": "",
+        "ages": [],
+        "topic": "賞金獵人",
+        "region": "美國",
+        "tips": [
+          "先經頁面內連結預約電話篩查，確認資格",
+          "需能讀寫英文，並願意使用手機 App 填每日問卷"
+        ],
+        "when_to_seek_help": "",
+        "source_type": "大學",
+        "posted_at": "",
+        "tags": [
+          "認知衰退",
+          "長者",
+          "阿茲海默症風險"
+        ],
+        "verify_needed": true,
+        "verify_reason": "彙整頁未標註各研究發布日期；依頁首「currently looking for participants」及 IRB-2024-435 判斷仍在招募中",
+        "activity": null,
+        "deal": null,
+        "bounty": {
+          "organizer": "Purdue University（心理科學系，PI: Susan South）",
+          "funder": "",
+          "method": "網上問卷",
+          "eligibility": "55–70 歲，近來記憶力變差或有輕度認知障礙，能讀寫英文",
+          "reward": "最高 100 美元",
+          "reward_type": "現金",
+          "guaranteed": true,
+          "duration": "電話篩查約 10–15 分鐘，另加兩週每日短問卷",
+          "deadline": "",
+          "how_to_join": "經頁面內連結預約電話篩查，或電郵 CADI@purdue.edu",
+          "contact": "CADI@purdue.edu",
+          "location": "網上（亦可到校）",
+          "last_checked": "2026-10-10",
+          "caution": ""
+        }
+      }
+    },
+    {
+      "type": "family",
+      "source": {
+        "url": "https://www.purdue.edu/newsroom/purduetoday/2024/Q3/researchers-in-various-studies-looking-for-participants/",
+        "platform": "web",
+        "title": "Researchers in various studies looking for participants",
+        "author_name": "Purdue University",
+        "description": "普渡大學持續更新的研究參與者招募清單，頁首註明所列研究正在招募參加者。"
+      },
+      "page_date": "",
+      "evidence_quote": "$30 Amazon gift card for participating",
+      "family": {
+        "kind": "bounty",
+        "title_zh": "大腦形狀空間注意力腦造影研究（參與者招募）",
+        "title_en": "Age Effects on Neural Representations of Shape, Space and Attention",
+        "summary_zh": "普渡大學心理科學系 Anne Sereno 教授招募 21 至 40 歲或 56 至 75 歲成人，參與大腦造影研究，了解大腦如何處理形狀與位置訊息。參加 90 分鐘可獲 30 美元 Amazon 禮卡，2 小時可獲 40 美元。",
+        "summary_en": "",
+        "ages": [],
+        "topic": "賞金獵人",
+        "region": "美國",
+        "tips": [
+          "先填寫頁面內問卷確認資格",
+          "有疑問可電郵 agarw467@purdue.edu"
+        ],
+        "when_to_seek_help": "",
+        "source_type": "大學",
+        "posted_at": "",
+        "tags": [
+          "腦造影",
+          "注意力",
+          "認知"
+        ],
+        "verify_needed": true,
+        "verify_reason": "彙整頁未標註各研究發布日期；依頁首「currently looking for participants」及 IRB-2025-511 判斷仍在招募中",
+        "activity": null,
+        "deal": null,
+        "bounty": {
+          "organizer": "Purdue University（心理科學系，PI: Anne Sereno）",
+          "funder": "",
+          "method": "實驗",
+          "eligibility": "21–40 歲或 56–75 歲，無腦傷或神經精神疾病史，視力正常或矯正正常",
+          "reward": "90 分鐘 30 美元／2 小時 40 美元 Amazon 禮卡",
+          "reward_type": "禮券",
+          "guaranteed": true,
+          "duration": "約 90 分鐘至 2 小時",
+          "deadline": "",
+          "how_to_join": "填寫頁面內問卷確認資格，或電郵 agarw467@purdue.edu",
+          "contact": "agarw467@purdue.edu",
+          "location": "美國普渡大學（西拉法葉校區）",
+          "last_checked": "2026-10-10",
+          "caution": "涉及腦造影程序，參加前請與醫生商量並細閱知情同意書"
+        }
+      }
+    },
+    {
+      "type": "family",
+      "source": {
+        "url": "https://www.purdue.edu/newsroom/purduetoday/2024/Q3/researchers-in-various-studies-looking-for-participants/",
+        "platform": "web",
+        "title": "Researchers in various studies looking for participants",
+        "author_name": "Purdue University",
+        "description": "普渡大學持續更新的研究參與者招募清單，頁首註明所列研究正在招募參加者。"
+      },
+      "page_date": "",
+      "evidence_quote": "earn up to $150 ($300 per couple)",
+      "family": {
+        "kind": "bounty",
+        "title_zh": "乳癌康復者伴侶關係與健康研究（參與者招募）",
+        "title_en": "Research Study for Breast Cancer Survivors and Their Partners",
+        "summary_zh": "普渡大學人類發展與家庭科學系招募已完成治療的乳癌康復者（可單獨或與伴侶同行），探討伴侶關係與壓力如何影響康復期健康。包括線上問卷與 7 天日記，每人最高可獲 150 美元，伴侶同行共 300 美元。",
+        "summary_en": "",
+        "ages": [],
+        "topic": "賞金獵人",
+        "region": "美國",
+        "tips": [
+          "先填寫頁面內篩查問卷",
+          "伴侶同行須為同住伴侶；可致電 812-518-9498 查詢"
+        ],
+        "when_to_seek_help": "",
+        "source_type": "大學",
+        "posted_at": "",
+        "tags": [
+          "乳癌康復",
+          "伴侶關係",
+          "壓力與健康"
+        ],
+        "verify_needed": true,
+        "verify_reason": "彙整頁未標註各研究發布日期；依頁首「currently looking for participants」及 IRB-2022-538 判斷仍在招募中",
+        "activity": null,
+        "deal": null,
+        "bounty": {
+          "organizer": "Purdue University（人類發展與家庭科學系，PI: Rosie Shrout）",
+          "funder": "",
+          "method": "網上問卷",
+          "eligibility": "已完成癌症治療的乳癌康復者；伴侶同行須同住",
+          "reward": "每人最高 150 美元（伴侶同行共 300 美元）",
+          "reward_type": "現金",
+          "guaranteed": true,
+          "duration": "線上問卷加 7 天日記",
+          "deadline": "",
+          "how_to_join": "填寫頁面內篩查問卷，或電郵 RelationshipsAndHealthLab@Purdue.edu／致電 812-518-9498",
+          "contact": "RelationshipsAndHealthLab@Purdue.edu；812-518-9498",
+          "location": "網上（伴侶研究亦可到校）",
+          "last_checked": "2026-10-10",
+          "caution": ""
+        }
+      }
+    }
+  ],
+  "skipped": [
+    {
+      "url": "https://hk.ulifestyle.com.hk/topic/detail/20105987/%E4%B8%AD%E5%A4%A7%E7%9D%A1%E7%9C%A0%E7%A0%94%E7%A9%B6%E7%B5%84%E6%8B%9B%E5%8B%9F50%E8%87%B380%E6%AD%B2%E4%BA%BA%E5%A3%AB-%E9%80%B2%E8%A1%8C%E7%9D%A1%E7%9C%A0%E6%AA%A2%E6%B8%AC-%E6%94%B6%E9%9B%86%E5%A4%A7%E4%BE%BF%E6%A8%A3%E6%9C%AC-%E6%88%90%E5%8A%9F%E5%8F%83%E8%88%87%E9%80%81-500%E8%B6%85%E5%B8%82%E7%A6%AE%E5%88%B8",
+      "reason": "文章發布日 2026-08-14，超出 15 天範圍"
+    },
+    {
+      "url": "https://sites.google.com/view/um-depression-intervention",
+      "reason": "頁面無發布日期，無法確認是否仍在招募（疑似舊項目）"
+    },
+    {
+      "url": "https://shaw.cuhk.edu.hk/sites/default/files/public_file/JCTH_Poster_CUHK-compressed.pdf",
+      "reason": "海報無發布日期，無法確認招募時效（SBRE-23-0966A 為 2023 年審批）"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/cbs/st/sites/default/files/contents/News_CantoneseRobotTraining_0.pdf",
+      "reason": "招募海報無發布日期，無法確認時效"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/cbs/st/sites/default/files/contents/NEWS_Cantonese_ASD_human_Training_ASD_control.pdf",
+      "reason": "招募海報無發布日期，無法確認時效"
+    },
+    {
+      "url": "https://news.vt.edu/content/news_vt_edu/en/notices/2026/09/volunteering-and-work-experiences-study.html",
+      "reason": "僅限該校學生（需 Virginia Tech 電郵），不適合一般讀者"
+    },
+    {
+      "url": "https://www.bigbangrecruiting.com/views/",
+      "reason": "商業招募公司，非心理學研究"
+    },
+    {
+      "url": "https://e-bulletin.um.edu.mo/notice/422217/",
+      "reason": "招募截止 2025-09-30，已過期"
+    },
+    {
+      "url": "https://www.dcard.tw/f/kmu/p/262192304",
+      "reason": "發布已 17 天，超出 15 天範圍；且台灣非賞金獵人地區"
+    },
+    {
+      "url": "https://www.soc.cuhk.edu.hk/recruitment-for-research-assistants-student-research-helpers-and-research-participants/",
+      "reason": "社會學社區研究，非心理健康相關"
+    }
+  ],
+  "unreachable_sources": [],
+  "notes": "未做去重：~/workspace/user/files/ 內無檔名含「已收錄」的比對檔，請 Claude 把關。UniExp HK 研究詳情連結解析異常（導向說明頁），該則僅以列表頁「公開招募中」及剩餘名額為據，已標 verify_needed。Purdue 彙整頁為持續更新的招募清單，無各研究發布日期，各則均標 verify_needed。今日無遇到 429；澳門方面是日 e-bulletin 公告板（2026-10-09 公告）無新的有報酬研究招募。"
+}
