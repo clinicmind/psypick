@@ -1,0 +1,205 @@
+{
+  "format": "psypick-muse-v1",
+  "run_date": "2026-10-11",
+  "items": [
+    {
+      "type": "case",
+      "kind": "training",
+      "category": "進修與培訓",
+      "title_zh": "National Counselling & Psychotherapy Conference – Malaysia 2026（第三屆，10/29 吉隆坡）",
+      "title_en": "National Counselling & Psychotherapy Conference – Malaysia 2026 (3rd Edition, Oct 29, Kuala Lumpur)",
+      "summary_zh": "全國諮商與心理治療會議馬來西亞場（第三屆），2026 年 10 月 29 日（星期四）在吉隆坡 Menara Affin @ TRX 舉行，為期一天的實體會議，時間為上午 9 點至下午 4 點半（GMT+8）。議程涵蓋臨床架構、複雜個案與風險管理、文化敏感度、AI 與倫理等方向。官方頁未列出費用與報名截止。",
+      "evidence_quote": "29 October 2026 (Thursday)",
+      "evidence_hint": "官方會議頁（nationalcounsellingconference.asia/my/）",
+      "page_date": "",
+      "source": {
+        "platform": "web",
+        "title": "National Counselling & Psychotherapy Conference – Malaysia 2026",
+        "url": "https://nationalcounsellingconference.asia/my/",
+        "author_name": "National Counselling & Psychotherapy Conference",
+        "description": "官方會議頁：第三屆馬來西亞全國諮商與心理治療會議，單日實體，日期、地點與議程方向。"
+      },
+      "training": {
+        "provider": "National Counselling & Psychotherapy Conference",
+        "format": "實體",
+        "price": "",
+        "price_tier": "",
+        "ce_credits": "",
+        "language": "",
+        "event_date": "2026-10-29",
+        "deadline": "",
+        "audience_level": "",
+        "topic": "臨床架構、複雜個案與風險、文化敏感度、AI 與倫理等議程方向",
+        "signup_url": "https://nationalcounsellingconference.asia/my/",
+        "venue": "Menara Affin @ TRX, Kuala Lumpur, Malaysia（9am–4.30pm GMT+8）"
+      },
+      "key_points_zh": [
+        "2026-10-29（星期四）單日實體，9am–4.30pm（GMT+8），地點 Menara Affin @ TRX, Kuala Lumpur",
+        "第三屆馬來西亞場，與新加坡、香港、菲律賓同系列會議",
+        "議程方向含臨床架構、複雜個案與風險、高文化敏感度、AI 與倫理",
+        "官方頁未列費用與報名截止（/my/prices/ 回 404），費用欄留空"
+      ],
+      "population": [
+        "臨床工作者"
+      ],
+      "tags": [
+        "會議",
+        "諮商與心理治療",
+        "馬來西亞",
+        "實體會議"
+      ],
+      "verify_needed": false,
+      "verify_reason": "",
+      "model_names": []
+    },
+    {
+      "type": "case",
+      "kind": "training",
+      "category": "進修與培訓",
+      "title_zh": "National Counselling & Psychotherapy Conference – Philippines 2026（第二屆，11/17 馬尼拉）",
+      "title_en": "National Counselling & Psychotherapy Conference – Philippines 2026 (2nd Edition, Nov 17, Manila)",
+      "summary_zh": "全國諮商與心理治療會議菲律賓場（第二屆），2026 年 11 月 17 日（星期二）在馬尼拉 SMX Convention Center 舉行，為期一天的實體會議，時間為上午 9 點至下午 4 點半（GMT+8）。議程方向與馬來西亞、香港場一致，適合在菲律賓的臨床工作者。官方頁未列出費用與報名截止。",
+      "evidence_quote": "17 November 2026",
+      "evidence_hint": "官方會議頁（nationalcounsellingconference.asia/ph/）",
+      "page_date": "",
+      "source": {
+        "platform": "web",
+        "title": "National Counselling & Psychotherapy Conference – Philippines 2026",
+        "url": "https://nationalcounsellingconference.asia/ph/",
+        "author_name": "National Counselling & Psychotherapy Conference",
+        "description": "官方會議頁：第二屆菲律賓全國諮商與心理治療會議，單日實體，日期、地點與議程方向。"
+      },
+      "training": {
+        "provider": "National Counselling & Psychotherapy Conference",
+        "format": "實體",
+        "price": "",
+        "price_tier": "",
+        "ce_credits": "",
+        "language": "",
+        "event_date": "2026-11-17",
+        "deadline": "",
+        "audience_level": "",
+        "topic": "諮商與心理治療議程（與 MY／HK 場同系列方向）",
+        "signup_url": "https://nationalcounsellingconference.asia/ph/",
+        "venue": "SMX Convention Center, Manila, Philippines（9am–4.30pm GMT+8）"
+      },
+      "key_points_zh": [
+        "2026-11-17（星期二）單日實體，9am–4.30pm（GMT+8），地點 SMX Convention Center, Manila",
+        "第二屆菲律賓場，與馬來西亞、新加坡、香港同系列會議",
+        "官方頁未列費用、講者與報名截止，相關欄位留空"
+      ],
+      "population": [
+        "臨床工作者"
+      ],
+      "tags": [
+        "會議",
+        "諮商與心理治療",
+        "菲律賓",
+        "實體會議"
+      ],
+      "verify_needed": false,
+      "verify_reason": "",
+      "model_names": []
+    },
+    {
+      "type": "case",
+      "kind": "training",
+      "category": "進修與培訓",
+      "title_zh": "中国心理卫生协会第十届学术年会（10/25–27，詳情待核實）",
+      "title_en": "10th Academic Annual Meeting of the Chinese Association for Mental Health (Oct 25–27, 2026)",
+      "summary_zh": "中國心理衛生協會第十屆學術年會，協會會議系統首頁活動卡片顯示日期為 2026 年 10 月 25–27 日。僅見首頁卡片、未找到獨立詳情頁，地點、費用、報名截止均未核實。與已收錄的「18th National Mental Health Academic Conference（10/16–18）」名稱與日期均不符，是否為同一會議的更新或不同會議待查。",
+      "evidence_quote": "中国心理卫生协会第十届学术年会 2026.10.25-27",
+      "evidence_hint": "協會會議系統首頁活動卡片（conf.camh.org.cn）",
+      "page_date": "",
+      "source": {
+        "platform": "web",
+        "title": "中国心理卫生协会第十届学术年会",
+        "url": "https://conf.camh.org.cn/",
+        "author_name": "中国心理卫生协会",
+        "description": "協會會議系統首頁活動卡片：第十屆學術年會，日期 2026.10.25-27，剩餘名額 200+；無獨立詳情頁。"
+      },
+      "training": {
+        "provider": "中国心理卫生协会",
+        "format": "",
+        "price": "",
+        "price_tier": "",
+        "ce_credits": "",
+        "language": "",
+        "event_date": "2026-10-25",
+        "deadline": "",
+        "audience_level": "",
+        "topic": "",
+        "signup_url": "https://conf.camh.org.cn/"
+      },
+      "key_points_zh": [
+        "官方會議系統首頁卡片原文：2026.10.25-27，剩餘名額 200+",
+        "無獨立詳情頁；地點僅見收件地址（北京市朝陽區安立路仰山公園6號樓），非會場",
+        "與已收錄 18th National Mental Health Academic Conference（10/16–18）名稱日期均不符"
+      ],
+      "population": [
+        "臨床工作者"
+      ],
+      "tags": [
+        "會議",
+        "中國",
+        "學術年會"
+      ],
+      "verify_needed": true,
+      "verify_reason": "僅在協會會議系統首頁見到活動卡片，未找到獨立詳情頁；地點、費用、報名截止均未核實。且與已收錄「18th National Mental Health Academic Conference（10/16–10/18）」名稱與日期均不符，無法確定是同一會議的更新、名稱誤植、或不同會議——請 Claude 對照原條目裁決。",
+      "model_names": []
+    }
+  ],
+  "skipped": [
+    {
+      "url": "https://nationalcounsellingconference.asia/sg/",
+      "reason": "已結束（2026-10-07）"
+    },
+    {
+      "url": "",
+      "reason": "臺灣生命敘事論壇暨會員大會（11/07）：官方頁原文「報名人數：90人（額滿已截止）」，不收"
+    },
+    {
+      "url": "https://www.psychotherapynetworker.org/",
+      "reason": "2026 場已結束；2027 場超出 6 週窗口"
+    },
+    {
+      "url": "https://apcpctaylors.com/",
+      "reason": "APCPC 2026 已結束（2026-06-09～11）"
+    },
+    {
+      "url": "https://tsap.info/",
+      "reason": "2026 榮格心理國際研討會 12/12–13，超出 6 週窗口（留作 11 月後巡查線索）"
+    },
+    {
+      "url": "",
+      "reason": "conferencealerts 等 IC* 系列會議：疑似掠奪性風格、無可信官方頁，一律不收"
+    },
+    {
+      "url": "",
+      "reason": "臺灣精神醫學會 65 週年年會（11/07–08 高雄）：頁面預算用盡未深入核實，留作下次巡查線索"
+    }
+  ],
+  "unreachable_sources": [
+    {
+      "name": "www.camh.org.cn",
+      "url": "https://www.camh.org.cn/",
+      "problem": "HTTP 416 被擋，打不開通知欄"
+    },
+    {
+      "name": "澳門心理學會官網",
+      "url": "https://apm.org.mo/",
+      "problem": "常打不開，本輪依指示跳過"
+    },
+    {
+      "name": "NCPC Malaysia 費用頁",
+      "url": "https://nationalcounsellingconference.asia/my/prices/",
+      "problem": "404，費用頁不存在（費用官方未列）"
+    },
+    {
+      "name": "hkps.org.hk",
+      "url": "https://www.hkps.org.hk/",
+      "problem": "首頁 JS 渲染，無可讀活動資訊"
+    }
+  ],
+  "notes": "給 Claude：本輪週日 F 區會議巡查，共開約 30 頁，無 429。未做正式去重（~/workspace/user/files/ 無檔名含「已收錄」的比對檔）；已用 upload.txt（239 條）與 dedup-urls-2026-10-08.txt（96 條）比對網址（未開啟），3 則 URL 皆未命中，請 Claude 以「已收錄網址」比對檔把關。新收 2 則：NCPC Malaysia 2026（10/29 吉隆坡）與 NCPC Philippines 2026（11/17 馬尼拉），皆在官方頁親驗，費用與報名截止官方未列、已留空。第 3 則（中國心理衛生協會第十屆學術年會 10/25–27）標 verify_needed：僅見會議系統首頁活動卡片、無詳情頁，且與已收錄「18th National Mental Health Academic Conference（10/16–18）」名稱日期均不符，請對照原條目裁決是更新、誤植或不同會議（www.camh.org.cn 今日 416 被擋，未能進通知欄核對）。已收錄 7 場中其餘 6 場今日核對無變動，不交更新（TPA 65th 報名截止 10/05 已過、TWCPA 年會銷售截止 11/01 23:50，僅供欄目狀態參考）。候補線索：2026 榮格心理國際研討會 12/12–13（超窗口，留作 11 月後巡查）、臺灣精神醫學會 65 週年年會 11/07–08（未深入，留作下次線索）、中華醫學會第32次心身醫學分會年會 10/14–18 濟南（未驗證線索）。本週補漏：無需補查（本週 unreachable 多為 429／Cloudflare／JS／政策封鎖，429 依鐵則不重試）。"
+}
