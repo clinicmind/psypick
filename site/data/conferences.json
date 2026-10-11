@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-05T03:00:00+00:00",
- "today": "2026-10-05",
+ "generated_at": "2026-10-11T03:00:00+00:00",
+ "today": "2026-10-11",
  "regions": [
   "香港",
   "澳門",
@@ -1701,6 +1701,64 @@
      "note": "僅取自會議摘要；未另行查證。"
     }
    ]
+  },
+  {
+   "name_zh": "全國輔導及心理治療會議 馬來西亞站 2026",
+   "name_en": "National Counselling & Psychotherapy Conference – Malaysia 2026",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "city": "吉隆坡",
+   "country": "馬來西亞",
+   "region": "亞太",
+   "format": "實體",
+   "language": "英語",
+   "organizer": "官網未列（系列大會，商業主辦）",
+   "fee_text": "官網未載明",
+   "url": "https://nationalcounsellingconference.asia/my/",
+   "register_url": "https://nationalcounsellingconference.asia/my/",
+   "venue": "Menara Affin @ TRX, Kuala Lumpur",
+   "summary_zh": "第三屆、一日制的臨床實用輔導與心理治療會議，官網標示時間 9:00–16:30（GMT+8）。議程與講者名單本次未能逐項核對。",
+   "interest_zh": "同系列的香港站與新加坡站已收錄；本站若議程與香港站相近，可作為亞太輔導與治療實務的參考。議程細節待 Claude 或 Muse 另行核對。",
+   "slug": "national-counselling-psychotherapy-conference-ma-2026",
+   "themes": [
+    "輔導與心理治療實務"
+   ],
+   "domains": [
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "日期、場地已於官方頁核對；費用、報名截止、議程與講者官網未列（費用頁 /prices/ 404），待補。",
+   "last_checked": "2026-10-11",
+   "speakers": []
+  },
+  {
+   "name_zh": "全國輔導及心理治療會議 菲律賓站 2026",
+   "name_en": "National Counselling & Psychotherapy Conference – Philippines 2026",
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "city": "馬尼拉",
+   "country": "菲律賓",
+   "region": "亞太",
+   "format": "實體",
+   "language": "英語",
+   "organizer": "官網未列（系列大會，商業主辦）",
+   "fee_text": "官網未載明",
+   "url": "https://nationalcounsellingconference.asia/ph/",
+   "register_url": "https://nationalcounsellingconference.asia/ph/",
+   "venue": "SMX Convention Center, Manila",
+   "summary_zh": "第二屆、一日制的臨床實用輔導與心理治療會議，官網標示時間 9:00–16:30（GMT+8）。議程與講者名單本次未能逐項核對。",
+   "interest_zh": "同系列的香港站與新加坡站已收錄；本站若議程與香港站相近，可作為亞太輔導與治療實務的參考。議程細節待 Claude 或 Muse 另行核對。",
+   "slug": "national-counselling-psychotherapy-conference-ph-2026",
+   "themes": [
+    "輔導與心理治療實務"
+   ],
+   "domains": [
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "日期、場地已於官方頁核對；費用、報名截止、議程與講者官網未列，待補。",
+   "last_checked": "2026-10-11",
+   "speakers": []
   }
  ]
 }
