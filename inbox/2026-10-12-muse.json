@@ -1,0 +1,169 @@
+{
+  "format": "psypick-muse-v1",
+  "run_date": "2026-10-12",
+  "items": [
+    {
+      "type": "case",
+      "source": {
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2854932",
+        "platform": "web",
+        "title": "Chatbot Intervention and Cancer Risk Knowledge in Adolescents and Young Adults With Cancer Predisposition: A Randomized Clinical Trial",
+        "author_name": "JAMA Network Open",
+        "description": "多中心隨機對照試驗，測試聊天機器人 AYA-RISE 能否幫助 12 至 24 歲的遺傳性癌症易感青少年與年輕人了解自身罹癌風險與篩檢建議，並觀察心理困擾是否上升。"
+      },
+      "page_date": "2026-10-07",
+      "evidence_quote": "Published: October 7, 2026. doi:10.1001/jamanetworkopen.2026.35794",
+      "title_zh": "隨機對照試驗：聊天機器人幫助癌症易感青少年了解罹癌風險",
+      "title_en": "Chatbot RCT improves cancer-risk knowledge in adolescents and young adults with cancer predisposition",
+      "summary_zh": "這是在四個醫學中心進行的隨機對照試驗，收錄 106 位 12 至 24 歲的遺傳性癌症易感青少年與年輕人。結果顯示，使用聊天機器人的組別在「30 歲前罹癌風險知識」上的進步明顯優於僅接受門診的對照組，而且心理困擾沒有增加。值得注意的是，研究團隊聲明機器人的內容全部自行撰寫，沒有使用生成式 AI。",
+      "key_points_zh": [
+        "106 位受試者隨機分為聊天機器人組 54 人、對照組 52 人，試驗期間為 2022-12-20 至 2025-05-30。",
+        "機器人組準確掌握 30 歲前罹癌風險的比例從 52% 升至 78%，對照組從 38% 變為 37%（OR 3.50，P=.005）。",
+        "心理困擾（distress thermometer）機器人組略降但未達統計顯著（beta=-0.50，P=.09），代表介入並未增加困擾。",
+        "研究團隊聲明：所有機器人內容由團隊自行撰寫，未使用生成式 AI。"
+      ],
+      "category": "臨床與治療應用",
+      "kind": "research",
+      "tags": [
+        "聊天機器人",
+        "兒童心理",
+        "隨機對照試驗",
+        "青少年",
+        "癌症風險溝通"
+      ],
+      "population": [
+        "兒童青少年"
+      ],
+      "model_names": [],
+      "evidence_hint": "RCT",
+      "training": null,
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1824378/full",
+        "platform": "web",
+        "title": "Efficacy of artificial intelligence-driven conversational agents (chatbots) for mental health promotion among university students: a systematic review and meta-analysis",
+        "author_name": "Shao C, Chen X, Qiao S, Li A, Liu S and Chen Y",
+        "description": "系統性回顧與統合分析，專門聚焦大學生族群，評估 AI 對話式介入對憂鬱與焦慮症狀的效果，搜尋更新至 2026 年 8 月 24 日，並區分對照組強度與介入架構。"
+      },
+      "page_date": "2026-10-09",
+      "evidence_quote": "Published, 09 October 2026",
+      "title_zh": "統合分析：AI 聊天機器人對大學生憂鬱焦慮的效果",
+      "title_en": "Meta-analysis of AI chatbots for depression and anxiety in university students",
+      "summary_zh": "這篇系統性回顧只納入大學生樣本，搜尋了 PubMed 等五個資料庫至 2026 年 8 月 24 日。結果顯示，相較於非活躍或低強度對照，AI 對話式介入能減輕憂鬱（g=-0.413）與焦慮（g=-0.435）症狀，但證據確定性低、比較數少；與其他主動式對話介入相比則沒有可靠的額外效果。作者提醒架構相關的主張目前只能當作假設生成。",
+      "key_points_zh": [
+        "以非活躍或低強度對照為基準：憂鬱三組比較，Hedges g=-0.413；焦慮四組比較，g=-0.435，均傾向介入組。",
+        "與主動式對話對照（MYLO）相比，憂鬱與焦慮均未見可靠的增量效果。",
+        "作者強調證據確定性低，比較數少，且有流失與自我報告量表的限制。",
+        "建議未來以知情同意、有人監督、客觀結果評估為優先。"
+      ],
+      "category": "研究與證據",
+      "kind": "research",
+      "tags": [
+        "聊天機器人",
+        "大專生",
+        "統合分析",
+        "憂鬱",
+        "焦慮"
+      ],
+      "population": [
+        "大專生"
+      ],
+      "model_names": [],
+      "evidence_hint": "系統性回顧或統合分析",
+      "training": null,
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://brainhealthinstitute.rutgers.edu/2026/10/05/screen-time-and-young-brains-what-the-latest-research-really-means-for-parents/",
+        "platform": "web",
+        "title": "Screen Time and Young Brains: What the Latest Research Really Means for Parents",
+        "author_name": "Rutgers Brain Health Institute",
+        "description": "Rutgers 大學腦健康研究所的報導，整理 JAMA Pediatrics 2026 年 9 月 28 日刊登的大型傘形回顧，說明螢幕使用與兒童青少年發展、心理健康的關聯，並整理幾項相關新研究與實用建議。"
+      },
+      "page_date": "2026-10-05",
+      "evidence_quote": "A major umbrella review published in JAMA Pediatrics in late September 2026",
+      "title_zh": "大型傘形回顧：螢幕使用與兒童青少年發展及心理健康的關聯",
+      "title_en": "Umbrella review links screen use with child development and mental health outcomes",
+      "summary_zh": "這篇報導介紹刊登於 JAMA Pediatrics 的大型傘形回顧，整合了 23 篇統合分析、涵蓋 64 國近 280 萬名 18 歲以下兒童青少年。結果顯示螢幕使用較多與學業成就較低、語言發展較弱、內化與外化行為問題較多有關，但多為小到中等的相關性，不能推論因果。報導也提到家長的手機使用（technoference）同樣會影響孩子的語言發展。",
+      "key_points_zh": [
+        "傘形回顧整合 23 篇統合分析，約 280 萬名 18 歲以下兒童青少年，橫跨 64 國（doi:10.1001/jamapediatrics.2026.4339）。",
+        "較多螢幕暴露與較低學業成就、較弱語言能力、較多情緒與同儕問題有關，效應多為小到中等。",
+        "挪威世代研究：主要照顧者每天多用手機一小時，孩子 5 至 7 歲的接受性詞彙成長較慢。",
+        "研究性質為相關性，不能證明因果；新近研究往往發現較強的關聯。"
+      ],
+      "category": "研究與證據",
+      "kind": "research",
+      "tags": [
+        "兒童心理",
+        "螢幕使用",
+        "傘形回顧",
+        "社群媒體",
+        "家長"
+      ],
+      "population": [
+        "兒童青少年",
+        "一般大眾"
+      ],
+      "model_names": [],
+      "evidence_hint": "系統性回顧或統合分析",
+      "training": null,
+      "verify_needed": true,
+      "verify_reason": "文章發布日取自網址日期結構（/2026/10/05/），頁面內未顯示明確日期；原始傘形回顧發表於 JAMA Pediatrics，2026-09-28（頁內引用 doi:10.1001/jamapediatrics.2026.4339）"
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://medicalxpress.com/news/2026-09-social-media-anxiety-depression-teens.html",
+        "platform": "web",
+        "title": "More time on social media means more anxiety, depression for teens—especially girls",
+        "author_name": "Medical Xpress；原研究：Madelyn Curle 等，University of Alberta",
+        "description": "報導發表於 Journal of Adolescence 的加拿大大型研究，追蹤逾十萬名 12 至 18 歲青少年一年，探討社群媒體使用時間與焦慮、憂鬱、幸福感的關係，並納入跨性別與性別多元青少年。"
+      },
+      "page_date": "2026-09-15",
+      "evidence_quote": "More time on social media means more anxiety, depression for teens—especially girls (2026, September 15)",
+      "title_zh": "加拿大大型研究：社群媒體使用愈多，青少年焦慮憂鬱愈高，女孩尤其明顯",
+      "title_en": "More social media use tied to teen anxiety and depression, especially girls",
+      "summary_zh": "這項發表於 Journal of Adolescence 的研究由亞伯達大學團隊主導，分析加拿大 COMPASS 計畫逾十萬名 12 至 18 歲青少年。結果發現每天多使用一小時社群媒體，中重度憂鬱的機率提高 15%，焦慮提高 12 至 13%；對女孩的影響較大；一年追蹤也顯示使用量增加可預測心理健康變差。作者認為研究支持加拿大限制 16 歲以下使用社群媒體的立法方向。",
+      "key_points_zh": [
+        "樣本來自 COMPASS 計畫：2021-22 學年逾 58,000 人、2022-23 學年近 45,000 人，近 27,000 人追蹤一年。",
+        "每天多一小時社群媒體使用，中重度憂鬱機率提高 15%，焦慮提高 12 至 13%。",
+        "女孩受影響較大；一年間使用量增加者心理健康較差，且此縱向關聯無性別差異。",
+        "研究納入跨性別與性別多元青少年；作者支持加拿大 Safe Social Media Act 限制 16 歲以下使用的立法。"
+      ],
+      "category": "研究與證據",
+      "kind": "research",
+      "tags": [
+        "兒童心理",
+        "社群媒體",
+        "青少年",
+        "憂鬱",
+        "焦慮",
+        "縱貫研究"
+      ],
+      "population": [
+        "兒童青少年"
+      ],
+      "model_names": [],
+      "evidence_hint": "對照研究",
+      "training": null,
+      "verify_needed": false,
+      "verify_reason": ""
+    }
+  ],
+  "skipped": [],
+  "unreachable_sources": [
+    {
+      "name": "AI Incident Database（Discover 頁）",
+      "url": "https://incidentdatabase.ai/apps/discover/",
+      "problem": "要 JavaScript，文字擷取只能看到外殼"
+    }
+  ],
+  "notes": "今日為週一輪巡組（A 區學術期刊與預印本＋B 區），收錄 4 則。user/files 內無「已收錄」比對檔，未做去重，請 Claude 把關。情緒取向治療、特殊教育需要、Bodynamic／身體取向治療在近 15 天內未找到符合品質鐵則的新內容；擴大搜尋（5 個針對性搜尋）未再發掘可收錄的新來源。medRxiv 精神科合集頁條目無逐條日期，未逐篇核實。Rutgers 那則日期取自網址結構，已標 verify_needed。"
+}
