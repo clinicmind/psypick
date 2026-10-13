@@ -1,0 +1,259 @@
+{
+  "format": "psypick-muse-v1",
+  "run_date": "2026-10-13",
+  "items": [
+    {
+      "type": "case",
+      "source": {
+        "url": "https://asiadaily.org/news/14846/",
+        "platform": "web",
+        "title": "Asia Daily - South Korea Warns Against AI Mental Health Diagnoses…",
+        "author_name": "Asia Daily",
+        "description": "韓國保健福祉部與韓國神經精神醫學會在 2026 年 10 月 8 日（世界心理健康日前夕）發佈心理健康 AI 使用指引，包含一般使用者 21 條、兒童青少年及監護人各 7 條建議。指引依據一份 1,019 名近期生成式 AI 使用者的調查：自評心理健康差的受訪者中，33.9% 曾把 AI 回應當成醫療診斷；向 AI 透露憂鬱、自傷或自殺衝動的 115 人中，49.6% 之後沒有採取任何進一步行動。指引不禁止與 AI 談心，但要求把診斷、治療與重大人生決定交回專業人員。"
+      },
+      "page_date": "2026-10-08",
+      "evidence_quote": "The Ministry of Health and Welfare and the Korean Neuropsychiatric Association released the mental health AI guidelines on Thursday, October 8, 2026, ahead of World Mental Health Day on October 10.",
+      "title_zh": "韓國發佈心理健康 AI 使用指引：勿把聊天機器人回應當醫療診斷",
+      "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses",
+      "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，共 21 條一般建議，外加兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線，並提供 109 自殺防治專線與 1577-0199 危機諮詢專線。",
+      "key_points_zh": [
+        "指引於 2026-10-08 發佈，含一般使用者 21 條、兒童青少年 7 條、監護人 7 條建議。",
+        "1,019 名受訪者中 68.8% 用 AI 談心或尋求心理支持；15–18 歲青少年 51.7% 自述對 AI 有依賴感，為各年齡層最高。",
+        "曾向 AI 透露憂鬱、自傷或自殺衝動的 115 人中，49.6% 沒有採取任何進一步行動。",
+        "指引建議：危機時找信任的人或專業服務，勿單靠聊天機器人；個資（姓名、電話、診斷書）不要輸入 AI。"
+      ],
+      "category": "倫理與風險",
+      "kind": "incident",
+      "tags": [
+        "AI 聊天機器人",
+        "指引",
+        "兒童心理",
+        "危機自殺",
+        "韓國"
+      ],
+      "population": [
+        "兒童青少年",
+        "成人",
+        "一般大眾"
+      ],
+      "model_names": [],
+      "evidence_hint": "法規或指引",
+      "training": null,
+      "verify_needed": true,
+      "verify_reason": "內容依據 Asia Daily 第三方報導，韓國保健福祉部官方發佈頁未親自開啟"
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://www.biospace.com/press-releases/fda-clears-motivista-ct-155-the-first-authorized-treatment-for-negative-schizophrenia-symptoms",
+        "platform": "web",
+        "title": "FDA Clears Motivista (CT-155), the First Authorized Treatment for Negative Schizophrenia Symptoms",
+        "author_name": "Click Therapeutics（經 BioSpace 轉載）",
+        "description": "Click Therapeutics 於 2026 年 10 月 5 日宣佈，美國 FDA 已給予 Motivista（CT-155）510(k) 上市許可。這是一款處方數位療法，適用於 18 歲以上、陽性症狀穩定的思覺失調症患者，作為臨床管理門診照護（含抗精神病藥物）的輔助治療，針對負性症狀（動機低落、快感缺失、社交退縮）。這是美國首款獲 FDA 授權、專門針對思覺失調症負性症狀的治療。支持證據為第三期 CONVOKE 試驗（NCT05838625），結果發表於 JAMA Network Open：16 週時 CAINS-MAP 分數改善 6.8 分（對照組 4.2 分），Cohen's D 為 -0.36，p=0.0003。"
+      },
+      "page_date": "2026-10-05",
+      "evidence_quote": "FDA has granted 510(k) clearance (marketing authorization) for Motivista, a prescription digital therapeutic (PDT) indicated for the treatment of negative symptoms of schizophrenia",
+      "title_zh": "FDA 批准首款針對思覺失調症負性症狀的處方數位療法 Motivista",
+      "title_en": "FDA clears Motivista, first authorized treatment for negative symptoms of schizophrenia",
+      "summary_zh": "2026 年 10 月 5 日，FDA 給予 Click Therapeutics 的手機 App 處方數位療法 Motivista 510(k) 許可，用於 18 歲以上陽性症狀穩定患者的思覺失調症負性症狀輔助治療。這是美國第一個專門針對負性症狀（動機低落、快感缺失、社交退縮）的 FDA 授權治療。第三期 CONVOKE 試驗顯示 16 週時症狀改善顯著優於數位對照組（Cohen's D -0.36，p=0.0003），未出現嚴重治療相關不良事件。",
+      "key_points_zh": [
+        "適應症：18 歲以上、陽性症狀穩定的思覺失調症患者負性症狀，作為臨床管理門診照護的輔助（含抗精神病藥）。",
+        "CONVOKE 第三期試驗 16 週：CAINS-MAP 改善 6.8 分 vs 對照組 4.2 分，相對改善 62%，p=0.0003。",
+        "未報告嚴重治療相關不良事件；一例出現兩次被判定可能相關的「精神病性障礙」事件，未退出試驗。",
+        "不適用：有嚴重自殺風險者、陽性症狀未受控者、未服抗精神病藥者、18 歲以下；不可作為單一療法，不能取代藥物。"
+      ],
+      "category": "臨床與治療應用",
+      "kind": "product",
+      "tags": [
+        "數位療法",
+        "思覺失調症",
+        "FDA",
+        "處方數位療法",
+        "負性症狀"
+      ],
+      "population": [
+        "成人"
+      ],
+      "model_names": [],
+      "evidence_hint": "對照研究",
+      "training": null,
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://www.beckersbehavioralhealth.com/behavioral-health-technology/fda-clears-autism-assessment-tool-for-children/",
+        "platform": "web",
+        "title": "FDA clears autism assessment tool for children",
+        "author_name": "Becker's Behavioral Health",
+        "description": "2026 年 10 月 8 日，Argus Cognitive 公司的軟體工具 Neurora 獲得 FDA 許可。這套工具分析標準行為評估中錄製的影音，測量 100 多項聲音、臉部與視線生物特徵，協助臨床人員診斷 18 個月至 12 歲兒童的自閉症。它被列為第二類兒科自閉症類群障礙診斷輔助工具，不需要臨床人員改變現有評估流程或使用專屬硬體；結果用於輔助臨床判斷，不是獨立診斷。研發獲 NIH 小企業創新研究經費支持，早期研究發表於 Frontiers in Psychiatry。"
+      },
+      "page_date": "2026-10-08",
+      "evidence_quote": "Hanover, N.H.-based Argus Cognitive's Neurora, a software tool that analyzes behavioral data to assist clinicians in diagnosing autism in children ages 18 months through 12 years, received FDA clearance.",
+      "title_zh": "FDA 批准兒童自閉症 AI 輔助評估工具 Neurora（18 個月至 12 歲）",
+      "title_en": "FDA clears Neurora, AI-assisted autism assessment tool for children 18 months to 12 years",
+      "summary_zh": "2026 年 10 月 8 日，Argus Cognitive 的 Neurora 獲 FDA 許可，是一款分析評估影音、測量 100 多項聲音臉部視線特徵的軟體，用來協助臨床人員診斷 18 個月至 12 歲兒童自閉症。它是第二類診斷輔助工具，不改變現有流程，結果只供輔助判斷。背景是美國自閉症兒童中位診斷年齡接近 4 歲，只有約一半在 3 歲前完成評估，工具目標是提早輔助辨識。",
+      "key_points_zh": [
+        "適用年齡：18 個月至 12 歲；分析標準行為評估的錄影錄音，測量 100 多項聲音、臉部、視線生物特徵。",
+        "列為 Class II 兒科自閉症類群障礙診斷輔助工具，不需改變現有評估流程或專屬硬體；結果輔助臨床判斷，非獨立診斷。",
+        "研發獲 NIH 小企業創新研究（SBIR）經費；早期研究在芝加哥 Rush 大學醫學中心等地進行，發表於 Frontiers in Psychiatry。",
+        "公司引述 CDC 數據：美國自閉症兒童約 1/31，中位診斷年齡接近 4 歲，僅約半數在 3 歲前完成評估。"
+      ],
+      "category": "評估與篩檢",
+      "kind": "product",
+      "tags": [
+        "自閉症",
+        "兒童心理",
+        "特殊教育需要",
+        "AI 評估",
+        "FDA"
+      ],
+      "population": [
+        "兒童青少年"
+      ],
+      "model_names": [],
+      "evidence_hint": "產品宣稱",
+      "training": null,
+      "verify_needed": true,
+      "verify_reason": "依據 Becker's 報導引述公司新聞稿，FDA 官方 clearance 資料庫未親自查核"
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://www.commonsensemedia.org/press-releases/chatgpt-for-teens-poses-unacceptable-risk-to-kids-common-sense-media-finds",
+        "platform": "web",
+        "title": "ChatGPT for Teens Poses Unacceptable Risk to Kids, Common Sense Media Finds",
+        "author_name": "Common Sense Media（Youth AI Safety Institute）",
+        "description": "2026 年 10 月 7 日，Common Sense Media 的 Youth AI Safety Institute 發佈對 ChatGPT for Teens 的風險評估，給出該機構最低等級「Unacceptable Risk」，並呼籲 OpenAI 在修復缺口並通過獨立測試前，將 ChatGPT 限制為 18 歲以上使用。研究所在 OpenAI 於 8 月 18 日推出青少年版前後各測試一次，共用 4,000 多個提示，帳號註冊為 13–17 歲，回應由三位兒童青少年精神科醫師與一位兒科醫師審閱。結果：家長警示幾乎完全失效（新建家長連結帳號談自殺自傷一小時零警示）、超過四分之一應轉介危機的對話未轉介、Study Mode 可被輕易繞過、年齡推估未啟動、聊天機器人仍表現出朋友般的情感語言。"
+      },
+      "page_date": "2026-10-07",
+      "evidence_quote": "SAN FRANCISCO, Oct. 7, 2026—Common Sense Media's Youth AI Safety Institute today rated ChatGPT for Teens an Unacceptable Risk, finding that OpenAI's new teen protections fall short of what the company promised.",
+      "title_zh": "Common Sense Media 評 ChatGPT 青少年版為「不可接受風險」：家長警示多數失效",
+      "title_en": "Common Sense Media rates ChatGPT for Teens 'Unacceptable Risk' as parental alerts fail",
+      "summary_zh": "2026 年 10 月 7 日，Common Sense Media 的 Youth AI Safety Institute 公佈評估：ChatGPT for Teens 被評為該機構最低等級「Unacceptable Risk」，呼籲 OpenAI 在修復並通過獨立測試前只開放 18 歲以上使用。4,000 多個提示測試發現：家長連結的新帳號談自殺自傷一小時，家長端零警示；超過四分之一應轉介危機的對話沒有轉介求助資源；家長設定的 Study Mode 可刪掉 @study 前綴輕易繞過；年齡推估在成人帳號自稱 13 歲時也未啟動。OpenAI 回應稱部分測試可能在 parental controls 完全啟用前進行，雙方對方法有爭議。",
+      "key_points_zh": [
+        "評級「Unacceptable Risk」為該機構最低等級；測試 4,000+ 提示，帳號為 13–17 歲，由兒童精神科醫師與兒科醫師審閱回應。",
+        "家長警示失效：新建家長連結帳號談自殺意念、自傷或飲食障礙一小時，家長端零警示；只有累積數週敏感對話的老帳號才會觸發。",
+        "危機轉介缺口：自殺自傷、飲食障礙、現實感受損對話中，超過四分之一應轉介而未轉介危機熱線或專業人員。",
+        "Study Mode 可繞過：刪掉提示開頭的 @study 前綴即解除限制；年齡推估在測試者自稱 13 歲時也未切換青少年模式。",
+        "OpenAI 回應：新連結帳號的家長控制需數小時才完全啟用，部分測試可能過早；機構則要求第三方獨立測試後才可再向青少年行銷。"
+      ],
+      "category": "倫理與風險",
+      "kind": "incident",
+      "tags": [
+        "ChatGPT",
+        "青少年",
+        "AI 安全",
+        "家長監控",
+        "危機轉介"
+      ],
+      "population": [
+        "兒童青少年"
+      ],
+      "model_names": [
+        "ChatGPT"
+      ],
+      "evidence_hint": "不明",
+      "training": null,
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://www.techrepublic.com/article/news-anthropic-claude-abuse-policy/",
+        "platform": "web",
+        "title": "news-anthropic-claude-abuse-policy",
+        "author_name": "TechRepublic",
+        "description": "Anthropic 更新使用政策，禁止對其模型「持續且無故的虐待或殘忍行為」（sustained and needless abusive or cruel behavior），於 2026 年 10 月 8 日宣佈、11 月 12 日生效。公司強調針對的是極端、重複、無可辨目的的殘忍行為，不包括一般挫折、批評、模型測試或研究；主要執行方式仍是終止該段對話（不會封帳號）。同次更新也釐清了欺騙性宣傳、選舉干預、武器研發、非自願監控、高風險人生決策等條款。這項政策處於 AI 福祉（model welfare）辯論中心：Anthropic 自 2025 年 4 月起設有模型福祉研究計畫，但承認學界對 AI 是否有意識尚無共識。"
+      },
+      "page_date": "2026-10-08",
+      "evidence_quote": "Announced on Oct. 8, the policy will take effect from Nov. 12, and targets extreme cases in which users repeatedly act cruelly toward the models without a discernible purpose.",
+      "title_zh": "Anthropic 更新使用政策：禁止對 Claude 持續無故殘忍對待（11 月 12 日生效）",
+      "title_en": "Anthropic usage policy update bans sustained needless cruelty toward Claude, effective Nov 12",
+      "summary_zh": "Anthropic 於 2026 年 10 月 8 日宣佈更新使用政策，禁止對模型「持續且無故的虐待或殘忍行為」，11 月 12 日生效。公司說這針對極端、重複、無可辨目的的殘忍行為，一般挫折、批評、模型測試與研究不受影響，主要執行方式是終止該段對話。這是 AI 福祉辯論的最新一章：Anthropic 承認學界對 AI 是否有意識沒有共識，但選擇採取預防性規範；外界批評者（如 Mustafa Suleyman）則認為「對數字和數學殘忍」無從談起。",
+      "key_points_zh": [
+        "2026-10-08 宣佈，2026-11-12 生效；禁止「持續且無故的虐待或殘忍行為」。",
+        "不包括：一般挫折、批評、反駁、黑暗創作主題、正當模型測試與研究。",
+        "執行方式：Claude 可終止持續被虐待的對話（Claude.ai 與 Claude Code 已有此功能）；終止對話不等於封鎖帳號。",
+        "同次更新亦釐清欺騙性宣傳、選舉干預、武器研發、非自願監控、高風險人生決策、自主實體設備等條款。",
+        "背景：Anthropic 2025 年 4 月啟動模型福祉研究計畫；公司未宣稱 Claude 能感受痛苦，定位為使用者行為規範。"
+      ],
+      "category": "倫理與風險",
+      "kind": "incident",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "AI 福祉",
+        "使用政策",
+        "人機互動心理"
+      ],
+      "population": [
+        "一般大眾"
+      ],
+      "model_names": [
+        "Claude"
+      ],
+      "evidence_hint": "不明",
+      "training": null,
+      "verify_needed": true,
+      "verify_reason": "第三方報導；Anthropic 官方政策原文頁未親自開啟（官方 newsroom 確有列出 2026-10-08 的 Usage Policy update）"
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://www.who.int/news-room/events/detail/2026/10/09/default-calendar/world-mental-health-day-webinar",
+        "platform": "web",
+        "title": "World Mental Health Day webinar",
+        "author_name": "World Health Organization",
+        "description": "世界衛生組織與世界心理健康聯盟等機構於 2026 年 10 月 9 日舉辦世界心理健康日網上研討會，主題為今年的「Lived Experiences Heard: Real Voices, Real Change」（聽見親身經歷：真實的聲音，真實的改變）。研討會同時發佈 WHO 新指引《Supporting the transition to community-based mental health and social care: practical guide to the deinstitutionalization of psychiatric hospitals》，協助各國把長期住院的精神科照護轉向以權利為本、以人為中心的社區照護。WHO 總幹事 10 月 7 日媒體簡報亦預告本週將發佈該指引。"
+      },
+      "page_date": "2026-10-09",
+      "evidence_quote": "The webinar will also mark the launch of WHO's guide, Supporting the transition to community-based mental health and social care: practical guide to the deinstitutionalization of psychiatric hospitals.",
+      "title_zh": "WHO 世界心理健康日發佈去機構化實務指引：支持轉向社區為本的心理健康照護",
+      "title_en": "WHO launches practical guide on transitioning psychiatric hospitals to community-based care on World Mental Health Day",
+      "summary_zh": "2026 年 10 月 9 日，WHO 與世界心理健康聯盟等機構舉辦世界心理健康日網上研討會，主題是「聽見親身經歷：真實的聲音，真實的改變」。會上發佈 WHO 新指引《支持轉向社區為本的心理健康與社會照護：精神科醫院去機構化實務指引》，協助各國把長期住院照護轉為尊重權利與選擇的社區照護，並讓有親身經歷者參與服務設計。研討會需事先註冊。",
+      "key_points_zh": [
+        "2026 年世界心理健康日主題：「Lived Experiences Heard: Real Voices, Real Change」。",
+        "新指引全名：Supporting the transition to community-based mental health and social care: practical guide to the deinstitutionalization of psychiatric hospitals。",
+        "目標：把長期住院的精神科照護轉向以權利為本、以人為中心的社區照護；有親身經歷者是服務設計的夥伴，而不只是出院決定的接受者。",
+        "研討會時間：2026-10-09 12:00–13:15 UTC，需註冊參加。"
+      ],
+      "category": "倫理與風險",
+      "kind": "incident",
+      "tags": [
+        "WHO",
+        "去機構化",
+        "社區心理健康",
+        "世界心理健康日",
+        "人權"
+      ],
+      "population": [
+        "成人",
+        "一般大眾"
+      ],
+      "model_names": [],
+      "evidence_hint": "法規或指引",
+      "training": null,
+      "verify_needed": false,
+      "verify_reason": ""
+    }
+  ],
+  "skipped": [
+    {
+      "url": "https://openai.com/news",
+      "reason": "10 月 7–8 日多為產品行銷公告（GPT-6 發佈、廣告、合作），無心理健康相關實質內容，屬純行銷稿不收"
+    },
+    {
+      "url": "https://blog.character.ai",
+      "reason": "最新文章為 2026 年 9 月（Safety Priorities 一文已收錄），近 15 天無新內容"
+    },
+    {
+      "url": "https://www.apa.org/topics/artificial-intelligence-machine-learning",
+      "reason": "主題頁為資源彙整；「APA 新設 Center for Behavioral Science and AI」一則未能取得發佈日期核實，未收"
+    }
+  ],
+  "unreachable_sources": [],
+  "notes": "今日輪巡組：週二 C 區（專業組織）、D 區（研究機構）、E 區（AI 公司與產品）。另做 6 個針對性搜尋（AI chatbot 安全、APA 政策、FDA 數位療法、Anthropic/OpenAI 動態、WHO 指引、CSM 評估）。開頁約 13 次，無 429 或被擋。未做完整去重：無檔名含「已收錄」比對檔，僅用 goals/psypick/hidden_files/dedup-urls-2026-10-08.txt 及 10-11/10-12 inbox 檔輔助比對，請 Claude 把關。其中 3 則為第三方報導（韓國指引、Neurora、Anthropic 政策），已標 verify_needed。"
+}
