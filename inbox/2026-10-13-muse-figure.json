@@ -1,0 +1,413 @@
+{
+ "format": "psypick-muse-v1",
+ "run_date": "2026-10-13",
+ "items": [
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://stocktwits.com/news-articles/markets/equity/meta-unveils-frontier-muse-wonder-model-reclaiming-competitive-ground-in-ai-race/cZxI1W4RB8l",
+    "platform": "web"
+   },
+   "page_date": "2026-10-12",
+   "evidence_quote": "focused on personal empowerment",
+   "figure": {
+    "person": "mark-zuckerberg",
+    "kind": "訪談",
+    "summary_zh": "祖克柏在《金融時報》訪問中談 Muse Wonder 發布，稱 Meta 更聚焦個人賦能，而非知識工作自動化。他亦反對全行業放慢 AI 發展。",
+    "quote_en": "Everyone else is focused on more knowledge work, automation-type cases, and we're much more focused on personal empowerment",
+    "topics": [
+     "Muse Wonder",
+     "個人賦能",
+     "AI 發展速度"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": true,
+   "verify_reason": "未直接打開 FT 原文，以第三方轉述為據。"
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://stocktwits.com/news-articles/markets/equity/meta-unveils-frontier-muse-wonder-model-reclaiming-competitive-ground-in-ai-race/cZxI1W4RB8l",
+    "platform": "web"
+   },
+   "page_date": "2026-10-12",
+   "evidence_quote": "These are true frontier models",
+   "figure": {
+    "person": "alexandr-wang",
+    "kind": "訪談",
+    "summary_zh": "王向 Bloomberg 稱 Muse Wonder 是真正的前沿模型，在個人與專業代理工作上具頂尖水平。",
+    "quote_en": "These are true frontier models",
+    "topics": [
+     "Muse Wonder",
+     "前沿模型",
+     "AI 代理"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": true,
+   "verify_reason": "Bloomberg 原文未直接打開，以第三方轉述為據。"
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.storyboard18.com/digital/elon-musks-xai-unifies-grok-cursor-and-x-premium-under-a-single-subscription-launches-the-x-subscription-ws-l-112445.htm",
+    "platform": "web"
+   },
+   "page_date": "2026-10-12",
+   "evidence_quote": "We've unified plans across Grok",
+   "figure": {
+    "person": "elon-musk",
+    "kind": "產品發布",
+    "summary_zh": "xAI 推出 The X Subscription，把 Grok、Cursor 與 X Premium 合併為單一訂閱，共享每週用量。轉換為自願，但不可逆轉。",
+    "quote_en": "We've unified plans across Grok, Cursor, and X Premium.",
+    "topics": [
+     "The X Subscription",
+     "Grok",
+     "Cursor"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": true,
+   "verify_reason": "Musk 本人 X 貼文未直接打開，以公司帳號貼文轉述為據。"
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.primetimer.com/news/this-sounds-absolutely-positively-insane-nfls-rich-eisen-stunned-after-elon-musk-urges-users-to-drop-credit-card-info-for-grok-enabled-shopping",
+    "platform": "web"
+   },
+   "page_date": "2026-10-10",
+   "evidence_quote": "take a picture of your credit card",
+   "figure": {
+    "person": "elon-musk",
+    "kind": "貼文",
+    "summary_zh": "馬斯克在 X 發文，建議用戶拍下信用卡放進對話，讓 Grok Bot 比價下單。此建議引發安全疑慮，社群註解提醒勿在提示中放個人資料。",
+    "quote_en": "To buy stuff, you can just take a picture of your credit card, drop it in the chat and Grok @Bot will scour the Internet for the best deal on the item you want and order it.",
+    "topics": [
+     "Grok Bot",
+     "代理購物",
+     "安全疑慮"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": true,
+   "verify_reason": "X 貼文未直接打開，以第三方報導轉述為據。"
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.sourcery.vc/p/breaking-aravind-srinivas-perplexity",
+    "platform": "web"
+   },
+   "page_date": "2026-10-12",
+   "evidence_quote": "upwards of a million dollars a year",
+   "figure": {
+    "person": "aravind-srinivas",
+    "kind": "訪談",
+    "summary_zh": "Srinivas 在訪談中稱，一名一人公司每年在 Perplexity Computer 花費逾 100 萬美元，並靠自動化通訊業務年賺 300 萬美元。他認為 AI 原生中小企將推動下一波美國經濟增長。",
+    "quote_en": "There's one solopreneur, literally one-person company, who's spending upwards of a million dollars a year on our product because he's making three million a year.",
+    "topics": [
+     "Perplexity Computer",
+     "AI 原生中小企",
+     "代理經濟"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://aistify.com/satya-nadella-ai-emergency-brake-human-control/",
+    "platform": "web"
+   },
+   "page_date": "2026-10-10",
+   "evidence_quote": "We must assume a model is compromised",
+   "figure": {
+    "person": "satya-nadella",
+    "kind": "貼文",
+    "summary_zh": "納德拉在 X 發文提出 AI 信任架構，主張把先進模型視為潛在內部風險。控制與稽核證據須獨立於模型之外，並設人工緊急煞車。",
+    "quote_en": "We must assume a model is compromised and contain it from the start.",
+    "topics": [
+     "AI 信任架構",
+     "緊急煞車",
+     "內部風險"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": true,
+   "verify_reason": "X 貼文未直接打開，以第三方報導轉述為據。"
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://aistockwire.com/blog/yann-lecun-seoul-ai-doom-science-fiction-korea-physical-ai-october-2026",
+    "platform": "web"
+   },
+   "page_date": "2026-10-12",
+   "evidence_quote": "taking over the world is science fiction",
+   "figure": {
+    "person": "yann-lecun",
+    "kind": "訪談",
+    "summary_zh": "勒昆在首爾記者會上稱，AI 突然接管世界是科幻小說。AI 安全事故是可修復的工程問題。他稱韓國在造船、汽車等實體產業具實體 AI 優勢。",
+    "quote_en": "On October 12, Yann LeCun told reporters in Seoul that the idea of AI suddenly taking over the world is science fiction.",
+    "topics": [
+     "AI 安全",
+     "世界模型",
+     "實體 AI"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": true,
+   "verify_reason": "引述經韓媒轉述，非英文原文逐字。"
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.92ny.org/event/walter-isaacson-and-mustafa-suleyman",
+    "platform": "web"
+   },
+   "page_date": "2026-10-12",
+   "evidence_quote": "Mustafa Suleyman in Conversation",
+   "figure": {
+    "person": "mustafa-suleyman",
+    "kind": "演講",
+    "summary_zh": "蘇萊曼預定於 10 月 12 日晚在紐約 92NY，與 Walter Isaacson 對談「AI 時代」，為《The Builders》現場錄製。",
+    "quote_en": "Walter Isaacson and Mustafa Suleyman in Conversation: The Age of AI — A Live Recording of The Builders",
+    "topics": [
+     "AI 時代",
+     "公開對談",
+     "The Builders"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": true,
+   "verify_reason": "活動頁未能打開，僅靠搜尋摘要；未見事後報導證實已舉行及發言內容。"
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://cellcog.ai/blog/karpathy-llm-understanding-funnel/",
+    "platform": "x"
+   },
+   "page_date": "2026-10-11",
+   "evidence_quote": "Napkin math somewhere around 6B people",
+   "figure": {
+    "person": "andrej-karpathy",
+    "kind": "貼文",
+    "summary_zh": "Karpathy 在 X 發文，以四層漏斗描述大眾對 AI 能力的理解差距：約 60 億人幾乎未接觸 LLM、10–20 億人是免費層 casual 用戶、約 2,000 萬人是專業用戶、約 5,000 人接觸未公開的前沿系統。他稱差距正在擴大而非收窄。",
+    "quote_en": "Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.",
+    "topics": [
+     "AI 能力差距",
+     "LLM 普及"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": true,
+   "verify_reason": "未能打開 Karpathy 本人 X 原帖；日期與引述來自第三方頁面轉述。"
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://simonwillison.net/newsletters/",
+    "platform": "web"
+   },
+   "page_date": "2026-10-12",
+   "evidence_quote": "I built a new feature for my blog",
+   "figure": {
+    "person": "simon-willison",
+    "kind": "文章",
+    "summary_zh": "Willison 在本人網站通訊索引列出 10 月 12 日新一期通訊，主題是他用語音與電腦對話、邊煮晚餐邊為部落格做出新功能「Newsletters 頁面」。該期另提 Claude Haiku 5.5、Mistral Large 4 與 Python 3.15。",
+    "quote_en": "I built a new feature for my blog using my voice",
+    "topics": [
+     "語音編程",
+     "部落格工具"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": true,
+   "verify_reason": "只打開本人網站通訊索引頁，未打開 Substack 全文核對內容。"
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.bigtechnology.com/p/can-ai-keep-growing-exponentially",
+    "platform": "web"
+   },
+   "page_date": "2026-10-12",
+   "evidence_quote": "people's numbers are too low",
+   "figure": {
+    "person": "dylan-patel",
+    "kind": "訪談",
+    "summary_zh": "Patel 在 Big Technology Podcast 專訪中稱，市場流傳的 AI 基建投資數字仍然太低，因為算力需求持續超過供應。他認為 AI 將從程式訂閱擴展至經濟更多環節，例如晶片設計與藥物發現；同時預期經濟價值會從勞動轉向資本。",
+    "quote_en": "The first thing when that chart was going around, I was like, \"Whoa, people's numbers are too low.\"",
+    "topics": [
+     "AI 基建投資",
+     "算力供需"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": true,
+   "verify_reason": "已打開專訪頁面，但該頁未顯示發佈日期；日期 2026-10-12 按搜尋結果推算，須再核實。"
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://moon.fm/podcasts/305782",
+    "platform": "web"
+   },
+   "page_date": "2026-10-12",
+   "evidence_quote": "challenges their long-held assumptions",
+   "figure": {
+    "person": "esther-perel",
+    "kind": "訪談",
+    "summary_zh": "Perel 主持的《Where Should We Begin?》推出新一集〈I Want You To Want Me〉。一對夫妻前來求助，一方自認無性慾，另一方則以性作為主要連結方式，Perel 協助他們挑戰對性既有的假設，尋找第三條路。",
+    "quote_en": "Is theirs an irreconcilable difference? Is there hope for their future, or should they accept that divorce is the only option before them?",
+    "topics": [
+     "伴侶關係",
+     "性慾差異",
+     "Podcast"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=oaShd6e92xs",
+    "platform": "web"
+   },
+   "page_date": "2026-10-13",
+   "evidence_quote": "Understand the hidden trauma patterns",
+   "figure": {
+    "person": "gabor-mat",
+    "kind": "演講",
+    "summary_zh": "Maté 在免費線上活動 Healing Days 第二版首日場次主講，談童年真實性與依附需求的衝突如何塑造成年後的生存模式，並設有問答環節。同活動 10 月 16 日場次亦有他與 Ashley Judd 對談。",
+    "quote_en": "How do the competing needs for authenticity and attachment in childhood shape the way you live, relate, and respond today?",
+    "topics": [
+     "創傷",
+     "童年依附",
+     "線上活動"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": true,
+   "verify_reason": "活動頁發布於窗口期之前，本次為 10 月 13 日場次；頁面屬活動主辦方宣傳，建議核實場次是否如期舉行。"
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.compassionatemind.co.uk/cmf-conference-2026",
+    "platform": "web"
+   },
+   "page_date": "2026-10-13",
+   "evidence_quote": "Day One (Tuesday, 13th October)",
+   "figure": {
+    "person": "paul-gilbert",
+    "kind": "演講",
+    "summary_zh": "慈心基金會 20 週年國際會議首日（10 月 13 日），Gilbert 致歡迎辭。次日議程亦有他與前來訪者的反思環節。",
+    "quote_en": "Welcome Address — Prof Paul Gilbert OBE",
+    "topics": [
+     "CFT",
+     "慈心基金會會議"
+    ]
+   },
+   "tier_hint": "A",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://podcasts.apple.com/us/podcast/what-gets-lost-when-we-text-instead-of-talk-with-dr-nick-epley/id1474245040?i=1000794066756",
+    "platform": "web"
+   },
+   "page_date": "2026-10-12",
+   "evidence_quote": "What Gets Lost When We Text",
+   "figure": {
+    "person": "laurie-santos",
+    "kind": "訪談",
+    "summary_zh": "新一集《The Happiness Lab》於 10 月 12 日播出。Santos 與 Nick Epley 對談文字與語音溝通的分別，取材自兩人在世界幸福峰會的現場對話。",
+    "quote_en": "how we choose to communicate matters much more than we realize",
+    "topics": [
+     "溝通",
+     "幸福心理學"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": true,
+   "verify_reason": "未能打開 Pushkin 官方集數頁，日期來自集數表與 Apple Podcasts 摘要，需核實。"
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.penguinrandomhouse.com/books/787906/vibe-by-adam-grant/",
+    "platform": "web"
+   },
+   "page_date": "2026-10-13",
+   "evidence_quote": "Available on Oct 13, 2026",
+   "figure": {
+    "person": "adam-grant",
+    "kind": "產品發布",
+    "summary_zh": "新書《Vibe：The Secrets of Strong Connections in a Lonely World》於 10 月 13 日由 Viking 出版，談如何在孤獨時代建立更快、更強、更持久的連結。",
+    "quote_en": "Vibe teaches us that similarity is not necessary for solidarity",
+    "topics": [
+     "人際連結",
+     "新書"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  }
+ ],
+ "skipped": [
+  {
+   "url": "",
+   "reason": "AI 實驗室／大廠組：略過 8 則（窗口外 5 則；與領域無關 1 則；非本人新動態 2 則）。另有 2 則可疑未收：稱 Hassabis 發布 Arena AI 的可疑文章，以及稱 xAI 與 Intel 簽訂晶片協議的單一低可信來源文章。"
+  },
+  {
+   "url": "",
+   "reason": "獨立 AI 組：略過約 25 則，大多為窗口外舊內容或「關於該人而非出自該人」的第三方報導；另有 2 段假冒 Lex Fridman Podcast 名義的加密貨幣詐騙影片未收。"
+  },
+  {
+   "url": "",
+   "reason": "臨床 EFT／身體／CBT 組：略過 9 則（窗口外、Podcast 重發、純行銷、主講人非本人、僅舊推薦語、課程宣傳）。"
+  },
+  {
+   "url": "",
+   "reason": "臨床兒童／科普組：略過 10 則，皆因日期在窗口之外或屬舊頁。"
+  },
+  {
+   "url": "",
+   "reason": "彙整排除 1 則：Rowan Cheung（來源為品牌帳號 The Rundown AI，非 Rowan 個人帳號，不符只收本人帳號規則）。"
+  }
+ ],
+ "unreachable_sources": [
+  {
+   "url": "https://www.92ny.org/event/walter-isaacson-and-mustafa-suleyman",
+   "problem": "browser.open 超時，未重試；該則改以搜尋摘要收錄，已標 verify_needed:true"
+  },
+  {
+   "url": "https://x.com/karpathy/status/2109361546505966046",
+   "problem": "X 公開頁未能打開，改用第三方轉述"
+  },
+  {
+   "url": "https://x.com/rowancheung",
+   "problem": "The Rundown AI 的 X 原帖未能打開（該則最終因品牌帳號原因排除）"
+  },
+  {
+   "url": "https://simonw.substack.com",
+   "problem": "Substack 全文嘗試開啟只回到本人網站索引頁，改用索引頁標題與日期"
+  },
+  {
+   "url": "https://api.bilibili.com/x/web-interface/search/type",
+   "problem": "B站風控攔截（首次返 captcha 風控頁，重試 1 次仍為風控頁；另 1 個關鍵字無回應），已停止 B 站嘗試"
+  }
+ ],
+ "notes": "60 人全部覆蓋（每組 15 人）。未做去重：~/workspace/user/files/ 內無檔名含「已收錄」的比對檔，請 Claude 把關。B站：風控攔截，已停止嘗試，本次無 B 站收錄。Sue Johnson 已於 2024 年逝世，X 帳號為官方紀念帳號，依規則不收紀念帳號貼文。帳號異常：未見新增異常（Hinton 仿冒號已避開；Jensen Huang X 帳號仍為 2026 年 7 月新開）。X／Threads／Instagram／Facebook 全程未登入；小紅書未碰。"
+}
