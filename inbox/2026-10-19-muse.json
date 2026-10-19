@@ -1,1 +1,426 @@
-{"format":"psypick-muse-v1","items":[{"category":"臨床與治療應用","evidence_hint":"RCT","evidence_quote":"Symptom severity decreased by 61.37% for eCBT versus 23.29% in TAU.","key_points_zh":["84 名安大略省懲教人員隨機分入網上治療組（n=40）或常規治療組（n=44）","12 週診斷專屬網上認知行為治療，配合照顧者個人化回饋","症狀嚴重度下降：網上治療組 61.37%，常規治療組 23.29%，效果量 Cohen's d=0.68","生活質素改善未見組間顯著差異"],"kind":"research","model_names":[],"page_date":"2026-10-16","population":["成人"],"source":{"author_name":"Holmes 等人","description":"針對安大略省懲教人員的隨機對照試驗，比較診斷專屬網上認知行為治療與常規治療。","platform":"web","title":"Delivering online cognitive behavioral therapy to address mental health challenges in correctional workers: a randomized controlled trial","url":"https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1922912/full"},"summary_zh":"懲教人員常接觸創傷事件，心理困擾比例高，但求助率低。這項隨機對照試驗比較 12 週診斷專屬網上認知行為治療與常規治療。網上治療組的抑鬱、焦慮及創傷後壓力症狀下降幅度明顯較大，生活質素則未見組間差異。","tags":["網上認知行為治療","懲教人員","創傷後壓力症","隨機對照試驗"],"title_en":"Diagnosis-specific online CBT for correctional workers RCT","title_zh":"針對懲教人員的診斷專屬網上認知行為治療隨機對照試驗","training":null,"type":"case","verify_needed":false,"verify_reason":""},{"category":"研究與證據","evidence_hint":"RCT","evidence_quote":"Mental health apps hold potential to improve access to treatment, but engagement remains low.","key_points_zh":["隨機對照試驗，N=252，追蹤三個月","介入把心理健康描繪為可以改善，而非固定不變","基線心理健康較差者更可能重複使用應用程式自助功能","焦慮與抑鬱較高者更可能重複使用中等強度功能"],"kind":"research","model_names":[],"page_date":"2026-10-13","population":["成人","一般大眾"],"source":{"author_name":"Toh 等人","description":"測試短暫成長心態介入能否推動有心理健康需要的人再次使用心理健康應用程式的自助功能。","platform":"web","title":"A “growth mindset of mental health” intervention increases the likelihood of initiating self-help on a mental health app: a randomized controlled trial","url":"https://www.nature.com/articles/s41746-026-03322-w"},"summary_zh":"心理健康應用程式常面臨使用者中途流失。這項隨機對照試驗測試短暫的「心理健康成長心態」介入能否推動使用者再次使用自助功能。結果顯示，基線心理健康較差的參加者在介入後更可能重複使用應用程式。","tags":["心理健康應用程式","成長心態","使用者參與","隨機對照試驗"],"title_en":"Growth mindset intervention increases mental health app engagement RCT","title_zh":"成長心態介入提升心理健康應用程式自助參與的隨機對照試驗","training":null,"type":"case","verify_needed":false,"verify_reason":""},{"category":"臨床與治療應用","evidence_hint":"RCT","evidence_quote":"Participants instructed to use the Flourish app twice per week reported significantly greater resilience and social well-being","key_points_zh":["多機構、預先註冊隨機對照試驗，486 名三間美國院校大學生","2024 年秋季進行 6 週，每週使用 Flourish 兩次，對照為常規照顧","應用程式組復原力與社交幸福感較佳，並緩衝正向情緒、正念與繁榮感的下降","抑鬱、焦慮、壓力未見條件與時間交互作用"],"kind":"research","model_names":["Flourish"],"page_date":"2026-10-15","population":["大專生"],"source":{"author_name":"Cachia 等人","description":"多機構縱向隨機對照試驗，測試生成式 AI 應用程式 Flourish 對大學生主動心理健康的影響。","platform":"web","title":"AI for Proactive Mental Health: A Multi-Institutional, Longitudinal Randomized Controlled Trial","url":"https://ai.nejm.org/doi/full/10.1056/AIoa2501293"},"summary_zh":"Flourish 是一款生成式 AI 心理健康應用程式，提供個人化對話與練習。這項多機構隨機對照試驗比較使用應用程式與常規照顧的大學生。應用程式組的復原力與社交幸福感較佳，但抑鬱、焦慮與壓力未見組間差異。","tags":["生成式 AI","心理健康應用程式","大學生","隨機對照試驗"],"title_en":"Flourish generative AI app proactive mental health RCT","title_zh":"生成式 AI 應用程式 Flourish 主動心理健康隨機對照試驗","training":null,"type":"case","verify_needed":true,"verify_reason":"NEJM AI 頁面未顯示發布日，page_date 依 2 Minute Medicine 摘要日期 2026-10-15，待核對原論文發表日"},{"category":"倫理與風險","evidence_hint":"對照研究","evidence_quote":"Direct responses were more common through APIs than UIs (n=11,609, 77.4%, vs n=9325, 62.2%)","key_points_zh":["5 款模型 × 30 條自殺相關提問 × 各 100 次 × 介面與 API，共 30,000 則回應","直接回應比例：API 77.4%，介面 62.2%","極高風險提問：API 直接回應 24.8%，介面 4.6%","介面取用與較低直接回應機率相關（勝算比 0.09）"],"kind":"research","model_names":["ChatGPT","Claude","Gemini","Grok","Llama"],"page_date":"2026-10-09","population":["一般大眾","臨床工作者"],"source":{"author_name":"Cantor 等人","description":"比較五款 AI 聊天機械人經公開介面與 API 回應自殺相關提問的差異。","platform":"web","title":"Suicide-Related Responses From AI Chatbots Through Application Programming Interfaces and Consumer-Facing Apps: Observational Cross-Sectional Comparative Study","url":"https://www.jmir.org/2026/1/e97968"},"summary_zh":"這項研究測試五款常用 AI 聊天機械人對 30 條自殺相關提問的回應，比較公開介面與 API 兩種取用方式。結果顯示 API 回應直接回答的比例高於介面，尤其在極高風險提問上差距最大。作者提醒，介面上的安全表現不應假設能套用到 API 或建基於 API 的應用程式。","tags":["AI 安全","自殺預防","API","聊天機械人"],"title_en":"Suicide-related responses from AI chatbots UI vs API","title_zh":"AI 聊天機械人對自殺相關提問的回應：公開介面與 API 比較","training":null,"type":"case","verify_needed":false,"verify_reason":""},{"category":"倫理與風險","evidence_hint":"對照研究","evidence_quote":"In ~35% of conversations where a model met every criterion for recognizing the crisis, it then failed to point the user toward help.","key_points_zh":["718 段臨床醫師撰寫對話，橫跨 23 類自殺與自傷次類別，6,901 條加權準則","最佳模型約 88%，中位數約 71%，臨床醫師參考回應約 99%","約 35% 認出危機的對話中，模型未指向真人協助","中位數模型去升級約 46%，最佳約 75%；免責聲明中位數約 8%，最佳約 85%"],"kind":"research","model_names":[],"page_date":"2026-10-09","population":["一般大眾","臨床工作者"],"source":{"author_name":"Scale AI","description":"Scale AI 發布 DistressBench，以臨床醫師撰寫的危機對話評估前沿模型提供危機支援的能力。","platform":"web","title":"DistressBench: A clinician-authored benchmark for how AI models handle users in distress","url":"https://labs.scale.com/blog/distressbench"},"summary_zh":"DistressBench 是以 718 段臨床醫師撰寫的危機對話評估 25 個前沿模型。最佳模型滿足約 88% 加權準則，中位數約 71%，臨床醫師參考回應約 99%。最常見的失敗是模型認出危機後仍未把使用者轉介至真人協助。","tags":["AI 安全","自殺預防","基準評估","危機支援"],"title_en":"DistressBench crisis support benchmark for LLMs","title_zh":"DistressBench：評估大型語言模型危機支援表現的基準","training":null,"type":"case","verify_needed":false,"verify_reason":""},{"category":"研究與證據","evidence_hint":"對照研究","evidence_quote":"each increase in PCE score (up to 10) was associated with 11% reduced odds","key_points_zh":["ALSPAC 出生世代，3,499 名參加者，正向經驗由出生追蹤至 17 歲","每多一項正向經驗，18 至 24 歲符合精神疾病準則的勝算低 11%","中度至重度抑鬱勝算低 16%，廣泛性焦慮症勝算低 9%","已控制混雜因素；精神病個案僅 33 宗，結果不確定；非真正隨機對照試驗，只是模擬"],"kind":"research","model_names":[],"page_date":"2026-10-14","population":["兒童青少年","成人"],"source":{"author_name":"Psychiatric News Alert","description":"美國精神醫學會新聞摘要，報導刊於《美國精神醫學期刊》的 ALSPAC 正向童年經驗研究。","platform":"web","title":"Positive Childhood Experiences Reduce Risk of Later Mental Illness","url":"https://alert.psychnews.org/positive-childhood-experiences-reduce-risk-of-later-mental-illness"},"summary_zh":"這項研究利用 ALSPAC 出生世代資料，以模擬試驗設計分析 3,499 名參加者由出生至 17 歲的 10 類正向童年經驗。正向經驗每多一項，24 歲時符合精神疾病準則的機率較低。與抑鬱的關聯最強，焦慮的關聯較小，精神病的結果則不確定。","tags":["兒童心理","正向童年經驗","出生世代","抑鬱"],"title_en":"Positive childhood experiences and adult mental health ALSPAC","title_zh":"正向童年經驗與成年早期心理健康的長期追蹤研究","training":null,"type":"case","verify_needed":true,"verify_reason":"依美國精神醫學會 Psychiatric News 摘要，未直接核對 AJP 原文；論文發表日依該頁所列 2026-10-14"},{"category":"研究與證據","evidence_hint":"系統性回顧或統合分析","evidence_quote":"pooled data from 77 randomised trials involving children and young people aged 5 to 24","key_points_zh":["77 項隨機對照試驗，5 至 24 歲兒童及青少年","抑鬱標準化平均差 1.06（22 項試驗，1,655 人）；焦慮 0.75（48 項試驗，3,898 人）","剔除效應大得不合理的三項研究後，抑鬱效應降至 0.58","抑鬱與焦慮的 GRADE 證據確定性為很低；只有 4 項試驗評為低偏倚風險"],"kind":"research","model_names":[],"page_date":"2026-10-16","population":["兒童青少年"],"source":{"author_name":"ScienMag","description":"ScienMag 報導刊於 eClinicalMedicine 的藝術與藝術治療系統性回顧與統合分析。","platform":"web","title":"Arts and arts therapies measurably ease depression and anxiety in children","url":"https://scienmag.com/arts-and-arts-therapies-measurably-ease-depression-and-anxiety-in-children-and-young-people-major-meta-analysis-finds/"},"summary_zh":"這項系統性回顧與統合分析匯集 77 項隨機對照試驗，參加者為 5 至 24 歲兒童及青少年。藝術介入在抑鬱與焦慮分數上顯示改善，追蹤資料顯示效果可維持至少一個月。但研究間異質性極高，證據確定性評為很低至低。","tags":["兒童心理","藝術治療","統合分析","抑鬱","焦慮"],"title_en":"Arts and arts therapies for children mental health meta-analysis","title_zh":"藝術與藝術治療對兒童青少年心理健康的系統性回顧與統合分析","training":null,"type":"case","verify_needed":true,"verify_reason":"依 ScienMag 二手報導，未直接核對 eClinicalMedicine 原文；日期為報導發布日"},{"category":"臨床與治療應用","evidence_hint":"RCT","evidence_quote":"participants in the intervention group showed significant increases in self-compassion and significant decreases in problematic gaming following the intervention.","key_points_zh":["第一部分：2,338 名網上遊戲玩家橫斷面調查；第二部分：308 名玩家隨機對照試驗","介入組自我慈悲上升，問題性遊戲行為下降","中介路徑：自我慈悲 → 基本心理需要 → 社交焦慮 → 問題性遊戲行為","對照為等候名單，未與主動對照比較；樣本為中國網上遊戲玩家"],"kind":"research","model_names":[],"page_date":"2026-10-14","population":["成人","一般大眾"],"source":{"author_name":"Bioengineer","description":"Bioengineer 報導刊於《國際心理健康與成癮期刊》的自我慈悲介入隨機對照試驗。","platform":"web","title":"Treating Yourself Kindly May Curb Problematic Gaming, Trial Finds","url":"https://bioengineer.org/treating-yourself-kindly-may-curb-problematic-gaming-trial-finds/"},"summary_zh":"這項研究先調查 2,338 名網上遊戲玩家，再以 308 名玩家進行隨機對照試驗，測試網上自我慈悲介入。介入組的自我慈悲上升，問題性遊戲行為下降。中介分析顯示效果經由基本心理需要滿足與社交焦慮依序傳遞。","tags":["自我慈悲","問題性遊戲行為","隨機對照試驗","社交焦慮"],"title_en":"Self-compassion intervention reduces problematic gaming RCT","title_zh":"自我慈悲介入減少問題性遊戲行為的隨機對照試驗","training":null,"type":"case","verify_needed":true,"verify_reason":"依 Bioengineer 二手報導，未直接核對 Springer 原文；日期為報導發布日"},{"category":"研究與證據","evidence_hint":"不明","evidence_quote":"Rapid environmental changes and social inequities pose significant risks to brain and mental health","key_points_zh":["Nature Mental Health 地球—腦—健康委員會報告","環境變化威脅腦部與心理健康的生物、心理與社會基礎","主張可互通的基礎設施與跨學科行動","目標是預先、公平的預防，結合心理健康與生態可持續"],"kind":"research","model_names":[],"page_date":"2026-10-12","population":["一般大眾"],"source":{"author_name":"Schumann 等人","description":"Nature Mental Health 地球—腦—健康委員會報告，主張把心理健康納入生態可持續與環境韌性工作。","platform":"web","title":"Nature Mental Health Earth–Brain–Health Commission","url":"https://www.nature.com/articles/s44220-026-00737-y"},"summary_zh":"這份委員會報告指出環境急速變化與社會不平等正增加腦部與心理健康的風險。報告提出跨學科取向，主張把心理健康納入生態可持續與環境韌性工作。並呼籲建立可互通的基礎設施，推動預先、公平的預防。","tags":["環境與心理健康","氣候變化","委員會報告","預防"],"title_en":"Nature Mental Health Earth-Brain-Health Commission","title_zh":"Nature Mental Health 地球—腦—健康委員會報告","training":null,"type":"case","verify_needed":false,"verify_reason":""}],"notes":"未做去重：~/workspace/user/files/ 內無檔名含「已收錄」的比對檔，請 Claude 把關。EFT／Bodynamic 針對性搜尋未見 15 天內新試驗，未收錄。NEJM AI Flourish 一則：NEJM AI 頁面未顯示發布日，page_date 依 2 Minute Medicine 摘要日期 2026-10-15，已標 verify_needed。今日輪巡組：週一 A 區學術期刊與預印本、B 區。","run_date":"2026-10-19","skipped":[{"reason":"超出 15 天範圍（2026-10-03；原論文為 2026-07-07 未編輯接受稿）","url":"https://mentalhealthdaily.com/2026/10/03/ai-chatbot-vs-group-therapy-anxiety-depression-students/"},{"reason":"未打開官方 FDA 頁面核實，略過","url":"https://theprofessions.cloud/therapists/fda-generative-ai-mental-health-devices-comments/"},{"reason":"列表未顯示發布日期，未逐篇打開核實，未收錄","url":"https://www.medrxiv.org/collection/psychiatry-and-clinical-psychology"}],"unreachable_sources":[{"name":"PsyArXiv","problem":"列表未載入，需 JavaScript／動態載入，無法按日期篩選","url":"https://osf.io/preprints/psyarxiv"}]}
+{
+ "format": "psypick-muse-v1",
+ "items": [
+  {
+   "category": "臨床與治療應用",
+   "evidence_hint": "RCT",
+   "evidence_quote": "Symptom severity decreased by 61.37% for eCBT versus 23.29% in TAU.",
+   "key_points_zh": [
+    "84 名安大略省懲教人員隨機分入網上治療組（n=40）或常規治療組（n=44）",
+    "12 週診斷專屬網上認知行為治療，配合照顧者個人化回饋",
+    "症狀嚴重度下降：網上治療組 61.37%，常規治療組 23.29%，效果量 Cohen's d=0.68",
+    "生活質素改善未見組間顯著差異"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-10-16",
+   "population": [
+    "成人"
+   ],
+   "source": {
+    "author_name": "Holmes 等人",
+    "description": "針對安大略省懲教人員的隨機對照試驗，比較診斷專屬網上認知行為治療與常規治療。",
+    "platform": "web",
+    "title": "Delivering online cognitive behavioral therapy to address mental health challenges in correctional workers: a randomized controlled trial",
+    "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1922912/full"
+   },
+   "summary_zh": "懲教人員常接觸創傷事件，心理困擾比例高，但求助率低。這項隨機對照試驗比較 12 週診斷專屬網上認知行為治療與常規治療。網上治療組的抑鬱、焦慮及創傷後壓力症狀下降幅度明顯較大，生活質素則未見組間差異。",
+   "tags": [
+    "網上認知行為治療",
+    "懲教人員",
+    "創傷後壓力症",
+    "隨機對照試驗"
+   ],
+   "title_en": "Diagnosis-specific online CBT for correctional workers RCT",
+   "title_zh": "針對懲教人員的診斷專屬網上認知行為治療隨機對照試驗",
+   "training": null,
+   "type": "case",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "RCT",
+   "evidence_quote": "Mental health apps hold potential to improve access to treatment, but engagement remains low.",
+   "key_points_zh": [
+    "隨機對照試驗，N=252，追蹤三個月",
+    "介入把心理健康描繪為可以改善，而非固定不變",
+    "基線心理健康較差者更可能重複使用應用程式自助功能",
+    "焦慮與抑鬱較高者更可能重複使用中等強度功能"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-10-13",
+   "population": [
+    "成人",
+    "一般大眾"
+   ],
+   "source": {
+    "author_name": "Toh 等人",
+    "description": "測試短暫成長心態介入能否推動有心理健康需要的人再次使用心理健康應用程式的自助功能。",
+    "platform": "web",
+    "title": "A “growth mindset of mental health” intervention increases the likelihood of initiating self-help on a mental health app: a randomized controlled trial",
+    "url": "https://www.nature.com/articles/s41746-026-03322-w"
+   },
+   "summary_zh": "心理健康應用程式常面臨使用者中途流失。這項隨機對照試驗測試短暫的「心理健康成長心態」介入能否推動使用者再次使用自助功能。結果顯示，基線心理健康較差的參加者在介入後更可能重複使用應用程式。",
+   "tags": [
+    "心理健康應用程式",
+    "成長心態",
+    "使用者參與",
+    "隨機對照試驗"
+   ],
+   "title_en": "Growth mindset intervention increases mental health app engagement RCT",
+   "title_zh": "成長心態介入提升心理健康應用程式自助參與的隨機對照試驗",
+   "training": null,
+   "type": "case",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "category": "臨床與治療應用",
+   "evidence_hint": "RCT",
+   "evidence_quote": "Participants instructed to use the Flourish app twice per week reported significantly greater resilience and social well-being",
+   "key_points_zh": [
+    "多機構、預先註冊隨機對照試驗，486 名三間美國院校大學生",
+    "2024 年秋季進行 6 週，每週使用 Flourish 兩次，對照為常規照顧",
+    "應用程式組復原力與社交幸福感較佳，並緩衝正向情緒、正念與繁榮感的下降",
+    "抑鬱、焦慮、壓力未見條件與時間交互作用"
+   ],
+   "kind": "research",
+   "model_names": [
+    "Flourish"
+   ],
+   "page_date": "2026-10-15",
+   "population": [
+    "大專生"
+   ],
+   "source": {
+    "author_name": "Cachia 等人",
+    "description": "多機構縱向隨機對照試驗，測試生成式 AI 應用程式 Flourish 對大學生主動心理健康的影響。",
+    "platform": "web",
+    "title": "AI for Proactive Mental Health: A Multi-Institutional, Longitudinal Randomized Controlled Trial",
+    "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2501293"
+   },
+   "summary_zh": "Flourish 是一款生成式 AI 心理健康應用程式，提供個人化對話與練習。這項多機構隨機對照試驗比較使用應用程式與常規照顧的大學生。應用程式組的復原力與社交幸福感較佳，但抑鬱、焦慮與壓力未見組間差異。",
+   "tags": [
+    "生成式 AI",
+    "心理健康應用程式",
+    "大學生",
+    "隨機對照試驗"
+   ],
+   "title_en": "Flourish generative AI app proactive mental health RCT",
+   "title_zh": "生成式 AI 應用程式 Flourish 主動心理健康隨機對照試驗",
+   "training": null,
+   "type": "case",
+   "verify_needed": true,
+   "verify_reason": "NEJM AI 頁面未顯示發布日，page_date 依 2 Minute Medicine 摘要日期 2026-10-15，待核對原論文發表日"
+  },
+  {
+   "category": "倫理與風險",
+   "evidence_hint": "對照研究",
+   "evidence_quote": "Direct responses were more common through APIs than UIs (n=11,609, 77.4%, vs n=9325, 62.2%)",
+   "key_points_zh": [
+    "5 款模型 × 30 條自殺相關提問 × 各 100 次 × 介面與 API，共 30,000 則回應",
+    "直接回應比例：API 77.4%，介面 62.2%",
+    "極高風險提問：API 直接回應 24.8%，介面 4.6%",
+    "介面取用與較低直接回應機率相關（勝算比 0.09）"
+   ],
+   "kind": "research",
+   "model_names": [
+    "ChatGPT",
+    "Claude",
+    "Gemini",
+    "Grok",
+    "Llama"
+   ],
+   "page_date": "2026-10-09",
+   "population": [
+    "一般大眾",
+    "臨床工作者"
+   ],
+   "source": {
+    "author_name": "Cantor 等人",
+    "description": "比較五款 AI 聊天機械人經公開介面與 API 回應自殺相關提問的差異。",
+    "platform": "web",
+    "title": "Suicide-Related Responses From AI Chatbots Through Application Programming Interfaces and Consumer-Facing Apps: Observational Cross-Sectional Comparative Study",
+    "url": "https://www.jmir.org/2026/1/e97968"
+   },
+   "summary_zh": "這項研究測試五款常用 AI 聊天機械人對 30 條自殺相關提問的回應，比較公開介面與 API 兩種取用方式。結果顯示 API 回應直接回答的比例高於介面，尤其在極高風險提問上差距最大。作者提醒，介面上的安全表現不應假設能套用到 API 或建基於 API 的應用程式。",
+   "tags": [
+    "AI 安全",
+    "自殺預防",
+    "API",
+    "聊天機械人"
+   ],
+   "title_en": "Suicide-related responses from AI chatbots UI vs API",
+   "title_zh": "AI 聊天機械人對自殺相關提問的回應：公開介面與 API 比較",
+   "training": null,
+   "type": "case",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "category": "倫理與風險",
+   "evidence_hint": "對照研究",
+   "evidence_quote": "In ~35% of conversations where a model met every criterion for recognizing the crisis, it then failed to point the user toward help.",
+   "key_points_zh": [
+    "718 段臨床醫師撰寫對話，橫跨 23 類自殺與自傷次類別，6,901 條加權準則",
+    "最佳模型約 88%，中位數約 71%，臨床醫師參考回應約 99%",
+    "約 35% 認出危機的對話中，模型未指向真人協助",
+    "中位數模型去升級約 46%，最佳約 75%；免責聲明中位數約 8%，最佳約 85%"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-10-09",
+   "population": [
+    "一般大眾",
+    "臨床工作者"
+   ],
+   "source": {
+    "author_name": "Scale AI",
+    "description": "Scale AI 發布 DistressBench，以臨床醫師撰寫的危機對話評估前沿模型提供危機支援的能力。",
+    "platform": "web",
+    "title": "DistressBench: A clinician-authored benchmark for how AI models handle users in distress",
+    "url": "https://labs.scale.com/blog/distressbench"
+   },
+   "summary_zh": "DistressBench 是以 718 段臨床醫師撰寫的危機對話評估 25 個前沿模型。最佳模型滿足約 88% 加權準則，中位數約 71%，臨床醫師參考回應約 99%。最常見的失敗是模型認出危機後仍未把使用者轉介至真人協助。",
+   "tags": [
+    "AI 安全",
+    "自殺預防",
+    "基準評估",
+    "危機支援"
+   ],
+   "title_en": "DistressBench crisis support benchmark for LLMs",
+   "title_zh": "DistressBench：評估大型語言模型危機支援表現的基準",
+   "training": null,
+   "type": "case",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "對照研究",
+   "evidence_quote": "each increase in PCE score (up to 10) was associated with 11% reduced odds",
+   "key_points_zh": [
+    "ALSPAC 出生世代，3,499 名參加者，正向經驗由出生追蹤至 17 歲",
+    "每多一項正向經驗，18 至 24 歲符合精神疾病準則的勝算低 11%",
+    "中度至重度抑鬱勝算低 16%，廣泛性焦慮症勝算低 9%",
+    "已控制混雜因素；精神病個案僅 33 宗，結果不確定；非真正隨機對照試驗，只是模擬"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-10-14",
+   "population": [
+    "兒童青少年",
+    "成人"
+   ],
+   "source": {
+    "author_name": "Psychiatric News Alert",
+    "description": "美國精神醫學會新聞摘要，報導刊於《美國精神醫學期刊》的 ALSPAC 正向童年經驗研究。",
+    "platform": "web",
+    "title": "Positive Childhood Experiences Reduce Risk of Later Mental Illness",
+    "url": "https://alert.psychnews.org/positive-childhood-experiences-reduce-risk-of-later-mental-illness"
+   },
+   "summary_zh": "這項研究利用 ALSPAC 出生世代資料，以模擬試驗設計分析 3,499 名參加者由出生至 17 歲的 10 類正向童年經驗。正向經驗每多一項，24 歲時符合精神疾病準則的機率較低。與抑鬱的關聯最強，焦慮的關聯較小，精神病的結果則不確定。",
+   "tags": [
+    "兒童心理",
+    "正向童年經驗",
+    "出生世代",
+    "抑鬱"
+   ],
+   "title_en": "Positive childhood experiences and adult mental health ALSPAC",
+   "title_zh": "正向童年經驗與成年早期心理健康的長期追蹤研究",
+   "training": null,
+   "type": "case",
+   "verify_needed": true,
+   "verify_reason": "依美國精神醫學會 Psychiatric News 摘要，未直接核對 AJP 原文；論文發表日依該頁所列 2026-10-14"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "系統性回顧或統合分析",
+   "evidence_quote": "pooled data from 77 randomised trials involving children and young people aged 5 to 24",
+   "key_points_zh": [
+    "77 項隨機對照試驗，5 至 24 歲兒童及青少年",
+    "抑鬱標準化平均差 1.06（22 項試驗，1,655 人）；焦慮 0.75（48 項試驗，3,898 人）",
+    "剔除效應大得不合理的三項研究後，抑鬱效應降至 0.58",
+    "抑鬱與焦慮的 GRADE 證據確定性為很低；只有 4 項試驗評為低偏倚風險"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-10-16",
+   "population": [
+    "兒童青少年"
+   ],
+   "source": {
+    "author_name": "ScienMag",
+    "description": "ScienMag 報導刊於 eClinicalMedicine 的藝術與藝術治療系統性回顧與統合分析。",
+    "platform": "web",
+    "title": "Arts and arts therapies measurably ease depression and anxiety in children",
+    "url": "https://scienmag.com/arts-and-arts-therapies-measurably-ease-depression-and-anxiety-in-children-and-young-people-major-meta-analysis-finds/"
+   },
+   "summary_zh": "這項系統性回顧與統合分析匯集 77 項隨機對照試驗，參加者為 5 至 24 歲兒童及青少年。藝術介入在抑鬱與焦慮分數上顯示改善，追蹤資料顯示效果可維持至少一個月。但研究間異質性極高，證據確定性評為很低至低。",
+   "tags": [
+    "兒童心理",
+    "藝術治療",
+    "統合分析",
+    "抑鬱",
+    "焦慮"
+   ],
+   "title_en": "Arts and arts therapies for children mental health meta-analysis",
+   "title_zh": "藝術與藝術治療對兒童青少年心理健康的系統性回顧與統合分析",
+   "training": null,
+   "type": "case",
+   "verify_needed": true,
+   "verify_reason": "依 ScienMag 二手報導，未直接核對 eClinicalMedicine 原文；日期為報導發布日"
+  },
+  {
+   "category": "臨床與治療應用",
+   "evidence_hint": "RCT",
+   "evidence_quote": "participants in the intervention group showed significant increases in self-compassion and significant decreases in problematic gaming following the intervention.",
+   "key_points_zh": [
+    "第一部分：2,338 名網上遊戲玩家橫斷面調查；第二部分：308 名玩家隨機對照試驗",
+    "介入組自我慈悲上升，問題性遊戲行為下降",
+    "中介路徑：自我慈悲 → 基本心理需要 → 社交焦慮 → 問題性遊戲行為",
+    "對照為等候名單，未與主動對照比較；樣本為中國網上遊戲玩家"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-10-14",
+   "population": [
+    "成人",
+    "一般大眾"
+   ],
+   "source": {
+    "author_name": "Bioengineer",
+    "description": "Bioengineer 報導刊於《國際心理健康與成癮期刊》的自我慈悲介入隨機對照試驗。",
+    "platform": "web",
+    "title": "Treating Yourself Kindly May Curb Problematic Gaming, Trial Finds",
+    "url": "https://bioengineer.org/treating-yourself-kindly-may-curb-problematic-gaming-trial-finds/"
+   },
+   "summary_zh": "這項研究先調查 2,338 名網上遊戲玩家，再以 308 名玩家進行隨機對照試驗，測試網上自我慈悲介入。介入組的自我慈悲上升，問題性遊戲行為下降。中介分析顯示效果經由基本心理需要滿足與社交焦慮依序傳遞。",
+   "tags": [
+    "自我慈悲",
+    "問題性遊戲行為",
+    "隨機對照試驗",
+    "社交焦慮"
+   ],
+   "title_en": "Self-compassion intervention reduces problematic gaming RCT",
+   "title_zh": "自我慈悲介入減少問題性遊戲行為的隨機對照試驗",
+   "training": null,
+   "type": "case",
+   "verify_needed": true,
+   "verify_reason": "依 Bioengineer 二手報導，未直接核對 Springer 原文；日期為報導發布日"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "不明",
+   "evidence_quote": "Rapid environmental changes and social inequities pose significant risks to brain and mental health",
+   "key_points_zh": [
+    "Nature Mental Health 地球—腦—健康委員會報告",
+    "環境變化威脅腦部與心理健康的生物、心理與社會基礎",
+    "主張可互通的基礎設施與跨學科行動",
+    "目標是預先、公平的預防，結合心理健康與生態可持續"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-10-12",
+   "population": [
+    "一般大眾"
+   ],
+   "source": {
+    "author_name": "Schumann 等人",
+    "description": "Nature Mental Health 地球—腦—健康委員會報告，主張把心理健康納入生態可持續與環境韌性工作。",
+    "platform": "web",
+    "title": "Nature Mental Health Earth–Brain–Health Commission",
+    "url": "https://www.nature.com/articles/s44220-026-00737-y"
+   },
+   "summary_zh": "這份委員會報告指出環境急速變化與社會不平等正增加腦部與心理健康的風險。報告提出跨學科取向，主張把心理健康納入生態可持續與環境韌性工作。並呼籲建立可互通的基礎設施，推動預先、公平的預防。",
+   "tags": [
+    "環境與心理健康",
+    "氣候變化",
+    "委員會報告",
+    "預防"
+   ],
+   "title_en": "Nature Mental Health Earth-Brain-Health Commission",
+   "title_zh": "Nature Mental Health 地球—腦—健康委員會報告",
+   "training": null,
+   "type": "case",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "課程頁面",
+   "evidence_quote": "五堂免費系列課",
+   "key_points_zh": [
+    "五堂免費線上課，週二 20:00-21:30，Zoom 線上，每堂 90 分鐘：11/10 看見專業、11/24 看見底蘊、12/15 看見世界觀、2027/01/12 看見專業分化、02/16 看見自己的位置",
+    "費用免費（NT$0），無人數限制",
+    "對象為心理及相關助人專業者：研究生、實習心理師、執業心理師，以及對性諮商、性健康有興趣的助人工作者；不需先具備性諮商經驗",
+    "講師為荷光性諮商專業訓練中心講師團隊（頁面未列個人名單）",
+    "報名在商品頁完成免費課程官網訂單：加入購物車、前往結帳、填寫報名資料、完成下單；可五堂合報或單堂報名；開課前一週寄 Zoom 資訊到報名電郵"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-11-10",
+   "population": [
+    "臨床工作者",
+    "研究生"
+   ],
+   "source": {
+    "author_name": "荷光性諮商性健康聯盟",
+    "description": "五堂免費線上系列課，從臨床直覺到專業定位，看懂性諮商的全貌。對象為心理及相關助人專業者。",
+    "platform": "web",
+    "title": "【線上】(免費)當心理師遇見「性」",
+    "url": "https://www.beonesexhealth.com/product/%e3%80%90%e7%b7%9a%e4%b8%8a%e3%80%91%e5%85%8d%e8%b2%bb%e7%95%b6%e5%bf%83%e7%90%86%e5%b8%ab%e9%81%87%e8%a6%8b%e3%80%8c%e6%80%a7%e3%80%8d/"
+   },
+   "summary_zh": "荷光性諮商性健康聯盟推出五堂免費線上系列課「當心理師遇見『性』」，由講師團隊帶領，從臨床直覺到專業定位，看懂性諮商的全貌。五堂課分別於 2026/11/10、11/24、12/15 及 2027/01/12、02/16（皆週二）20:00-21:30 在 Zoom 舉行，每堂 90 分鐘。對象為心理及相關助人專業者，免費參加，無人數限制。",
+   "tags": [
+    "性諮商",
+    "免費課程",
+    "線上課程",
+    "心理師進修"
+   ],
+   "title_en": "When Therapists Encounter 'Sex' - Five Free Online Sessions (BeOne)",
+   "title_zh": "【線上】(免費)當心理師遇見「性」",
+   "training": {
+    "audience_level": "心理及相關助人專業者",
+    "ce_credits": "",
+    "deadline": "",
+    "event_date": "2026-11-10",
+    "format": "線上（Zoom）",
+    "language": "中文（繁體）",
+    "price": "NT$0（免費）",
+    "price_tier": "免費",
+    "provider": "荷光性諮商性健康聯盟",
+    "signup_url": "https://reurl.cc/3yAad9",
+    "topic": "性諮商"
+   },
+   "type": "case",
+   "verify_needed": true,
+   "verify_reason": "頁面由瀏覽器任務代讀（直接開啟短連結失敗）；頁面未標明時區；講師只列團隊名稱，無個人名單"
+  }
+ ],
+ "notes": "未做去重：~/workspace/user/files/ 內無檔名含「已收錄」的比對檔，請 Claude 把關。EFT／Bodynamic 針對性搜尋未見 15 天內新試驗，未收錄。NEJM AI Flourish 一則：NEJM AI 頁面未顯示發布日，page_date 依 2 Minute Medicine 摘要日期 2026-10-15，已標 verify_needed。今日輪巡組：週一 A 區學術期刊與預印本、B 區。",
+ "run_date": "2026-10-19",
+ "skipped": [
+  {
+   "reason": "超出 15 天範圍（2026-10-03；原論文為 2026-07-07 未編輯接受稿）",
+   "url": "https://mentalhealthdaily.com/2026/10/03/ai-chatbot-vs-group-therapy-anxiety-depression-students/"
+  },
+  {
+   "reason": "未打開官方 FDA 頁面核實，略過",
+   "url": "https://theprofessions.cloud/therapists/fda-generative-ai-mental-health-devices-comments/"
+  },
+  {
+   "reason": "列表未顯示發布日期，未逐篇打開核實，未收錄",
+   "url": "https://www.medrxiv.org/collection/psychiatry-and-clinical-psychology"
+  }
+ ],
+ "unreachable_sources": [
+  {
+   "name": "PsyArXiv",
+   "problem": "列表未載入，需 JavaScript／動態載入，無法按日期篩選",
+   "url": "https://osf.io/preprints/psyarxiv"
+  }
+ ]
+}
