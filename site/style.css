@@ -1,20 +1,26 @@
+/* ClinicMind brand v1.1 tokens (see brand/tokens.css). Light = brand palette; dark = derived from Deep Forest (brand pack defines no dark UI palette). */
 :root {
-  --bg: #f7f6f3; --surface: #ffffff; --surface-2: #efede8; --ink: #1c1b22; --ink-2: #5d5a66; --ink-3: #6b6875;
-  --line: #e2dfd8; --accent: #c98a2b; --danger: #c0392b; --ok: #2f8f55; --warn: #9a5800;
-  --radius: 14px; --ui-font: -apple-system, BlinkMacSystemFont, "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", "Segoe UI", sans-serif;
+  --bg: #F7F5F0; --surface: #ffffff; --surface-2: #F2F0EB; --ink: #233D37; --ink-2: #536A62; --ink-3: #5F746C;
+  --line: #D9D7D0; --accent: #C19875; --accent-text: #875E3F; --primary: #2F5D56; --primary-deep: #244A42; --sage: #89A49C;
+  --danger: #b0382b; --ok: #2F5D56; --warn: #875E3F;
+  --radius: 12px;
+  --ui-font: "Noto Sans TC", "Noto Sans CJK TC", "PingFang TC", "Microsoft JhengHei", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --display-font: "Noto Serif TC", "Noto Serif CJK TC", "Songti TC", "PMingLiU", serif;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #0b0b10; --surface: #15151c; --surface-2: #1d1d26; --ink: #ecebf0; --ink-2: #b1afbb; --ink-3: #7f7d8a;
-    --line: #2a2a35; --accent: #e0a24a; --danger: #ef7b6e; --ok: #5fc48a; --warn: #e6a955;
+    --bg: #15221f; --surface: #1c2c28; --surface-2: #243630; --ink: #ECEAE3; --ink-2: #B7C4BE; --ink-3: #93A59E;
+    --line: #2F433D; --accent: #D4AE8C; --accent-text: #D4AE8C; --primary: #89A49C; --primary-deep: #A7C1B8; --sage: #89A49C;
+    --danger: #ef8a7d; --ok: #8CC3A9; --warn: #D4AE8C;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #0b0b10; --surface: #15151c; --surface-2: #1d1d26; --ink: #ecebf0; --ink-2: #b1afbb; --ink-3: #7f7d8a;
-  --line: #2a2a35; --accent: #e0a24a; --danger: #ef7b6e; --ok: #5fc48a; --warn: #e6a955;
+  --bg: #15221f; --surface: #1c2c28; --surface-2: #243630; --ink: #ECEAE3; --ink-2: #B7C4BE; --ink-3: #93A59E;
+  --line: #2F433D; --accent: #D4AE8C; --accent-text: #D4AE8C; --primary: #89A49C; --primary-deep: #A7C1B8; --sage: #89A49C;
+  --danger: #ef8a7d; --ok: #8CC3A9; --warn: #D4AE8C;
 }
 * { box-sizing: border-box; }
-html, body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--ui-font); line-height: 1.6; }
+html, body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--ui-font); line-height: 1.7; }
 a { color: inherit; }
 button { font: inherit; color: inherit; }
 .container { max-width: 1180px; margin: 0 auto; padding: 0 16px; }
@@ -23,8 +29,12 @@ button { font: inherit; color: inherit; }
 .site-header { position: sticky; top: 0; z-index: 10; background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); }
 .site-header .row { max-width: 1180px; margin: 0 auto; padding: 10px 16px; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
 .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; }
-.brand-dot { width: 12px; height: 12px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 12px var(--accent); }
-.wordmark { font-weight: 700; font-size: 18px; letter-spacing: .02em; }
+.brand-mark { width: 30px; height: 30px; flex: none; display: block; }
+.brand-sub { font-family: Georgia, serif; font-size: 12px; letter-spacing: .08em; color: var(--ink-3); }
+.wordmark { font-family: var(--display-font); font-weight: 600; font-size: 19px; letter-spacing: .06em; color: var(--primary-deep); }
+h1, h2, h3, .page-title, .detail-title, .card-title, .section-title { font-family: var(--display-font); font-weight: 600; }
+:where(a, button, input, textarea, select, summary):focus-visible { outline: 3px solid var(--primary-deep); outline-offset: 3px; }
+@media (prefers-reduced-motion: reduce) { * { animation-duration: .01ms !important; transition-duration: .01ms !important; scroll-behavior: auto !important; } }
 .header-right { display: flex; align-items: center; gap: 8px; }
 .header-nav { display: flex; align-items: center; gap: 4px; }
 .header-nav a { text-decoration: none; color: var(--ink-2); padding: 6px 10px; border-radius: 8px; }
@@ -46,7 +56,8 @@ button { font: inherit; color: inherit; }
 .chip-row { display: flex; flex-wrap: wrap; gap: 6px; }
 .chip { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 3px 10px; cursor: pointer; font-size: 13px; color: var(--ink-2); }
 .chip .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--dot, var(--ink-3)); }
-.chip.on { color: var(--ink); border-color: var(--dot, var(--ink-2)); background: var(--surface-2); }
+.chip.on { color: var(--ink); border-color: var(--dot, var(--primary)); background: var(--surface-2); }
+.chip:hover { border-color: var(--sage); }
 .chip .count { color: var(--ink-3); font-size: 12px; }
 
 /* cards */
@@ -59,8 +70,8 @@ button { font: inherit; color: inherit; }
 .card-author-name { font-size: 13px; font-weight: 600; color: var(--cat); color: color-mix(in srgb, var(--cat) 72%, var(--ink)); }
 .card-author-names time { font-size: 12px; color: var(--ink-3); }
 .fav-star { background: none; border: none; cursor: pointer; font-size: 18px; color: var(--ink-3); padding: 2px 4px; }
-.fav-star[aria-pressed="true"] { color: var(--accent); }
-.card-title { font-size: 16px; margin: 10px 0 6px; line-height: 1.45; }
+.fav-star[aria-pressed="true"] { color: var(--accent-text); }
+.card-title { font-size: 17px; margin: 10px 0 6px; line-height: 1.45; }
 .card-title a { text-decoration: none; }
 .card-title a:hover { text-decoration: underline; }
 .card-summary { font-size: 14px; color: var(--ink-2); margin: 0 0 10px; }
@@ -115,21 +126,21 @@ button { font: inherit; color: inherit; }
 /* 親子版 */
 .fam-tabs { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 18px; border-bottom: 1px solid var(--line); }
 .fam-tabs a { text-decoration: none; color: var(--ink-2); padding: 8px 12px; border-bottom: 2px solid transparent; margin-bottom: -1px; }
-.fam-tabs a.on { color: var(--ink); border-bottom-color: #3a9e8f; font-weight: 600; }
+.fam-tabs a.on { color: var(--ink); border-bottom-color: var(--primary); font-weight: 600; }
 a.chip { text-decoration: none; }
-.fam-card { --cat: #3a9e8f; }
-.fam-card.fam-act { --cat: #d9822b; }
+.fam-card { --cat: var(--primary); }
+.fam-card.fam-act { --cat: #A66F3D; }
 .fam-avatar { background: var(--cat); }
 .fam-more { font-size: 14px; font-weight: 400; margin-left: 8px; color: var(--ink-2); }
 .fam-disclaimer { margin: 28px 0 8px; padding: 12px 14px; font-size: 13px; color: var(--ink-2); background: var(--surface-2); border-radius: 10px; }
 .fam-detail { max-width: 760px; }
-.fam-seek { border-left: 3px solid #d9822b; }
+.fam-seek { border-left: 3px solid var(--accent); }
 .fam-stage summary { cursor: pointer; font-size: 16px; }
 .fam-stage h4 { margin: 12px 0 4px; }
 .fam-watch { color: var(--danger); }
-.fam-help-note { padding: 10px 14px; border-radius: 10px; background: var(--surface-2); border-left: 3px solid #d9822b; font-size: 14px; }
-.fam-help-item { border-left: 3px solid #3a9e8f; padding: 2px 0 2px 10px; margin-bottom: 12px; }
-.fam-help-item a { color: #2d7f73; }
+.fam-help-note { padding: 10px 14px; border-radius: 10px; background: var(--surface-2); border-left: 3px solid var(--accent); font-size: 14px; }
+.fam-help-item { border-left: 3px solid var(--sage); padding: 2px 0 2px 10px; margin-bottom: 12px; }
+.fam-help-item a { color: var(--primary); }
 .fam-help-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px; }
 .fam-checks li { margin-bottom: 8px; }
 .fam-card.fam-deal { --cat: #c2416b; }
@@ -139,9 +150,9 @@ a.chip { text-decoration: none; }
 .deal-nocode { font-size: 13px; color: var(--ink-2); }
 .fam-card.fam-bounty { --cat: #2f6fb3; }
 .fam-bounty .deal-discount { color: #2f6fb3; }
-.header-nav a.nav-support { color: #b4531e; font-weight: 600; }
+.header-nav a.nav-support { color: var(--accent-text); font-weight: 600; }
 .support-note { display: block; width: 100%; }
-.support-note a { color: #b4531e; font-weight: 600; }
+.support-note a { color: var(--accent-text); font-weight: 600; }
 [hidden] { display: none !important; }
 .fam-card.conf-card { --cat: #7a5bb5; }
 .conf-en { margin: 2px 0 8px; color: var(--ink-2); font-size: 14px; }
@@ -168,3 +179,10 @@ a:focus-visible, button:focus-visible, summary:focus-visible, input:focus-visibl
 }
 .header-nav a, .wordmark { white-space: nowrap; }
 @media (min-width: 721px) and (max-width: 1000px) { .nav-support .sup-label { display: none; } .header-nav a { padding: 6px 8px; } }
+
+/* ClinicMind brand: footer signature + logo swap */
+.footer-brand { display: inline-flex; align-items: center; gap: 6px; }
+.footer-brand img { width: 18px; height: 18px; }
+.mark-dark { display: none; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .mark-light { display: none; } :root:not([data-theme="light"]) .mark-dark { display: block; } :root:not([data-theme="light"]) .footer-brand .mark-dark { display: inline; } }
+:root[data-theme="dark"] .mark-light { display: none; } :root[data-theme="dark"] .mark-dark { display: block; } :root[data-theme="dark"] .footer-brand .mark-dark { display: inline; }
