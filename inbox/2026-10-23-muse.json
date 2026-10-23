@@ -1,0 +1,553 @@
+{
+  "format": "psypick-muse-v1",
+  "run_date": "2026-10-23",
+  "items": [
+    {
+      "type": "family",
+      "source": {
+        "url": "https://www.shemom.com/lifestyle/%E5%89%B5%E6%96%B0%E7%A7%91%E6%8A%80%E5%98%89%E5%B9%B4%E8%8F%AF2026%E7%99%BB%E9%99%B8%E7%A7%91%E5%AD%B8%E5%9C%92-150%E5%A0%B4%E5%85%8D%E8%B2%BB%E5%B7%A5%E4%BD%9C%E5%9D%8A%EF%BC%8B%E8%88%AA%E5%A4%A9%E5%B0%88%E5%8D%80-%E5%91%A8%E6%9C%AB%E5%BF%85%E5%8E%BB%E6%94%BE%E9%9B%BB%E5%8B%9D%E5%9C%B0",
+        "platform": "web",
+        "title": "創新科技嘉年華2026登陸科學園 150場免費工作坊＋航天專區 周末必去放電勝地",
+        "author_name": "shemom.com",
+        "description": "創科嘉年華於10月24日至11月1日在香港科學園舉行，設逾150場免費創科工作坊、航天專區及約40個展覽攤位。部分工作坊可網上報名，周末亦有少量即場名額。"
+      },
+      "page_date": "2026-10-09",
+      "evidence_quote": "將於10月24日至11月1日一連9日喺香港科學園盛大舉行",
+      "family": {
+        "kind": "activity",
+        "title_zh": "創新科技嘉年華2026",
+        "title_en": "InnoCarnival 2026",
+        "summary_zh": "一年一度的親子創科盛事於10月24日至11月1日在香港科學園舉行，全部免費。設逾150場創科工作坊，涵蓋物理、化學、生物及工程主題，並特設航天專區。",
+        "summary_en": "",
+        "ages": [
+          "6-12歲",
+          "12-18歲"
+        ],
+        "topic": "親子活動",
+        "region": "香港",
+        "tips": [
+          "先在活動網站 innocarnival.hk 註冊帳戶並網上報名工作坊",
+          "想即場參加的周末工作坊可於當日9:45到科學園二期10W大樓2樓排隊"
+        ],
+        "when_to_seek_help": "",
+        "source_type": "媒體",
+        "posted_at": "2026-10-09",
+        "tags": [
+          "創科",
+          "工作坊",
+          "免費"
+        ],
+        "verify_needed": false,
+        "verify_reason": "",
+        "activity": {
+          "date_start": "2026-10-24",
+          "date_end": "2026-11-01",
+          "time": "星期六、日及公眾假期 10:00–18:00；星期一至五 10:00–17:00",
+          "venue": "香港科學園",
+          "price": "免費",
+          "free": true,
+          "age_range": "不同工作坊設不同年齡要求（例如磁力過山車適合小一至小三）",
+          "signup": "活動網站 innocarnival.hk 註冊及網上報名；周末部分親子工作坊可即場報名，名額有限",
+          "deadline": "",
+          "organizer": "",
+          "last_checked": "2026-10-23"
+        },
+        "deal": null,
+        "bounty": null
+      }
+    },
+    {
+      "type": "family",
+      "source": {
+        "url": "https://www.gov.mo/zh-hans/news/943782/",
+        "platform": "web",
+        "title": "市政署十一月亲近大自然活动下周二接受报名 – 澳门特别行政区政府入口网站",
+        "author_name": "澳門特別行政區政府入口網站",
+        "description": "澳門市政署於11月舉辦多場親近大自然活動和自然教育工作坊，包括農場收成日、郊遊、濕地觀鳥等，適合一家大小參與。每場收費澳門元五元或五十元，需預先報名。"
+      },
+      "page_date": "2026-10-15",
+      "evidence_quote": "市政署将于十一月举办多场亲近大自然活动和自然教育工作坊，适合一家大小参与",
+      "family": {
+        "kind": "activity",
+        "title_zh": "市政署十一月親近大自然活動",
+        "title_en": "IAM November Nature Activities",
+        "summary_zh": "澳門市政署於11月1日至29日舉辦多場親近大自然活動和自然教育工作坊，包括農場收成日、導賞、郊遊、觀鳥等，適合一家大小。大部分每人收費澳門元五元。",
+        "summary_en": "",
+        "ages": [
+          "3-6歲",
+          "6-12歲",
+          "12-18歲"
+        ],
+        "topic": "親子活動",
+        "region": "澳門",
+        "tips": [
+          "10月20日起透過「一戶通」或親臨市政署服務中心報名，先到先得",
+          "部分活動設專車接送，集合地點可在一戶通查詢"
+        ],
+        "when_to_seek_help": "",
+        "source_type": "政府",
+        "posted_at": "2026-10-15",
+        "tags": [
+          "自然教育",
+          "生態",
+          "低收費"
+        ],
+        "verify_needed": false,
+        "verify_reason": "",
+        "activity": {
+          "date_start": "2026-11-01",
+          "date_end": "2026-11-29",
+          "time": "各場不同（上午或下午）",
+          "venue": "路環金像農場、動物標本展示館、石排灣郊野公園等多個地點",
+          "price": "每人澳門元五元；工作坊每組澳門元五十元",
+          "free": false,
+          "age_range": "三歲至八十歲（部分五歲或以上）",
+          "signup": "10月20日上午九時起透過「一戶通」或親臨市政署綜合服務中心及各市民服務中心報名，先到先得",
+          "deadline": "",
+          "organizer": "澳門市政署",
+          "last_checked": "2026-10-23"
+        },
+        "deal": null,
+        "bounty": null
+      }
+    },
+    {
+      "type": "family",
+      "source": {
+        "url": "https://hk.ulifestyle.com.hk/activity/detail/20114253/hktvmall%E9%99%90%E6%99%82%E9%A1%8D%E5%A4%9685%E6%8A%98-%E9%80%A3%E7%BA%8C%E5%9B%9B%E5%80%8B%E6%98%9F%E6%9C%9F%E4%BA%94%E7%AA%81%E7%99%BC%E6%B8%9B-%E9%80%B1%E6%9C%AB%E5%8D%81%E8%90%AC%E7%94%A2%E5%93%81%E5%86%8D%E6%8A%98",
+        "platform": "web",
+        "title": "HKTVmall限時額外85折！連續四個星期五突發減／週末十萬產品再折",
+        "author_name": "UHK 港生活",
+        "description": "HKTVmall 推出限時優惠，由即日起至11月6日，連續四個星期五突發加推指定超市同款產品額外85折，週末另有恆常85折優惠，涵蓋近十萬款產品。報導引述資料來源為 HKTVmall。"
+      },
+      "page_date": "2026-10-16",
+      "evidence_quote": "由即日起至 11 月 6 日，連續四個星期五突發加推指定超市同款產品額外 85 折",
+      "family": {
+        "kind": "deal",
+        "title_zh": "HKTVmall 限時額外 85 折（星期五突發＋週末恆常）",
+        "title_en": "HKTVmall Limited-time Extra 15% Off",
+        "summary_zh": "HKTVmall 推出限時優惠至11月6日，連續四個星期五指定超市同款產品滿額享額外85折，週末亦有恆常85折或95折。涵蓋超市、個人護理、寵物食品等近十萬款產品。",
+        "summary_en": "",
+        "ages": [],
+        "topic": "優惠",
+        "region": "香港",
+        "tips": [
+          "門市自取滿 $99 即可用碼，門檻比送貨低",
+          "同一訂單優惠碼只用一次，先算好金額再落單"
+        ],
+        "when_to_seek_help": "",
+        "source_type": "媒體",
+        "posted_at": "2026-10-16",
+        "tags": [
+          "HKTVmall",
+          "網購",
+          "全場"
+        ],
+        "verify_needed": true,
+        "verify_reason": "優惠碼由第三方網站發布，未在官方頁確認",
+        "activity": null,
+        "deal": {
+          "platform": "HKTVmall",
+          "code": "SMSALE85",
+          "discount": "指定星期五指定超市網店同款產品額外 85 折；週末恆常 85 折／95 折（視產品）",
+          "min_spend": "門市自取滿 $99／送貨上門滿 $699",
+          "valid_from": "2026-10-16",
+          "valid_to": "2026-11-06",
+          "conditions": "指定星期五（10月16日、10月23日、10月30日及11月6日）；週末優惠碼 Shoppick（自取）、Delivery（送貨）",
+          "how_to_use": "結帳時輸入優惠碼",
+          "category": "全場",
+          "last_checked": "2026-10-23"
+        },
+        "bounty": null
+      }
+    },
+    {
+      "type": "family",
+      "source": {
+        "url": "https://www.mytvsuper.com/tc/scoopplus/lifestyle/home/17919490970725/%E7%94%9F%E6%B4%BB-%E4%B8%AD%E5%A4%A7%E6%8B%9B%E5%8B%9F%E5%A4%B1%E7%9C%A0%E4%BA%BA%E5%A3%AB-12%E7%AF%80%E5%85%8D%E8%B2%BB%E7%9D%A1%E7%9C%A0%E5%8F%8A%E4%BD%9C%E6%81%AF%E6%B2%BB%E7%99%82-%E5%AE%8C%E6%88%90%E7%A0%94%E7%A9%B6%E5%8F%AF%E7%8D%B2-1100-%E5%8D%B3%E7%9D%87%E8%B3%87%E6%A0%BC-%E5%A0%B1%E5%90%8D%E9%80%A3%E7%B5%90",
+        "platform": "web",
+        "title": "中大招募失眠人士｜12節免費睡眠及作息治療＋完成研究可獲$1100 即睇資格＋報名連結",
+        "author_name": "東張+（TVB）",
+        "description": "香港中文大學公共心理健康實驗室招募受失眠及抑鬱情緒困擾的香港居民，參與作息型態與抑鬱情緒研究。合資格者可獲最多12節免費睡眠及作息治療，完成約14星期研究最高可獲港幣1,100現金答謝金。"
+      },
+      "page_date": "2026-10-14",
+      "evidence_quote": "合資格參加者可享多達12節免費睡眠及作息治療",
+      "family": {
+        "kind": "bounty",
+        "title_zh": "中大招募失眠及情緒低落人士參與作息研究（完成最高獲 $1,100）",
+        "title_en": "CUHK Sleep and Mood Study Recruitment",
+        "summary_zh": "中大公共心理健康實驗室正招募18至65歲受失眠及抑鬱情緒困擾的香港居民，研究為期約14星期。合資格者可獲8至12節免費睡眠及作息治療，完成研究最高可獲港幣1,100現金答謝金。",
+        "summary_en": "",
+        "ages": [],
+        "topic": "賞金獵人",
+        "region": "香港",
+        "tips": [
+          "先填寫約5分鐘的網上初步評估問卷，研究人員會再聯絡合資格人士"
+        ],
+        "when_to_seek_help": "",
+        "source_type": "大學",
+        "posted_at": "2026-10-14",
+        "tags": [
+          "睡眠",
+          "情緒",
+          "研究招募"
+        ],
+        "verify_needed": true,
+        "verify_reason": "資訊經第三方媒體轉載，官方招募頁未獨立核實；報名連結為中大官方問卷",
+        "activity": null,
+        "deal": null,
+        "bounty": {
+          "organizer": "香港中文大學公共心理健康實驗室",
+          "funder": "",
+          "method": "實驗",
+          "eligibility": "18–65 歲香港居民，受抑鬱情緒及睡眠困擾，能閱讀中文及理解廣東話，使用智能電話",
+          "reward": "完成整個約 14 星期研究最高獲港幣 $1,100 現金答謝金；合資格者可獲 8–12 節免費睡眠及作息治療",
+          "reward_type": "現金",
+          "guaranteed": true,
+          "duration": "約 14 星期",
+          "deadline": "",
+          "how_to_join": "填寫網上初步評估問卷（約 5 分鐘）；查詢 3943 6575／WhatsApp 9405 4715／pmhlab@cuhk.edu.hk",
+          "contact": "3943 6575",
+          "location": "網上（初步問卷）＋現場（評估及治療）",
+          "last_checked": "2026-10-23",
+          "caution": ""
+        }
+      }
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://tabn.org/product/20261115_tabn_b_04/",
+        "platform": "web",
+        "title": "20261115｜2026神經回饋應用工作坊 - 台灣生理與神經回饋學會 (TABN)",
+        "author_name": "台灣生理與神經回饋學會",
+        "description": "台灣生理與神經回饋學會舉辦的神經回饋應用工作坊，上午講授創傷性腦損傷的生理病理機制與 HRV／神經回饋的理論基礎，下午示範神經回饋在 ADHD 的實務應用。報名至 11 月 6 日止，11 月 15 日在台北醫學大學舉行。"
+      },
+      "page_date": "",
+      "evidence_quote": "時間：2026年11月15日(日)09:30-16:30",
+      "title_zh": "2026 神經回饋應用工作坊：創傷性腦損傷與 ADHD 的神經回饋",
+      "title_en": "2026 Neurofeedback Applications Workshop: TBI and ADHD",
+      "summary_zh": "台灣生理與神經回饋學會於 11 月 15 日在台北醫學大學舉辦一日工作坊。上午由林宜美理事長等講者講授創傷性腦損傷的生理病理機制，以及 HRV 生理回饋與神經回饋在神經心理復健中的理論基礎與研究證據；下午聚焦神經回饋在 ADHD 的治療理論、儀器操作與療程設計，並有實際案例示範。",
+      "key_points_zh": [
+        "課程為神經回饋與治療專業人員認證的階段四課程，可獨立報名",
+        "適合對象為希望了解神經回饋應用實務的助人工作者，歡迎非會員及心理衛生相關人員",
+        "正在申請臨床心理師繼續教育積分",
+        "報名期限即日起至 2026 年 11 月 6 日"
+      ],
+      "category": "進修與培訓",
+      "kind": "training",
+      "tags": [
+        "神經回饋",
+        "ADHD",
+        "創傷性腦損傷",
+        "HRV",
+        "台灣"
+      ],
+      "population": [
+        "臨床工作者"
+      ],
+      "model_names": [],
+      "evidence_hint": "不明",
+      "training": {
+        "provider": "台灣生理與神經回饋學會 (TABN)",
+        "format": "實體（台北醫學大學 教學大樓2204）",
+        "price": "本學會會員 NT$2,800；學生會員 NT$1,800；非會員 NT$4,800；非本會學生會員 NT$2,800",
+        "price_tier": "其他",
+        "ce_credits": "臨床心理師繼續教育積分申請中",
+        "language": "",
+        "event_date": "2026-11-15",
+        "deadline": "2026-11-06",
+        "audience_level": "助人工作者、心理衛生相關人員",
+        "topic": "神經回饋、HRV 生理回饋在 TBI 與 ADHD 的應用",
+        "signup_url": "https://tabn.org/product/20261115_tabn_b_04/"
+      },
+      "verify_needed": true,
+      "verify_reason": "頁面未列發布日期；搜尋索引顯示約 2026-10-08 更新，暫列入巡查窗內，請 Claude 核實。課程日期、費用、對象已在頁面核實。"
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://tavistockandportman.ac.uk/courses/motivational-interviewing-cpd5a/",
+        "platform": "web",
+        "title": "Motivational Interviewing - Tavistock Education and Training",
+        "author_name": "Tavistock Education and Training",
+        "description": "Tavistock 開辦的動機式晤談（MI）實務課程，由 MINT 認證講師帶領，入門模組下一梯次於 11 月 16 日線上開課。課程結合講授、示範與練習，適合心理師、社工、醫護等各類助人專業人員。"
+      },
+      "page_date": "",
+      "evidence_quote": "Next start date: 16 November 2026",
+      "title_zh": "動機式晤談入門模組（CPD5）：四天實務課程",
+      "title_en": "Motivational Interviewing Introductory Module (CPD5)",
+      "summary_zh": "Tavistock Education and Training 的動機式晤談課程分入門與進階兩模組，由動機式晤談訓練師網絡（MINT）講師帶領。入門模組為期兩天，下一梯次於 11 月 16 日以 Zoom 線上直播進行，費用 £460，適合心理師、精神科醫師、社工、護理師等助人專業人員。",
+      "key_points_zh": [
+        "入門與進階模組各兩天，可分開報名，須先完成入門才能報進階",
+        "由 MINT 講師帶領，強調實作、示範與反思",
+        "對象包括心理師、精神科醫師、家醫科醫師、社工、護理師、助產士、教師等",
+        "頁面註明 MI 對有顯著學習困難的服務對象無實證基礎"
+      ],
+      "category": "進修與培訓",
+      "kind": "training",
+      "tags": [
+        "動機式晤談",
+        "英國",
+        "Tavistock",
+        "線上課程"
+      ],
+      "population": [
+        "臨床工作者"
+      ],
+      "model_names": [],
+      "evidence_hint": "不明",
+      "training": {
+        "provider": "Tavistock Education and Training",
+        "format": "線上（Zoom 直播）",
+        "price": "£460（入門模組，兩天）",
+        "price_tier": "其他",
+        "ce_credits": "",
+        "language": "",
+        "event_date": "2026-11-16",
+        "deadline": "",
+        "audience_level": "助人專業人員（心理師、精神科醫師、社工、醫護、教師等）",
+        "topic": "動機式晤談理論與實務技巧",
+        "signup_url": "https://tavistockandportman.ac.uk/courses/motivational-interviewing-cpd5a/"
+      },
+      "verify_needed": true,
+      "verify_reason": "頁面未列發布日期；搜尋索引顯示約 2026-10-08 更新，暫列入巡查窗內，請 Claude 核實。課程日期、費用、對象、線上形式已在頁面核實。"
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://www.annafreud.org/news/transition-to-secondary-school-a-year-long-process/",
+        "platform": "web",
+        "title": "The transition to secondary school should be treated as a year-long process | Anna Freud",
+        "author_name": "Anna Freud",
+        "description": "Anna Freud 發布「Settling into Secondary School」計畫第一階段質性研究結果，訪談 49 名八年級學生，發現升中過渡是全年歷程而非單一事件。研究將促成英格蘭首個全國性升中支援框架。"
+      },
+      "page_date": "2026-10-08",
+      "evidence_quote": "Published: 2026-10-08T00:00:00.000Z",
+      "title_zh": "升中過渡應視為全年歷程：Anna Freud 新研究",
+      "title_en": "Secondary school transition should be a year-long process",
+      "summary_zh": "Anna Freud 發布新研究指出，中小學過渡應被視為全年歷程，而非只有開學初的迎新活動。研究團隊訪談英格蘭七所中學的 49 名八年級學生，發現成功的過渡關鍵在於讓學生感到「有能力、有連結、有掌控感」。這是四年期「Settling into Secondary School」計畫的第一階段成果，將促成英格蘭首個支援學生升中過渡的全國框架。",
+      "key_points_zh": [
+        "學生普遍認為過渡是持續的歷程，適應、歸屬感與自信隨時間發展",
+        "師生關係是學生指出的最重要保護因子之一",
+        "社團、牧靈關懷與課外活動有助建立友誼與歸屬感",
+        "報告建議政策將升中過渡列為歸屬感與投入度的關鍵期，並納入學生身心健康指標"
+      ],
+      "category": "研究與證據",
+      "kind": "research",
+      "tags": [
+        "兒童心理",
+        "學校心理健康",
+        "升中過渡",
+        "質性研究",
+        "英國"
+      ],
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "model_names": [],
+      "evidence_hint": "不明",
+      "training": null,
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://www.annafreud.org/news/response-to-findings-into-mental-health-conditions-autism-and-adhd/",
+        "platform": "web",
+        "title": "Anna Freud's response to the national review into mental health conditions, autism and ADHD | Anna Freud",
+        "author_name": "Anna Freud",
+        "description": "Anna Freud 回應英國政府發布的心理健康、自閉症與 ADHD 全國獨立審查最終報告。審查發現 16–24 歲年輕人符合常見心理健康問題標準的比例從 1993 年約六分之一升至 2024 年四分之一，呼籲從「依賴診斷」轉向「以需求為主導」的支援系統。"
+      },
+      "page_date": "2026-10-09",
+      "evidence_quote": "Published: 2026-10-09T00:00:00.000Z",
+      "title_zh": "Anna Freud 回應英國心理健康、自閉症與 ADHD 全國審查報告",
+      "title_en": "Anna Freud responds to national review on mental health, autism and ADHD",
+      "summary_zh": "由 Peter Fonagy 教授主持的英國全國獨立審查於 10 月 9 日發布最終報告，指出年輕人心理困擾上升是真實趨勢，16–24 歲族群符合常見心理健康問題標準者從 1993 年約六分之一增至 2024 年四分之一。報告提出十項政府建議，包括從「依賴診斷」轉向「以需求為主導＋診斷」的系統。Anna Freud 代理執行長 Claire Evans 回應，呼籲以預防與早期介入為核心的全面改革。",
+      "key_points_zh": [
+        "16–24 歲年輕人現為各年齡層中困擾程度最高者，扭轉過去中年高峰的模式",
+        "審查呼籲支援不應被診斷綁死，評估前、中、後都應有協助",
+        "提出十項建議，包括學校心理健康支援團隊全面覆蓋、跨政府心理健康策略",
+        "Anna Freud 將於 2027 年與 Centre for Mental Health 合作推出 Prevention First 計畫"
+      ],
+      "category": "研究與證據",
+      "kind": "research",
+      "tags": [
+        "兒童心理",
+        "ADHD",
+        "自閉症",
+        "英國政策",
+        "診斷與需求"
+      ],
+      "population": [
+        "兒童青少年",
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "model_names": [],
+      "evidence_hint": "不明",
+      "training": null,
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://taclip.org.tw/news/announcement/15424/",
+        "platform": "web",
+        "title": "台灣臨床心理學會中華民國臨床心理師公會全國聯合會成癮防治與減害議題聯合聲明 - 台灣臨床心理學會",
+        "author_name": "台灣臨床心理學會、中華民國臨床心理師公會全國聯合會",
+        "description": "兩大學公會於 10 月 10 日發表聯合聲明，從臨床心理專業提出成癮防治與減害的五點補充。聲明強調心理介入是成癮治療的核心，興奮劑與新興毒品目前尚無替代藥物，治療成效取決於心理介入是否可近、持續且有品質。"
+      },
+      "page_date": "2026-10-10",
+      "evidence_quote": "發布日期：115年10月10日",
+      "title_zh": "台灣臨床心理學會等發表成癮防治與減害議題聯合聲明",
+      "title_en": "Joint statement on addiction prevention and harm reduction",
+      "summary_zh": "台灣臨床心理學會與中華民國臨床心理師公會全國聯合會發表聯合聲明，回應近期毒品減害政策討論。聲明提出五點：減害措施應分開說明、興奮劑與新興毒品治療主要靠心理介入、保護兒少要讓孩子和家庭敢求助、避免污名化語言、以可檢驗指標評估政策成效。兩會呼籲政府檢視戒癮治療中心理介入的人力、給付與可近性。",
+      "key_points_zh": [
+        "心理介入是成癮治療的核心：安非他命等興奮劑尚無核准替代藥物，實證較充分的是認知行為治療、動機晤談等心理社會介入",
+        "12–17 歲查獲毒品嫌疑犯增加逾一倍，集中於第二級毒品，呼籲兒少保護以求助為導向",
+        "污名阻礙求助，呼籲以準確、不貶抑的語言描述成癮者與其家庭",
+        "建議以求助人數、治療持續率、健康結果等可檢驗指標評估政策成效"
+      ],
+      "category": "倫理與風險",
+      "kind": "practice",
+      "tags": [
+        "成癮",
+        "減害",
+        "台灣",
+        "政策聲明",
+        "臨床心理"
+      ],
+      "population": [
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "model_names": [],
+      "evidence_hint": "不明",
+      "training": null,
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://www.twcpa.org.tw/post/【課程訊息-屏東縣諮商心理師公會】11-15、11-29-人際歷程模式在諮商中的理論與實作",
+        "platform": "web",
+        "title": "【課程訊息-屏東縣諮商心理師公會】11/15、11/29《人際歷程模式在諮商中的理論與實作》",
+        "author_name": "臺灣諮商心理學會（轉知屏東縣諮商心理師公會）",
+        "description": "屏東縣諮商心理師公會開辦 115 年度繼續教育研習課程，由杜淑芬教授講授人際歷程模式在諮商中的理論與實作。課程於 11 月 15 日與 11 月 29 日以 Google Meet 線上進行，對象為諮商心理師、輔導教師、臨床心理師、社工師及相關系所學生，並將申請諮商心理師繼續教育積分。"
+      },
+      "page_date": "2026-10-13",
+      "evidence_quote": "研習時間：11/15(日) 09:00-12:00、13:00-17:00",
+      "title_zh": "人際歷程模式在諮商中的理論與實作（屏東縣諮商心理師公會線上研習）",
+      "title_en": "Interpersonal Process Model in Counseling: Theory and Practice",
+      "summary_zh": "屏東縣諮商心理師公會舉辦繼續教育研習，由杜淑芬教授講授人際歷程模式。課程分理論與實務兩階段，涵蓋早期關係經驗對情緒認知的影響、諮商關係的功能，以及案例分析與情境演練。課程於 11 月 15 日（全天）與 11 月 29 日（上午）以 Google Meet 線上進行，上限 80 人。",
+      "key_points_zh": [
+        "報名資格限諮商心理師、專兼任輔導教師、臨床心理師、社工師及相關系所學生",
+        "將申請諮商心理師繼續教育積分",
+        "本會會員免費，非會員 NT$4,000（早鳥 NT$3,600 須於 10/18 前完成報名繳費）",
+        "採 Google Meet 線上授課，含分組練習，需開鏡頭與麥克風"
+      ],
+      "category": "進修與培訓",
+      "kind": "training",
+      "tags": [
+        "人際歷程模式",
+        "諮商",
+        "繼續教育",
+        "台灣",
+        "線上課程"
+      ],
+      "population": [
+        "臨床工作者"
+      ],
+      "model_names": [],
+      "evidence_hint": "不明",
+      "training": {
+        "provider": "社團法人屏東縣諮商心理師公會",
+        "format": "線上（Google Meet）",
+        "price": "本會會員免費；非會員 NT$4,000（早鳥 NT$3,600，需於 10/18 前完成報名繳費）；高雄公會會員 NT$3,400；相關系所學生 NT$2,000",
+        "price_tier": "其他",
+        "ce_credits": "諮商心理師繼續教育積分申請中",
+        "language": "",
+        "event_date": "2026-11-15",
+        "deadline": "",
+        "audience_level": "諮商心理師、專兼任輔導教師、臨床心理師、社工師、相關系所學生",
+        "topic": "人際歷程模式在諮商中的理論與實作",
+        "signup_url": "https://www.twcpa.org.tw/post/【課程訊息-屏東縣諮商心理師公會】11-15、11-29-人際歷程模式在諮商中的理論與實作"
+      },
+      "verify_needed": false,
+      "verify_reason": ""
+    }
+  ],
+  "skipped": [
+    {
+      "url": "http://www.champimom.com/posts/%E6%BC%81%E8%AD%B7%E7%BD%B24%E5%A4%A7%E6%B5%B7%E6%B4%8B%E7%94%9F%E6%85%8B%E5%B0%8E%E8%B3%9E%E5%9C%98",
+      "reason": "漁護署11月免費生態導賞團報名截止日為2026-10-20，已結束報名"
+    },
+    {
+      "url": "https://konggokhk.com/macau_hush_beach_concerts_2026/",
+      "reason": "音樂節，非親子主題活動"
+    },
+    {
+      "url": "https://lcpan.psychology.hku.hk/join-the-lab",
+      "reason": "HKU TMS and Fear Memory Study 頁面無發布日期，無法核實時效性（另涉及TMS醫療程序，已略過）"
+    },
+    {
+      "url": "https://mindcalm.goit.com.tw/2026/10/how-to-overcome-parental-burnout.html",
+      "reason": "育兒倦怠文章發布於2026-10-07，超出15天範圍"
+    },
+    {
+      "url": "https://childmind.org/blog/child-mind-institute-study-finds-strong-link-between-teen-belonging-and-mental-health/",
+      "reason": "發布於2026-10-07，超出15天範圍"
+    },
+    {
+      "url": "https://mind.org.hk",
+      "reason": "MIND HK 精神健康急救課程對象為一般大眾，不符培訓對象鐵則"
+    },
+    {
+      "url": "https://mensa.org.hk/conference2026",
+      "reason": "香港 Mensa Intelligence Conference 2026 頁面未列會議日期，無法確認在未來 6 週內"
+    },
+    {
+      "url": "https://www.twtcpa.org.tw/",
+      "reason": "台灣失落關懷協會 2026–2027 悲傷輔導基礎知能訓練課首場 2026-12-05（6 週外），授課形式與報名截止未明列"
+    },
+    {
+      "url": "https://hkps.org.hk",
+      "reason": "HKPS 2026 年會已於 6/13 舉辦，且已在會議欄目名單"
+    },
+    {
+      "url": "https://icthk.org",
+      "reason": "ICTHK 認知治療證書課程報名截止 2026-10-05 已過"
+    },
+    {
+      "url": "https://waou.com.mo",
+      "reason": "健促會心理健康嘉年華已於 10/12 舉辦完畢"
+    },
+    {
+      "url": "https://news.owlting.com",
+      "reason": "玄奘大學 27 人考取心理師新聞發布於 2026-10-04，超出 15 天範圍"
+    }
+  ],
+  "unreachable_sources": [
+    {
+      "name": "澳門心理學會（apm.org.mo）",
+      "url": "https://apm.org.mo/",
+      "problem": "開啟後僅渲染入會申請文字，最新消息內容無法讀取（疑似需 JavaScript）"
+    },
+    {
+      "name": "香港心理學會（hkps.org.hk）",
+      "url": "https://www.hkps.org.hk",
+      "problem": "首頁開啟後僅渲染簡介文字，活動列表未渲染"
+    },
+    {
+      "name": "TMHK 精神健康月文章",
+      "url": "tmhk.org（搜尋結果 URL 疑似被截斷）",
+      "problem": "開啟回 404，未重試"
+    }
+  ],
+  "notes": "週五輪巡組：親子版（2 活動、1 優惠、1 賞金獵人）、港台澳專業（台灣 3 則：成癮聯合聲明、人際歷程線上研習、神經回饋工作坊）、英國兒童心理（Anna Freud 升中研究、Anna Freud 回應全國審查、Tavistock 動機式晤談課程）。培訓有 3 則費用高於 US$50（TABN NT$4,800／Tavistock £460／屏東公會非會員 NT$4,000，會員免費），如實列入，價格皆照原頁；Tavistock MI 與 TABN 頁面未列發布日期，搜尋索引顯示約 10/08 更新，標 verify_needed。香港、澳門本週無符合窗內＋專業對象的專業培訓或新消息。Facebook／Instagram 社群來源依規則未嘗試登入。會議巡查另見 2026-10-23-muse-conference.json。未做去重，請 Claude 把關。"
+}

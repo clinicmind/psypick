@@ -1,0 +1,273 @@
+{
+  "format": "psypick-muse-v1",
+  "run_date": "2026-10-23",
+  "items": [
+    {
+      "type": "case",
+      "source": {
+        "url": "https://nationalcounsellingconference.asia/my/",
+        "platform": "web",
+        "title": "National Counselling & Psychotherapy Conference - Malaysia",
+        "author_name": "National Counselling & Psychotherapy Conference",
+        "description": "為期一天的實體會議，2026 年 10 月 29 日（星期四）9:00–16:30（GMT+8）於吉隆坡 Menara Affin @ TRX 舉行，為該系列第 3 屆。議程包括依附理論臨床應用、焦慮個案工作、專業標準與 AI 倫理等主題，面向諮商與心理治療專業人士。"
+      },
+      "page_date": "",
+      "evidence_quote": "29 October 2026 (Thursday)",
+      "title_zh": "2026 馬來西亞全國諮商與心理治療大會（National Counselling & Psychotherapy Conference – Malaysia 2026）",
+      "title_en": "National Counselling & Psychotherapy Conference – Malaysia 2026",
+      "summary_zh": "為期一天的實體會議，2026 年 10 月 29 日（星期四）9:00–16:30（GMT+8）於吉隆坡 Menara Affin @ TRX 舉行，為該系列第 3 屆。議程包括依附理論臨床應用、焦慮個案工作、專業標準與 AI 倫理等主題，面向諮商與心理治療專業人士。",
+      "key_points_zh": [],
+      "category": "進修與培訓",
+      "kind": "training",
+      "tags": [
+        "會議",
+        "諮商",
+        "心理治療",
+        "馬來西亞"
+      ],
+      "population": [
+        "臨床工作者"
+      ],
+      "model_names": [],
+      "evidence_hint": "不明",
+      "training": {
+        "provider": "National Counselling & Psychotherapy Conference",
+        "format": "實體",
+        "price": "REGULAR TICKET USD 219",
+        "price_tier": "其他",
+        "ce_credits": "",
+        "language": "英文",
+        "event_date": "2026-10-29",
+        "deadline": "",
+        "audience_level": "諮商師、心理治療師、心理健康專業人士",
+        "topic": "臨床實務、依附、焦慮、專業標準與倫理",
+        "signup_url": "https://nationalcounsellingconference.asia/my/pricing/"
+      },
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://nationalcounsellingconference.asia/ph/",
+        "platform": "web",
+        "title": "National Counselling & Psychotherapy Conference - Philippines",
+        "author_name": "National Counselling & Psychotherapy Conference",
+        "description": "為期一天的實體會議，2026 年 11 月 10 日（星期二）9:00–16:30（GMT+8）於馬尼拉 SMX Convention Center 舉行，為該系列第 2 屆。聚焦臨床實務、複雜個案與風險意識、治療中的科技與倫理等主題，面向諮商與心理治療專業人士。主辦方舊 LinkedIn 帖曾寫 11 月 17 日，但今日官網明確為 11 月 10 日。"
+      },
+      "page_date": "",
+      "evidence_quote": "10 November 2026 (Tuesday)",
+      "title_zh": "2026 菲律賓全國諮商與心理治療大會（National Counselling & Psychotherapy Conference – Philippines 2026）",
+      "title_en": "National Counselling & Psychotherapy Conference – Philippines 2026",
+      "summary_zh": "為期一天的實體會議，2026 年 11 月 10 日（星期二）9:00–16:30（GMT+8）於馬尼拉 SMX Convention Center 舉行，為該系列第 2 屆。聚焦臨床實務、複雜個案與風險意識、治療中的科技與倫理等主題，面向諮商與心理治療專業人士。主辦方舊 LinkedIn 帖曾寫 11 月 17 日，但今日官網明確為 11 月 10 日。",
+      "key_points_zh": [],
+      "category": "進修與培訓",
+      "kind": "training",
+      "tags": [
+        "會議",
+        "諮商",
+        "心理治療",
+        "菲律賓"
+      ],
+      "population": [
+        "臨床工作者"
+      ],
+      "model_names": [],
+      "evidence_hint": "不明",
+      "training": {
+        "provider": "National Counselling & Psychotherapy Conference",
+        "format": "實體",
+        "price": "",
+        "price_tier": "其他",
+        "ce_credits": "",
+        "language": "英文",
+        "event_date": "2026-11-10",
+        "deadline": "",
+        "audience_level": "諮商師、心理治療師、心理健康專業人士",
+        "topic": "臨床實務、複雜個案、治療科技與倫理",
+        "signup_url": "https://nationalcounsellingconference.asia/ph/"
+      },
+      "verify_needed": true,
+      "verify_reason": "主辦方舊 LinkedIn 帖曾寫 11 月 17 日，官網今日頁面為 11 月 10 日；以官網為準，請 Claude 再核實"
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://www.spiritualityandhealth.org/events/pf2026",
+        "platform": "web",
+        "title": "35th Annual Psychotherapy & Faith Conference — The Institute for Spirituality and Health",
+        "author_name": "The Institute for Spirituality and Health",
+        "description": "2026 年 11 月 13 日於美國德州休斯頓 St. Paul's United Methodist Church 舉行的一日會議，主題為 Flourishing Across the Lifespan: Meaning, Mortality, and Belonging（橫跨生命歷程的繁盛：意義、死亡與歸屬）。講者包括 Nathan Carlin、Robert Dykstra、Ali Abbas Asghar-Ali 等，探討心理治療、牧靈諮商與靈性照護如何支援臨床工作。"
+      },
+      "page_date": "",
+      "evidence_quote": "November 13, 2026 | 8:45 AM - 4:00 PM CT",
+      "title_zh": "第 35 屆心理治療與信仰年會 2026（35th Annual Psychotherapy & Faith Conference 2026）",
+      "title_en": "35th Annual Psychotherapy & Faith Conference 2026",
+      "summary_zh": "2026 年 11 月 13 日於美國德州休斯頓 St. Paul's United Methodist Church 舉行的一日會議，主題為 Flourishing Across the Lifespan: Meaning, Mortality, and Belonging（橫跨生命歷程的繁盛：意義、死亡與歸屬）。講者包括 Nathan Carlin、Robert Dykstra、Ali Abbas Asghar-Ali 等，探討心理治療、牧靈諮商與靈性照護如何支援臨床工作。",
+      "key_points_zh": [],
+      "category": "進修與培訓",
+      "kind": "training",
+      "tags": [
+        "會議",
+        "心理治療",
+        "靈性",
+        "繼續教育"
+      ],
+      "population": [
+        "臨床工作者"
+      ],
+      "model_names": [],
+      "evidence_hint": "不明",
+      "training": {
+        "provider": "The Institute for Spirituality and Health",
+        "format": "實體",
+        "price": "早鳥 Registration with CE Credits: $100（至 10/23）；正價 Registration with CE credits: $150.00；學生及公眾 $25／$50",
+        "price_tier": "其他",
+        "ce_credits": "6.5",
+        "language": "英文",
+        "event_date": "2026-11-13",
+        "deadline": "",
+        "audience_level": "醫師、護理師、社工、持照諮商師、婚姻家庭治療師、心理師；學生及公眾亦可",
+        "topic": "心理治療、靈性照護、悲傷、健康老化",
+        "signup_url": "https://www.spiritualityandhealth.org/events/pf2026"
+      },
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://istdpsentio.com/xii-istdp-international-clinical-psychotherapy-conference/",
+        "platform": "web",
+        "title": "XII ISTDP International Clinical Psychotherapy Conference - ISTDP Sentio",
+        "author_name": "ISTDP Sentio（協辦：Medical University of Gdansk）",
+        "description": "2026 年 11 月 7 日（星期六）9:00–18:00（CET）全程線上舉行的一日臨床工作坊，由 Simon Secher 主講。全日圍繞單一個案——一位曾任法國外籍兵團成員、患有嚴重複雜創傷後壓力症的個案——從入院到治療結果，示範以 ISTDP 處理嚴重複雜 PTSD。出席者可獲 9 小時出席證明，無官方繼續教育學分。"
+      },
+      "page_date": "",
+      "evidence_quote": "7 November 2026, 9:00-18:00",
+      "title_zh": "第 12 屆 ISTDP 國際臨床心理治療會議 2026（XII ISTDP International Clinical Psychotherapy Conference 2026）",
+      "title_en": "XII ISTDP International Clinical Psychotherapy Conference 2026",
+      "summary_zh": "2026 年 11 月 7 日（星期六）9:00–18:00（CET）全程線上舉行的一日臨床工作坊，由 Simon Secher 主講。全日圍繞單一個案——一位曾任法國外籍兵團成員、患有嚴重複雜創傷後壓力症的個案——從入院到治療結果，示範以 ISTDP 處理嚴重複雜 PTSD。出席者可獲 9 小時出席證明，無官方繼續教育學分。",
+      "key_points_zh": [],
+      "category": "進修與培訓",
+      "kind": "training",
+      "tags": [
+        "會議",
+        "ISTDP",
+        "創傷",
+        "心理治療"
+      ],
+      "population": [
+        "臨床工作者"
+      ],
+      "model_names": [],
+      "evidence_hint": "不明",
+      "training": {
+        "provider": "ISTDP Sentio（協辦：Medical University of Gdansk）",
+        "format": "線上",
+        "price": "from 16 October 239 EUR（線上票；USD 249/279）",
+        "price_tier": "其他",
+        "ce_credits": "出席證明 9 小時（無官方 CE 學分）",
+        "language": "英文",
+        "event_date": "2026-11-07",
+        "deadline": "",
+        "audience_level": "心理治療師、創傷治療師、臨床心理師、精神科醫師、心理相關學生（不需 ISTDP 經驗）",
+        "topic": "ISTDP、複雜 PTSD、創傷治療",
+        "signup_url": "https://istdpsentio.com/xii-istdp-international-clinical-psychotherapy-conference/"
+      },
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://connpsych.org/event/cpacon2026/",
+        "platform": "web",
+        "title": "CPA's 40th Annual Convention: November 5th & 6th, 2026 - Connecticut Psychological Association",
+        "author_name": "Connecticut Psychological Association",
+        "description": "2026 年 11 月 5–6 日舉行：11 月 5 日為線上會前工作坊（2 CE，退伍軍人心理健康主題），11 月 6 日為實體會議，於耶魯大學西校區（Orange, Connecticut）舉行。主旨演講由 Grace Kong 博士主講 The New Landscape of Adolescent Addiction: Social Media and Vaping；工作坊涵蓋 AI 心理治療倫理、ISTDP 簡介、數位成癮等。"
+      },
+      "page_date": "",
+      "evidence_quote": "November 5th & 6th! #CPACON2026",
+      "title_zh": "康乃狄克心理學會第 40 屆年會 2026（CPA's 40th Annual Convention 2026）",
+      "title_en": "CPA's 40th Annual Convention 2026",
+      "summary_zh": "2026 年 11 月 5–6 日舉行：11 月 5 日為線上會前工作坊（2 CE，退伍軍人心理健康主題），11 月 6 日為實體會議，於耶魯大學西校區（Orange, Connecticut）舉行。主旨演講由 Grace Kong 博士主講 The New Landscape of Adolescent Addiction: Social Media and Vaping；工作坊涵蓋 AI 心理治療倫理、ISTDP 簡介、數位成癮等。",
+      "key_points_zh": [],
+      "category": "進修與培訓",
+      "kind": "training",
+      "tags": [
+        "會議",
+        "心理學",
+        "繼續教育",
+        "美國"
+      ],
+      "population": [
+        "臨床工作者"
+      ],
+      "model_names": [],
+      "evidence_hint": "不明",
+      "training": {
+        "provider": "Connecticut Psychological Association",
+        "format": "混合",
+        "price": "$49.00 – $249.00",
+        "price_tier": "其他",
+        "ce_credits": "up to 6.0 CE credits（11/5 線上 2.0；11/6 實體 4.0）",
+        "language": "英文",
+        "event_date": "2026-11-05",
+        "deadline": "",
+        "audience_level": "心理師、心理學專業人士（學生、初階心理師亦可）",
+        "topic": "青少年成癮、AI 心理治療倫理、ISTDP、數位健康",
+        "signup_url": "https://connpsych.org/event/cpacon2026/"
+      },
+      "verify_needed": false,
+      "verify_reason": ""
+    },
+    {
+      "type": "case",
+      "source": {
+        "url": "https://njinstitute.com/product/fall-annual-conference-2026-working-with-grief-depression-and-masochism/",
+        "platform": "web",
+        "title": "Fall Annual Conference 2026: Working with Grief, Depression, and Masochism",
+        "author_name": "The New Jersey Institute for Training in Psychoanalysis",
+        "description": "2026 年 11 月 15 日 11:00 AM–2:00 PM（美東時間）經 Zoom 線上舉行。由 Nancy McWilliams 主講，區辨悲傷與憂鬱、受虐型人格動力，並以臨床案例說明治療意涵。報名截止 11/12/26。"
+      },
+      "page_date": "",
+      "evidence_quote": "Date: November 15",
+      "title_zh": "2026 秋季年會：悲傷、憂鬱與受虐工作（Fall Annual Conference 2026: Working with Grief, Depression, and Masochism）",
+      "title_en": "Fall Annual Conference 2026: Working with Grief, Depression, and Masochism",
+      "summary_zh": "2026 年 11 月 15 日 11:00 AM–2:00 PM（美東時間）經 Zoom 線上舉行。由 Nancy McWilliams 主講，區辨悲傷與憂鬱、受虐型人格動力，並以臨床案例說明治療意涵。報名截止 11/12/26。",
+      "key_points_zh": [],
+      "category": "進修與培訓",
+      "kind": "training",
+      "tags": [
+        "會議",
+        "精神分析",
+        "憂鬱",
+        "繼續教育"
+      ],
+      "population": [
+        "臨床工作者"
+      ],
+      "model_names": [],
+      "evidence_hint": "不明",
+      "training": {
+        "provider": "The New Jersey Institute for Training in Psychoanalysis",
+        "format": "線上",
+        "price": "Professionals: $60.00；Professionals not seeking CE credits: $50.00；Graduate Students: $20.00",
+        "price_tier": "低價",
+        "ce_credits": "3 CE Hours",
+        "language": "英文",
+        "event_date": "2026-11-15",
+        "deadline": "2026-11-12",
+        "audience_level": "心理治療師、心理健康專業人士（各級程度皆可）",
+        "topic": "精神分析、悲傷、憂鬱、自毀型人格",
+        "signup_url": "https://njinstitute.com/product/fall-annual-conference-2026-working-with-grief-depression-and-masochism/"
+      },
+      "verify_needed": false,
+      "verify_reason": ""
+    }
+  ],
+  "skipped": [],
+  "unreachable_sources": [],
+  "notes": "F 區會議巡查：6 則新會議（皆親開官方頁核實）。NCPC 香港 11/11 與 HKPS DCP 20 週年會議已覆核，日期／講者無變動，不交。掠奪性站點（scientexconference、pubscholars、waset、conferenceminds）一律排除。未做去重，請 Claude 把關。"
+}
