@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T08:40:00+00:00",
+ "generated_at": "2026-10-28T13:30:00+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,75 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "pesi-free-live-training-somatic-approach-to-healing-trauma",
+   "title_zh": "PESI 免費直播：Levine 與 Schwartz 談身體取向創傷療癒——從生存到完整",
+   "title_en": "PESI free live training somatic approach to healing trauma",
+   "summary_zh": "PESI 心理師免費直播系列。2026 年 11 月 11 日美中時間 13:00–15:00 線上舉行（港澳 11 月 12 日凌晨 03:00–05:00），由身體經驗創傷療法（Somatic Experiencing）創始人 Peter A. Levine 與臨床心理學家 Arielle Schwartz 主講，談創傷如何留在身體裡、受傷療癒者的兩難，以及故事、身體與意義整合。直播免費，報名後可免費觀看三日重播；CE 學分與永久錄影另收費。",
+   "summary_en": "PESI's free live online training on 11 November 2026 (1:00-3:00pm Central; 03:00-05:00 Macau time on 12 November), led by Peter A. Levine, developer of Somatic Experiencing, and clinical psychologist Arielle Schwartz: how trauma lives in the body, the wounded-healer dilemma, and integration through story, embodiment and meaning. Live attendance and three-day replay are free; CE credit and lifetime recording are paid upgrades.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "創傷",
+    "身體取向治療",
+    "免費直播"
+   ],
+   "first_seen_at": "2026-10-28T13:30:00+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-27T00:00:00+00:00",
+   "training": {
+    "provider": "PESI",
+    "price": "FREE（免費；CE 學分與永久錄影另收費）",
+    "price_tier": "免費",
+    "ce_credits": "另收費（頁面：CE 套裝 $59.99）",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-11",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "aha-2025-long-term-melatonin-use-heart-failure-risk-insomnia",
+   "title_zh": "AHA 2025 會議研究：失眠者長期用褪黑激素，心臟衰竭風險較高（觀察性研究，未證實因果）",
+   "title_en": "AHA 2025 long-term melatonin use heart failure risk insomnia",
+   "summary_zh": "美國心臟協會 2025 年會發表的大型跨國隊列研究（TriNetX 全球研究網絡），分析 130,828 名失眠成人（平均 56 歲，61% 女性），以傾向分數配對比較用藥與未用藥者。褪黑激素用一年或以上者，五年內新發心臟衰竭為 5% 對 3%，風險比 HR 1.89，絕對差 1.9 個百分點；心臟衰竭住院 19% 對 7%，全因死亡 8% 對 4%（HR 2.09）。研究為觀察性，不能證明因果關係。",
+   "summary_en": "A large multinational cohort study presented at the American Heart Association's 2025 Scientific Sessions analysed 130,828 adults with insomnia (mean age 56; 61% women) from the TriNetX network, using propensity-score matching. Those with melatonin use for one year or more had incident heart failure of 5% vs 3% over five years (HR 1.89; absolute difference 1.9 percentage points), heart-failure hospitalisation of 19% vs 7%, and all-cause mortality of 8% vs 4% (HR 2.09). The study is observational and cannot prove causation.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "褪黑激素",
+    "失眠",
+    "心臟衰竭",
+    "觀察性研究"
+   ],
+   "first_seen_at": "2026-10-28T13:30:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2025-11-03T00:00:00+00:00"
+  },
   {
    "slug": "caritas-cuhk-survey-66-of-upper-primary-students-say-too-man",
    "title_zh": "明愛與中大調查：66% 高小學生認為評核過多，經常感到壓力",
