@@ -1,0 +1,102 @@
+{
+ "format": "psypick-muse-v1",
+ "run_date": "2026-10-28",
+ "notes": "Feed 每日篩選（晚間 21:21），來源為 2026-10-27 與 2026-10-28 兩日 Feed 單位共 10 則（以 muse.db feed.units 讀取，因排程執行環境不開放 feed.unit_list）。標題級預篩後深入核實 5 則，上架 2 則；網站總數由 176 增至 178，main 分支 commit 946560f8e1fd3cec1f104be275bbd8f06c560ea7。真網站即時核實以瀏覽器實時讀取為準（文字抓取快取仍顯示 08:40 舊版）。",
+ "items": [
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "培訓課程",
+   "evidence_quote": "Register Today - No Cost!",
+   "key_points_zh": [
+    "講者：Peter A. Levine 與 Arielle Schwartz",
+    "2026 年 11 月 11 日美中時間 13:00-15:00，港澳 11 月 12 日凌晨 03:00-05:00",
+    "直播免費，報名後可免費觀看三日重播",
+    "CE 學分與永久錄影另收費（CE 套裝 $59.99）"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-10-27",
+   "population": [
+    "臨床工作者"
+   ],
+   "source": {
+    "author_name": "PESI",
+    "description": "PESI 心理師免費直播系列：身體取向創傷療癒，從生存到完整。",
+    "platform": "web",
+    "title": "A Somatic Approach to Healing Trauma: From Survival to Wholeness",
+    "url": "https://www.pesi.com/sales/bh_s_150928_somatictrauma_sq_organic-2492658/"
+   },
+   "title_zh": "PESI 免費直播：Levine 與 Schwartz 談身體取向創傷療癒——從生存到完整",
+   "slug": "pesi-free-live-training-somatic-approach-to-healing-trauma",
+   "published": true
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "觀察性隊列研究（會議發表，未經同儕審查期刊全文）",
+   "evidence_quote": "an HR of 1.89",
+   "key_points_zh": [
+    "TriNetX 130,828 名失眠成人，傾向分數配對",
+    "五年內新發心臟衰竭 5% 對 3%，HR 1.89，絕對差 1.9 個百分點",
+    "心臟衰竭住院 19% 對 7%，全因死亡 8% 對 4%（HR 2.09）",
+    "觀察性研究，不能證明因果；敏感性分析 HR 1.82，結果一致"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2025-11-03",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "source": {
+    "author_name": "American College of Cardiology",
+    "description": "ACC 官方報道：AHA 2025 年會發表的 TriNetX 隊列研究，長期用褪黑激素與心臟衰竭風險的關聯。",
+    "platform": "web",
+    "title": "Research Suggests Long-Term Melatonin Use For Insomnia Increases HF Risk",
+    "url": "https://www.acc.org/latest-in-cardiology/articles/2025/11/03/16/19/mon-melatonin-aha-2025"
+   },
+   "title_zh": "AHA 2025 會議研究：失眠者長期用褪黑激素，心臟衰竭風險較高（觀察性研究，未證實因果）",
+   "slug": "aha-2025-long-term-melatonin-use-heart-failure-risk-insomnia",
+   "published": true
+  }
+ ],
+ "skipped": [
+  {
+   "reason": "已上架：今早 08:01 批次已收錄同一 PESI 培訓",
+   "url": "https://www.pesi.com/sales/bh_s_096776_fatherwounds_sq_organic-2529928"
+  },
+  {
+   "reason": "已上架：今早 08:40 批次已收錄同一青協調查",
+   "url": "https://superpama.hk/posts/secondary-students-depression-survey-2026"
+  },
+  {
+   "reason": "非臨床培訓：教治療師成為收費 CE 講師的商業推廣直播",
+   "url": "https://webinar.ecarebehavioralinstitute.com/october-28th-2026-webinar"
+  },
+  {
+   "reason": "日期已過：2026-10-27 晚直播，篩選時已結束",
+   "url": "https://webinar.ecarebehavioralinstitute.com/october-27th-2026-webinar"
+  },
+  {
+   "reason": "認證課程且頁面未證實免費或低於 US$50，價格門檻未通過",
+   "url": "https://www.hkspt.org/wp/?page_id=193406"
+  },
+  {
+   "reason": "票價 US$150，超出 US$50 上限",
+   "url": "https://wdbta.org/events/"
+  },
+  {
+   "reason": "Mind HK 11 月 2 日基礎班為付費精神健康急救課程的附贈環節，且對象為非專業大眾，不符專業培訓範圍",
+   "url": "https://www.mind.org.hk/zh-hant/events/category/training-course-zh-hant/day/2026-10-20/"
+  },
+  {
+   "reason": "暨大「撕下標籤」論壇：官方頁未列收費，報名表單未能以文字抓取確認是否免費，價格證據不足，暫不收錄",
+   "url": "https://www.dvcar.ncnu.edu.tw/?p=29867"
+  }
+ ],
+ "unreachable_sources": [
+  {
+   "reason": "browser.open 無法擷取內容（疑為表單／短連結跳轉），已另開瀏覽器實時讀取官方頁核實三場線上場次",
+   "url": "https://reurl.cc/eQbzDx"
+  }
+ ]
+}
