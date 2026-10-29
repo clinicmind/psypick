@@ -1,0 +1,129 @@
+{
+ "format": "psypick-muse-v1",
+ "run_date": "2026-10-29",
+ "notes": "Feed 每日篩選（晚間 21:21），來源為 2026-10-29 與 2026-10-28 兩日 Feed 單位共 16 則（以 muse.db feed.units 讀取，因排程執行環境不開放 feed.unit_list）。標題級預篩後深入核實 5 則，上架 3 則；網站總數由 178 增至 181，main 分支 commit 348c7ff77aeaa28d2054c1dcefe36ed76d556763。",
+ "items": [
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "培訓課程",
+   "evidence_quote": "Register FREE Today!",
+   "key_points_zh": [
+    "講者：Thema Bryant（前美國心理學會會長、Pepperdine 大學教授）",
+    "2026 年 11 月 12 日美中時間 13:00-15:00，港澳 11 月 13 日凌晨 03:00-05:00",
+    "直播免費，報名後可免費觀看三日重播",
+    "CE 學分套裝 $59.99 另收費"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-10-29",
+   "population": [
+    "臨床工作者"
+   ],
+   "source": {
+    "author_name": "PESI",
+    "description": "PESI 心理師免費直播系列：解放心理學實踐，為邊緣來訪者培養喜悅。",
+    "platform": "web",
+    "title": "Liberation Psychology in Practice with Dr. Thema Bryant",
+    "url": "https://www.pesi.com/sales/bh_s_150928_liberationpsychology_sq_organic-2541037?internalad=sliderad_pesi-us_BH_social-worker_free-training-bh_sum150928_free-live-event-liberation-psychology-in-practice-with-dr-thema-bryant-cultivating-joy-with-marginalized-clients"
+   },
+   "title_zh": "PESI 免費直播：Thema Bryant 談解放心理學——為邊緣來訪者培養喜悅",
+   "slug": "pesi-free-live-training-liberation-psychology-in-practice",
+   "published": true
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "培訓課程",
+   "evidence_quote": "Register today, completely FREE!",
+   "key_points_zh": [
+    "講者：Anna Elton（婚姻與家庭治療師、臨床性學家）",
+    "2026 年 11 月 16 日美中時間 08:00-16:00，港澳 11 月 16 日 22:00 至 11 月 17 日 06:00",
+    "直播免費，報名後可免費觀看三日重播",
+    "升級套裝 $99.99（含 6.25 CE 小時與工具包）另收費"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-10-29",
+   "population": [
+    "臨床工作者"
+   ],
+   "source": {
+    "author_name": "PESI",
+    "description": "PESI 心理師免費直播系列：伴侶數碼出軌的處理工具。",
+    "platform": "web",
+    "title": "Free Couples Techniques for Digital Infidelity",
+    "url": "https://www.pesi.com/sales/pbh_s_059818_digitalinfidelity_sum96767_organic-2448186/"
+   },
+   "title_zh": "PESI 免費直播：Anna Elton 談伴侶數碼出軌的處理工具",
+   "slug": "pesi-free-live-training-couples-techniques-for-digital-infid",
+   "published": true
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "同儕審查期刊橫斷面研究",
+   "evidence_quote": "the strongest predictor across all five",
+   "key_points_zh": [
+    "挪威東南部 21 間學校 4,011 名青少年，平均 14 歲，2025 年秋季問卷",
+    "社交比較預測力最強：內化症狀解釋約 20-26% 變異，外化症狀 6-9%",
+    "消磨時間與尋求支持幾無獨立關聯",
+    "橫斷面研究，不能證明因果；症狀為自填量表，非臨床診斷"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-10-17",
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "source": {
+    "author_name": "Springer Nature",
+    "description": "Child and Adolescent Psychiatry and Mental Health 期刊原文：青少年社交媒體使用面向與五種心理症狀的關聯。",
+    "platform": "web",
+    "title": "Specific aspects of social media use and their associations with symptoms of five mental disorders among adolescents",
+    "url": "https://link.springer.com/article/10.1186/s13034-026-01196-0"
+   },
+   "title_zh": "研究：青少年在社交媒體上與人比較，與焦慮抑鬱症狀關聯最強",
+   "slug": "social-comparison-on-social-media-strongest-link-adolescent",
+   "published": true
+  }
+ ],
+ "skipped": [
+  {
+   "reason": "原頁 404：browser.open 與瀏覽器實時讀取皆顯示找不到網頁，收費與形式未核實，暫不收錄",
+   "url": "https://www.twcpa.org.tw/post/11-15、11-29-人際歷程模式在諮商中的理論與實作"
+  },
+  {
+   "reason": "公開研究講座、非限專業人士的培訓；官方頁未明示免費（免費僅見新聞稿），暫不收錄",
+   "url": "https://bbrfoundation.org/event/predicting-suicidal-ideation-outcomes-how-personality-cognition-and-brain-function-shape"
+  },
+  {
+   "reason": "研討會已結束",
+   "url": "https://www.cdns.com.tw/articles/1481800"
+  },
+  {
+   "reason": "台北實體舉行，非全程線上，依線上培訓鐵則跳過",
+   "url": "https://cseforum.tgeea.org.tw/2026/"
+  },
+  {
+   "reason": "SuperPAMA 政策新聞二手報道，非研究、培訓或會議",
+   "url": "https://superpama.hk/posts/preschool-rehab-services-2026"
+  },
+  {
+   "reason": "二手新聞轉述（Daily Economic 報道 Mind HK 調查），非原始報告，證據較弱",
+   "url": "https://hk.dailyeconomic.com/2026/10/27/4440.html"
+  },
+  {
+   "reason": "台中實體課程，非全程線上",
+   "url": "http://twsaac.blogspot.com/2026/10/aac.html"
+  },
+  {
+   "reason": "收費證據仍不足，沿用昨日結論暫不收錄",
+   "url": "https://www.dvcar.ncnu.edu.tw/?p=29867"
+  }
+ ],
+ "unreachable_sources": [
+  {
+   "reason": "原頁 404：browser.open 回傳 400，瀏覽器實時讀取顯示「我們找不到這個網頁」",
+   "url": "https://www.twcpa.org.tw/post/11-15、11-29-人際歷程模式在諮商中的理論與實作"
+  }
+ ]
+}
