@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T13:30:00+00:00",
+ "generated_at": "2026-10-29T13:35:00+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,115 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "pesi-free-live-training-liberation-psychology-in-practice",
+   "title_zh": "PESI 免費直播：Thema Bryant 談解放心理學——為邊緣來訪者培養喜悅",
+   "title_en": "PESI free live training liberation psychology in practice",
+   "summary_zh": "PESI 心理師免費直播系列。2026 年 11 月 12 日美中時間 13:00–15:00 線上舉行（港澳 11 月 13 日凌晨 03:00–05:00），由前美國心理學會會長、Pepperdine 大學教授 Thema Bryant 主講，介紹 J.U.S.T.I.C.E. 模式的七條路徑，把喜悅視為保護因子與抗爭策略，協助邊緣來訪者重建身份、韌性與主體性。直播免費，報名後可免費觀看三日重播；CE 學分另收費。",
+   "summary_en": "PESI's free live online training on 12 November 2026 (1:00-3:00pm Central; 03:00-05:00 Macau time on 13 November), led by Dr. Thema Bryant, former APA president and Pepperdine professor, introducing the J.U.S.T.I.C.E. model's seven pathways to cultivate joy as a protective factor and resistance strategy for marginalized clients. Live attendance and three-day replay are free; CE credit is a paid upgrade.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "解放心理學",
+    "喜悅",
+    "邊緣群體",
+    "免費直播"
+   ],
+   "first_seen_at": "2026-10-29T13:35:00+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-29T00:00:00+00:00",
+   "training": {
+    "provider": "PESI",
+    "price": "FREE（免費；CE 學分另收費）",
+    "price_tier": "免費",
+    "ce_credits": "另收費（頁面：CE 套裝 $59.99）",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-12",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "pesi-free-live-training-couples-techniques-for-digital-infid",
+   "title_zh": "PESI 免費直播：Anna Elton 談伴侶數碼出軌的處理工具",
+   "title_en": "PESI free live training couples techniques for digital infidelity",
+   "summary_zh": "PESI 心理師免費直播系列。2026 年 11 月 16 日美中時間 08:00–16:00 線上舉行（港澳 11 月 16 日 22:00 至 11 月 17 日 06:00），由婚姻與家庭治療師 Anna Elton 主講，談數碼出軌、社交媒體嫉妒、色情內容與科技干擾（technoference）如何衝擊伴侶信任，並提供界限設定、衝突處理與重建親密的實務工具。直播免費，報名後可免費觀看三日重播；CE 學分與工具包升級另收費。",
+   "summary_en": "PESI's free live online training on 16 November 2026 (8:00am-4:00pm Central; 22:00 Macau time on 16 November to 06:00 on 17 November), led by marriage and family therapist Anna Elton, on digital infidelity, social-media jealousy, pornography and technoference in couples, with boundary-setting, conflict-resolution and trust-rebuilding tools. Live attendance and three-day replay are free; CE credit and toolkit upgrades are paid.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "伴侶治療",
+    "數碼出軌",
+    "免費直播"
+   ],
+   "first_seen_at": "2026-10-29T13:35:00+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-29T00:00:00+00:00",
+   "training": {
+    "provider": "PESI",
+    "price": "FREE（免費；CE 學分與工具包升級另收費）",
+    "price_tier": "免費",
+    "ce_credits": "另收費（頁面：升級套裝 $99.99）",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-16",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "social-comparison-on-social-media-strongest-link-adolescent",
+   "title_zh": "研究：青少年在社交媒體上與人比較，與焦慮抑鬱症狀關聯最強",
+   "title_en": "Social comparison on social media strongest link adolescent mental health symptoms",
+   "summary_zh": "Child and Adolescent Psychiatry and Mental Health 於 2026 年 10 月 17 日刊出的橫斷面研究，分析挪威東南部 21 間學校 4,011 名青少年（平均 14 歲，2025 年秋季問卷）。在社交媒體使用五個面向中，「與人比較」對五種症狀的預測力最強：內化症狀（廣泛焦慮、社交焦慮、抑鬱）解釋約 20–26% 變異，外化症狀（ADHD、對立違抗）解釋 6–9%；「消磨時間」與「尋求支持」則幾無獨立關聯。研究不能證明因果關係。",
+   "summary_en": "A cross-sectional study in Child and Adolescent Psychiatry and Mental Health (published 17 October 2026) analysed 4,011 Norwegian adolescents (mean age 14) from 21 schools in South-Eastern Norway. Among five aspects of social media use, social comparison was the strongest predictor across all five symptom domains, accounting for about 20-26% of variance in internalizing symptoms (generalized anxiety, social anxiety, depression) and 6-9% in externalizing symptoms (ADHD, oppositional defiant disorder); passing time and seeking support showed negligible independent associations. The design cannot establish causation.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "社交媒體",
+    "社交比較",
+    "青少年",
+    "焦慮抑鬱"
+   ],
+   "first_seen_at": "2026-10-29T13:35:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-17T00:00:00+00:00"
+  },
   {
    "slug": "pesi-free-live-training-somatic-approach-to-healing-trauma",
    "title_zh": "PESI 免費直播：Levine 與 Schwartz 談身體取向創傷療癒——從生存到完整",
