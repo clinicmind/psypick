@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T13:35:00+00:00",
+ "generated_at": "2026-10-30T01:16:15+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,82 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "macau-community-medical-psychosomatic-health-training-module",
+   "title_zh": "澳門衛生局免費培訓：社區醫療身心健康課程第二單元——動機訪談",
+   "title_en": "Macau community medical psychosomatic health training module 2 motivational interviewing",
+   "summary_zh": "澳門衛生局家庭醫學培訓基地主辦的免費培訓課程第二單元。2026年11月8日（星期日）上午10:00至下午1:00在黑沙環衛生中心舉行，由霍靖醫生主講動機訪談在體重管理與慢性病遵從性中的基層應用。報名日期為10月26日至11月5日，費用全免，須填寫執業准照或醫療人員資格認可編號；整個課程共十個單元，完成八個或以上可獲證書並納入持續專業發展計劃。",
+   "summary_en": "Free training module 2 of Macau Health Bureau's community medical psychosomatic health course, on 8 November 2026 (10:00-13:00, Areia Preta Health Centre), led by Dr Fok Peter Anthony on motivational interviewing in weight management and chronic disease adherence. Registration runs 26 October to 5 November 2026, free of charge; the full course has ten modules and a certificate is awarded after eight or more, under the CPD scheme.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "動機訪談",
+    "社區醫療",
+    "持續專業發展"
+   ],
+   "first_seen_at": "2026-10-30T01:16:15+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-26T00:00:00+00:00",
+   "training": {
+    "provider": "澳門衛生局家庭醫學培訓基地",
+    "price": "費用全免",
+    "price_tier": "免費",
+    "ce_credits": "納入持續專業發展（CPD）計劃",
+    "language": "",
+    "deadline": "2026-11-05",
+    "event_date": "2026-11-08",
+    "format": "實體"
+   }
+  },
+  {
+   "slug": "ncue-neuropsychodynamic-art-therapy-group-supervision-worksh",
+   "title_zh": "彰化師範大學：神經心理動力取向藝術治療團體督導實務應用工作坊",
+   "title_en": "NCUE neuropsychodynamic art therapy group supervision workshop",
+   "summary_zh": "國立彰化師範大學社區心理諮商及潛能發展中心主辦的工作坊，2026年12月18日（星期五）9:00至16:30舉行。內容包括個案輔導概念化與系統觀，以及攝影與文字圖卡、輕質土在藝術治療上的應用。參加對象為輔導教師、諮商及臨床心理師、社工師與諮商實務工作者及相關科系學生。轉知頁未載費用與上課地點，須核對彰師大原簡章。",
+   "summary_en": "A workshop by National Changhua University of Education's community counselling centre, on 18 December 2026 (9:00-16:30), on neuropsychodynamic art therapy group supervision, case conceptualisation and systems perspectives, and the use of photography, text cards and light clay in art therapy. For counselling teachers, counselling and clinical psychologists, social workers and related students. Fee and venue are not stated on the forwarding notice.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "藝術治療",
+    "團體督導",
+    "神經心理動力"
+   ],
+   "first_seen_at": "2026-10-30T01:16:15+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-27T00:00:00+00:00",
+   "training": {
+    "provider": "國立彰化師範大學社區心理諮商及潛能發展中心",
+    "price": "",
+    "price_tier": "其他",
+    "ce_credits": "",
+    "language": "",
+    "deadline": "",
+    "event_date": "2026-12-18",
+    "format": ""
+   }
+  },
   {
    "slug": "pesi-free-live-training-liberation-psychology-in-practice",
    "title_zh": "PESI 免費直播：Thema Bryant 談解放心理學——為邊緣來訪者培養喜悅",

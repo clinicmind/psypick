@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T03:00:00+00:00",
- "today": "2026-10-11",
+ "generated_at": "2026-10-30T01:16:15+00:00",
+ "today": "2026-10-30",
  "regions": [
   "香港",
   "澳門",
@@ -1759,6 +1759,84 @@
    "verify_notes": "日期、場地已於官方頁核對；費用、報名截止、議程與講者官網未列，待補。",
    "last_checked": "2026-10-11",
    "speakers": []
+  },
+  {
+   "slug": "innovations-in-psychotherapy-2026",
+   "name_zh": "創傷治療創新會議2026（第46屆）",
+   "name_en": "Innovations in Psychotherapy 2026",
+   "start": "2026-11-10",
+   "end": "2026-11-13",
+   "city": "Anaheim",
+   "country": "美國",
+   "region": "北美",
+   "format": "混合",
+   "language": "英語",
+   "organizer": "PESI",
+   "fee_text": "實體早鳥$949.99（原$1,299.99）；線上早鳥$399.99（原$599.99）",
+   "deadline": "",
+   "url": "http://innovationsinpsychotherapy.com/",
+   "register_url": "http://innovationsinpsychotherapy.com/",
+   "venue": "Anaheim, CA（實體）及線上",
+   "summary_zh": "第46屆創傷治療會議，四日議程，講者包括Peter A. Levine、Gabor Maté、Janina Fisher、Dan Siegel、Frank Anderson等，內容涵蓋複雜創傷後壓力、依附與解離、EMDR與IFS整合、創傷性哀傷等；註冊費已含一年份CE學分（原文：PLUS EARN UP TO A YEAR'S WORTH OF CE CREDITS）。",
+   "themes": [
+    "創傷治療",
+    "CPTSD",
+    "EMDR",
+    "IFS",
+    "依附與解離"
+   ],
+   "interest_zh": "創傷治療領域的年度大型會議，講者陣容涵蓋身體取向、依附與部分取向，對臨床工作者更新創傷治療技術有參考價值；費用較高，線上參與較實惠。",
+   "domains": [
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "主辦單位在原頁未具名，講者披露多與PESI有關，故暫列PESI並標示待核；早鳥截止日原頁未標明。",
+   "speakers": [],
+   "last_checked": "2026-10-30"
+  },
+  {
+   "slug": "hkmfta-10th-anniversary-conference-2026",
+   "name_zh": "香港婚姻及家庭治療協會十周年主題會議2026",
+   "name_en": "Hong Kong Marriage and Family Therapy Association 10th Anniversary Conference 2026",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "city": "香港",
+   "country": "香港",
+   "region": "香港",
+   "format": "實體",
+   "language": "廣東話",
+   "organizer": "香港婚姻及家庭治療協會（HKMFTA）",
+   "fee_text": "",
+   "deadline": "",
+   "url": "https://hkmfta.wildapricot.org/event-6720982",
+   "register_url": "https://hkmfta.wildapricot.org/event-6720982",
+   "venue": "香港理工大學",
+   "summary_zh": "香港婚姻及家庭治療協會成立十周年會議，主題為「十載同行・連結家與情」。主題演講為魏素樺博士，另設多個工作坊，涵蓋Bowen、Satir、結構式、情緒導向、尋解導向、敘事、對話等取向，以及治療師自我運用、家庭生物反饋、LEGO多家庭治療等主題；另有家校情專題研討。費用與報名截止原頁未載。",
+   "themes": [
+    "婚姻及家庭治療",
+    "依附",
+    "情緒導向治療"
+   ],
+   "interest_zh": "香港本地家庭治療專業社群的十周年會議，涵蓋多個家庭治療取向，對本地臨床工作者交流實務經驗有幫助；費用與報名截止須向協會查詢。",
+   "domains": [
+    "臨床心理",
+    "EFT"
+   ],
+   "verify_needed": true,
+   "verify_notes": "費用與報名截止原頁未載；協會官網會議詳情頁一次讀取失敗，未重試。",
+   "speakers": [
+    {
+     "name": "魏素樺博士 Dr. NGAI So Wa",
+     "role": "",
+     "affiliation": "",
+     "session": "主題演講：從同人，到大有：一個專業社群如何被對話建構出來",
+     "bio_zh": "",
+     "works": [],
+     "verified": true,
+     "note": "僅主題演講講者已核對，其他工作坊講者見原頁。"
+    }
+   ],
+   "last_checked": "2026-10-30"
   }
  ]
 }
