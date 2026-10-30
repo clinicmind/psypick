@@ -1,0 +1,112 @@
+{
+ "format": "psypick-muse-v1",
+ "run_date": "2026-10-30",
+ "items": [
+  {
+   "type": "case",
+   "source": {
+    "url": "http://innovationsinpsychotherapy.com/",
+    "platform": "web",
+    "title": "Innovations in Psychotherapy 2026",
+    "author_name": "PESI",
+    "description": "第46屆創傷治療會議，四日議程，講者包括Peter A. Levine、Gabor Maté、Janina Fisher、Dan Siegel、Frank Anderson等，內容涵蓋複雜創傷後壓力、依附與解離、EMDR與IFS整合、創傷性哀傷等；註冊費已含一年份CE學分（原文：PLUS EARN UP TO A YEAR'S WORTH OF CE CREDITS）。"
+   },
+   "page_date": "",
+   "evidence_quote": "Live in Anaheim, CA, and Online",
+   "title_zh": "創傷治療創新會議2026（第46屆）",
+   "title_en": "Innovations in Psychotherapy 2026",
+   "summary_zh": "第46屆創傷治療會議，四日議程，講者包括Peter A. Levine、Gabor Maté、Janina Fisher、Dan Siegel、Frank Anderson等，內容涵蓋複雜創傷後壓力、依附與解離、EMDR與IFS整合、創傷性哀傷等；註冊費已含一年份CE學分（原文：PLUS EARN UP TO A YEAR'S WORTH OF CE CREDITS）。",
+   "key_points_zh": [
+    "第46屆創傷治療會議，四日議程，講者包括Peter A. Levine、Gabor Maté、Janina Fisher、Dan Siegel、Frank Anderson等，內容涵蓋複雜創傷後壓力、依附與解離、EMDR與IFS整合、創傷性哀傷等；註冊費已含一年份CE學分（原文：PLUS EARN UP TO A YEAR'S WORTH OF CE CREDITS）。"
+   ],
+   "category": "進修與培訓",
+   "kind": "training",
+   "tags": [
+    "會議",
+    "創傷治療",
+    "CPTSD",
+    "EMDR"
+   ],
+   "population": [
+    "臨床工作者"
+   ],
+   "model_names": [],
+   "evidence_hint": "會議",
+   "training": {
+    "provider": "PESI",
+    "format": "混合",
+    "price": "實體早鳥$949.99（原$1,299.99）；線上早鳥$399.99（原$599.99）",
+    "price_tier": "其他",
+    "ce_credits": "",
+    "language": "英語",
+    "event_date": "2026-11-10",
+    "deadline": "",
+    "audience_level": "心理師等專業人員",
+    "topic": "創傷治療",
+    "signup_url": "http://innovationsinpsychotherapy.com/"
+   },
+   "verify_needed": true,
+   "verify_reason": "主辦單位在原頁未具名，講者披露多與PESI有關，故暫列PESI並標示待核；早鳥截止日原頁未標明。"
+  },
+  {
+   "type": "case",
+   "source": {
+    "url": "https://hkmfta.wildapricot.org/event-6720982",
+    "platform": "web",
+    "title": "Hong Kong Marriage and Family Therapy Association 10th Anniversary Conference 2026",
+    "author_name": "香港婚姻及家庭治療協會（HKMFTA）",
+    "description": "香港婚姻及家庭治療協會成立十周年會議，主題為「十載同行・連結家與情」。主題演講為魏素樺博士，另設多個工作坊，涵蓋Bowen、Satir、結構式、情緒導向、尋解導向、敘事、對話等取向，以及治療師自我運用、家庭生物反饋、LEGO多家庭治療等主題；另有家校情專題研討。費用與報名截止原頁未載。"
+   },
+   "page_date": "",
+   "evidence_quote": "日期：2026年11月21及22日",
+   "title_zh": "香港婚姻及家庭治療協會十周年主題會議2026",
+   "title_en": "Hong Kong Marriage and Family Therapy Association 10th Anniversary Conference 2026",
+   "summary_zh": "香港婚姻及家庭治療協會成立十周年會議，主題為「十載同行・連結家與情」。主題演講為魏素樺博士，另設多個工作坊，涵蓋Bowen、Satir、結構式、情緒導向、尋解導向、敘事、對話等取向，以及治療師自我運用、家庭生物反饋、LEGO多家庭治療等主題；另有家校情專題研討。費用與報名截止原頁未載。",
+   "key_points_zh": [
+    "香港婚姻及家庭治療協會成立十周年會議，主題為「十載同行・連結家與情」。主題演講為魏素樺博士，另設多個工作坊，涵蓋Bowen、Satir、結構式、情緒導向、尋解導向、敘事、對話等取向，以及治療師自我運用、家庭生物反饋、LEGO多家庭治療等主題；另有家校情專題研討。費用與報名截止原頁未載。"
+   ],
+   "category": "進修與培訓",
+   "kind": "training",
+   "tags": [
+    "會議",
+    "婚姻及家庭治療",
+    "依附",
+    "情緒導向治療"
+   ],
+   "population": [
+    "臨床工作者"
+   ],
+   "model_names": [],
+   "evidence_hint": "會議",
+   "training": {
+    "provider": "香港婚姻及家庭治療協會（HKMFTA）",
+    "format": "實體",
+    "price": "",
+    "price_tier": "其他",
+    "ce_credits": "",
+    "language": "廣東話",
+    "event_date": "2026-11-21",
+    "deadline": "",
+    "audience_level": "心理師等專業人員",
+    "topic": "婚姻及家庭治療",
+    "signup_url": "https://hkmfta.wildapricot.org/event-6720982"
+   },
+   "verify_needed": true,
+   "verify_reason": "費用與報名截止原頁未載；協會官網會議詳情頁一次讀取失敗，未重試。"
+  }
+ ],
+ "skipped": [],
+ "unreachable_sources": [
+  {
+   "name": "香港婚姻及家庭治療協會官網會議詳情頁",
+   "url": "https://www.hkmfta.org/2026-anniversary-conference/",
+   "problem": "一次讀取失敗，未重試；費用與報名截止因此未核實"
+  },
+  {
+   "name": "Evolution of Psychotherapy 官方 Why Attend 頁",
+   "url": "https://www.hmpglobalevents.com/evolutionofpsychotherapy/why-attend",
+   "problem": "只顯示 Client Challenge，未能讀取正文；已收錄日期以官方FAQ摘要為準，無變動"
+  }
+ ],
+ "notes": "F區會議巡查：新會議2則（創傷治療創新會議2026、香港婚姻及家庭治療協會十周年會議2026），均在未來6週內；掠奪性聚合站（conferenceseries、scientex、pubscholars）一律不收。"
+}

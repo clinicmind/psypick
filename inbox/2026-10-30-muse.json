@@ -1,0 +1,558 @@
+{
+ "format": "psypick-muse-v1",
+ "run_date": "2026-10-30",
+ "items": [
+  {
+   "type": "case",
+   "source": {
+    "url": "https://www.gov.mo/zh-hant/news/1276277/",
+    "platform": "web",
+    "title": "家庭醫學培訓基地「社區醫療身心健康培訓課程」第二單元課程於今（26）日起接受報名",
+    "author_name": "澳門衛生局",
+    "description": "澳門衛生局家庭醫學培訓基地主辦的免費培訓課程第二單元。2026年11月8日（星期日）上午10:00至下午1:00在黑沙環衛生中心舉行，由霍靖醫生主講動機訪談在體重管理與慢性病遵從性中的基層應用。報名日期為10月26日至11月5日，費用全免，須填寫執業准照或醫療人員資格認可編號；整個課程共十個單元，完成八個或以上可獲證書並納入持續專業發展計劃。"
+   },
+   "page_date": "2026-10-26",
+   "evidence_quote": "現第二單元課程於10月26日起接受報名，費用全免",
+   "title_zh": "澳門衛生局免費培訓：社區醫療身心健康課程第二單元——動機訪談",
+   "title_en": "Macau community medical psychosomatic health training module 2 motivational interviewing",
+   "summary_zh": "澳門衛生局家庭醫學培訓基地主辦的免費培訓課程第二單元。2026年11月8日（星期日）上午10:00至下午1:00在黑沙環衛生中心舉行，由霍靖醫生主講動機訪談在體重管理與慢性病遵從性中的基層應用。報名日期為10月26日至11月5日，費用全免，須填寫執業准照或醫療人員資格認可編號；整個課程共十個單元，完成八個或以上可獲證書並納入持續專業發展計劃。",
+   "key_points_zh": [
+    "主辦：澳門衛生局家庭醫學培訓基地，特邀香港家庭醫學學院導師",
+    "第二單元：動機訪談的核心理論與技巧，在體重管理與慢性病遵從性中的基層應用",
+    "講者：Dr Fok Peter Anthony 霍靖醫生",
+    "時間：2026年11月8日（星期日）上午10:00至下午1:00；地點：黑沙環衛生中心3樓會議室"
+   ],
+   "category": "進修與培訓",
+   "kind": "training",
+   "tags": [
+    "動機訪談",
+    "社區醫療",
+    "持續專業發展"
+   ],
+   "population": [
+    "臨床工作者"
+   ],
+   "model_names": [],
+   "evidence_hint": "培訓課程",
+   "training": {
+    "provider": "澳門衛生局家庭醫學培訓基地",
+    "price": "費用全免",
+    "price_tier": "免費",
+    "ce_credits": "納入持續專業發展（CPD）計劃",
+    "language": "",
+    "deadline": "2026-11-05",
+    "event_date": "2026-11-08",
+    "format": "實體",
+    "audience_level": "本澳醫療人員",
+    "signup_url": "https://app.ssm.gov.mo/medicaltrainingsignup2",
+    "topic": "動機訪談在體重管理與慢性病遵從性中的基層應用"
+   },
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "case",
+   "source": {
+    "url": "https://csjh.kl.edu.tw/gong-gao-qu/近期公告/研習活動/zhuan-zhi-guo-li-zhang-hua-shi-fan-da-xue-ban-li115nian-shen-jing-xin-li-dong-li-qu-xiang-yi-shu-zhi-liao-tuan-ti-du-dao-shi-wu-ying-yong-gong-zuo-fang",
+    "platform": "web",
+    "title": "轉知 國立彰化師範大學辦理「115年神經心理動力取向藝術治療團體督導實務應用工作坊」",
+    "author_name": "國立彰化師範大學社區心理諮商及潛能發展中心（轉知）",
+    "description": "國立彰化師範大學社區心理諮商及潛能發展中心主辦的工作坊，2026年12月18日（星期五）9:00至16:30舉行。內容包括個案輔導概念化與系統觀，以及攝影與文字圖卡、輕質土在藝術治療上的應用。參加對象為輔導教師、諮商及臨床心理師、社工師與諮商實務工作者及相關科系學生。轉知頁未載費用與上課地點，須核對彰師大原簡章。"
+   },
+   "page_date": "2026-10-27",
+   "evidence_quote": "參加對象：輔導教師、諮商及臨床心理師、社工師",
+   "title_zh": "彰化師範大學：神經心理動力取向藝術治療團體督導實務應用工作坊",
+   "title_en": "NCUE neuropsychodynamic art therapy group supervision workshop",
+   "summary_zh": "國立彰化師範大學社區心理諮商及潛能發展中心主辦的工作坊，2026年12月18日（星期五）9:00至16:30舉行。內容包括個案輔導概念化與系統觀，以及攝影與文字圖卡、輕質土在藝術治療上的應用。參加對象為輔導教師、諮商及臨床心理師、社工師與諮商實務工作者及相關科系學生。轉知頁未載費用與上課地點，須核對彰師大原簡章。",
+   "key_points_zh": [
+    "主辦：國立彰化師範大學社區心理諮商及潛能發展中心",
+    "時間：2026年12月18日（星期五）9:00-16:30",
+    "內容：個案輔導概念化與系統觀；攝影與文字圖卡、輕質土在藝術治療上的應用",
+    "對象：輔導教師、諮商及臨床心理師、社工師、諮商實務工作者及相關科系學生"
+   ],
+   "category": "進修與培訓",
+   "kind": "training",
+   "tags": [
+    "藝術治療",
+    "團體督導",
+    "神經心理動力"
+   ],
+   "population": [
+    "臨床工作者"
+   ],
+   "model_names": [],
+   "evidence_hint": "培訓課程",
+   "training": {
+    "provider": "國立彰化師範大學社區心理諮商及潛能發展中心",
+    "price": "",
+    "price_tier": "其他",
+    "ce_credits": "",
+    "language": "",
+    "deadline": "",
+    "event_date": "2026-12-18",
+    "format": "",
+    "audience_level": "輔導教師、諮商及臨床心理師、社工師等",
+    "signup_url": "https://csjh.kl.edu.tw/gong-gao-qu/近期公告/研習活動/zhuan-zhi-guo-li-zhang-hua-shi-fan-da-xue-ban-li115nian-shen-jing-xin-li-dong-li-qu-xiang-yi-shu-zhi-liao-tuan-ti-du-dao-shi-wu-ying-yong-gong-zuo-fang",
+    "topic": "神經心理動力取向藝術治療團體督導"
+   },
+   "verify_needed": true,
+   "verify_reason": "轉知頁未載費用與上課地點，須核對彰師大原簡章"
+  },
+  {
+   "type": "family",
+   "source": {
+    "url": "https://www.hkpl.gov.hk/en/extension-activities/event/302690/paired-reading-workshops-2026-parent-child-workshop-on-cultivating-children-s-self-management-skills-and-sense-of-responsibility",
+    "platform": "web",
+    "title": "Paired Reading Workshops 2026: Parent-Child Workshop on Cultivating Children's Self-Management Skills and Sense of Responsibility",
+    "author_name": "香港公共圖書館",
+    "description": "香港公共圖書館親子共讀工作坊，由東華三院何玉清教育心理服務中心帶領。工作坊用互動遊戲教孩子先做事後玩樂，把大任務拆成小步驟，減少拖延與抗拒；手工環節亦讓家長練習正向溝通與時間管理。對象為幼稚園至小三兒童，每名兒童須由一名家長陪同。"
+   },
+   "page_date": "",
+   "evidence_quote": "work first, play later",
+   "family": {
+    "kind": "activity",
+    "title_zh": "香港公共圖書館親子共讀工作坊：培養子女自我管理能力與責任感",
+    "title_en": "HKPL paired reading workshop cultivating children self-management responsibility",
+    "summary_zh": "香港公共圖書館親子共讀工作坊，由東華三院何玉清教育心理服務中心帶領。工作坊用互動遊戲教孩子先做事後玩樂，把大任務拆成小步驟，減少拖延與抗拒；手工環節亦讓家長練習正向溝通與時間管理。對象為幼稚園至小三兒童，每名兒童須由一名家長陪同。",
+    "summary_en": "Hong Kong Public Libraries paired-reading workshop led by Tung Wah Group of Hospitals' educational psychology service, teaching children to work first and play later and to break large tasks into small steps, with craft activities for parents to practise positive communication and time management.",
+    "ages": [
+     "3-6歲",
+     "6-12歲"
+    ],
+    "topic": "親子活動",
+    "region": "香港",
+    "tips": [
+     "孩子先做事後玩樂，把大任務拆成小步驟",
+     "手工環節練習正向溝通與時間管理"
+    ],
+    "when_to_seek_help": "",
+    "source_type": "政府",
+    "posted_at": "",
+    "tags": [
+     "親子共讀",
+     "自我管理",
+     "責任感"
+    ],
+    "verify_needed": false,
+    "verify_reason": "",
+    "activity": {
+     "date_start": "2026-11-07",
+     "date_end": "2026-12-05",
+     "time": "15:30-17:00",
+     "venue": "將軍澳、青衣、沙田及大會堂公共圖書館（各場不同）",
+     "price": "",
+     "free": false,
+     "age_range": "幼稚園至小三兒童，每名兒童須由一名家長陪同",
+     "signup": "經香港公共圖書館推廣活動報名",
+     "deadline": "",
+     "organizer": "香港公共圖書館；帶領：東華三院何玉清教育心理服務中心（沙田）",
+     "last_checked": "2026-10-30"
+    },
+    "deal": null,
+    "bounty": null
+   }
+  },
+  {
+   "type": "family",
+   "source": {
+    "url": "https://www.gov.mo/zh-hant/news/1277344/",
+    "platform": "web",
+    "title": "生態區11月生態活動接受報名",
+    "author_name": "澳門環境保護局",
+    "description": "澳門環境保護局生態區11月活動中的親子工作坊，2026年11月14日上午十時及下午三時各一場，每場10組（1位小朋友加1位陪同成人），為時兩個半小時。導師講解生態知識，並指導小朋友用就地取材的植物製作植物浮游瓶，深化對植物形態的認識與自然觀察能力。10月28日起接受報名，名額有限。"
+   },
+   "page_date": "2026-10-27",
+   "evidence_quote": "每場設10組（每組為1位小朋友和1位陪同的成人）",
+   "family": {
+    "kind": "activity",
+    "title_zh": "澳門生態區11月親子「自然學堂」工作坊",
+    "title_en": "Macau ecozone November parent-child nature classroom workshop",
+    "summary_zh": "澳門環境保護局生態區11月活動中的親子工作坊，2026年11月14日上午十時及下午三時各一場，每場10組（1位小朋友加1位陪同成人），為時兩個半小時。導師講解生態知識，並指導小朋友用就地取材的植物製作植物浮游瓶，深化對植物形態的認識與自然觀察能力。10月28日起接受報名，名額有限。",
+    "summary_en": "Macau Environmental Protection Bureau eco-zone parent-child workshop on 14 November 2026 (10:00 and 15:00), ten groups per session, 2.5 hours, making plant floating bottles from locally collected plants after an ecology briefing.",
+    "ages": [],
+    "topic": "親子活動",
+    "region": "澳門",
+    "tips": [
+     "自備飲水樽，在郊外做好防蚊和防曬"
+    ],
+    "when_to_seek_help": "",
+    "source_type": "政府",
+    "posted_at": "2026-10-27",
+    "tags": [
+     "自然教育",
+     "生態",
+     "親子工作坊"
+    ],
+    "verify_needed": false,
+    "verify_reason": "",
+    "activity": {
+     "date_start": "2026-11-14",
+     "date_end": "2026-11-14",
+     "time": "上午十時及下午三時（各一場，兩個半小時）",
+     "venue": "澳門生態區",
+     "price": "",
+     "free": false,
+     "age_range": "每組為1位小朋友和1位陪同的成人",
+     "signup": "10月28日起接受報名，致電環保熱線2876 2626或經生態區網頁查詢及報名",
+     "deadline": "",
+     "organizer": "澳門環境保護局",
+     "last_checked": "2026-10-30"
+    },
+    "deal": null,
+    "bounty": null
+   }
+  },
+  {
+   "type": "family",
+   "source": {
+    "url": "https://www.gov.mo/zh-hant/news/1277294/",
+    "platform": "web",
+    "title": "11月文體活動豐富多彩促進協同",
+    "author_name": "澳門文化局",
+    "description": "澳門文化局配合大賽車聯動推出的城市文化節，2026年11月14日至22日舉行。澳門綜藝館設主題展覽「鏡海融光：澳門中西文明互鑒五百年」，另有文化體驗、非遺展演與文創攤位，並延伸至塔石廣場、外港客運碼頭、水塘看台入口及澳門文化中心廣場等地；另設澳門歷史城區OPEN DAY與大三巴牌坊中樂團演出，適合親子同遊認識澳門中西文化。"
+   },
+   "page_date": "2026-10-26",
+   "evidence_quote": "文化局亦將於11月14日至22日聯動推出澳門城市文化節",
+   "family": {
+    "kind": "activity",
+    "title_zh": "澳門城市文化節2026",
+    "title_en": "Macau city culture festival 2026",
+    "summary_zh": "澳門文化局配合大賽車聯動推出的城市文化節，2026年11月14日至22日舉行。澳門綜藝館設主題展覽「鏡海融光：澳門中西文明互鑒五百年」，另有文化體驗、非遺展演與文創攤位，並延伸至塔石廣場、外港客運碼頭、水塘看台入口及澳門文化中心廣場等地；另設澳門歷史城區OPEN DAY與大三巴牌坊中樂團演出，適合親子同遊認識澳門中西文化。",
+    "summary_en": "Macau Cultural Affairs Bureau's city culture festival, 14-22 November 2026, with a themed exhibition on five hundred years of Chinese-Western cultural exchange in Macau, cultural experiences, intangible heritage performances and creative stalls across several venues, plus a historic centre open day.",
+    "ages": [],
+    "topic": "親子活動",
+    "region": "澳門",
+    "tips": [
+     "留意文化局網頁公布各場地節目時間"
+    ],
+    "when_to_seek_help": "",
+    "source_type": "政府",
+    "posted_at": "2026-10-26",
+    "tags": [
+     "文化節",
+     "澳門",
+     "親子同遊"
+    ],
+    "verify_needed": false,
+    "verify_reason": "",
+    "activity": {
+     "date_start": "2026-11-14",
+     "date_end": "2026-11-22",
+     "time": "",
+     "venue": "澳門綜藝館及塔石廣場、外港客運碼頭、水塘看台入口、澳門文化中心廣場等地",
+     "price": "",
+     "free": false,
+     "age_range": "",
+     "signup": "詳情見文化局網頁",
+     "deadline": "",
+     "organizer": "澳門文化局",
+     "last_checked": "2026-10-30"
+    },
+    "deal": null,
+    "bounty": null
+   }
+  },
+  {
+   "type": "family",
+   "source": {
+    "url": "https://www.ghca0101.org/news-2026-10-children-body-autonomy-boundaries.html",
+    "platform": "web",
+    "title": "孩子不想被抱怎麼辦？從日常練習身體界線",
+    "author_name": "台灣微光希望關懷協會",
+    "description": "台灣微光希望關懷協會專欄文章，談孩子拒絕擁抱或親吻時大人可以怎樣回應：先停下動作，再提供揮手、點頭或口頭問候等選擇；日常照顧前先說明步驟、用孩子聽得懂的身體部位名稱，讓孩子練習表達意願。文章亦提醒，教孩子說不等於把保護責任交給孩子，有安全疑慮時由大人求助，台灣可撥113，立即危險撥110。"
+   },
+   "page_date": "2026-10-20",
+   "evidence_quote": "孩子不必用身體接觸證明自己有禮貌。",
+   "family": {
+    "kind": "article",
+    "title_zh": "孩子不想被抱怎麼辦？從日常練習身體界線",
+    "title_en": "Child does not want a hug practising body boundaries daily",
+    "summary_zh": "台灣微光希望關懷協會專欄文章，談孩子拒絕擁抱或親吻時大人可以怎樣回應：先停下動作，再提供揮手、點頭或口頭問候等選擇；日常照顧前先說明步驟、用孩子聽得懂的身體部位名稱，讓孩子練習表達意願。文章亦提醒，教孩子說不等於把保護責任交給孩子，有安全疑慮時由大人求助，台灣可撥113，立即危險撥110。",
+    "summary_en": "A Taiwan parenting column on responding when a child declines a hug or kiss: stop first, then offer waving, nodding or verbal greetings; explain care steps in advance and use body-part words the child understands. Teaching a child to say no does not transfer protection responsibility to the child.",
+    "ages": [
+     "0-1歲",
+     "1-3歲",
+     "3-6歲",
+     "6-12歲",
+     "12-18歲"
+    ],
+    "topic": "溝通與品格",
+    "region": "台灣",
+    "tips": [
+     "孩子拒絕擁抱時，先停下來，再提供揮手或口頭問候等選擇",
+     "照顧前說明步驟，用孩子聽得懂的身體部位名稱",
+     "有安全疑慮時由大人求助，台灣可撥113，立即危險撥110"
+    ],
+    "when_to_seek_help": "孩子表達身體不適或提起令人不安的事時，先聽完不責怪；有兒少保護疑慮可撥113，立即人身安全危險撥110。",
+    "source_type": "非牟利",
+    "posted_at": "2026-10-20",
+    "tags": [
+     "身體界線",
+     "身體自主",
+     "親子溝通"
+    ],
+    "verify_needed": false,
+    "verify_reason": "",
+    "activity": null,
+    "deal": null,
+    "bounty": null
+   }
+  },
+  {
+   "type": "family",
+   "source": {
+    "url": "https://www.ghca0101.org/news-2026-10-grandparent-caregiving-support.html",
+    "platform": "web",
+    "title": "祖孫照顧怎麼少一點拉扯？家庭分工與支持資源整理",
+    "author_name": "台灣微光希望關懷協會",
+    "description": "台灣微光希望關懷協會專欄文章，整理祖父母帶孫時的家庭分工做法：把接送、備餐、陪伴、家務和聯絡學校等工作列出來，標明負責人與時段，看見負荷是否長期集中在同一位長輩身上，再挑最吃力的一項分擔；家中規則由大人先私下談妥一兩項，再用一致說法告訴孩子。文章亦列出台灣教養諮詢412-8185（手機加02）、福利諮詢1957、兒少保護113等求助管道。"
+   },
+   "page_date": "2026-10-18",
+   "evidence_quote": "把接送、備餐、陪伴、家務和聯絡學校等工作列出來",
+   "family": {
+    "kind": "article",
+    "title_zh": "祖孫照顧怎麼少一點拉扯？家庭分工與支持資源整理",
+    "title_en": "Grandparent caregiving less friction family division support resources",
+    "summary_zh": "台灣微光希望關懷協會專欄文章，整理祖父母帶孫時的家庭分工做法：把接送、備餐、陪伴、家務和聯絡學校等工作列出來，標明負責人與時段，看見負荷是否長期集中在同一位長輩身上，再挑最吃力的一項分擔；家中規則由大人先私下談妥一兩項，再用一致說法告訴孩子。文章亦列出台灣教養諮詢412-8185（手機加02）、福利諮詢1957、兒少保護113等求助管道。",
+    "summary_en": "A Taiwan column on grandparent caregiving: list pick-ups, meals, companionship, housework and school liaison with who and when, to see whether load concentrates on one grandparent, then share the hardest item; agree one or two house rules among adults first, then tell the child consistently.",
+    "ages": [
+     "3-6歲",
+     "6-12歲"
+    ],
+    "topic": "家長自己",
+    "region": "台灣",
+    "tips": [
+     "把照顧工作列出來，標明負責人與時段，挑最吃力的一項分擔",
+     "家中規則由大人先談妥，再用一致說法告訴孩子",
+     "教養諮詢可撥412-8185（手機加02）；福利需求可撥1957"
+    ],
+    "when_to_seek_help": "孩子有安全疑慮時，先聆聽不責備；兒少保護諮詢可撥113，立即人身安全危險撥110。",
+    "source_type": "非牟利",
+    "posted_at": "2026-10-18",
+    "tags": [
+     "隔代教養",
+     "家庭分工",
+     "照顧者支持"
+    ],
+    "verify_needed": false,
+    "verify_reason": "",
+    "activity": null,
+    "deal": null,
+    "bounty": null
+   }
+  },
+  {
+   "type": "family",
+   "source": {
+    "url": "https://lcpan.psychology.hku.hk/join-the-lab",
+    "platform": "web",
+    "title": "Study on Psychosocial Predictors of Posttraumatic Growth and Resilience following Tai Po Fire Incident",
+    "author_name": "香港大學心理學系實驗室",
+    "description": "香港大學心理學系實驗室招募研究，探討大埔火災後創傷後成長與韌性的心理社會預測因子。參加者填寫簡短問卷並接受面談，完成可獲HK$60。對象為18歲或以上、受大埔火災影響的居民及社區成員，或支援居民的前線工作人員；正處於精神病性狀態或有自殺傾向者、患危及生命傷病者除外。參加者須回憶火災經歷，屬災後創傷主題。"
+   },
+   "page_date": "",
+   "evidence_quote": "Earn HK$60 upon completing the survey",
+   "family": {
+    "kind": "bounty",
+    "title_zh": "港大研究招募：大埔火災後心理社會預測因子研究",
+    "title_en": "HKU study psychosocial predictors posttraumatic growth resilience Tai Po fire",
+    "summary_zh": "香港大學心理學系實驗室招募研究，探討大埔火災後創傷後成長與韌性的心理社會預測因子。參加者填寫簡短問卷並接受面談，完成可獲HK$60。對象為18歲或以上、受大埔火災影響的居民及社區成員，或支援居民的前線工作人員；正處於精神病性狀態或有自殺傾向者、患危及生命傷病者除外。參加者須回憶火災經歷，屬災後創傷主題。",
+    "summary_en": "University of Hong Kong psychology lab study on psychosocial predictors of posttraumatic growth and resilience after the Tai Po fire: short questionnaire plus interview, HK$60 on completion, for residents and community members affected by the fire and frontline workers supporting them.",
+    "ages": [],
+    "topic": "賞金獵人",
+    "region": "香港",
+    "tips": [
+     "參加前先細閱原頁的排除標準",
+     "面談會涉及回憶火災經歷，量力而行"
+    ],
+    "when_to_seek_help": "",
+    "source_type": "大學",
+    "posted_at": "",
+    "tags": [
+     "創傷後成長",
+     "災後研究",
+     "問卷訪談"
+    ],
+    "verify_needed": false,
+    "verify_reason": "",
+    "activity": null,
+    "deal": null,
+    "bounty": {
+     "organizer": "香港大學心理學系實驗室",
+     "funder": "",
+     "method": "訪談",
+     "eligibility": "18歲或以上、受大埔火災影響的居民及社區成員，或支援居民的前線工作人員；排除：正處於精神病性狀態或有自殺傾向者、患危及生命傷病者",
+     "reward": "完成問卷及面談可獲HK$60",
+     "reward_type": "現金",
+     "guaranteed": true,
+     "duration": "頁面未寫",
+     "deadline": "",
+     "how_to_join": "填寫港大Qualtrics表格（見原頁）",
+     "contact": "",
+     "location": "",
+     "last_checked": "2026-10-30",
+     "caution": "災後創傷主題，參加者須回憶火災經歷；排除標準已列明，參加前請細閱。"
+    }
+   }
+  },
+  {
+   "type": "family",
+   "source": {
+    "url": "https://www.mytvsuper.com/tc/scoopplus/lifestyle/home/17919490970725/%E7%94%9F%E6%B4%BB-%E4%B8%AD%E5%A4%A7%E6%8B%9B%E5%8B%9F%E5%A4%B1%E7%9C%A0%E4%BA%BA%E5%A3%AB-12%E7%AF%80%E5%85%8D%E8%B2%BB%E7%9D%A1%E7%9C%A0%E5%8F%8A%E4%BD%9C%E6%81%AF%E6%B2%BB%E7%99%82-%E5%AE%8C%E6%88%90%E7%A0%94%E7%A9%B6%E5%8F%AF%E7%8D%92-1100-%E5%8D%B3%E7%9D%87%E8%B3%87%E6%A0%BC-%E5%90%B1%E7%8B%BA%E9%80%A3%E7%B5%90",
+    "platform": "web",
+    "title": "中大招募失眠人士｜12節免費睡眠及作息治療＋完成研究可獲$1100",
+    "author_name": "香港中文大學公共心理健康實驗室（第三方報導）",
+    "description": "香港中文大學公共心理健康實驗室招募研究，為受抑鬱情緒及睡眠困擾的18至65歲香港居民提供評估，合資格者隨機分配後有機會獲8至12節免費睡眠及作息治療。整個研究約14星期，完成後最高可獲現金港幣1,100元（視完成度而定）。注意：治療本身是隨機分配，並非人人獲治療。本則來源為第三方報導，須以中大官方頁面為準。"
+   },
+   "page_date": "2026-10-14",
+   "evidence_quote": "完成整個約14星期的研究後，最高可獲現金港幣1,100",
+   "family": {
+    "kind": "bounty",
+    "title_zh": "中大研究招募：失眠及抑鬱情緒人士睡眠及作息治療研究",
+    "title_en": "CUHK sleep and circadian treatment study insomnia depression participants",
+    "summary_zh": "香港中文大學公共心理健康實驗室招募研究，為受抑鬱情緒及睡眠困擾的18至65歲香港居民提供評估，合資格者隨機分配後有機會獲8至12節免費睡眠及作息治療。整個研究約14星期，完成後最高可獲現金港幣1,100元（視完成度而定）。注意：治療本身是隨機分配，並非人人獲治療。本則來源為第三方報導，須以中大官方頁面為準。",
+    "summary_en": "CUHK public mental health lab study for Hong Kong residents aged 18-65 with depressive mood and sleep problems: assessment plus a chance, by random allocation, of 8-12 free sleep and circadian treatment sessions over about 14 weeks, up to HK$1,100 on completion depending on completion.",
+    "ages": [],
+    "topic": "賞金獵人",
+    "region": "香港",
+    "tips": [
+     "先填初步評估問卷，研究人員再以電話或WhatsApp聯絡",
+     "治療是隨機分配，並非人人獲治療"
+    ],
+    "when_to_seek_help": "",
+    "source_type": "媒體",
+    "posted_at": "2026-10-14",
+    "tags": [
+     "失眠",
+     "抑鬱情緒",
+     "睡眠治療"
+    ],
+    "verify_needed": true,
+    "verify_reason": "來源為第三方報導（東張+），非中大官方頁面本身；治療地點未寫明",
+    "activity": null,
+    "deal": null,
+    "bounty": {
+     "organizer": "香港中文大學公共心理健康實驗室",
+     "funder": "",
+     "method": "臨床研究",
+     "eligibility": "18-65歲香港居民；受抑鬱情緒及睡眠困擾（懷疑或確診抑鬱症）；能閱讀中文及理解廣東話，能以中文／英文書寫；使用iOS／Android智能電話",
+     "reward": "完成整個約14星期的研究後，最高可獲現金港幣1,100元（視完成度而定）",
+     "reward_type": "現金",
+     "guaranteed": true,
+     "duration": "約14星期",
+     "deadline": "",
+     "how_to_join": "填寫中大初步評估問卷，研究人員再以電話或WhatsApp聯絡；查詢：3943 6575、WhatsApp 9405 4715",
+     "contact": "pmhlab@cuhk.edu.hk",
+     "location": "",
+     "last_checked": "2026-10-30",
+     "caution": "隨機分配設計，部分參加者未必獲治療；屬臨床人群研究，參加前請細閱知情同意書。"
+    }
+   }
+  },
+  {
+   "type": "family",
+   "source": {
+    "url": "https://ufood.com.hk/restaurant/news/detail/20115646/中大研究招募-中大招募地中海飲食測試者-送高達-新鮮食品餸包-專屬健康報告",
+    "platform": "web",
+    "title": "中大招募地中海飲食測試者 送高達$6,900新鮮食品餸包／專屬健康報告",
+    "author_name": "香港中文大學公共心理健康研究室（第三方報導）",
+    "description": "香港中文大學公共心理健康研究室招募研究，探討本地化地中海飲食餐單對情緒的影響。對象為18至65歲香港居民，最近感到情緒低落、缺乏動力，較少進食蔬果、全穀類或健康油脂，過去6個月內無接受過心理治療。研究約4星期，完成後視完成度最高可獲港幣100元；部分合資格人士另獲食品包及新鮮餸包直送加專屬微生態組成評估報告，合計價值高達HK$6,900（非現金，且非人人有）。本則來源為第三方報導，須以中大官方頁面為準。"
+   },
+   "page_date": "2026-10-28",
+   "evidence_quote": "完成整個為期約4星期的研究後，最高可獲港幣100",
+   "family": {
+    "kind": "bounty",
+    "title_zh": "中大研究招募：地中海飲食與情緒研究",
+    "title_en": "CUHK Mediterranean diet and mood study participants",
+    "summary_zh": "香港中文大學公共心理健康研究室招募研究，探討本地化地中海飲食餐單對情緒的影響。對象為18至65歲香港居民，最近感到情緒低落、缺乏動力，較少進食蔬果、全穀類或健康油脂，過去6個月內無接受過心理治療。研究約4星期，完成後視完成度最高可獲港幣100元；部分合資格人士另獲食品包及新鮮餸包直送加專屬微生態組成評估報告，合計價值高達HK$6,900（非現金，且非人人有）。本則來源為第三方報導，須以中大官方頁面為準。",
+    "summary_en": "CUHK public mental health lab study on a localised Mediterranean diet and mood, about 4 weeks, for Hong Kong residents aged 18-65 with low mood and low intake of vegetables, whole grains or healthy oils; up to HK$100 on completion, plus food packs and a microbiome report worth up to HK$6,900 for some eligible participants only.",
+    "ages": [],
+    "topic": "賞金獵人",
+    "region": "香港",
+    "tips": [
+     "先填初步評估問卷，研究人員再聯絡",
+     "6,900元是食品包加檢測的合計價值，不是現金"
+    ],
+    "when_to_seek_help": "",
+    "source_type": "媒體",
+    "posted_at": "2026-10-28",
+    "tags": [
+     "地中海飲食",
+     "情緒",
+     "飲食研究"
+    ],
+    "verify_needed": true,
+    "verify_reason": "來源為第三方報導，非中大官方頁面本身；飲食指導形式未寫明",
+    "activity": null,
+    "deal": null,
+    "bounty": {
+     "organizer": "香港中文大學公共心理健康研究室",
+     "funder": "",
+     "method": "臨床研究",
+     "eligibility": "18-65歲香港居民；最近感到情緒低落、缺乏動力；平時較少進食蔬果、全穀類或健康油脂；過去6個月內無接受過心理治療；使用iOS或Android智能電話；願意在研究期間嘗試調整飲食習慣",
+     "reward": "完成約4星期研究後視完成度最高可獲港幣100元；部分合資格人士另獲食品包及新鮮餸包直送加專屬微生態組成評估報告（合計價值高達HK$6,900，非現金）",
+     "reward_type": "現金",
+     "guaranteed": false,
+     "duration": "約4星期",
+     "deadline": "",
+     "how_to_join": "填寫初步評估問卷，研究人員再聯絡；查詢：3943 6575、WhatsApp 9405 4715",
+     "contact": "pmhlab@cuhk.edu.hk",
+     "location": "",
+     "last_checked": "2026-10-30",
+     "caution": "6,900元是食品包加檢測的合計價值，不是現金，且只限部分合資格人士及獲分配至飲食組者；參加前請細閱知情同意書。"
+    }
+   }
+  }
+ ],
+ "skipped": [
+  {
+   "url": "https://lcpan.psychology.hku.hk/join-the-lab",
+   "reason": "已收錄：港大TMS、fNIRS、認知脫離三則已在網站，不再交"
+  },
+  {
+   "url": "https://tavistockandportman.ac.uk/events/open-events-m80/",
+   "reason": "頁面未顯示發布日期，鐵則要求找不到頁面日期不收"
+  },
+  {
+   "url": "https://web.cvent.com/event/9e315fc2-c402-4203-97ef-6a08cec29b1e/summary",
+   "reason": "NBCC Mental Health Connections 2026：摘要頁正文未顯示日期，未核實不交"
+  },
+  {
+   "url": "https://www.annafreud.org/news/1-in-4-year-8s-in-england-likely-to-have-a-mental-health-condition/",
+   "reason": "發布日2026-10-01，超出15天範圍"
+  },
+  {
+   "url": "https://superpama.hk/posts/museum-fun-days-2026",
+   "reason": "第三方整理，部分場次名稱仍屬暫名，未以康文署官方頁逐一核實，本輪不交"
+  },
+  {
+   "url": "https://hk.ulifestyle.com.hk/activity/detail/20113146/",
+   "reason": "渣打藝趣嘉年華2026新聞稿為10月2日，超出15天範圍"
+  },
+  {
+   "url": "https://www.mombaby.com.tw/articles/9938255",
+   "reason": "AI時代孩子孤島危機文章：本輪未親自開頁核實，不交"
+  },
+  {
+   "url": "https://hub.jhu.edu/announcements/2026/10/14/vr-neuroscience-research-opportunity-for-youth-ages-12-17/",
+   "reason": "美國現場研究，港澳台讀者難以參加，不收"
+  },
+  {
+   "url": "https://www.colorado.edu/today/2026/10/14/get-paid-research-opportunities-and-campus-jobs",
+   "reason": "美國現場研究，港澳台讀者難以參加，不收"
+  }
+ ],
+ "unreachable_sources": [
+  {
+   "name": "香港婚姻及家庭治療協會官網會議詳情頁",
+   "url": "https://www.hkmfta.org/2026-anniversary-conference/",
+   "problem": "一次讀取失敗，未重試；費用與報名截止因此未核實"
+  },
+  {
+   "name": "Evolution of Psychotherapy 官方 Why Attend 頁",
+   "url": "https://www.hmpglobalevents.com/evolutionofpsychotherapy/why-attend",
+   "problem": "只顯示 Client Challenge，未能讀取正文；已收錄日期以官方FAQ摘要為準，無變動"
+  }
+ ],
+ "notes": "週五組：港台澳＋英國兒童、親子活動／文章、賞金獵人、F區會議。已收錄會議抽查：全國輔導及心理治療會議香港站2026-11-11議程無變動；Evolution of Psychotherapy 2026-12-07至12-09與已收錄日期一致，二級清單寫12-06至09與官方不同，以官方為準。HKTVmall優惠本輪無經官方頁核實的碼，不交。"
+}
