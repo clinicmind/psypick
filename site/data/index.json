@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T01:16:15+00:00",
+ "generated_at": "2026-10-30T13:35:00+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,117 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "sleep-duration-and-efficiency-moderate-adolescent-grey-matte",
+   "title_zh": "研究：青少年睡眠時間與效率，會調節大腦灰質體積變化",
+   "title_en": "Sleep duration and efficiency moderate adolescent grey matter volume changes",
+   "summary_zh": "《SLEEP》期刊 2026 年 6 月 15 日刊出的縱貫磁振造影研究，追蹤 39 名 10 至 14 歲健康青少年（平均 12.72 歲），兩次掃描相隔六個月，期間以體動記錄儀客觀量度睡眠（平均約 130 晚）。睡眠時間與睡眠效率會調節丘腦、楔前葉、眼窩額葉皮質與杏仁核的灰質體積變化；睡得較短、較受干擾者，結構變化較小。睡眠規律與睡眠中點亦有調節作用。",
+   "summary_en": "A longitudinal MRI study in SLEEP (15 June 2026) followed 39 healthy adolescents aged 10-14 (mean 12.72 years) with scans six months apart and objective actigraphy between scans (mean about 130 nights). Sleep duration and efficiency moderated grey matter volume changes in the thalamus, precuneus, orbitofrontal cortex and amygdala; shorter and more disrupted sleep was associated with attenuated structural changes. Sleep regularity and midpoint also moderated changes.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "睡眠",
+    "青少年",
+    "大腦發育",
+    "灰質",
+    "縱貫研究"
+   ],
+   "first_seen_at": "2026-10-30T13:35:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-06-15T00:00:00+00:00"
+  },
+  {
+   "slug": "free-live-clinical-conversation-sue-marriott-modern-attachme",
+   "title_zh": "免費線上對談：Sue Marriott 談依附光譜與關係模式創傷治療",
+   "title_en": "Free live clinical conversation Sue Marriott modern attachment spectrum trauma therapy",
+   "summary_zh": "Trauma Therapist Institute 免費線上臨床對談。2026 年 11 月 4 日美中時間 13:00 線上舉行（港澳 11 月 5 日凌晨 03:00），由 Sue Marriott（LCSW、CGP，《Secure Relating》合著者）主講，介紹現代依附調節光譜（MARS）：不把來訪者放進四個固定依附格子，而是追蹤其在光譜上的移動，並連結即時神經系統狀態。直播一週後提供回放。",
+   "summary_en": "A free live online clinical conversation from the Trauma Therapist Institute on 4 November 2026 (1:00pm Central; 03:00 Macau time on 5 November), led by Sue Marriott, LCSW, CGP, co-author of Secure Relating. It presents the Modern Attachment Regulation Spectrum (MARS): tracking clients' movement along a spectrum rather than sorting them into four fixed attachment boxes, and linking attachment activation to real-time nervous system states. On-demand replay is available one week after the live event.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "依附",
+    "創傷治療",
+    "關係模式",
+    "免費直播"
+   ],
+   "first_seen_at": "2026-10-30T13:35:00+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-30T00:00:00+00:00",
+   "training": {
+    "provider": "Trauma Therapist Institute",
+    "price": "FREE（免費）",
+    "price_tier": "免費",
+    "ce_credits": "原頁未載明",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-04",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "pesi-free-live-workshop-tian-dayton-adult-children-of-alcoho",
+   "title_zh": "PESI 免費全日直播：Tian Dayton 談成癮家庭成年子女的創傷體驗式工具",
+   "title_en": "PESI free live workshop Tian Dayton adult children of alcoholics addiction experiential tools",
+   "summary_zh": "PESI 免費全日直播。2026 年 12 月 1 日美中時間 09:00–17:00 線上舉行（港澳 12 月 1 日 23:00 至 12 月 2 日 07:00），由 Tian Dayton（The Meadows 資深研究員、暢銷書作者）主講，以體驗式工具協助成癮家庭成年子女處理童年創傷、複雜性創傷後壓力、被遺棄創傷、羞恥與共依存，建立自我價值。",
+   "summary_en": "A PESI free one-day live online event on 1 December 2026 (9:00am-5:00pm Central; 23:00 Macau time on 1 December to 07:00 on 2 December), led by Dr. Tian Dayton, Senior Fellow at The Meadows and bestselling author. It offers experiential tools to help adult children of alcoholics and addiction process childhood trauma, C-PTSD, abandonment trauma, shame and codependency, and build self-worth.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "成癮家庭",
+    "童年創傷",
+    "體驗式治療",
+    "免費直播"
+   ],
+   "first_seen_at": "2026-10-30T13:35:00+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-30T00:00:00+00:00",
+   "training": {
+    "provider": "PESI",
+    "price": "FREE（免費）",
+    "price_tier": "免費",
+    "ce_credits": "原主題頁未載明",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-12-01",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  },
   {
    "slug": "macau-community-medical-psychosomatic-health-training-module",
    "title_zh": "澳門衛生局免費培訓：社區醫療身心健康課程第二單元——動機訪談",
