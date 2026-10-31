@@ -1,0 +1,93 @@
+{
+  "format": "psypick-muse-v1",
+  "run_date": "2026-10-31",
+  "items": [
+    {
+      "category": "研究與證據",
+      "evidence_hint": "同儕審查系統性回顧與統合分析",
+      "evidence_quote": "increased all-cause mortality",
+      "key_points_zh": [
+        "JAMA Network Open 2026 年 10 月刊出，DOI: 10.1001/jamanetworkopen.2026.39448，經 PubMed 摘要頁核對",
+        "19 項研究，共 15,920,970 人，女性佔 36.1%，文獻檢索至 2025 年 7 月 8 日",
+        "整體死亡 HR 1.71；自殺 1.89、意外或蓄意傷害 1.55、自然死因 1.27；用藥者整體死亡 HR 0.75",
+        "全部為觀察性研究，不能推斷因果；研究間異質性大；用藥比較僅基於少數研究"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-10-01",
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "adhd-mortality-systematic-review-meta-analysis",
+      "source": {
+        "author_name": "PubMed",
+        "description": "JAMA Network Open 系統性回顧與統合分析摘要：ADHD 與整體及死因別死亡率的關聯，以及用藥者的死亡風險差異。",
+        "platform": "web",
+        "title": "Mortality Among People With Attention-Deficit/Hyperactivity Disorder: A Systematic Review and Meta-Analysis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42895743/"
+      },
+      "title_zh": "研究：ADHD 患者整體死亡風險高約七成，用藥者風險較低（觀察性統合分析）"
+    },
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "培訓課程",
+      "evidence_quote": "課程費用：免費",
+      "key_points_zh": [
+        "主辦：新竹市衛生局、新竹市社區心理衛生中心；講師：鍾雅惠諮商心理師",
+        "2026 年 11 月 12 日（星期四）14:00-16:00，Microsoft Teams 線上授課",
+        "內容：正念自我疼惜（MSC）於孕產期心理照護之理論與實務應用",
+        "對象限新竹市孕產婦照護人員；免費；限額 100 人，11 月 6 日截止，額滿提前截止"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-10-31",
+      "population": [
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "hsinchu-free-online-msc-training-perinatal-care-workers",
+      "source": {
+        "author_name": "新竹市衛生局",
+        "description": "新竹市衛生局公告：孕產心理健康守門員——正念自我疼惜（MSC）於孕產期心理照護之理論與實務應用，11 月 12 日線上授課，免費。",
+        "platform": "web",
+        "title": "115年度孕產婦心理健康促進教育訓練",
+        "url": "https://dep.hcchb.gov.tw/ch/hotkey_print.jsp?mtitle=%E8%A1%9B%E7%94%9F%E5%B1%80%E5%85%AC%E5%91%8A%E8%B3%87%E8%A8%8A&contentlink=ap/announcement_view.jsp&dataserno=202610220001&mserno=201601300018&id=6&contentid=6&page=null"
+      },
+      "title_zh": "新竹免費線上課：孕產照護人員學正念自我疼惜（11 月 12 日）"
+    }
+  ],
+  "notes": "Feed 每日篩選（晚間 21:21），來源為 2026-10-31 Feed 單位 9 則（以 muse.db feed.units 讀取，因排程執行環境不開放 feed.unit_list；2026-10-30 單位已於昨日篩選，不重複處理）。標題級預篩後深入核實 3 則，建成 2 則；另本 run 先重試昨日未上架的 3 則（推送成功，commit 280c288e，網站核實 183→186 則），再以 186 則為基底推送今日 2 則（commit b69f9eced，網站核實 186→188 則，兩則新 case 檔均可讀）。建檔見 ~/workspace/goals/psypick/hidden_files/publish-2026-10-31-feed/。",
+  "skipped": [
+    {
+      "reason": "11 月 7 日台北實體講座，非全程線上，依線上培訓鐵則跳過",
+      "url": "https://rise-mediacorp.com/archives/155392"
+    },
+    {
+      "reason": "二手新聞報道，未找到原始研究頁，跳過",
+      "url": "https://www.cdns.com.tw/articles/1480907"
+    },
+    {
+      "reason": "暨大秋冬論壇：費用原頁未載明，無法核實免費／≤US$50，且前導場為實體、對象為一般邀請非限專業人士，跳過",
+      "url": "https://www.dvcar.ncnu.edu.tw/?p=29867"
+    },
+    {
+      "reason": "11 月 14 日高雄市立圖書館實體講座，非全程線上，跳過",
+      "url": "https://www.ksml.edu.tw/ReaderRegist/Details.aspx?Parser=99,8,1337,,,,,6563"
+    },
+    {
+      "reason": "衛生所與心衛中心合署啟用新聞，非研究、培訓或會議上架範圍",
+      "url": "https://tdn.today/posts/782132/%e6%9d%bf%e6%a9%8b%e5%8d%80%e8%a1%9b%e7%94%9f%e6%89%80%e5%8f%8a%e7%a4%be%e5%8d%80%e5%bf%83%e8%a1%9b%e4%b8%ad%e5%bf%83%e5%90%88%e7%bd%b2%e5%95%9f%e7%94%a8%e3%80%80%e6%89%93%e9%80%a0%e4%b8%80%e7%ab%99/"
+    },
+    {
+      "reason": "12 月 5、13、19 日成功大學實體工作坊，非全程線上，跳過",
+      "url": "https://sites.google.com/view/tandmr/%E6%B6%88%E6%81%AF%E5%85%AC%E5%91%8A-news"
+    },
+    {
+      "reason": "新北兒少心理健康國際研討會已圓滿落幕，日期已過，跳過",
+      "url": "https://truenews.tw/archives/501433"
+    }
+  ],
+  "unreachable_sources": []
+}

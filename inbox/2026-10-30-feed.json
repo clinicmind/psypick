@@ -1,0 +1,118 @@
+{
+  "format": "psypick-muse-v1",
+  "items": [
+    {
+      "category": "研究與證據",
+      "evidence_hint": "同儕審查期刊縱貫研究",
+      "evidence_quote": "attenuated structural changes",
+      "key_points_zh": [
+        "SLEEP 期刊 2026 年 6 月 15 日刊出，DOI: 10.1093/sleep/zsag011",
+        "39 名 10 至 14 歲健康青少年，平均 12.72 歲，兩次掃描相隔六個月，體動記錄儀平均約 130 晚",
+        "睡眠時間與效率調節丘腦、楔前葉、眼窩額葉皮質與杏仁核灰質體積變化",
+        "睡得較短、較受干擾者結構變化較小；樣本小，調節分析不等於因果"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-06-15",
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "publish_failure": "GitHub push-files MCP 上游 503（21:29 run）；主代理核實遠端未變後重試一次，途中服務重啟，推送未生效；遠端仍為 baef9d42，網站仍 183 則；待下次重試",
+      "published": true,
+      "slug": "sleep-duration-and-efficiency-moderate-adolescent-grey-matte",
+      "source": {
+        "author_name": "PubMed",
+        "description": "SLEEP 期刊原文摘要：青少年睡眠客觀量度如何調節六個月內腦區灰質體積變化。",
+        "platform": "web",
+        "title": "Sleep as a moderator of adolescent brain development-evidence from a longitudinal MRI study",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41562565/"
+      },
+      "title_zh": "研究：青少年睡眠時間與效率，會調節大腦灰質體積變化",
+      "retry_success": "2026-10-31 重試推送成功，commit 280c288e，網站核實 186 則"
+    },
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "培訓課程",
+      "evidence_quote": "Register Free",
+      "key_points_zh": [
+        "講者：Sue Marriott（LCSW、CGP，《Secure Relating》合著者）",
+        "2026 年 11 月 4 日美中時間 13:00，港澳 11 月 5 日凌晨 03:00，線上直播",
+        "內容：現代依附調節光譜（MARS），追蹤光譜移動而非四格分類",
+        "免費註冊；回放於直播一週後上線"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-10-30",
+      "population": [
+        "臨床工作者"
+      ],
+      "publish_failure": "GitHub push-files MCP 上游 503（21:29 run）；主代理核實遠端未變後重試一次，途中服務重啟，推送未生效；遠端仍為 baef9d42，網站仍 183 則；待下次重試",
+      "published": true,
+      "slug": "free-live-clinical-conversation-sue-marriott-modern-attachme",
+      "source": {
+        "author_name": "Trauma Therapist Institute",
+        "description": "免費線上臨床對談：依附光譜與關係模式創傷治療技巧。",
+        "platform": "web",
+        "title": "The Modern Attachment Spectrum",
+        "url": "https://www.traumatherapistinstitute.com/modern-attachment-spectrum-trauma-therapy-techniques?hsLang=en"
+      },
+      "title_zh": "免費線上對談：Sue Marriott 談依附光譜與關係模式創傷治療",
+      "retry_success": "2026-10-31 重試推送成功，commit 280c288e，網站核實 186 則"
+    },
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "培訓課程",
+      "evidence_quote": "FREE LIVE EVENT",
+      "key_points_zh": [
+        "講者：Tian Dayton（The Meadows 資深研究員）",
+        "2026 年 12 月 1 日美中時間 09:00-17:00，港澳 12 月 1 日 23:00 至 12 月 2 日 07:00，線上全日直播",
+        "內容：成癮家庭成年子女的體驗式工具，處理複雜性創傷後壓力、被遺棄創傷、羞恥與共依存",
+        "直播免費；CE 學分安排原主題頁未載明"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-10-30",
+      "population": [
+        "臨床工作者"
+      ],
+      "publish_failure": "GitHub push-files MCP 上游 503（21:29 run）；主代理核實遠端未變後重試一次，途中服務重啟，推送未生效；遠端仍為 baef9d42，網站仍 183 則；待下次重試",
+      "published": true,
+      "slug": "pesi-free-live-workshop-tian-dayton-adult-children-of-alcoho",
+      "source": {
+        "author_name": "PESI",
+        "description": "PESI 免費全日直播：成癮家庭成年子女的體驗式創傷治療工具。",
+        "platform": "web",
+        "title": "Adult Children of Alcoholics and Addiction (ACoA) Workshop: Experiential Tools to Treat C-PTSD, Abandonment Trauma, Shame and Codependency",
+        "url": "https://www.pesi.com/topics/addiction/"
+      },
+      "title_zh": "PESI 免費全日直播：Tian Dayton 談成癮家庭成年子女的創傷體驗式工具",
+      "retry_success": "2026-10-31 重試推送成功，commit 280c288e，網站核實 186 則"
+    }
+  ],
+  "notes": "Feed 每日篩選（晚間 21:21），來源為 2026-10-30 Feed 單位 8 則（以 muse.db feed.units 讀取，因排程執行環境不開放 feed.unit_list；2026-10-29 單位已於昨日篩選，不重複處理）。標題級預篩後深入核實 5 則，建成 3 則；但 GitHub push-files 推送 main 時遇 MCP 上游 503 錯誤而失敗，查遠端 commit（仍為 baef9d424ff9d21e17003ac6695bd469fbac4aed）與真網站 index.json（仍為 183 則）確認未生效，故未重複推送；本檔僅存於本地、未推上 muse-inbox，建檔留待重試。建檔見 ~/workspace/goals/psypick/hidden_files/publish-2026-10-30-feed/。2026-10-31 晚間重試推送成功（commit 280c288e），網站核實 186 則。",
+  "run_date": "2026-10-30",
+  "skipped": [
+    {
+      "reason": "協康會與浸大 SEN 自傷調查僅見二手新聞報道（CLB 等），未找到協康會／浸大官方原始發布，沿用 10-29  precedent 跳過二手調查報道",
+      "url": "https://clb.org.hk/en/hong-kong/Nearly-30-per-cent-of-surveyed-SEN-children-have-self-harmed-725ccd"
+    },
+    {
+      "reason": "今日上午巡查已以會議格式收錄（conferences.json，slug hkmfta-10th-anniversary-conference-2026），Feed 流程不重複上架；且原頁未載費用",
+      "url": "https://hkmfta.wildapricot.org/event-6720982"
+    },
+    {
+      "reason": "台北醫學大學實體工作坊，非全程線上，依線上培訓鐵則跳過",
+      "url": "https://tabn.org/product/20261115_tabn_b_04/"
+    },
+    {
+      "reason": "玉里醫院個案研討會新聞報道，非研究、培訓或會議上架範圍",
+      "url": "https://citoconews.com/2026/10/30/%e7%a0%b4%e8%a7%a3%e5%85%92%e5%b0%91%e6%8b%92%e5%ad%b8%e5%9b%b0%e5%a2%83%e3%80%80%e7%8e%89%e9%87%8c%e9%86%ab%e9%99%a2%e6%94%9c%e6%89%8b%e5%b0%88%e5%ae%b6%e5%bc%b7%e5%8c%96%e5%81%8f%e9%84%89%e8%ba%ab/"
+    },
+    {
+      "reason": "港鐵感官囊政策新聞，非研究、培訓或會議上架範圍",
+      "url": "https://superpama.hk/posts/mtr-sensory-kit-response-2026"
+    }
+  ],
+  "unreachable_sources": []
+}
