@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T13:35:00+00:00",
+ "generated_at": "2026-11-01T13:45:00+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,77 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "apt-free-webinar-emotional-dysregulation-11-november-2026",
+   "title_zh": "APT 免費線上講座：11 月 11 日談情緒調節（港澳 22:00）",
+   "title_en": "APT free webinar emotional dysregulation 11 November 2026",
+   "summary_zh": "英國心理治療協會（Association for Psychological Therapies，APT）免費 Wednesday Webinar。2026 年 11 月 11 日（星期三）英國時間 14:00-15:00 線上舉行（港澳同日 22:00-23:00），以 Zoom 進行，主題為「情緒調節：甚麼是情緒失調，如何調節自己的情緒，又如何協助來訪者調節情緒」。面向心理健康專業人員，介紹辨識情緒調節困難、回應強烈情緒，以及協助來訪者建立相關技巧。免費參加，需經 Zoom 報名連結登記。",
+   "summary_en": "A free Wednesday Webinar from the Association for Psychological Therapies (APT). On 11 November 2026 (Wednesday) 14:00-15:00 UK time (22:00-23:00 Macau time), via Zoom, on emotional dysregulation: what it is, how to regulate your own emotions, and how to help clients regulate theirs. Aimed at mental health professionals, it covers recognising difficulties with emotion regulation, responding helpfully to intense feelings, and helping clients develop these skills. Free; registration via the Zoom link.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "情緒調節",
+    "免費線上講座",
+    "APT",
+    "心理健康專業人員"
+   ],
+   "first_seen_at": "2026-11-01T13:45:00+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-01T00:00:00+00:00",
+   "training": {
+    "provider": "Association for Psychological Therapies (APT)",
+    "price": "FREE（免費）",
+    "price_tier": "免費",
+    "ce_credits": "原頁未載明",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-11",
+    "format": "線上直播（Zoom）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "ipv-victim-survivors-mental-disorders-australia-cross-sectio",
+   "title_zh": "研究：澳洲逾半親密伴侶暴力受害者符合精神疾病診斷標準（橫斷面，不能推斷因果）",
+   "title_en": "IPV victim-survivors mental disorders Australia cross-sectional study",
+   "summary_zh": "《Journal of Family Violence》2026 年 10 月 12 日線上刊出的研究，分析澳洲全國代表性「澳洲兒童受虐研究」逾 7,000 名曾有親密關係者。曾受親密伴侶暴力者 55.3% 符合重度憂鬱症、廣泛性焦慮症、創傷後壓力症候群或酒精使用障礙至少一項診斷標準，未受暴者為 24.5%；受暴者中，有多種童年受虐史者 62.5% 符合診斷標準，無童年受虐史者為 39.1%。研究為橫斷面設計，無法確定受暴與診斷的先後，不能推斷因果。",
+   "summary_en": "A study published online 12 October 2026 in the Journal of Family Violence analysed more than 7,000 Australians who had been in an intimate relationship, from the nationally representative Australian Child Maltreatment Study. 55.3% of people who had experienced intimate partner violence met criteria for at least one of major depressive disorder, generalised anxiety disorder, PTSD or alcohol use disorder, compared with 24.5% of those who had not. Among victim-survivors, 62.5% of those with multiple types of child maltreatment met criteria, versus 39.1% of those with no child maltreatment history. The cross-sectional design cannot establish which came first, so causality cannot be inferred.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "親密伴侶暴力",
+    "精神疾病",
+    "童年受虐",
+    "澳洲",
+    "橫斷面研究"
+   ],
+   "first_seen_at": "2026-11-01T13:45:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-14T00:00:00+00:00"
+  },
   {
    "slug": "adhd-mortality-systematic-review-meta-analysis",
    "title_zh": "研究：ADHD 患者整體死亡風險高約七成，用藥者風險較低（觀察性統合分析）",
