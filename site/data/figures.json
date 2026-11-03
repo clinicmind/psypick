@@ -1596,7 +1596,183 @@
    ],
    "evidence_quote": "confirmed the planned name change Sunday",
    "checked": "2026-10-08"
+  },
+  {
+   "person": "sam-altman",
+   "url": "https://www.martechai.com/ai-news/openai-expands-uae-presence-with-four-deals-as-sam-altman-visits-abu-dhabi-3708.html",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "演講",
+   "summary_zh": "Altman 11 月 2 日在阿布扎比 ADIPEC 能源會議演講，並見證 OpenAI 與當地機構簽署四項協議，涵蓋能源、投資分析與機器可讀政府計劃。ADNOC 將成為首家部署 OpenAI 前沿技術的能源企業。",
+   "quote_en": "AI is going to transform the economics of the energy world.",
+   "topics": [
+    "OpenAI",
+    "阿布扎比",
+    "能源"
+   ],
+   "evidence_quote": "the first company in the energy sector",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://startupfortune.com/elon-musk-admits-grok-bot-costs-too-much-to-run-as-users-hit-weekly-caps/",
+   "platform": "web",
+   "page_date": "2026-11-01",
+   "kind": "貼文",
+   "summary_zh": "Musk 在 X 回覆用戶時承認，Grok Bot 的服務成本相對收入已高到難以持續。背景是付費用戶當週用量提早耗盡，但他未公布具體數字、新的上限或修正時間表。",
+   "quote_en": "The cost of serving Grok Bot was unsustainably high relative to revenue.",
+   "topics": [
+    "Grok",
+    "成本",
+    "X"
+   ],
+   "evidence_quote": "unsustainably high relative to revenue",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "mustafa-suleyman",
+   "url": "https://dataconomy.com/2026/11/02/microsoft-ai-ceo-says-building-conscious-ai-would-be/",
+   "platform": "web",
+   "page_date": "2026-11-01",
+   "kind": "貼文",
+   "summary_zh": "Suleyman 在 X 長文表明，現時 AI 系統沒有意識、主觀經驗，也不會受苦。假如訓練中出現意識跡象，他主張全面暫停開發，直至能把相關特性設計掉，並須即時向公眾披露證據。",
+   "quote_en": "If it is possible, based on everything I know, developing conscious AIs would be reckless, and we should not build them.",
+   "topics": [
+    "AI 意識",
+    "安全",
+    "Microsoft"
+   ],
+   "evidence_quote": "we should not build them",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "jensen-huang",
+   "url": "https://www.digitimes.com/news/a20261102PR200/sweden-government-ceo.html?chid=9",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "演講",
+   "summary_zh": "Huang 在斯德哥爾摩與 Wallenberg、Sferical AI 及 Spotify 創辦人同台，討論新啟用的共享超級電腦 Sferical One。他表示，如此強大的工具會推高企業與社會的抱負。",
+   "quote_en": "Because you now have an instrument that's so incredible, your ambition goes up.",
+   "topics": [
+    "超級電腦",
+    "瑞典",
+    "NVIDIA"
+   ],
+   "evidence_quote": "your ambition goes up",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "andrej-karpathy",
+   "url": "https://karpathy.bearblog.dev/hacker-tube/",
+   "platform": "web",
+   "page_date": "2026-10-31",
+   "kind": "產品發布",
+   "summary_zh": "Karpathy 因不滿 YouTube 推薦，叫 Claude Opus 5.5 用 Hacker News 留言推薦的影片建了一個 YouTube 替代站 HackerTube。他表示整個建造約 2 小時，自己只動手做了 API 金鑰、開 VPS 和買域名三件事。",
+   "quote_en": "Let's write our own YouTube clone based on whatever videos have been recommended on Hacker News.",
+   "topics": [
+    "HackerTube",
+    "AI 寫程式",
+    "YouTube"
+   ],
+   "evidence_quote": "This takes ~2 hours now.",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/2/llm/",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "產品發布",
+   "summary_zh": "Willison 發布個人 LLM 命令列工具與 Python 套件 llm 0.37 版，累積約兩個月的功能與修正。預設模型改為 gpt-6-luna，價格約為舊預設的一半，並新增 OpenAI 相容端點設定指令。",
+   "quote_en": "I added gpt-6.1-sol and gpt-6.1-terra, plus a new llm openai endpoint add command.",
+   "topics": [
+    "llm 工具",
+    "開源",
+    "模型"
+   ],
+   "evidence_quote": "half the price of the previous default",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "文章",
+   "summary_zh": "Willison 用美國人口普查局最新調查數據重繪企業 AI 採用率圖表，發現問卷措辭已由「AI」改為「Super Intelligence（SI）」。他提醒新舊問卷措辭不同，數字不能直接比較，且新措辭的調查結果尚未公布。",
+   "quote_en": "I decided to try running those numbers again to see what had changed over the past year.",
+   "topics": [
+    "人口普查局",
+    "Super Intelligence",
+    "AI 採用率"
+   ],
+   "evidence_quote": "the Bureau has fallen foul",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "dylan-patel",
+   "url": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "產品發布",
+   "summary_zh": "SemiAnalysis 發布 GDPx 基準，橫跨 11 個高價值專業領域、206 項代理式任務，最佳模型 Claude Opus 5.5 也只有 12.0%。金融與法律任務在嚴格評分下幾乎全軍覆沒，作者定位 GDPx 為 OpenAI GDPval 的後繼者。",
+   "quote_en": "GDPx is a true frontier-level benchmark: even the best model scores just 12%.",
+   "topics": [
+    "GDPx",
+    "基準",
+    "AI 代理"
+   ],
+   "evidence_quote": "even the best model scores just 12%",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "andrew-huberman",
+   "url": "https://www.hubermanlab.com/episode/access-the-sublime-and-live-your-best-life-robert-greene",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "訪談",
+   "summary_zh": "Huberman 本集邀請 Robert Greene 談「崇高」體驗。內容涵蓋在關係、工作、觀察與表達中接觸崇高，以及如何讓生活被更充分地體驗。",
+   "quote_en": "Robert Greene explains the sublime and how to access it in relationships, work, observation and expression.",
+   "topics": [
+    "崇高",
+    "Robert Greene",
+    "Podcast"
+   ],
+   "evidence_quote": "Robert Greene explains the sublime",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "laurie-santos",
+   "url": "https://podcasts.apple.com/us/podcast/the-happiness-lab-with-dr-laurie-santos/id1474245040?at=1000l36zH&ct=pushkin_podcasts&itsct=pushkin_podcasts&itscg=30200S&ls=1",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "訪談",
+   "summary_zh": "Santos 在 SXSW EDU 現場對談錄音於 11 月 2 日上架，與 Common Sense Media 的 Bruce Reed 討論社交媒體與 AI 如何影響青少年的快樂與福祉，以及家長、教育者與政策制定者可以如何協助孩子在 AI 時代健康成長。",
+   "quote_en": "In this live conversation from SXSW EDU, Dr. Laurie is joined by Bruce Reed to explore how social media and AI are shaping young people's happiness and wellbeing.",
+   "topics": [
+    "青少年",
+    "AI",
+    "幸福感"
+   ],
+   "evidence_quote": "Can We Protect Kids This Time?",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "adam-grant",
+   "url": "https://podcasts.apple.com/us/podcast/adam-grant-on-how-to-vibe-with-just-about-anyone/id1561860622?i=1000799515500",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "Grant 在《A Slight Change of Plans》受訪，談人與人之間為何合拍或不合拍。內容指出良好的連結可以培養，並談到如何在關係中建立與維持這種連結，呼應其新書《Vibe》的主題。",
+   "quote_en": "In this episode, psychologist and author Adam Grant talks with Maya about what makes us click with some people and not others.",
+   "topics": [
+    "人際連結",
+    "Vibe",
+    "Podcast"
+   ],
+   "evidence_quote": "what makes us click with some people",
+   "checked": "2026-11-03"
   }
  ],
- "updated": "2026-10-30"
+ "updated": "2026-11-03"
 }
