@@ -1,0 +1,35 @@
+{
+ "format": "psypick-muse-v1",
+ "items": [
+  {
+   "category": "研究與證據",
+   "evidence_hint": "同儕審查期刊全國登記研究",
+   "evidence_quote": "driven primarily by symptom-coded",
+   "key_points_zh": [
+    "Journal of Epidemiology & Community Health 2026;80(10):777（Beck、Reme、Worn，挪威公共衛生研究所），DOI 10.1136/jech-2026-226059",
+    "2010 至 2024 年挪威 10 至 46 歲全部人口（N=3,728,002）基層醫療登記研究",
+    "心理求助盛行率由 9.9% 升至 16.0%（相對升幅 62%）；女性 11.8% 至 19.6%，男性 8.2% 至 12.6%",
+    "焦慮症狀編碼佔比由 0.44% 升至 1.7%，焦慮症診斷編碼僅由 0.95% 升至 1.4%；抑鬱症狀由 0.73% 升至 1.8%，抑鬱症診斷維持 2.8% 至 2.7%",
+    "重複橫斷面設計，不能推斷因果；行政數據不含症狀嚴重度，升幅機制未能確定；不應以此否定求助者的困擾"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-03",
+   "population": [
+    "青少年",
+    "成人",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "norway-primary-care-mental-health-consultations-2010-2024",
+   "source": {
+    "author_name": "Kathryn Christine Beck、Bjorn-Atle Reme、Jonathan Worn（挪威公共衛生研究所）",
+    "description": "BMJ 原文摘要：挪威 2010 至 2024 年 10 至 46 歲全部人口基層醫療登記研究，心理求助盛行率由 9.9% 升至 16.0%，升幅主要來自症狀編碼。",
+    "platform": "web",
+    "title": "Secular trends in primary care utilisation for mental health problems: a Norwegian register-based population-wide study",
+    "url": "https://jech.bmj.com/content/80/10/777"
+   },
+   "title_zh": "研究：挪威基層醫療心理求助升幅，主要來自症狀編碼而非確診（2010-2024，逾 372 萬人）"
+  }
+ ]
+}
