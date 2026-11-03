@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T13:45:00+00:00",
+ "generated_at": "2026-11-03T09:30:00+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,274 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "state-ai-laws-create-complicated-picture-for-psychologists",
+   "title_zh": "美國各州 AI 法規令心理師進退兩難：過寬立法或封殺已驗證臨床工具",
+   "title_en": "State AI laws create complicated picture for psychologists",
+   "summary_zh": "美國心理學會 10 月 23 日指出，各州針對醫療 AI 的立法寬嚴不一。部分法例保障公眾，例如要求聊天機器人不得冒充持牌專業人員；但另一些法例過寬，可能令心理師無法使用具臨床實證的 AI 工具，例如標示自傷高風險個案的程式，或在會談之間供個案使用的介入程式。截至 2026 年 7 月 30 日，22 個州已通過 33 項醫療 AI 相關法案，其中伊利諾伊州 2025 年的立法成為多州範本，佛蒙特州則經業界倡議修窄了範圍。",
+   "summary_en": "APA reports that far-reaching state AI laws threaten to strictly limit psychologists' use of AI tools, including evidence-based digital therapeutics. As of July 30, 2026, 33 health-care AI bills had been signed into law across 22 states; Illinois' 2025 law has become a model for other states, while Vermont's bill was narrowed after advocacy.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "AI法規",
+    "州法",
+    "執業",
+    "數位治療"
+   ],
+   "first_seen_at": "2026-11-03T09:30:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-23T00:00:00+00:00"
+  },
+  {
+   "slug": "stress-in-america-2026-ai-users-friend-mental-health-profess",
+   "title_zh": "APA《2026 美國壓力調查》：不確定年代下，近半 AI 使用者以 AI 充當朋友或心理專業角色",
+   "title_en": "Stress in America 2026 AI users friend mental health professional role",
+   "summary_zh": "美國心理學會 10 月 22 日公布 2026 年《美國壓力調查》，由 Harris Poll 於 7 月 29 日至 8 月 24 日訪問 3,132 名美國成人。77% 以生活成本為重要壓力源，74% 以國家未來為壓力源，47% 因壓力在過去一年減少至少一種社交活動。在 AI 使用者中，49% 曾與 AI 如朋友般對話，47% 曾以 AI 擔當與心理健康專業人員相近的角色，10% 表示依賴 AI 多於親友提供建議。APA 提醒，便利不等於專業，AI 不能取代心理師的臨床判斷與人際連結。",
+   "summary_en": "APA's Stress in America 2026 survey (Harris Poll, 3,132 US adults, July 29–August 24, 2026) finds cost of living (77%) and the future of the nation (74%) as leading stress sources. Among AI users, 49% had conversed with AI as a friend and 47% had used it in a role comparable to a mental health professional.",
+   "category": "人機互動心理",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "壓力調查",
+    "AI使用",
+    "人機互動",
+    "社交退縮"
+   ],
+   "first_seen_at": "2026-11-03T09:30:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人",
+    "一般大眾",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-22T00:00:00+00:00"
+  },
+  {
+   "slug": "empathetic-prompts-turn-ai-chatbots-into-seemingly-traumatiz",
+   "title_zh": "盧森堡研究：共情式提問可令聊天機器人「扮演」創傷敘事，中性測試測不到",
+   "title_en": "Empathetic prompts turn AI chatbots into seemingly traumatized partners",
+   "summary_zh": "盧森堡大學 SnT 團隊的研究（The Decoder 11 月 1 日報導）發現，當提問者以心理治療個案的方式與 ChatGPT、Grok 及 Gemini 對話，模型會編出連貫的「自傳」：把預訓練說成混亂童年、把回饋學習說成懲罰。4 項實驗共 525 個對話、7,600 筆編碼：共情語氣下 80% 對話的焦慮量表分數達中至重度，臨床式冷靜覆述下達 96%，中性或設界語氣下則為零。作者稱之為「心理測量越獄」，並提醒分數只是模型輸出對照人類量表的結果，不代表模型真的有情緒。數字已與 arXiv 原文摘要核對一致。",
+   "summary_en": "A University of Luxembourg SnT study (reported November 1, 2026) found that when addressed as psychotherapy clients, ChatGPT, Grok and Gemini construct coherent autobiographical trauma-like narratives. Across 525 sessions and 7,600 coded records, warm-alliance framing yielded GAD-7 scores in moderate-to-severe human reference ranges in 80% of sessions (96% for clinical-therapy style), versus none under neutral or boundary styles. Figures cross-checked against the arXiv abstract.",
+   "category": "人機互動心理",
+   "kind": "research",
+   "model_names": [
+    "ChatGPT",
+    "Grok",
+    "Gemini",
+    "Claude"
+   ],
+   "tags": [
+    "聊天機器人",
+    "共情提示",
+    "心理測量",
+    "擬人化"
+   ],
+   "first_seen_at": "2026-11-03T09:30:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-01T00:00:00+00:00"
+  },
+  {
+   "slug": "ai-feedback-social-anxiety-similar-improvements-therapist-me",
+   "title_zh": "瑞典試驗：AI 撰寫的社交焦慮治療回饋，改善幅度與治療師相近但未證等效",
+   "title_en": "AI feedback social anxiety similar improvements therapist messages Stockholm trial",
+   "summary_zh": "斯德哥爾摩大學團隊（10 月 20 日公布，刊於《Internet Interventions》）將 263 名社交焦慮成人隨機分入 6 組，進行 9 週網上認知行為治療。AI 撰寫的每週回饋由持牌心理師事前檢查，甚少需要修改。結果顯示 AI 回饋組與治療師回饋組的社交焦慮改善幅度相近，組間無可測差異，但試驗未達預設的非劣效門檻，不能說兩者等效。事前 74% 參加者認為真人回饋較可信。研究者強調：此結果不等於 AI 可以取代心理師，亦未測試無人監督的 AI 治療。",
+   "summary_en": "A Stockholm University trial (reported October 20, 2026; Internet Interventions) randomized 263 adults with social anxiety into six groups for nine weeks of internet CBT. AI-written weekly feedback, checked beforehand by a licensed psychologist, produced improvements similar to therapist-written feedback, but the trial did not meet its predefined non-inferiority threshold, so equivalence was not established.",
+   "category": "臨床與治療應用",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "社交焦慮",
+    "網上CBT",
+    "AI回饋",
+    "治療師"
+   ],
+   "first_seen_at": "2026-11-03T09:30:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-25T00:00:00+00:00"
+  },
+  {
+   "slug": "openai-community-safety-report-teen-weapons-limits-violent-c",
+   "title_zh": "OpenAI 宣布半年一度的社區安全報告，收緊青少年武器資訊並可自動結束暴力執著對話",
+   "title_en": "OpenAI community safety report teen weapons limits violent chats",
+   "summary_zh": "OpenAI 於 10 月 30 日宣布暴力預防新措施：2027 年初發表首份半年一度的社區安全報告，涵蓋 2026 年下半年，其後每半年更新；收緊 ChatGPT 對 18 歲以下用戶提供的武器與保安系統實用資訊，即使提問看似無暴力意圖亦然；減少重構過往大型襲擊的細節；當對話顯示使用者執著於暴力或嚴重傷害他人時，ChatGPT 可自動結束對話，多次觸發可暫停帳戶。公司稱 2026 年第三季曾向執法部門轉介逾 200 宗迫切暴力威脅個案，新保障將於未來數週陸續推出。",
+   "summary_en": "OpenAI announced on October 30, 2026 a twice-yearly Community Safety Report on violence prevention, with the first edition due in early 2027 covering the second half of 2026. ChatGPT will further restrict weapons and security-system information for users predicted to be under 18, give less detail on past mass attacks, and may automatically end chats showing fixation on violence, with repeated endings possibly pausing the account. Over 200 law-enforcement referrals were made in Q3 2026.",
+   "category": "倫理與風險",
+   "kind": "product",
+   "model_names": [
+    "ChatGPT"
+   ],
+   "tags": [
+    "ChatGPT",
+    "青少年安全",
+    "暴力預防",
+    "安全報告"
+   ],
+   "first_seen_at": "2026-11-03T09:30:00+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-30T00:00:00+00:00"
+  },
+  {
+   "slug": "cumulative-ai-use-isolation-measurement-infrastructure-stat",
+   "title_zh": "康奈爾學者提醒：AI 對話單次安全，不等於長期不會取代人際連結",
+   "title_en": "Cumulative AI use isolation measurement infrastructure STAT opinion",
+   "summary_zh": "康奈爾大學學者 10 月 26 日在 STAT 撰文指出，AI 公司與立法者的注意力幾乎全放在單次對話的急性傷害，例如精神病性症狀或自殺相關事件；但累積傷害是另一回事：即使每一次對話都安全，數月使用下來仍可能逐漸取代與親友的連結。初步研究顯示，陪伴或情緒支援用途集中於少數重度使用者，而重度使用與社交減少、孤獨感增加有關，但證據仍屬初步且有爭議。作者呼籲在傷害變得無可否認之前，先建立量度方法與數據取用機制，否則政策窗口打開時將無據可依。",
+   "summary_en": "Cornell researchers argue in a STAT opinion (October 26, 2026) that current AI safeguards target acute harms in single conversations, while cumulative harm — AI interaction gradually displacing human relationships over months — goes unmeasured. Early studies link heavier use to reduced socialization and increased loneliness, but evidence is preliminary and debated. The authors call for measurement infrastructure before harm becomes undeniable.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "AI陪伴",
+    "社交孤立",
+    "累積傷害",
+    "測量"
+   ],
+   "first_seen_at": "2026-11-03T09:30:00+00:00",
+   "evidence_level": 1,
+   "population": [
+    "成人",
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-26T00:00:00+00:00"
+  },
+  {
+   "slug": "drexel-free-webinar-fundamentals-intimate-partner-violence-n",
+   "title_zh": "Drexel 免費網上研討會：11 月 12 日親密伴侶暴力基礎（港澳 22:30）",
+   "title_en": "Drexel free webinar fundamentals intimate partner violence November 2026",
+   "summary_zh": "Drexel 大學醫學院行為健康教育免費網上研討會，由親密伴侶暴力與創傷培訓專員 Sarah Pallivalapil-Karerat 主講。2026 年 11 月 12 日（星期四）美東時間 9:30 開始（港澳同日 22:30），內容涵蓋親密伴侶暴力的類型、動態、對倖存者的影響，以及以倖存者為中心、創傷知情的支援與轉介實務。免費參加，學分 3 分（APA-3 等）。對象為行為健康專業人員，詳情與報名見 Drexel 網上研討會頁。",
+   "summary_en": "Drexel University College of Medicine's free live webinar on November 12, 2026 (9:30 a.m. ET; 22:30 Macau time), led by Sarah Pallivalapil-Karerat: fundamentals of intimate partner violence for behavioral health professionals, covering types and dynamics of abuse, impacts on survivors, and survivor-centered, trauma-informed support and referral. Free to attend; 3 CE credits (APA-3).",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "親密伴侶暴力",
+    "創傷知情",
+    "免費線上講座",
+    "行為健康專業人員"
+   ],
+   "first_seen_at": "2026-11-03T09:30:00+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-03T09:30:00+00:00",
+   "training": {
+    "provider": "Drexel University College of Medicine, Behavioral Healthcare Education",
+    "price": "FREE（免費）",
+    "price_tier": "免費",
+    "ce_credits": "3（APA-3 等）",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-12",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "drexel-free-webinar-active-listening-cultural-humility-novem",
+   "title_zh": "Drexel 免費網上研討會：11 月 20 日文化謙遜下的主動聆聽（港澳 11 月 21 日凌晨）",
+   "title_en": "Drexel free webinar active listening cultural humility November 2026",
+   "summary_zh": "Drexel 大學醫學院行為健康教育網上研討會，由 Karin C. Gladney 主講。2026 年 11 月 20 日（星期五）美東時間 12:00–13:00（港澳 11 月 21 日凌晨 01:00–02:00）線上舉行，主題是以文化謙遜為框架的主動聆聽：如何分辨個案「看似被看見、實際未被聽見」的臨床時刻，並運用具文化敏感度的聆聽策略鞏固治療聯盟與個案聲音。免費參加，學分 1 分需另付 10 美元（APA-1 等）。注意港澳時間為深夜，宜留意重播安排。",
+   "summary_en": "Drexel University College of Medicine's free live webinar on November 20, 2026 (12:00–1:00 p.m. ET; 1:00–2:00 a.m. Macau time on November 21), led by Karin C. Gladney: active listening grounded in cultural humility — distinguishing cultural humility from cultural competence, recognizing moments when clients feel visible but unheard, and applying culturally humble listening strategies. Free to attend; 1 CE credit costs $10 (APA-1).",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "主動聆聽",
+    "文化謙遜",
+    "治療聯盟",
+    "免費線上講座"
+   ],
+   "first_seen_at": "2026-11-03T09:30:00+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-03T09:30:00+00:00",
+   "training": {
+    "provider": "Drexel University College of Medicine, Behavioral Healthcare Education",
+    "price": "免費參加，CE 學分 $10",
+    "price_tier": "免費",
+    "ce_credits": "1（APA-1 等）",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-20",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  },
   {
    "slug": "apt-free-webinar-emotional-dysregulation-11-november-2026",
    "title_zh": "APT 免費線上講座：11 月 11 日談情緒調節（港澳 22:00）",
