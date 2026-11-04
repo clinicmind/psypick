@@ -1,0 +1,68 @@
+{
+ "format": "psypick-muse-v1",
+ "items": [
+  {
+   "category": "研究與證據",
+   "evidence_hint": "同儕審查期刊貝葉斯統合分析",
+   "evidence_quote": "3.45 years older at symptom onset",
+   "key_points_zh": [
+    "Neuropsychol Dev Cogn B Aging Neuropsychol Cogn 2026;33(1):1-28（Li、Coretta，愛丁堡大學），DOI 10.1080/13825585.2025.2566699，PMID 41006960",
+    "首個貝葉斯統合分析：18 項發病年齡研究、6 項發生率研究",
+    "雙語者失智症狀出現年齡平均比單語者晚 3.45 年（95% 可信區間 2.8 至 4.1 年），結果只受教育年數輕微影響",
+    "6 項發生率研究未提供雙語可預防失智的穩健證據；延後症狀出現不等於預防",
+    "各失智症亞型延後模式較一致，但幅度因類型而異；每亞型研究數量有限，亞型差異仍不確定",
+    "原始研究多為回顧性觀察研究，不能證明因果；3.45 年為群體平均，不是個人可預期的延後年數"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-04",
+   "population": [
+    "長者",
+    "成人",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "bilingualism-delays-dementia-symptom-onset-meta-analysis",
+   "source": {
+    "author_name": "Ziyuan Li、Stefano Coretta（愛丁堡大學）",
+    "description": "PubMed 摘要：首個貝葉斯統合分析，18 項發病年齡研究顯示雙語者症狀出現平均晚 3.45 年，6 項發生率研究未提供預防效果的穩健證據。",
+    "platform": "web",
+    "title": "Bilingualism effect for delaying dementia onset: a Bayesian meta-analysis",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41006960/"
+   },
+   "title_zh": "研究：雙語者失智症狀平均晚 3.45 年出現，但未證可預防失智（統合分析）"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "同儕審查期刊務實型 SMART 隨機試驗",
+   "evidence_quote": "a 31.7% decline in youth-reported",
+   "key_points_zh": [
+    "American Journal of Psychiatry 2026;183:668-681（Peterson、West、Weersing 等），DOI 10.1176/appi.ajp.20251037，PMID 42337414，試驗登記 NCT04760275",
+    "24 週務實型 SMART 試驗：316 名 8 至 17 歲嚴重焦慮兒少，美國社區小兒科與心理健康診所；第一階段 12 週隨機分入暴露為核心的 CBT（Coping Cat）或百憂解，第 12 週未緩解者再隨機分入持續優化原治療或加入另一種治療；單盲設計",
+    "兒少自評 SCARED 焦慮量表 24 週整體下降 31.7%",
+    "先用 CBT 與先用百憂解的 24 週組間變化差異為 1.45 分（95% 信賴區間 -2.25 至 5.16），無顯著差異",
+    "第 12 週未緩解者中，合併治療在主要結果上未優於持續優化單一治療",
+    "先用 CBT、12 週後未緩解再加入百憂解的順序，在多項次要指標上改善最大，但主要結果差異未達顯著，屬探索性線索",
+    "樣本社經弱勢程度高、共病多；開始、停用或調整兒少精神科藥物須由熟悉兒少用藥的醫師評估與追蹤"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-04",
+   "population": [
+    "兒童",
+    "青少年",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "pediatric-anxiety-cbt-fluoxetine-smart-trial-24-weeks",
+   "source": {
+    "author_name": "Bradley S. Peterson 等（南加州大學、洛杉磯兒童醫院）",
+    "description": "期刊原文（DOI 連結）：316 名 8 至 17 歲嚴重焦慮兒少 24 週 SMART 試驗，兒少自評焦慮整體下降 31.7%，先用 CBT 與先用百憂解無顯著差異。",
+    "platform": "web",
+    "title": "A Pragmatic SMART Study of Medication and CBT Sequencing in Pediatric Anxiety Disorders: A Randomized Clinical Trial",
+    "url": "https://doi.org/10.1176/appi.ajp.20251037"
+   },
+   "title_zh": "研究：兒少焦慮 CBT 與百憂解 24 週比較，兩種起點改善相近（316 人 SMART 試驗）"
+  }
+ ]
+}
