@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T13:30:00+00:00",
+ "generated_at": "2026-11-04T13:30:00+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,69 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "bilingualism-delays-dementia-symptom-onset-meta-analysis",
+   "title_zh": "研究：雙語者失智症狀平均晚 3.45 年出現，但未證可預防失智（統合分析）",
+   "title_en": "Bilingualism delays dementia symptom onset meta-analysis",
+   "summary_zh": "《Aging, Neuropsychology, and Cognition》2026 年刊出的首個貝葉斯統合分析，綜合 18 項發病年齡研究與 6 項發生率研究，探討雙語能力與失智症的關係。18 項發病年齡研究的結果顯示，雙語者出現失智症狀的年齡平均比單語者晚 3.45 年（95% 可信區間 2.8 至 4.1 年），結果只受教育年數輕微影響。但 6 項發生率研究未提供雙語可預防失智的穩健證據：雙語可能延後症狀出現，不等於預防失智。",
+   "summary_en": "The first Bayesian meta-analysis on bilingualism and dementia (Aging, Neuropsychology, and Cognition, 2026) pooled 18 age-at-onset studies and six incidence-rate studies. Across the 18 onset studies, bilinguals were on average 3.45 years older than monolinguals at symptom onset (95% credible interval 2.8 to 4.1 years), only slightly influenced by years of education. The six incidence studies did not provide robust evidence for a preventive effect: bilingualism may delay symptom onset but has not been shown to prevent dementia.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "雙語",
+    "失智症",
+    "認知儲備",
+    "統合分析"
+   ],
+   "first_seen_at": "2026-11-04T13:30:00+00:00",
+   "evidence_level": 4,
+   "population": [
+    "長者",
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-04T00:00:00+00:00"
+  },
+  {
+   "slug": "pediatric-anxiety-cbt-fluoxetine-smart-trial-24-weeks",
+   "title_zh": "研究：兒少焦慮 CBT 與百憂解 24 週比較，兩種起點改善相近（316 人 SMART 試驗）",
+   "title_en": "Pediatric anxiety CBT fluoxetine SMART trial 24 weeks",
+   "summary_zh": "《American Journal of Psychiatry》2026 年刊出的務實型 SMART 隨機試驗，納入 316 名 8 至 17 歲嚴重焦慮兒少，在美國社區小兒科與心理健康診所比較兩種起點：先用暴露為核心的認知行為治療，或先用百憂解（fluoxetine）。24 週後，兒少自評焦慮（SCARED）整體下降 31.7%。先用 CBT 與先用藥物在主要結果上無顯著差異（24 週組間變化差異 1.45 分，95% 信賴區間 -2.25 至 5.16）；第 12 週未緩解者中，合併治療亦未在主要結果上優於持續優化單一治療。先用 CBT、12 週後未緩解再加入藥物的順序，在多項次要指標上改善最大，但主要結果差異未達顯著。",
+   "summary_en": "A pragmatic SMART randomized trial (American Journal of Psychiatry, 2026) enrolled 316 youths aged 8-17 with severe anxiety in US community paediatric and mental health clinics, comparing two starting points: exposure-based CBT first or fluoxetine first. Over 24 weeks, youth-reported anxiety (SCARED) fell 31.7% overall. Initial CBT versus fluoxetine did not differ significantly on the primary outcome (24-week difference in mean group change 1.45, 95% CI -2.25 to 5.16). Among week-12 nonremitters, combination treatment was not superior to optimized monotherapy on the primary outcome. Starting with CBT and adding fluoxetine after week 12 produced the greatest improvement across most secondary measures, but not significantly on the primary youth-reported outcome.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒少焦慮",
+    "CBT",
+    "百憂解",
+    "SMART試驗",
+    "隨機對照試驗"
+   ],
+   "first_seen_at": "2026-11-04T13:30:00+00:00",
+   "evidence_level": 3,
+   "population": [
+    "兒童",
+    "青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-04T00:00:00+00:00"
+  },
   {
    "slug": "norway-primary-care-mental-health-consultations-2010-2024",
    "title_zh": "研究：挪威基層醫療心理求助升幅，主要來自症狀編碼而非確診（2010-2024，逾 372 萬人）",
