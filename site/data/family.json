@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T01:16:15+00:00",
- "today": "2026-10-30",
+ "generated_at": "2026-11-06T01:15:33+00:00",
+ "today": "2026-11-06",
  "ages": [
   "孕期",
   "0-1歲",
@@ -38,6 +38,425 @@
   "美國"
  ],
  "items": [
+  {
+   "kind": "article",
+   "title_zh": "當孩子的情緒，碰上父母最脆弱的時刻",
+   "title_en": "When children's emotions meet parents most vulnerable moments",
+   "summary_zh": "諮商心理師莫茲婷寫給父母的文章：父母失控往往不是耐性不夠，而是身心資源耗損令情緒調節能力下降。文章提出三種「脆弱因子」——生理、心理與過去生命經驗，並談親子「共同調節」：孩子需要借用大人的穩定來平靜下來。失控後，完整的修復包括說出行為、承擔責任、理解孩子感受，再討論下一次的做法。",
+   "summary_en": "Counsellor Mo Tzu-ting on parents' emotional regulation: losing control is often not a lack of patience but depleted resources lowering regulation capacity. The article names three vulnerability factors — physical, psychological and past experience — and explains co-regulation: children borrow adults' calm to settle. After losing control, repair means naming the behaviour, taking responsibility, acknowledging the child's feelings and planning next time together.",
+   "ages": [
+    "1-3歲",
+    "3-6歲",
+    "6-12歲"
+   ],
+   "topic": "家長自己",
+   "region": "台灣",
+   "tips": [
+    "留意自己的情緒警訊，例如聲音變大、心跳加快、身體繃緊",
+    "孩子情緒最高漲時，先不要讓彼此的情緒繼續升高，可稍拉開距離讓呼吸慢下來",
+    "失控後修復要說出行為、承擔責任、理解孩子感受，再討論下一次做法"
+   ],
+   "when_to_seek_help": "情緒經常失控、影響親子關係，或童年經驗持續觸發強烈反應，可找臨床心理師或諮商心理師談談。",
+   "source_type": "媒體",
+   "posted_at": "2026-11-03",
+   "tags": [
+    "情緒調節",
+    "共同調節",
+    "夠好的父母",
+    "溫尼考特",
+    "親子衝突"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": null,
+   "deal": null,
+   "bounty": null,
+   "url": "https://udn.com/news/story/7272/9852237",
+   "source_title": "【專家解析】莫茲婷／當孩子的情緒，碰上父母最脆弱的時刻",
+   "org": "聯合新聞網",
+   "slug": "when-children-s-emotions-meet-parents-most-vulnerable-moment",
+   "created_at": "2026-11-06T01:15:33+00:00",
+   "ended": false
+  },
+  {
+   "kind": "article",
+   "title_zh": "孩子沉迷3C別急著糾正：破解兒少心理健康5大迷思",
+   "title_en": "Children addicted to screens five myths about youth mental health",
+   "summary_zh": "中央社刊登《媽媽，我的心裡有個洞》書摘，兒少心理治療師阿留娜．秀科托娃拆解五大常見迷思：3C產品未必有害，沉迷可能是孩子憂鬱求援的表現；憂鬱不限於邊緣家庭；不應把責任全推給環境、朋友或學校；憂鬱不是病理現象，多數源於長期孤獨；無聊有助孩子認識自我，不必填滿每分鐘。台灣約兩成青少年有中度以上情緒困擾，超過一成有中度以上輕生意念。",
+   "summary_en": "A CNA book excerpt from 'Mum, There's a Hole in My Heart' debunks five myths about youth mental health: screens are not necessarily harmful and heavy use may signal a child asking for help; depression is not limited to disadvantaged families; blame does not lie solely with environment or peers; depression is not a pathology but often follows prolonged loneliness; boredom helps children know themselves. About 20% of Taiwanese teens report moderate or worse emotional distress.",
+   "ages": [
+    "6-12歲",
+    "12-18歲"
+   ],
+   "topic": "螢幕與AI",
+   "region": "台灣",
+   "tips": [
+    "孩子沉迷3C時，先問他在逃避什麼、需要什麼，而不是先沒收手機",
+    "留意孩子是否眼裡失去光彩、逐漸遠離人群，那可能是求援訊號",
+    "別把孩子的每分鐘填滿，無聊是認識自我的機會"
+   ],
+   "when_to_seek_help": "孩子持續情緒低落、失去動力，或出現輕生意念，應盡快找精神科醫生、臨床心理師或學校輔導人員；台灣可撥1925安心專線。",
+   "source_type": "媒體",
+   "posted_at": "2026-11-05",
+   "tags": [
+    "3C",
+    "螢幕使用",
+    "兒少憂鬱",
+    "迷思",
+    "書摘"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": null,
+   "deal": null,
+   "bounty": null,
+   "url": "https://www.cna.com.tw/news/aspt/202611055002.aspx",
+   "source_title": "孩子沉迷3C別急著糾正 破解兒少心理健康5大迷思【書摘】",
+   "org": "中央社",
+   "slug": "children-addicted-to-screens-five-myths-about-youth-mental-h",
+   "created_at": "2026-11-06T01:15:33+00:00",
+   "ended": false
+  },
+  {
+   "kind": "activity",
+   "title_zh": "香港青年會秋冬親子主題工作坊（逢星期六，免費）",
+   "title_en": "Hong Kong Youth Association autumn winter parent-child workshops",
+   "summary_zh": "香港青年會由11月7日至12月26日，逢星期六下午舉辦秋冬親子主題工作坊，共6堂，全部免費。11月以二十四節氣與傳統工藝為主，包括達文西拱橋、小雪油紙傘、青花藝繪；12月轉為環保主題，包括太陽能風車與環保關愛箱。每堂限20對親子（一大一小），適合小學生與家長一同參加。",
+   "summary_en": "The Hong Kong Youth Association runs free parent-child workshops every Saturday afternoon from 7 November to 26 December 2026 (6 sessions). November sessions follow the 24 solar terms and traditional crafts (Da Vinci bridge, oil-paper umbrella, blue-and-white painting); December turns to the environment (solar windmill, eco care box). 20 parent-child pairs per session, for primary school children with a parent.",
+   "ages": [
+    "6-12歲"
+   ],
+   "topic": "親子活動",
+   "region": "香港",
+   "tips": [
+    "每堂只有20對親子，宜及早報名",
+    "按孩子興趣選主題：喜歡動手可選拱橋或風車，喜歡畫畫可選油紙傘或青花藝繪"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "媒體",
+   "posted_at": "2026-11-01",
+   "tags": [
+    "免費工作坊",
+    "STEAM",
+    "二十四節氣",
+    "傳統工藝",
+    "小學生"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": {
+    "age_range": "小學生；每堂20對親子（一大一小）",
+    "date_end": "2026-12-26",
+    "date_start": "2026-11-07",
+    "deadline": "",
+    "free": true,
+    "last_checked": "2026-11-06",
+    "organizer": "香港青年會",
+    "price": "全免",
+    "signup": "網上表格報名（見原頁）",
+    "time": "14:00-16:00（逢星期六）",
+    "venue": "西環街坊福利會"
+   },
+   "deal": null,
+   "bounty": null,
+   "url": "https://superpama.hk/posts/free-family-workshops-2026",
+   "source_title": "免費親子工作坊2026｜香港青年會11月起逢星期六 油紙傘、太陽能風車 小學生親子免費 附報名",
+   "org": "香港青年會",
+   "slug": "hong-kong-youth-association-autumn-winter-parent-child-works",
+   "created_at": "2026-11-06T01:15:33+00:00",
+   "ended": false
+  },
+  {
+   "kind": "activity",
+   "title_zh": "澳門氣象局「氣象FUN識親子遊」（11月21日，免費）",
+   "title_en": "Macao weather bureau family tour weather fun",
+   "summary_zh": "地球物理氣象局11月21日舉辦「氣象FUN識親子遊」，對象為4至8歲兒童及其家長。活動包括欣賞氣象劇場、體驗懸掛風球、擔任小小天氣預報員模擬講解天氣，並實地參觀預報預警的核心地帶及氣象設施。費用全免，以家庭為單位報名（2至5人），11月3日至8日經一戶通報名，超額抽籤。",
+   "summary_en": "Macao's Meteorological and Geophysical Bureau runs 'Weather Fun Family Tour' on 21 November for children aged 4-8 with parents: a weather theatre show, hands-on typhoon-signal hoisting, a junior forecaster role-play and a visit to forecasting facilities. Free; families of 2-5 register via Macao One Account from 3 to 8 November, with a lottery if oversubscribed.",
+   "ages": [
+    "3-6歲",
+    "6-12歲"
+   ],
+   "topic": "親子活動",
+   "region": "澳門",
+   "tips": [
+    "報名期只到11月8日，超額會抽籤，11月11日可在一戶通查看結果",
+    "活動以粵語進行"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "政府",
+   "posted_at": "2026-11-03",
+   "tags": [
+    "氣象",
+    "科普",
+    "免費",
+    "澳門",
+    "親子遊"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": {
+    "age_range": "4至8歲兒童及其家長",
+    "date_end": "2026-11-21",
+    "date_start": "2026-11-21",
+    "deadline": "2026-11-08",
+    "free": true,
+    "last_checked": "2026-11-06",
+    "organizer": "地球物理氣象局",
+    "price": "全免",
+    "signup": "一戶通「活動報名」欄目報名（11月3日至8日）",
+    "time": "",
+    "venue": "地球物理氣象局"
+   },
+   "deal": null,
+   "bounty": null,
+   "url": "https://www.gov.mo/zh-hant/news/1279125/",
+   "source_title": "氣象局11月親子活動即日起接受公眾報名",
+   "org": "地球物理氣象局",
+   "slug": "macao-weather-bureau-family-tour-weather-fun",
+   "created_at": "2026-11-06T01:15:33+00:00",
+   "ended": false
+  },
+  {
+   "kind": "activity",
+   "title_zh": "澳門氣象局「遊氣象樂探索」（11月21日，免費）",
+   "title_en": "Macao weather bureau explore meteorology family activity",
+   "summary_zh": "地球物理氣象局11月21日舉辦「遊氣象樂探索」，對象為6至12歲孩童及其家長。活動包括體驗氣象探測、互動遊戲及氣象工作坊，並實地參觀預報預警的核心地帶及氣象設施。費用全免，以家庭為單位報名（2至5人），11月3日至8日經一戶通報名，超額抽籤。同一家庭可同時參加兩項活動。",
+   "summary_en": "Macao's Meteorological and Geophysical Bureau runs 'Explore Meteorology' on 21 November for children aged 6-12 with parents: hands-on weather observation, interactive games and a meteorology workshop, plus a visit to forecasting facilities. Free; families of 2-5 register via Macao One Account from 3 to 8 November, with a lottery if oversubscribed. One family may join both activities.",
+   "ages": [
+    "6-12歲"
+   ],
+   "topic": "親子活動",
+   "region": "澳門",
+   "tips": [
+    "報名期只到11月8日，超額會抽籤",
+    "同一家庭可同時報名參加兩項活動"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "政府",
+   "posted_at": "2026-11-03",
+   "tags": [
+    "氣象",
+    "科普",
+    "免費",
+    "澳門",
+    "工作坊"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": {
+    "age_range": "6至12歲孩童及其家長",
+    "date_end": "2026-11-21",
+    "date_start": "2026-11-21",
+    "deadline": "2026-11-08",
+    "free": true,
+    "last_checked": "2026-11-06",
+    "organizer": "地球物理氣象局",
+    "price": "全免",
+    "signup": "一戶通「活動報名」欄目報名（11月3日至8日）",
+    "time": "",
+    "venue": "地球物理氣象局"
+   },
+   "deal": null,
+   "bounty": null,
+   "url": "https://www.gov.mo/zh-hant/news/1279125/",
+   "source_title": "氣象局11月親子活動即日起接受公眾報名",
+   "org": "地球物理氣象局",
+   "slug": "macao-weather-bureau-explore-meteorology-family-activity",
+   "created_at": "2026-11-06T01:15:33+00:00",
+   "ended": false
+  },
+  {
+   "kind": "activity",
+   "title_zh": "香港博物館節「非遺童遊」同樂日（11月15日，免費）",
+   "title_en": "Intangible cultural heritage family fun day Hong Kong Museum Festival",
+   "summary_zh": "香港非物質文化遺產辦事處11月15日（星期日）11:00–18:00，在荃灣三棟屋博物館舉辦「非遺童遊」同樂日，全免。活動以懷舊遊樂場為主題，設木陀螺製作、抽紗公仔製作、叮叮糖製作三個焦點工作坊，以及「非遺過三關」等七大互動體驗，完成挑戰可夾紀念品。網上報名已於11月5日結束，工作坊每節留5個即場名額。",
+   "summary_en": "Hong Kong's Intangible Cultural Heritage Office hosts a free family fun day on Sunday 15 November, 11:00-18:00, at the Sam Tung Uk Museum in Tsuen Wan. Three hands-on workshops (wooden spinning top, drawn-thread doll, ding ding candy) plus seven interactive experiences, including a three-challenge game with prizes. Online registration has closed; each workshop session keeps 5 walk-in places.",
+   "ages": [
+    "3-6歲",
+    "6-12歲"
+   ],
+   "topic": "親子活動",
+   "region": "香港",
+   "tips": [
+    "網上報名已結束，工作坊每節有5個即場名額，先到先得",
+    "完成「非遺過三關」挑戰可夾紀念品"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "媒體",
+   "posted_at": "2026-11-04",
+   "tags": [
+    "非物質文化遺產",
+    "博物館節",
+    "免費",
+    "工作坊",
+    "懷舊遊戲"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": {
+    "age_range": "",
+    "date_end": "2026-11-15",
+    "date_start": "2026-11-15",
+    "deadline": "",
+    "free": true,
+    "last_checked": "2026-11-06",
+    "organizer": "香港非物質文化遺產辦事處",
+    "price": "全免",
+    "signup": "網上報名已結束；工作坊每節設即場名額5人",
+    "time": "11:00-18:00",
+    "venue": "香港非物質文化遺產中心（荃灣三棟屋博物館）"
+   },
+   "deal": null,
+   "bounty": null,
+   "url": "https://www.stheadline.com/ohpama/3633093/非遺童遊同樂日免費玩3大工作坊7大互動體驗整陀螺夾紀念品-附報名方法",
+   "source_title": "「非遺童遊」同樂日免費玩3大工作坊+7大互動體驗：整陀螺/夾紀念品 附報名方法",
+   "org": "香港非物質文化遺產辦事處",
+   "slug": "intangible-cultural-heritage-family-fun-day-hong-kong-museum",
+   "created_at": "2026-11-06T01:15:33+00:00",
+   "ended": false
+  },
+  {
+   "kind": "activity",
+   "title_zh": "當皮膚遇上情緒：濕疹身心舒緩迷你講座與分享會（11月24日，免費）",
+   "title_en": "When skin meets emotions eczema mind-body relaxation talk",
+   "summary_zh": "香港過敏協會11月24日（星期二）19:30–21:00，在油麻地會址舉辦免費迷你講座與分享會，由臨床心理輔導員帶領，認識心理健康、情緒與皮膚狀況的關係，學習身心放鬆及情緒舒緩技巧，並由輔導員帶領小組討論與分享。名額20人，會員優先。",
+   "summary_en": "The Hong Kong Allergy Association hosts a free mini-talk and sharing session on Tuesday 24 November, 19:30-21:00, at its Yau Ma Tei venue. Led by a clinical psychological counsellor, it covers how emotions and skin conditions affect each other, mind-body relaxation techniques and facilitated group sharing. 20 places, members first.",
+   "ages": [],
+   "topic": "心理健康",
+   "region": "香港",
+   "tips": [
+    "認識皮膚與情緒的關係，學習身心放鬆技巧"
+   ],
+   "when_to_seek_help": "濕疹或情緒困擾持續影響日常生活，可找皮膚科醫生或臨床心理師。",
+   "source_type": "非牟利",
+   "posted_at": "",
+   "tags": [
+    "濕疹",
+    "皮膚",
+    "情緒",
+    "身心放鬆",
+    "免費講座"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": {
+    "age_range": "",
+    "date_end": "2026-11-24",
+    "date_start": "2026-11-24",
+    "deadline": "",
+    "free": true,
+    "last_checked": "2026-11-06",
+    "organizer": "香港過敏協會",
+    "price": "全免",
+    "signup": "掃描海報 QR Code 或 Google 表格報名",
+    "time": "19:30-21:00",
+    "venue": "香港過敏協會會址（油麻地上海街394號地下）"
+   },
+   "deal": null,
+   "bounty": null,
+   "url": "https://www.allergyhk.org/latest-events/%e3%80%90%e7%95%b6%e7%9a%ae%e8%86%9a%e9%81%87%e4%b8%8a%e6%83%85%e7%b7%92%ef%bd%9c%e6%bf%95%e7%96%b9%e8%ba%ab%e5%bf%83%e8%88%92%e7%b7%a9%e8%bf%b7%e4%bd%a0%e8%ac%9b%e5%ba%a7%e8%88%87%e5%88%86%e4%ba%ab/",
+   "source_title": "【當皮膚遇上情緒｜濕疹身心舒緩迷你講座與分享會】開始報名",
+   "org": "香港過敏協會",
+   "slug": "when-skin-meets-emotions-eczema-mind-body-relaxation-talk",
+   "created_at": "2026-11-06T01:15:33+00:00",
+   "ended": false
+  },
+  {
+   "kind": "bounty",
+   "title_zh": "中大招募失眠人士：失眠認知行為治療聊天機器人研究（最高$500）",
+   "title_en": "CUHK insomnia CBT chatbot adherence study up to HKD 500",
+   "summary_zh": "香港中文大學醫學院精神科學系李朝江家族睡眠檢查室研究小組，招募失眠人士參與「失眠認知行為治療聊天機器人的遵從性研究」。參加者先接受臨床訪談及問卷調查，再體驗為期4周的失眠認知行為治療聊天機器人，之後完成跟進評估。完成問卷調查獲100元、完成4周介入獲300元、完成跟進評估再獲100元，合共最高500元現金。",
+   "summary_en": "CUHK's Department of Psychiatry is recruiting people with insomnia for an adherence study of a CBT-I chatbot. Participants complete a clinical interview and questionnaires, use the chatbot for 4 weeks, then complete follow-up assessments. HK$100 after the survey, HK$300 after the 4-week intervention and HK$100 after follow-up — up to HK$500 in total.",
+   "ages": [],
+   "topic": "賞金獵人",
+   "region": "香港",
+   "tips": [
+    "對象為18至65歲香港居民，過去一個月每星期至少3晚受失眠困擾",
+    "最近4周或以上無需長期服藥",
+    "查詢可致電研究助理 Charis／Phoebe：6115-0322"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "媒體",
+   "posted_at": "2026-11-04",
+   "tags": [
+    "失眠",
+    "認知行為治療",
+    "聊天機器人",
+    "招募",
+    "睡眠"
+   ],
+   "verify_needed": true,
+   "verify_reason": "只在第三方網站（東張+）看到，未在中大官方頁確認",
+   "activity": null,
+   "deal": null,
+   "bounty": {
+    "caution": "涉及臨床介入研究（聊天機器人失眠認知行為治療），參加前請細閱知情同意書；失眠持續或惡化應找醫生。",
+    "contact": "研究助理 Charis／Phoebe（6115-0322）",
+    "deadline": "",
+    "duration": "約4周介入，另加前後評估",
+    "eligibility": "18至65歲香港居民；能以流利廣東話溝通及閱讀理解廣東話；過去一個月每星期至少3晚受失眠困擾；最近4周或以上無需長期服藥",
+    "funder": "",
+    "guaranteed": true,
+    "how_to_join": "網上報名表格（見原頁連結）；查詢：研究助理 Charis／Phoebe（6115-0322）",
+    "last_checked": "2026-11-06",
+    "location": "網上／中大",
+    "method": "臨床研究",
+    "organizer": "香港中文大學醫學院精神科學系李朝江家族睡眠檢查室研究小組",
+    "reward": "完成整體研究評估最高可獲港幣$500現金（問卷調查後$100、完成4周介入後$300、完成跟進評估後$100）",
+    "reward_type": "現金"
+   },
+   "url": "https://www.mytvsuper.com/tc/scoopplus/lifestyle/home/17937737520153/%E7%94%9F%E6%B4%BB-%E4%B8%AD%E5%A4%A7%E6%8B%9B%E5%8B%9F%E5%A4%B1%E7%9C%A0%E4%BA%BA%E5%A3%AB-%E5%AE%8C%E6%88%90%E7%A0%94%E7%A9%B6%E5%8F%AF%E7%8D%B2-500-4%E5%91%A8%E5%85%8D%E8%B2%BB%E5%A4%B1%E7%9C%A0%E6%B2%BB%E7%99%82-%E5%8D%B3%E7%9D%87%E8%B3%87%E6%A0%BC%E5%8F%8A%E5%A0%B1%E5%90%8D%E6%96%B9%E6%B3%95",
+   "source_title": "中大招募失眠人士｜完成研究可獲$500＋4周免費失眠治療 即睇資格及報名方法",
+   "org": "香港中文大學醫學院精神科學系李朝江家族睡眠檢查室研究小組",
+   "slug": "cuhk-insomnia-cbt-chatbot-adherence-study-up-to-hkd-500",
+   "created_at": "2026-11-06T01:15:33+00:00",
+   "ended": false
+  },
+  {
+   "kind": "deal",
+   "title_zh": "淘寶雙11全站優惠碼：滿1000減120【ddp120】（至11月14日）",
+   "title_en": "Taobao Double 11 sitewide code RMB120 off RMB1000",
+   "summary_zh": "淘寶香港雙11全站通用優惠碼：單筆滿1000元人民幣減120元人民幣，輸入【ddp120】；另有滿388元人民幣減38元【ddp38】，以及滿88元人民幣減8元的中細額碼。新舊用戶通用，可與88VIP券疊加。優惠至2026年11月14日，名額先到先得。",
+   "summary_en": "Taobao Hong Kong Double 11 sitewide codes: RMB120 off orders over RMB1,000 with code ddp120, and RMB38 off over RMB388 with ddp38. For new and existing users, stackable with 88VIP coupons. Valid until 14 November 2026, while stocks last.",
+   "ages": [],
+   "topic": "優惠",
+   "region": "香港",
+   "tips": [
+    "結賬頁輸入優惠碼 ddp120；另有滿388減38【ddp38】",
+    "可與88VIP券疊加；先到先得，宜早用"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "媒體",
+   "posted_at": "2026-11-05",
+   "tags": [
+    "淘寶",
+    "雙11",
+    "全站",
+    "優惠碼"
+   ],
+   "verify_needed": true,
+   "verify_reason": "優惠碼由第三方網站發布，未在官方頁確認",
+   "activity": null,
+   "deal": {
+    "category": "全場",
+    "code": "ddp120",
+    "conditions": "新舊用戶通用；可與88VIP券疊加；先到先得",
+    "discount": "滿1000元人民幣減120元人民幣",
+    "how_to_use": "於結賬頁輸入優惠碼",
+    "last_checked": "2026-11-06",
+    "min_spend": "1000元人民幣",
+    "platform": "淘寶",
+    "valid_from": "",
+    "valid_to": "2026-11-14"
+   },
+   "bounty": null,
+   "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60404800/%E9%9B%9911%E5%84%AA%E6%83%A02026%E6%87%B6%E4%BA%BA%E5%8C%85-%E6%B7%98%E5%AF%B6%E4%BA%AC%E6%9D%B1vs%E6%83%A0%E5%BA%B7%E8%B1%90%E6%BE%A4-%E6%BB%BF%E6%B8%9B-%E5%9B%9E%E8%B4%88%E9%82%8A%E5%80%8B%E6%9C%80%E6%8A%B5",
+   "source_title": "雙11優惠2026懶人包｜淘寶京東VS惠康豐澤 滿減、回贈邊個最抵？",
+   "org": "香港01",
+   "slug": "taobao-double-11-sitewide-code-rmb120-off-rmb1000",
+   "created_at": "2026-11-06T01:15:33+00:00",
+   "ended": false
+  },
   {
    "kind": "activity",
    "title_zh": "香港公共圖書館親子共讀工作坊：培養子女自我管理能力與責任感",

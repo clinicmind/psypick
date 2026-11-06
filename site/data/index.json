@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T13:45:00+00:00",
+ "generated_at": "2026-11-06T01:15:33+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,47 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "ncnu-autumn-forum-neurodiversity-normalisation-reflection-co",
+   "title_zh": "2026暨大秋冬家暴論壇：撕下標籤——神經多樣性的正常化反思與共學（11月16、23、30日線上）",
+   "title_en": "NCNU autumn forum neurodiversity normalisation reflection co-learning 2026",
+   "summary_zh": "國立暨南國際大學家庭暴力研究中心主辦的秋冬論壇，以「神經多樣性」為主題。三場線上場次分別在11月16、23、30日舉行：孫文菊諮商心理師談如何把理解轉化為實踐，成為神經多樣性兒少的支持者；林育如醫師談理解神經多樣性兒童青少年；第三場由安置機構實務工作者分享兒少安置照顧場域的挑戰與實踐。前導場已於11月3日舉行。",
+   "summary_en": "The Family Violence Research Center at National Chi Nan University hosts its 2026 autumn forum, 'Tearing Off Labels: Normalisation and Co-learning in Neurodiversity'. Three online sessions (16, 23 and 30 November, via Google Meet) cover turning understanding into practice, understanding neurodivergent children and adolescents, and challenges in residential care settings. Speakers include counsellor Sun Wen-chu and Dr Lin Yu-ju. The fee is not stated on the page.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "神經多樣性",
+    "兒童青少年",
+    "家暴",
+    "線上論壇",
+    "特殊教育需要"
+   ],
+   "first_seen_at": "2026-11-06T01:15:33+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-06T01:15:33+00:00",
+   "training": {
+    "provider": "國立暨南國際大學人文學院家庭暴力研究中心",
+    "price": "",
+    "price_tier": "其他",
+    "ce_credits": "",
+    "language": "中文",
+    "deadline": "",
+    "event_date": "2026-11-16",
+    "format": "線上（Google Meet）"
+   },
+   "deadline_soon": false
+  },
   {
    "slug": "social-media-time-and-teen-anxiety-depression-meta-analysis",
    "title_zh": "統合分析：青少年花在社交媒體的時間，與焦慮憂鬱關聯極弱（37 項研究）",

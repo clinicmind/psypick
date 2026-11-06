@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T01:16:15+00:00",
- "today": "2026-10-30",
+ "generated_at": "2026-11-06T01:15:33+00:00",
+ "today": "2026-11-06",
  "regions": [
   "香港",
   "澳門",
@@ -1284,6 +1284,40 @@
    "verify_notes": "日期、地點、主題取自搜尋結果摘要（官網首頁僅見主題橫幅，未見日期、講者與費用），請到官網最新公告核對。",
    "speakers": [],
    "last_checked": "2026-10-05"
+  },
+  {
+   "slug": "tandmr-annual-conference-2026",
+   "name_zh": "115年度台灣腦心智發展與心理復健學會會員大會暨學術研討會",
+   "name_en": "Taiwan Association for Brain, Mind Development and Psychological Rehabilitation Annual Conference 2026",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "city": "汐止（新北市）",
+   "country": "台灣",
+   "region": "台灣",
+   "format": "實體",
+   "language": "中文",
+   "organizer": "社團法人台灣腦心智發展與心理復健學會",
+   "fee_text": "",
+   "url": "https://sites.google.com/view/tandmr/%E6%B6%88%E6%81%AF%E5%85%AC%E5%91%8A-news",
+   "register_url": "https://sites.google.com/view/tandmr/%E6%B6%88%E6%81%AF%E5%85%AC%E5%91%8A-news",
+   "venue": "汐止國泰綜合醫院國際會議廳",
+   "summary_zh": "社團法人台灣腦心智發展與心理復健學會115年度會員大會暨學術研討會，主題為《腦功能的傷害、退化與重啟：研究與臨床實踐》，2026年11月21至22日在汐止國泰綜合醫院國際會議廳舉行。研討會邀請多位國內外跨領域專家學者專題演講與實務分享，探討腦心智功能障礙、神經退化疾患至復健介入的最新研究進展與臨床實踐經驗。合辦單位為國立成功大學腦心智健康與發展研究中心及國泰綜合醫院。",
+   "themes": [
+    "腦功能",
+    "神經退化",
+    "心理復健",
+    "臨床實踐"
+   ],
+   "interest_zh": "腦心智功能障礙與神經退化復健的最新研究與臨床實踐，對臨床心理師及神經心理專業人員有參考價值。",
+   "domains": [
+    "臨床心理",
+    "特殊教育需要"
+   ],
+   "verify_needed": true,
+   "verify_notes": "費用、講者名單與報名截止日頁面未列明；詳情見年會專區。",
+   "speakers": [],
+   "deadline": "",
+   "last_checked": "2026-11-06"
   },
   {
    "slug": "cpsy-school-2026",
