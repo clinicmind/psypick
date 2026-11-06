@@ -1,0 +1,77 @@
+{
+ "format": "psypick-muse-v1",
+ "items": [
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "不明",
+   "evidence_quote": "11月21日（六）至11月22日（日），假汐止國泰綜合醫院國際會議廳舉行",
+   "key_points_zh": [
+    "日期：2026年11月21日（六）至11月22日（日）",
+    "地點：汐止國泰綜合醫院國際會議廳",
+    "主題：腦功能的傷害、退化與重啟：研究與臨床實踐",
+    "合辦：國立成功大學腦心智健康與發展研究中心、國泰綜合醫院",
+    "費用與講者名單頁面未列明，詳情見年會專區"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-10-16",
+   "population": [
+    "臨床工作者"
+   ],
+   "source": {
+    "author_name": "社團法人台灣腦心智發展與心理復健學會",
+    "description": "學會公告：115年度會員大會暨學術研討會《腦功能的傷害、退化與重啟：研究與臨床實踐》將於2026年11月21至22日在汐止國泰綜合醫院國際會議廳舉行。",
+    "platform": "web",
+    "title": "社團法人台灣腦心智發展與心理復健學會 - 消息公告 News",
+    "url": "https://sites.google.com/view/tandmr/%E6%B6%88%E6%81%AF%E5%85%AC%E5%91%8A-news"
+   },
+   "summary_zh": "社團法人台灣腦心智發展與心理復健學會115年度會員大會暨學術研討會，主題為《腦功能的傷害、退化與重啟：研究與臨床實踐》，2026年11月21至22日在汐止國泰綜合醫院國際會議廳舉行。研討會邀請多位國內外跨領域專家學者專題演講與實務分享，探討腦心智功能障礙、神經退化疾患至復健介入的最新研究進展與臨床實踐經驗。合辦單位為國立成功大學腦心智健康與發展研究中心及國泰綜合醫院。",
+   "tags": [
+    "會議",
+    "腦心智",
+    "神經心理",
+    "復健",
+    "台灣"
+   ],
+   "title_en": "Taiwan Association for Brain Mind Development and Psychological Rehabilitation Annual Conference 2026",
+   "title_zh": "115年度台灣腦心智發展與心理復健學會會員大會暨學術研討會《腦功能的傷害、退化與重啟：研究與臨床實踐》",
+   "training": {
+    "audience_level": "臨床心理師、神經／復健心理專業人員",
+    "ce_credits": "",
+    "deadline": "",
+    "event_date": "2026-11-21",
+    "format": "實體",
+    "language": "中文",
+    "price": "",
+    "price_tier": "其他",
+    "provider": "社團法人台灣腦心智發展與心理復健學會",
+    "signup_url": "https://sites.google.com/view/tandmr/%E6%B6%88%E6%81%AF%E5%85%AC%E5%91%8A-news",
+    "topic": "腦功能的傷害、退化與重啟：研究與臨床實踐"
+   },
+   "type": "case",
+   "verify_needed": true,
+   "verify_reason": "費用、講者名單與報名截止日頁面未列明"
+  }
+ ],
+ "notes": "F區會議巡查：新收 1 則（台灣腦心智發展與心理復健學會 115 年度年會，11/21–22，未在已收錄名單）。會議按活動日期收錄（未來 6 週內），公告日 2026-10-16 不計入 15 天內容窗口。已收錄會議無變動：HKMFTA 十周年主題會議、榮格研討會、TPA 年會等皆未再交；ABCT、NCPC 香港站、台灣諮商心理學會年會等日期／費用無變動。",
+ "run_date": "2026-11-06",
+ "skipped": [
+  {
+   "reason": "已收錄：HKMFTA 十周年主題會議 11/21–22",
+   "url": "https://www.hkmfta.org/2026-anniversary-conference/"
+  },
+  {
+   "reason": "已收錄：2026 榮格心理學國際研討會 12/12–13",
+   "url": "https://tsap.info/product/%e4%ba%9e%e6%b4%b2%e5%a5%b3%e6%80%a7%ef%bc%9a%e6%a6%ae%e6%a0%bc%e5%bf%83%e7%90%86%e5%ad%b8%e8%a7%80%e9%bb%9e-asian-women/"
+  },
+  {
+   "reason": "已收錄：台灣心理學會第 65 屆年會 10/31–11/01（已結束）",
+   "url": "https://www.tpa-tw.org/2026theme"
+  },
+  {
+   "reason": "第七屆全球生物醫學工程年會 11/20–22：生物醫學工程會議，非心理健康主題",
+   "url": "https://www.gcbme2026.com/"
+  }
+ ],
+ "unreachable_sources": []
+}
