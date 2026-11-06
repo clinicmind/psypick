@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T01:15:33+00:00",
+ "generated_at": "2026-11-06T13:27:53+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,168 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "us-adolescents-anxiety-symptoms-national-survey-one-in-six",
+   "title_zh": "美國全國調查：六分一青少年有中至重度焦慮症狀，逾四成重度者過去一年無接受治療",
+   "title_en": "US adolescents anxiety symptoms national survey one in six",
+   "summary_zh": "2024 年美國全國藥物使用與健康調查（NSDUH），分析 15,730 名 12 至 20 歲青少年，以 GAD-7 量度焦慮症狀。輕度佔 23.7%、中度 9.6%、重度 7.2%，中至重度合共 16.8%，約六分一。重度焦慮青少年中，65.8% 過去一年有重性抑鬱發作、48.2% 有自殺意念、31.0% 過去一個月曾使用物質；41.2% 重度者與 48.3% 中度者在過去一年無接受任何心理健康治療。",
+   "summary_en": "Analysis of the 2024 US National Survey on Drug Use and Health (15,730 adolescents aged 12-20) using the GAD-7: 23.7% had mild, 9.6% moderate and 7.2% severe anxiety symptoms, with moderate-to-severe symptoms combined at 16.8% (about one in six). Among adolescents with severe symptoms, 65.8% had a past-year major depressive episode, 48.2% had past-year suicidal thoughts and 31.0% reported past-month substance use; 41.2% of those with severe and 48.3% with moderate symptoms received no mental health treatment in the past year.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "青少年",
+    "焦慮",
+    "GAD-7",
+    "美國",
+    "求助缺口"
+   ],
+   "first_seen_at": "2026-11-06T13:27:53+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-12T00:00:00+00:00"
+  },
+  {
+   "slug": "modified-psychodynamic-psychotherapy-schizophrenia-spectrum",
+   "title_zh": "RCT：改良心理動力治療加常規治療，可改善思覺失調症譜系患者的心理社會功能（130 人）",
+   "title_en": "Modified psychodynamic psychotherapy schizophrenia spectrum RCT psychosocial functioning",
+   "summary_zh": "柏林 Charité 單中心隨機對照試驗，130 名 18 至 64 歲思覺失調症或情感性思覺失調門診患者，比較改良心理動力治療（MPP-S，最少 30 節）加常規治療與單用常規治療。主要結果心理社會功能（Mini-ICF-APP）：24 個月組間差 −3.45（95% CI −5.51 至 −1.40），36 個月 −4.07（−6.19 至 −1.94），介入組較佳；負性症狀亦有改善。試驗期間兩名參加者自殺身亡（每組一名）。",
+   "summary_en": "A single-centre randomised controlled trial at Charité Berlin randomised 130 outpatients aged 18-64 with schizophrenia or schizoaffective disorder to Modified Psychodynamic Psychotherapy for Schizophrenia (MPP-S, minimum 30 sessions) plus treatment as usual (TAU) or TAU alone. Psychosocial functioning (Mini-ICF-APP) favoured the intervention: between-group differences of -3.45 (95% CI -5.51 to -1.40) at 24 months and -4.07 (-6.19 to -1.94) at 36 months, with negative symptoms also improving. Two participants died by suicide during the trial (one per arm).",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "思覺失調",
+    "心理動力治療",
+    "心理社會功能",
+    "RCT"
+   ],
+   "first_seen_at": "2026-11-06T13:27:53+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-01T00:00:00+00:00"
+  },
+  {
+   "slug": "smartphone-ownership-age-12-eating-disorder-symptoms",
+   "title_zh": "研究：12 歲擁有智能手機的青少年，兩年後出現飲食失調症狀的風險較高（8,957 人）",
+   "title_en": "Smartphone ownership age 12 eating disorder symptoms",
+   "summary_zh": "JAMA Network Open 隊列研究，分析 ABCD 研究 8,957 名青少年。12 歲擁有智能手機者佔 69.5%；至 14 歲時，擁有者出現任何飲食失調症狀的風險較高（RR 1.49）：暴食症狀 RR 1.67、不當補償行為 RR 1.50、自我價值繫於體重 RR 2.03。14 歲時 24.2% 擁有者報告至少一種症狀，對照組為 15.5%。屬觀察性關聯，不能證明手機導致症狀。",
+   "summary_en": "A JAMA Network Open cohort study of 8,957 adolescents in the ABCD Study found that owning a smartphone at age 12 (69.5%) was associated with a higher risk of eating disorder symptoms by age 14 (any symptom RR 1.49): binge-eating symptoms RR 1.67, inappropriate compensatory behaviours RR 1.50, and self-worth tied to weight RR 2.03. At 14, 24.2% of smartphone owners reported at least one symptom versus 15.5% of non-owners. The association is observational and does not prove phones cause symptoms.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "智能手機",
+    "飲食失調",
+    "青少年",
+    "ABCD"
+   ],
+   "first_seen_at": "2026-11-06T13:27:53+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-25T00:00:00+00:00"
+  },
+  {
+   "slug": "cannabinoids-for-mental-disorders-systematic-review",
+   "title_zh": "統合分析：大麻素治療精神障礙證據薄弱，僅少數適應症有低確定性訊號（54 項 RCT）",
+   "title_en": "Cannabinoids for mental disorders systematic review",
+   "summary_zh": "The Lancet Psychiatry 系統性回顧統合 54 項隨機對照試驗、2,477 名參加者。CBD 加 THC 可減輕大麻使用障礙的戒斷症狀（SMD −0.29）與每週大麻用量（−1.00 克），抽動嚴重度下降（−0.68）；失眠睡眠時間與自閉症特質亦有輕微訊號。焦慮、創傷後壓力症、精神病、厭食症、阿片類使用障礙無顯著效益；抑鬱症完全無隨機對照試驗證據。全因不良事件風險較高（OR 1.75，NNTH=7），嚴重不良事件無差異；44% 試驗偏倚風險高，多數結果證據確定性低。",
+   "summary_en": "A Lancet Psychiatry systematic review pooled 54 RCTs with 2,477 participants. Combined CBD and THC reduced cannabis withdrawal symptoms (SMD -0.29) and weekly cannabis use (-1.00 g), and tic severity fell (-0.68); sleep duration in insomnia and autistic traits showed modest signals. There was no significant benefit for anxiety, PTSD, psychotic disorders, anorexia nervosa or opioid use disorder, and no RCT evidence at all for depression. All-cause adverse events were more common (OR 1.75, NNTH=7) with no difference in serious adverse events; 44% of trials had high risk of bias and most outcomes were low-certainty evidence.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "大麻素",
+    "CBD",
+    "THC",
+    "統合分析",
+    "物質使用"
+   ],
+   "first_seen_at": "2026-11-06T13:27:53+00:00",
+   "evidence_level": 4,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-03-16T00:00:00+00:00"
+  },
+  {
+   "slug": "adaa-free-webinar-psychedelics-research-to-real-life",
+   "title_zh": "免費網上講座：Carhart-Harris 談迷幻藥物研究與臨床現實（11 月 18 日）",
+   "title_en": "ADAA free webinar psychedelics research to real life",
+   "summary_zh": "美國焦慮與抑鬱協會（ADAA）首場「研究走進現實」免費網上講座，2026 年 11 月 18 日星期三 12:00–13:00 EDT（港澳 11 月 19 日 00:00–01:00）線上舉行。Robin Carhart-Harris 主講、Greg Fonzo 主持，講解迷幻藥物是甚麼、作用機制，以及現時治療效益與風險，區分臨床事實與傳言。",
+   "summary_en": "The Anxiety & Depression Association of America's first free 'Research to Real Life' webinar, held online on Wednesday 18 November 2026, 12:00-13:00 EDT (00:00-01:00 on 19 November in Hong Kong/Macau). Robin Carhart-Harris presents with Greg Fonzo moderating, covering what psychedelics are, how they work, and the current therapeutic benefits and risks, separating clinical fact from fiction.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "迷幻藥物",
+    "免費網上講座",
+    "ADAA",
+    "Carhart-Harris"
+   ],
+   "first_seen_at": "2026-11-06T13:27:53+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-06T13:27:53+00:00",
+   "training": {
+    "provider": "美國焦慮與抑鬱協會（ADAA）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-18",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  },
   {
    "slug": "ncnu-autumn-forum-neurodiversity-normalisation-reflection-co",
    "title_zh": "2026暨大秋冬家暴論壇：撕下標籤——神經多樣性的正常化反思與共學（11月16、23、30日線上）",
