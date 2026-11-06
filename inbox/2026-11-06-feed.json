@@ -1,0 +1,171 @@
+{
+ "format": "psypick-muse-v1",
+ "items": [
+  {
+   "category": "研究與證據",
+   "evidence_hint": "同儕審查期刊橫斷面研究",
+   "evidence_quote": "moderate or severe anxiety: 16.8%",
+   "key_points_zh": [
+    "JAMA Pediatrics 2026-10-12 線上刊出，DOI 10.1001/jamapediatrics.2026.4702",
+    "2024 年 NSDUH，15,730 名 12–20 歲青少年，GAD-7 量度",
+    "輕度 23.7%、中度 9.6%、重度 7.2%；中至重度合共 16.8%，約六分一",
+    "重度者：65.8% 過去一年有重性抑鬱發作、48.2% 有自殺意念、31.0% 過去一個月曾使用物質",
+    "41.2% 重度者與 48.3% 中度者在過去一年無接受任何心理健康治療",
+    "橫斷面設計，不能判斷因果；GAD-7 是篩檢量表，得分高不等於焦慮症診斷"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-10-12",
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "us-adolescents-anxiety-symptoms-national-survey-one-in-six",
+   "source": {
+    "author_name": "Bommersbach 等（威斯康星大學／康涅狄格大學）",
+    "description": "期刊原文頁：2024 年 NSDUH 全國調查，15,730 名 12–20 歲青少年的焦慮症狀盛行率、共病與治療使用情況。",
+    "platform": "web",
+    "title": "Estimates of Anxiety Symptoms Among US Adolescents (JAMA Pediatrics; DOI: 10.1001/jamapediatrics.2026.4702)",
+    "url": "https://jamanetwork.com/journals/jamapediatrics/article-abstract/2855207"
+   },
+   "title_zh": "美國全國調查：六分一青少年有中至重度焦慮症狀，逾四成重度者過去一年無接受治療"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "隨機對照試驗",
+   "evidence_quote": "could improve psychosocial functioning",
+   "key_points_zh": [
+    "The Lancet Psychiatry 2026 年 10 月號，13:870–83；ClinicalTrials.gov NCT02576613",
+    "單中心 RCT，130 名 18–64 歲思覺失調症或情感性思覺失調門診患者",
+    "MPP-S 最少 30 節加常規治療，對照為單用常規治療；評估者設盲",
+    "心理社會功能 Mini-ICF-APP：24 個月組間差 −3.45，36 個月 −4.07",
+    "負性症狀亦有改善；不良事件頻率兩組相近",
+    "試驗期間兩名參加者自殺身亡（每組一名）；單中心小樣本，需多中心重複驗證"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-10-01",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "modified-psychodynamic-psychotherapy-schizophrenia-spectrum",
+   "source": {
+    "author_name": "Montag 等（Charité 柏林）",
+    "description": "期刊原文頁：MPP-S 加常規治療對比單用常規治療的隨機對照試驗，含主要結果、負性症狀與安全性。",
+    "platform": "web",
+    "title": "The efficacy of modified psychodynamic psychotherapy for patients with schizophrenia-spectrum disorders in Germany: a prospective, single-centre, assessor-blinded, parallel-group, randomised controlled trial (Lancet Psychiatry 2026;13:870–83)",
+    "url": "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(26)00240-3/fulltext"
+   },
+   "title_zh": "RCT：改良心理動力治療加常規治療，可改善思覺失調症譜系患者的心理社會功能（130 人）"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "同儕審查期刊隊列研究",
+   "evidence_quote": "any ED symptom: RR 1.49 at age 14",
+   "key_points_zh": [
+    "JAMA Network Open 2026-09-25 線上刊出，DOI 10.1001/jamanetworkopen.2026.37897",
+    "ABCD 研究，8,957 名青少年，於 12 歲與 14 歲評估",
+    "12 歲擁有智能手機者佔 69.5%",
+    "14 歲時任何飲食失調症狀風險較高（RR 1.49）；暴食 RR 1.67、補償行為 RR 1.50、自我價值繫於體重 RR 2.03",
+    "14 歲時至少一種症狀：擁有者 24.2%，非擁有者 15.5%",
+    "觀察性研究，不能證明因果；症狀不等於飲食失調診斷"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-09-25",
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "smartphone-ownership-age-12-eating-disorder-symptoms",
+   "source": {
+    "author_name": "Nagata 等（加州大學三藩市分校）",
+    "description": "期刊全文（PMC）：ABCD 隊列研究，12 歲擁有智能手機與 14 歲飲食失調症狀的關聯，含各症狀的風險比。",
+    "platform": "web",
+    "title": "Smartphone Ownership and Eating Disorder Symptoms in Early Adolescence (JAMA Network Open; DOI: 10.1001/jamanetworkopen.2026.37897)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13615465/"
+   },
+   "title_zh": "研究：12 歲擁有智能手機的青少年，兩年後出現飲食失調症狀的風險較高（8,957 人）"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "同儕審查期刊系統性回顧與統合分析",
+   "evidence_quote": "routine use is currently rarely justified",
+   "key_points_zh": [
+    "The Lancet Psychiatry 2026 年 4 月號，13(4):304–315；DOI 10.1016/S2215-0366(26)00015-5",
+    "54 項 RCT，2,477 名參加者；搜尋 1980 年至 2025 年 5 月文獻",
+    "CBD＋THC：大麻戒斷症狀 SMD −0.29、每週用量 −1.00 克；抽動嚴重度 −0.68",
+    "焦慮、PTSD、精神病、厭食症、阿片類使用障礙無顯著效益；抑鬱症無 RCT 證據",
+    "全因不良事件 OR 1.75（NNTH=7）；嚴重不良事件無差異",
+    "44% 試驗偏倚風險高，多數結果證據確定性低；試驗期平均約五週"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-03-16",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "cannabinoids-for-mental-disorders-systematic-review",
+   "source": {
+    "author_name": "Wilson 等（悉尼大學 Matilda Centre）",
+    "description": "PubMed 摘要：54 項 RCT 的系統性回顧與統合分析，含各適應症的效果量、偏倚風險與不良事件。",
+    "platform": "web",
+    "title": "The efficacy and safety of cannabinoids for the treatment of mental disorders and substance use disorders: a systematic review and meta-analysis (Lancet Psychiatry; DOI: 10.1016/S2215-0366(26)00015-5)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41856154/"
+   },
+   "title_zh": "統合分析：大麻素治療精神障礙證據薄弱，僅少數適應症有低確定性訊號（54 項 RCT）"
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "免費網上講座",
+   "evidence_quote": "separate clinical fact from fiction",
+   "key_points_zh": [
+    "ADAA 首場「Research to Real Life」系列講座",
+    "2026 年 11 月 18 日星期三 12:00–13:00 EDT（港澳 11 月 19 日 00:00–01:00），線上 60 分鐘",
+    "講者：Robin Carhart-Harris（加州大學神經學與精神科教授），主持 Greg Fonzo",
+    "免費參加；內容：迷幻藥物定義、作用機制、現時效益與風險",
+    "公開教育講座，非專為臨床培訓而設；迷幻藥物輔助治療在港澳未屬常規服務",
+    "頁面標示 EDT，惟美國夏令時間已於 11 月 1 日結束，開講時間以主辦方通知為準"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-11-06",
+   "population": [
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "adaa-free-webinar-psychedelics-research-to-real-life",
+   "source": {
+    "author_name": "美國焦慮與抑鬱協會（ADAA）",
+    "description": "活動頁：2026 年 11 月 18 日免費網上講座的時間、講者簡介與學習目標。",
+    "platform": "web",
+    "title": "Psychedelics: Research to Real Life Series (ADAA)",
+    "url": "https://adaa.org/webinar/consumer/psychedelics-research-real-life-series"
+   },
+   "title_zh": "免費網上講座：Carhart-Harris 談迷幻藥物研究與臨床現實（11 月 18 日）"
+  }
+ ],
+ "notes": "Feed 工具在本 run 不可用（與 11-01 至 11-05 run 相同），候選經公開搜尋標題預篩、逐項開原頁核實。JAMA Pediatrics DOI 連結在 browser.open 回 403，經 browser.browse 讀 JAMA 原文頁核實全部數字。",
+ "run_date": "2026-11-06",
+ "skipped": [
+  "APT 情緒失調網上講座 11/11：站內已有",
+  "荷光性諮商課 11/10：站內已有（昨日上架）",
+  "Bessel van der Kolk 講座 11/22：站內已有（昨日上架）",
+  "Telehealth 臨床督導論壇 11/13：站內已有",
+  "Drexel 親密伴侶暴力基礎 11/12：站內已有",
+  "CBT-SP 自殺預防培訓 11/04–05：日期已過",
+  "FMHCA 網上講座：非會員須付費，跳過",
+  "Ellen Hendriksen 完美主義講座 11/10：家長系列，跳過",
+  "Cook Center 家長課程：家長對象，跳過",
+  "智能手機 Pediatrics 研究（Barzilay，2026 年 1 月號）：改收較新的 Nagata 飲食失調研究"
+ ],
+ "unreachable_sources": [
+  "https://doi.org/10.1001/jamapediatrics.2026.4702（browser.open 403，經 browser.browse 讀 JAMA 原文頁核實）"
+ ]
+}
