@@ -1,0 +1,627 @@
+{
+ "format": "psypick-muse-v1",
+ "run_date": "2026-11-06",
+ "items": [
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+    "platform": "web"
+   },
+   "page_date": "2026-11-05",
+   "evidence_quote": "Introducing Inkling 2 Small",
+   "figure": {
+    "person": "mira-murati",
+    "kind": "產品發布",
+    "summary_zh": "Thinking Machines Lab 發布第二代模型 Inkling 2 Small，總參數 594B、每 token 激活 17B 的混合專家模型，支援圖像輸入與可變推理力度。初期經 Tinker 提供，下週完成外部安全測試後以 Apache 2.0 授權開放權重。",
+    "quote_en": "Today we are introducing our second model generation with Inkling 2 Small. It is a Mixture-of-Experts model with 594B total parameters, 17B active.",
+    "topics": [
+     "Inkling 2 Small",
+     "混合專家模型",
+     "開源權重"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://mastersofscale.com/video/google-deepminds-demis-hassabis-how-ai-could-become-dangerous-with-reid-hoffman-summit-26/",
+    "platform": "web"
+   },
+   "page_date": "2026-11-05",
+   "evidence_quote": "How AI could become dangerous",
+   "figure": {
+    "person": "demis-hassabis",
+    "kind": "訪談",
+    "summary_zh": "Hassabis 在 Masters of Scale Summit '26 與 Reid Hoffman 對談，指出世界尚未為下一波 AI 做好準備，並談及如何有效治理前沿 AI。對談於 10 月在三藩市現場錄製，11 月 5 日上線。",
+    "quote_en": "Google DeepMind co-founder and chair Demis Hassabis says the world is not ready yet for what's next in AI.",
+    "topics": [
+     "AI 治理",
+     "前沿 AI 風險"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://runtimewire.com/article/perplexity-teammates-computer-agents-ongoing-work",
+    "platform": "web"
+   },
+   "page_date": "2026-11-05",
+   "evidence_quote": "Teammates work for you.",
+   "figure": {
+    "person": "aravind-srinivas",
+    "kind": "產品發布",
+    "summary_zh": "Perplexity 在 Computer 內推出 Teammates——可長期承擔持續工作的具名智能體，能主動運用任務、技能、記憶與工具。現已向 Max 訂戶開放網頁版。",
+    "quote_en": "Teammates work for you. They take on jobs, and work proactively using your Computer tasks, skills, memory, and tools.",
+    "topics": [
+     "Perplexity Teammates",
+     "持續智能體"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://x.com/alexandr_wang/status/2118411432161403375",
+    "platform": "x"
+   },
+   "page_date": "2026-11-05",
+   "evidence_quote": "muse voice is out for everyone",
+   "figure": {
+    "person": "alexandr-wang",
+    "kind": "貼文",
+    "summary_zh": "Wang 在 X 宣布，Meta 個人 AI 助手 Muse 的語音與視像通話功能現已向全美用戶開放，用戶可致電或視像對話 Muse 尋求建議。",
+    "quote_en": "muse voice is out for everyone in the US! you can now phone call and video chat with your muse whenever you need.",
+    "topics": [
+     "Meta Muse",
+     "語音視像"
+    ]
+   },
+   "tier_hint": "A",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/03/nvidia-is-happy-to-take-your-money-whether-youre-using-open-or-closed-models-says-jensen-huang/5307368",
+    "platform": "web"
+   },
+   "page_date": "2026-11-03",
+   "evidence_quote": "We love closed models",
+   "figure": {
+    "person": "jensen-huang",
+    "kind": "訪談",
+    "summary_zh": "黃仁勳 11 月 3 日在三藩市 Fireworks Forge 活動上與 Fireworks.ai 行政總裁對談。他表示封閉前沿模型有其位置，但世界大部分價值來自針對特定領域知識訓練的專業智能；他又預測，明年業界談論的大突破將是硬件在環（hardware in the loop）的機械人系統。",
+    "quote_en": "The opportunity for artificial superintelligence is already here. By taking an open frontier model, adapting it, and providing it with your domain knowledge, your access to your specialized tools, and the proper evaluation, you should be able to create essentially a superintelligence.",
+    "topics": [
+     "開放模型",
+     "專業智能",
+     "超級智能"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.datacenterdynamics.com/en/news/microsoft-has-ai-gpus-sitting-in-inventory-because-it-lacks-the-power-necessary-to-install-them/",
+    "platform": "web"
+   },
+   "page_date": "2026-11-04",
+   "evidence_quote": "it's not a compute glut, but it's power",
+   "figure": {
+    "person": "satya-nadella",
+    "kind": "訪談",
+    "summary_zh": "納德拉在 Bg2 Pod 訪問中與 Altman 一同受訪時表示，AI 行業目前最大的問題不是算力過剩，而是缺乏電力支援數據中心部署。微軟有 AI GPU 因無足夠電力安裝而閒置在庫存中。",
+    "quote_en": "The biggest issue we are now having is not a compute glut, but it's power – it's sort of the ability to get the builds done fast enough close to power",
+    "topics": [
+     "數據中心電力",
+     "AI 算力"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://x.com/mustafasuleyman/status/2118381163136123019",
+    "platform": "x"
+   },
+   "page_date": "2026-11-05",
+   "evidence_quote": "Deeply concerning to me...",
+   "figure": {
+    "person": "mustafa-suleyman",
+    "kind": "貼文",
+    "summary_zh": "蘇萊曼在 X 發文，對特拉華州擬允許 AI 智能體經營企業的提案表示深切關注，呼籲各方非常謹慎。提案指特拉華 AI 公司將成為獨立法律實體，日常事務由 AI 智能體而非人類管理。",
+    "quote_en": "Deeply concerning to me... Delaware proposal to let agents run businesees... we should be very cautious here",
+    "topics": [
+     "AI 智能體",
+     "企業治理",
+     "特拉華州"
+    ]
+   },
+   "tier_hint": "A",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://technologistmag.com/hugging-faces-ceo-says-his-pdoom-is-close-to-zero/",
+    "platform": "web"
+   },
+   "page_date": "2026-11-04",
+   "evidence_quote": "Most of the risk is actually created",
+   "figure": {
+    "person": "clement-delangue",
+    "kind": "演講",
+    "summary_zh": "德朗格在邁阿密 WIRED World Fair 上表示，他評估 AI 導致災難的機率接近零。他認為真正的風險並非來自開放生態，而是少數大公司閉門開發前沿模型；開放模型反而是緩解風險的力量。",
+    "quote_en": "Most of the risk is actually created by a couple of players building behind closed doors. Most of the mitigation of this risk will be the full ecosystem, meaning everyone being able to build in the open.",
+    "topics": [
+     "P(doom)",
+     "開放模型",
+     "AI 安全"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+    "platform": "web"
+   },
+   "page_date": "2026-11-03",
+   "evidence_quote": "My gut is that we're still in control",
+   "figure": {
+    "person": "geoffrey-hinton",
+    "kind": "訪談",
+    "summary_zh": "辛頓在《衛報》訪問中表示，人類可能本來不發展 AI 會更好，並預測今年底或明年會出現一次「車諾比」級別的 AI 事件，例如針對電力或金融系統的攻擊。他呼籲設立類似美國 FDA 的獨立監管機構，在模型發布前檢查其利大於弊。",
+    "quote_en": "Either later this year or next year we'll see Chornobyl, and that may be enough to make people really pay attention.",
+    "topics": [
+     "AI 風險",
+     "AI 監管"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://x.com/drfeifei/status/2118438515474374904",
+    "platform": "x"
+   },
+   "page_date": "2026-11-05",
+   "evidence_quote": "Real time Atlas! Try it now!",
+   "figure": {
+    "person": "fei-fei-li",
+    "kind": "產品發布",
+    "summary_zh": "李飛飛在 X 轉發 World Labs 公告，宣傳 Frameboy 發布。Frameboy 是 Atlas 世界模型的即時體驗 demo，以高度優化的 Atlas 版本在雲端 GPU 運行，最高每秒 15 幀將畫面串流至瀏覽器，讓用戶即時操控鏡頭探索生成的世界。",
+    "quote_en": "Real time Atlas! Try it now!",
+    "topics": [
+     "Frameboy",
+     "Atlas 世界模型"
+    ]
+   },
+   "tier_hint": "A",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.guestvine.fm/p/yann-lecun",
+    "platform": "web"
+   },
+   "page_date": "2026-11-04",
+   "evidence_quote": "The Platonic Representation Hypothesis",
+   "figure": {
+    "person": "yann-lecun",
+    "kind": "訪談",
+    "summary_zh": "勒昆在 Marginalia 播客與 Randall Balestriero 一同講解柏拉圖表徵假說與 JEPA，內容圍繞二人 10 月 29 日發表的論文。該論文提出 JEPA 在良好視角下訓練可收斂至同一表徵。",
+    "quote_en": "",
+    "topics": [
+     "JEPA",
+     "柏拉圖表徵假說"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": true,
+   "verify_reason": "集數標題與日期僅據 GuestVine 追蹤頁核實，未打開 Marginalia 原始音頻頁"
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+    "platform": "web"
+   },
+   "page_date": "2026-11-03",
+   "evidence_quote": "Qwen 3.8 27B on my laptop",
+   "figure": {
+    "person": "simon-willison",
+    "kind": "文章",
+    "summary_zh": "Willison 親自複現《Sparks of Weight-Space Programming》實驗，讓在筆電上跑的 Qwen 3.8 27B 只看模型權重數字就猜出遊戲。Pac-Man 猜中，Pong、Breakout 亦猜中，Freeway 失敗。他提醒不應就此斷言原始碼時代已經結束。",
+    "quote_en": "Game: A simplified Pac-Man-style gridworld: an agent moves through a fixed 8x8 maze with central and corner wall blocks, moving objects/ghosts, and reward targets/pellets.",
+    "topics": [
+     "權重空間編程",
+     "本地模型"
+    ]
+   },
+   "tier_hint": "A",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+    "platform": "web"
+   },
+   "page_date": "2026-11-04",
+   "evidence_quote": "Release: datasette-apps 0.3a0",
+   "figure": {
+    "person": "simon-willison",
+    "kind": "產品發布",
+    "summary_zh": "Datasette Apps 0.3a0 加入在 Datasette 內託管及編輯自訂 HTML 應用，並強化與 Datasette Agent 的整合，可在對話中以 # 標記應用。",
+    "quote_en": "Apps can now be tagged in Datasette Agent chat messages by typing #, which autocompletes from the apps the user has permission to view.",
+    "topics": [
+     "Datasette",
+     "AI 代理"
+    ]
+   },
+   "tier_hint": "A",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+    "platform": "web"
+   },
+   "page_date": "2026-11-04",
+   "evidence_quote": "How big is the open model economy today?",
+   "figure": {
+    "person": "nathan-lambert",
+    "kind": "文章",
+    "summary_zh": "Lambert 發表首份開放模型經濟研究筆記，估算開放模型推理市場規模。以 Baseten、Fireworks、Together AI 等推理平台的公開數據為指標，指出 Fireworks 單一客製模型推理業務每日已超過 40T tokens。",
+    "quote_en": "For example, Fireworks announced at their first company conference this week that they're serving more than 40T tokens per day to customers' customized models.",
+    "topics": [
+     "開放模型",
+     "推理市場"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.dwarkesh.com/p/clocktower",
+    "platform": "web"
+   },
+   "page_date": "2026-11-05",
+   "evidence_quote": "AIs have to lie to win",
+   "figure": {
+    "person": "dwarkesh-patel",
+    "kind": "文章",
+    "summary_zh": "Dwarkesh 用約 2 萬美元 API 額度，讓不同模型互玩 386 場社交欺騙遊戲《Blood on the Clocktower》，建立新基準。結果 GPT-6 Astra 領先 Claude Opus 4.6 約 430 Elo 分，約等於 92% 勝率；他同時開放程式碼與對戰網站。",
+    "quote_en": "That means that Astra wins about 92% of the games it plays against Opus 4.6.",
+    "topics": [
+     "基準測試",
+     "多智能體",
+     "欺騙推理"
+    ]
+   },
+   "tier_hint": "A",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.psychiatrictimes.com/view/brain-trust-bessel-van-der-kolk-md-on-complex-ptsd-attachment-and-the-limits-of-pharmacotherapy",
+    "platform": "web"
+   },
+   "page_date": "2026-11-04",
+   "evidence_quote": "Trauma changes your brain",
+   "figure": {
+    "person": "bessel-van-der-kolk",
+    "kind": "訪談",
+    "summary_zh": "van der Kolk 在 Psychiatric Times 的 Brain Trust 訪談中指出，藥物單獨治療複雜性創傷效果有限。他談到依附創傷、EMDR、身體取向療法，以及迷幻藥輔助治療的新角色。",
+    "quote_en": "Trauma changes your brain and changes your perspectives on whatever is going on with you right now",
+    "topics": [
+     "複雜性創傷",
+     "藥物治療限度",
+     "迷幻藥輔助治療"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://creators.spotify.com/pod/profile/janina-fisher-phd",
+    "platform": "web"
+   },
+   "page_date": "2026-11-04",
+   "evidence_quote": "In Conversation with Janina Fisher",
+   "figure": {
+    "person": "janina-fisher",
+    "kind": "訪談",
+    "summary_zh": "Fisher 在本人 Podcast 新一集與關係治療師 Terry Real 對談，探討童年求生策略如何在成年親密關係中變成衝突循環。兩人談到關係正念，以及同理與問責並重的重要性。",
+    "quote_en": "What if the very strategies that helped you survive childhood are the same ones sabotaging your relationships today?",
+    "topics": [
+     "童年求生策略",
+     "伴侶關係",
+     "關係正念"
+    ]
+   },
+   "tier_hint": "A",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://theembodylab.com/products/healing-trauma-through-the-body",
+    "platform": "web"
+   },
+   "page_date": "2026-11-06",
+   "evidence_quote": "Nov 6, 12, 20 & Dec 4 · Live online",
+   "figure": {
+    "person": "peter-levine",
+    "kind": "演講",
+    "summary_zh": "Levine 主講的四節線上工作坊今日（11 月 6 日）開課，首節主題為哀傷的身體取向處理。其後三節為依附創傷（11 月 12 日）、創傷與靈性（11 月 20 日）、複雜性創傷（12 月 4 日），每節包括現場一對一示範。收費 167 美元，附 6 CE 學分。",
+    "quote_en": "Learn directly from Peter Levine, the developer of Somatic Experiencing®, across four sessions exploring grief, attachment trauma, spiritual disconnection, and complex trauma.",
+    "topics": [
+     "身體經驗取向",
+     "哀傷",
+     "複雜性創傷"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": true,
+   "verify_reason": "活動頁無發布日期，page_date 取首場日期 2026-11-06；工作坊是否今日才公布未能核實"
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://podcasts.apple.com/us/podcast/296-avoidance-feeds-anxiety-when-to-make-teens-do-hard/id1525689066?i=1000799567500",
+    "platform": "web"
+   },
+   "page_date": "2026-11-03",
+   "evidence_quote": "296: Avoidance Feeds Anxiety",
+   "figure": {
+    "person": "lisa-damour",
+    "kind": "訪談",
+    "summary_zh": "Damour 與焦慮症專家 Meredith Elkins 討論青少年逃避上學的問題。逃避會令焦慮惡化，家長可從困擾程度、持續時間及影響程度三方面，分辨正常的困難時期與需要介入的臨床焦慮。",
+    "quote_en": "look at distress, duration, and how much it's getting in the way",
+    "topics": [
+     "青少年焦慮",
+     "逃避行為"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://podcastrex.com/shows/good-inside-with-dr-becky/youre-too-sensitive-isnt-helpful-heres-what-is-with-dr-sasha-hamdani",
+    "platform": "web"
+   },
+   "page_date": "2026-11-03",
+   "evidence_quote": "You're Too Sensitive",
+   "figure": {
+    "person": "becky-kennedy",
+    "kind": "訪談",
+    "summary_zh": "Becky 訪問精神科醫生 Sasha Hamdani，談拒絕敏感性焦慮（RSD）。敏感是神經生物學特質，不是缺點。家長可把敏感重新理解為「超級感應器」，先安撫情緒再解決問題。",
+    "quote_en": "even as I struggle on the outside, I remain good inside.",
+    "topics": [
+     "拒絕敏感性焦慮",
+     "高度敏感孩子"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://podcasts.apple.com/us/podcast/parenting-mistakes-we-can-still-fix-with-dr-becky-kennedy/id1378725018?i=1000799569063",
+    "platform": "web"
+   },
+   "page_date": "2026-11-03",
+   "evidence_quote": "We're Still Learning About Parenting",
+   "figure": {
+    "person": "becky-kennedy",
+    "kind": "訪談",
+    "summary_zh": "Becky 以嘉賓身份在 Laugh Lines 節目談家長仍可修正的教養錯誤，強調連結比事事做對更重要。內容亦談及 ADHD 孩子與高度敏感孩子的教養。",
+    "quote_en": "talk about the parenting mistakes we can still fix and why connection matters more than getting everything right",
+    "topics": [
+     "教養錯誤",
+     "親子連結"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://www.goloudnow.com/podcasts/the-a16z-show-381/andrew-hubermans-three-rules-for-better-health-and-focus-616816",
+    "platform": "web"
+   },
+   "page_date": "2026-11-03",
+   "evidence_quote": "Three Rules for Better Health and Focus",
+   "figure": {
+    "person": "andrew-huberman",
+    "kind": "訪談",
+    "summary_zh": "Huberman 以嘉賓身份接受 a16z 訪問，提出三項最重要的健康習慣：起床後盡快接觸明亮光線、阻力訓練，以及盡量提升睡眠質素。他亦提醒，過度追求每項健康指標反而可能影響生活。",
+    "quote_en": "get bright light shortly after waking, resistance train, and make the sleep you can get as high-quality as possible",
+    "topics": [
+     "晝夜節律",
+     "阻力訓練",
+     "睡眠"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://podcastrex.com/shows/chris-williamsons-podcast/ep-147-how-effective-are-longevity-dr-ugs-andrew-huberman-chris-williamson",
+    "platform": "web"
+   },
+   "page_date": "2026-11-03",
+   "evidence_quote": "How Effective Are Longevity Drugs?",
+   "figure": {
+    "person": "andrew-huberman",
+    "kind": "訪談",
+    "summary_zh": "Huberman 談長壽藥物與補充品的實證現況。他表示自己服用舌下 NMN 是為了頭髮、指甲生長及早上精神，而非延長壽命；因人體數據不足而避用 rapamycin，因會引致低血糖而拒用 metformin 及 berberine。",
+    "quote_en": "he takes sublingual NMN for hair/nail growth and morning energy but not to extend lifespan",
+    "topics": [
+     "長壽藥物",
+     "NMN",
+     "補充品"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://shows.acast.com/rethinking/episodes/how-to-escape-your-echo-chamber-with-utah-governor-spencer-c",
+    "platform": "web"
+   },
+   "page_date": "2026-11-03",
+   "evidence_quote": "How to disagree better",
+   "figure": {
+    "person": "adam-grant",
+    "kind": "訪談",
+    "summary_zh": "Grant 在其主持的 ReThinking 節目訪問猶他州州長 Spencer Cox。Cox 認為化解政治兩極化的關鍵不是尋求共識，而是不帶輕蔑地表達不同意見。兩人亦談及如何走出同溫層，以及防範人工智能風險。",
+    "quote_en": "the key to depolarization isn't consensus—it's disagreeing without contempt",
+    "topics": [
+     "政治兩極化",
+     "建設性分歧"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://podcastrex.com/shows/the-jefferson-fisher-podcast/friendship-expert-3-types-of-friends-every-person-needs",
+    "platform": "web"
+   },
+   "page_date": "2026-11-03",
+   "evidence_quote": "3 Types of Friends Every Person Needs",
+   "figure": {
+    "person": "adam-grant",
+    "kind": "訪談",
+    "summary_zh": "Grant 談成人友誼的科學，配合新書《Vibe》。約一半你視為朋友的人並不視你為朋友。友誼可分為盟友、玩伴及知己三類，分散需求有助提升幸福感；適度的摩擦反而能鞏固關係。",
+    "quote_en": "Sociologists have found repeatedly that about half the people you name as friends do not see you as a friend back.",
+    "topics": [
+     "成人友誼",
+     "新書 Vibe"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "type": "figure_update",
+   "source": {
+    "url": "https://podcasts.apple.com/us/podcast/adam-grant-how-to-feel-less-lonely-and-build-deeper/id1782960381?i=1000799581425",
+    "platform": "web"
+   },
+   "page_date": "2026-11-03",
+   "evidence_quote": "How to Feel Less Lonely",
+   "figure": {
+    "person": "adam-grant",
+    "kind": "訪談",
+    "summary_zh": "Grant 在 The Oprah Podcast 談新書《Vibe》，解釋人際連結的科學，以及何謂與人建立「vibe」。節目亦訪問太空人 Cady Coleman 與 NBA 名宿 Joe Dumars，談信任與團隊默契。",
+    "quote_en": "Adam Grant explains the science behind human connection and the surprising secrets about what it means to create a “vibe” with another person.",
+    "topics": [
+     "人際連結",
+     "新書 Vibe"
+    ]
+   },
+   "tier_hint": "B",
+   "verify_needed": false,
+   "verify_reason": ""
+  }
+ ],
+ "skipped": [
+  {
+   "url": "https://wisevoter.com/world/2026/11/02/openai-altman-ai-smarter-than-top-scientists",
+   "reason": "2026-11-02，窗口外"
+  },
+  {
+   "url": "https://www.martechai.com/ai-news/openai-expands-uae-presence-with-four-deals-as-sam-altman-visits-abu-dhabi-3708.html",
+   "reason": "已收錄"
+  },
+  {
+   "url": "https://wisevoter.com/world/2026/11/02/mistral-warns-europe-ai-model-access",
+   "reason": "2026-11-02，窗口外"
+  },
+  {
+   "url": "https://fourweekmba.com/ai-perplexity-says-its-agent-got-3-5x-ad-revenue-on-2-1x-spend/",
+   "reason": "第三方報道的單一客戶廣告成效宣稱，未開原帖"
+  },
+  {
+   "url": "https://self-compassion.org/event/conversation-with-jack-kornfield-nov-4-2026/",
+   "reason": "活動頁約 213 天前發布，非窗口內新發布"
+  },
+  {
+   "url": "https://podcastrex.com/shows/huberman-lab/essentials-cold-heat-exposure-for-metabolic-health-dr-susanna-soberg",
+   "reason": "舊訪問重溫，非新內容"
+  }
+ ],
+ "unreachable_sources": [
+  {
+   "name": "B站搜索API（李飛飛、吳恩達）",
+   "url": "https://api.bilibili.com/x/web-interface/search/type",
+   "problem": "B站風控攔截"
+  },
+  {
+   "name": "X 原帖直接打開",
+   "url": "https://x.com/",
+   "problem": "要登入；三則原帖（Suleyman、Fei-Fei Li、Wang）改用 Jina Reader 核實"
+  }
+ ],
+ "notes": "AIHOT 預篩讀取最新 30 則（7 天窗口）＋5 人定向搜尋，鎖定 3 條線索並開原文核實（Mira Murati／TML Inkling 2 Small、李飛飛／Frameboy、蘇萊曼／特拉華提案）；AIHOT 摘要絕無抄入交付。未有「已收錄」比對檔，已對照網站 figures.json（main 分支，35 則）去重。Sue Johnson 為已逝者，無本人新動態。Lambert 一則全文為付費內容，只核對公開預覽部分。Levine、LeCun 兩則保留 verify_needed 標記。另：Esther Perel 最新一集為 2026-11-02，窗口外；Bengio 柏林科學週演講於巡查時尚未舉行。"
+}
