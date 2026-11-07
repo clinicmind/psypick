@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T13:27:53+00:00",
+ "generated_at": "2026-11-07T13:58:54+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,162 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "relax-perinatal-digital-intervention-prevents-increasing-anx",
+   "title_zh": "RCT：孕期數碼治療 RELAX 可減低焦慮惡化，八週 GAD-7 平均低 1.5 分（268 人）",
+   "title_en": "RELAX perinatal digital intervention prevents increasing anxiety RCT",
+   "summary_zh": "倫敦國王學院主導的二期隨機對照試驗，268 名高反覆負面思考、輕至中度焦慮的孕婦（16–28 週），比較自導式數碼治療 RELAX（八週 12 節：8 節網上＋4 節 SMS，含詮釋偏誤修正訓練）加常規照顧與單用常規照顧。八週時 RELAX 組 GAD-7 平均低 1.5 分（95% CI −2.4 至 −0.6；效應量 −0.42），抑鬱（PHQ-9 −0.8、EPDS −1.1）、反覆負面思考（−2.7）、憂慮（−3.6）與圍產期焦慮（PASS −5.5）亦較低；焦慮惡化者常規組佔 8.2%，RELAX 組只佔 1.5%。至 36 週時，一般焦慮、產後抑鬱與反覆負面思考的效果維持。",
+   "summary_en": "A phase 2b randomised clinical trial led by King's College London randomised 268 pregnant participants with high repetitive negative thinking and up to moderate anxiety (16-28 weeks' gestation) to the self-led digital intervention RELAX (12 sessions over 8 weeks: 8 online plus 4 SMS sessions, including cognitive bias modification for interpretation) plus usual care or usual care alone. At 8 weeks, GAD-7 was 1.5 points lower in the RELAX arm (95% CI -2.4 to -0.6; effect size -0.42), with depression (PHQ-9 -0.8, EPDS -1.1), repetitive negative thinking (-2.7), worry (-3.6) and perinatal anxiety (PASS -5.5) also lower; anxiety deteriorated in 8.2% of the usual-care arm versus 1.5% of the RELAX arm. Effects on general anxiety, postnatal depression and repetitive negative thinking were sustained at 36 weeks.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "孕期焦慮",
+    "數碼治療",
+    "RCT",
+    "反覆負面思考",
+    "預防"
+   ],
+   "first_seen_at": "2026-11-07T13:58:54+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-04T00:00:00+00:00"
+  },
+  {
+   "slug": "body-size-trajectories-childhood-to-adulthood-depression-anx",
+   "title_zh": "研究：童年體型偏離平均與成年抑鬱焦慮風險較高，成年體重正常者風險無顯著差異（368,756 人）",
+   "title_en": "Body size trajectories childhood to adulthood depression anxiety risk UK Biobank",
+   "summary_zh": "英國生物樣本庫（UK Biobank）前瞻性隊列研究，368,756 名 40–69 歲成人，入組時無抑鬱或焦慮診斷，追蹤中位逾 13 年。10 歲時自述體型偏瘦者，成年抑鬱風險高 9%、焦慮高 13%；偏胖者抑鬱高 19%、焦慮高 11%。成年體重是主導因素：超重者抑鬱高 18%，肥胖者抑鬱高 52%、焦慮高 15%；童年偏瘦至成年肥胖組風險最高（抑鬱高 73%、焦慮高 33%）。童年偏胖但成年體重正常者，風險與一直平均者無顯著差異；成年 BMI 解釋童年偏胖與成年抑鬱關聯的約 45%。",
+   "summary_en": "A UK Biobank prospective cohort study followed 368,756 adults aged 40-69 with no depression or anxiety diagnosis at enrolment for a median of over 13 years. Recalling a thinner-than-average body size at age 10 was associated with 9% higher depression risk and 13% higher anxiety risk in adulthood; a plumper-than-average childhood size with 19% higher depression and 11% higher anxiety risk. Adult weight was the dominant factor: overweight adults had 18% higher depression risk, and adults with obesity 52% higher depression and 15% higher anxiety risk; the thinner-in-childhood to obese-in-adulthood group had the highest risks (depression +73%, anxiety +33%). Participants plumper in childhood but at normal weight as adults showed no statistically significant excess risk; adult BMI explained about 45% of the link between childhood plumpness and adult depression.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "體重",
+    "體像",
+    "抑鬱",
+    "焦慮",
+    "UK Biobank"
+   ],
+   "first_seen_at": "2026-11-07T13:58:54+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-05T00:00:00+00:00"
+  },
+  {
+   "slug": "single-dose-mebufotenin-nasal-spray-treatment-resistant-depr",
+   "title_zh": "二期試驗：單劑迷幻藥鼻噴霧 mebufotenin 可快速減輕難治抑鬱，效果維持八週（193 人）",
+   "title_en": "Single dose mebufotenin nasal spray treatment-resistant depression phase 2b",
+   "summary_zh": "JAMA 二期隨機雙盲試驗，193 名 18–75 歲中至重度難治抑鬱成人（本集發作中 2–5 種抗抑鬱藥無效），於澳洲、歐洲與美國 38 個中心接受單劑鼻噴 mebufotenin benzoate（8 mg、12 mg）或低劑量對照（0.3 mg），輔以心理支援。29 天時 MADRS：12 mg 組降 11.1 分、8 mg 組降 12.5 分，對照組降 5.5 分；12 mg 組平均差 −5.3（95% CI −8.9 至 −1.8）。反應率 34.8%（8 mg）與 34.2%（12 mg），對照組 12.2%；緩解率 26% 與 18%，對照組 8%。效果自用藥後第 2 天出現，維持至第 57 天；八成以上活性組參加者於兩小時內達到可出院標準。",
+   "summary_en": "A JAMA phase 2b randomised, double-blind trial enrolled 193 adults aged 18-75 with moderate-to-severe treatment-resistant depression (2-5 antidepressants failed in the current episode) at 38 sites in Australia, Europe and the US. Participants received a single intranasal dose of mebufotenin benzoate (8 mg or 12 mg) or a low-dose comparator (0.3 mg) alongside psychological support. At day 29, MADRS fell by 11.1 points (12 mg) and 12.5 points (8 mg) versus 5.5 points with the comparator (mean difference -5.3, 95% CI -8.9 to -1.8, for 12 mg). Response rates were 34.8% (8 mg) and 34.2% (12 mg) versus 12.2% with the comparator; remission rates 26% and 18% versus 8%. Benefits appeared by day 2 and persisted to day 57, and over 80% of participants on active doses met discharge-readiness criteria within 2 hours.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "難治抑鬱",
+    "迷幻藥物",
+    "mebufotenin",
+    "鼻噴霧",
+    "二期試驗"
+   ],
+   "first_seen_at": "2026-11-07T13:58:54+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-26T00:00:00+00:00"
+  },
+  {
+   "slug": "childhood-unpredictability-quic-5-screen-identifies-mental-h",
+   "title_zh": "研究：童年生活「不可預測」獨立於 ACEs，可找出標準篩查測不到的高危兒童（29,861 人）",
+   "title_en": "Childhood unpredictability QUIC-5 screen identifies mental health risk missed by ACEs",
+   "summary_zh": "Nature Mental Health 研究分析 29,861 名 0–17 歲兒童於 2021–2024 年在加州橙縣 19 間兒科診所健兒門診的篩查數據，比較標準 ACEs 問卷（PEARLS）與五題「童年不可預測性問卷」（QUIC-5）。兩者分數愈高，抑鬱、焦慮、外化問題、睡眠障礙、頭痛與腹痛的診斷機會愈高，呈劑量關係。抑鬱例子：PEARLS 4 分或以上、QUIC-5 零分者，勝算比 7.9；PEARLS 零分但 QUIC-5 高分（4+）者，勝算比 11.7（50 人），即標準 ACEs 篩查測不到的高危群；睡眠障礙方面 QUIC-5 的預測力強於 PEARLS。",
+   "summary_en": "A Nature Mental Health study analysed screening data from 29,861 children aged 0-17 attending well-child visits at 19 paediatric clinics in Orange County, California (2021-2024), comparing the standard ACEs questionnaire (PEARLS) with the five-item Questionnaire on Unpredictability in Childhood (QUIC-5). Higher scores on either screen were associated with greater odds of depression, anxiety, externalising problems, sleep disorders, headaches and abdominal pain, in a dose-dependent pattern. For depression, children scoring 4 or more on PEARLS with zero on QUIC-5 had an odds ratio of 7.9, while the 50 children with zero PEARLS but high QUIC-5 (4+) had an odds ratio of 11.7 - a high-risk group the standard ACEs screen would miss. QUIC-5 was a stronger predictor than PEARLS for sleep disorders.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "童年逆境",
+    "ACEs",
+    "不可預測性",
+    "篩檢",
+    "兒童心理"
+   ],
+   "first_seen_at": "2026-11-07T13:58:54+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-07-21T00:00:00+00:00"
+  },
+  {
+   "slug": "slow-tapering-plus-therapy-prevents-antidepressant-relapse-n",
+   "title_zh": "統合分析：抗抑鬱藥慢速減藥加心理支援，預防復發效果與繼續服藥相近（76 項 RCT）",
+   "title_en": "Slow tapering plus therapy prevents antidepressant relapse network meta-analysis",
+   "summary_zh": "The Lancet Psychiatry 系統性回顧與網絡統合分析，納入 76 項隨機對照試驗、17,379 名已緩解的抑鬱或焦慮成人（平均 45.2 歲、67.5% 女性、平均追蹤 45.9 週）。與突然停藥比較，預防復發較佳的策略：標準劑量繼續服藥加心理支援（RR 0.40，NNT 4.3）、標準劑量繼續服藥（RR 0.51，NNT 5.3）、慢速減藥（多於四週）加心理支援（RR 0.52，NNT 5.4）、減量繼續服藥（RR 0.62）；慢速減藥加心理支援的效果與繼續服藥相近，優於突然或快速停藥。慢速減藥單獨、快速減藥加支援、突然停藥加支援則無顯著差異；各策略耐受性相近；研究無資助。",
+   "summary_en": "A Lancet Psychiatry systematic review and network meta-analysis pooled 76 randomised controlled trials with 17,379 adults with remitted depression or anxiety (mean age 45.2 years, 67.5% female, mean follow-up 45.9 weeks). Compared with abrupt discontinuation, relapse prevention was better with standard-dose continuation plus psychological support (RR 0.40, NNT 4.3), standard-dose continuation (RR 0.51, NNT 5.3), slow tapering (over 4 weeks) plus psychological support (RR 0.52, NNT 5.4) and reduced-dose continuation (RR 0.62). Slow tapering plus psychological support was as effective as continuation and superior to abrupt or fast tapering. Slow tapering alone, fast tapering plus support and abrupt stopping plus support showed no significant difference; tolerability was comparable across strategies; the study was unfunded.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "抗抑鬱藥",
+    "減藥",
+    "復發預防",
+    "心理支援",
+    "統合分析"
+   ],
+   "first_seen_at": "2026-11-07T13:58:54+00:00",
+   "evidence_level": 4,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2025-12-10T00:00:00+00:00"
+  },
   {
    "slug": "us-adolescents-anxiety-symptoms-national-survey-one-in-six",
    "title_zh": "美國全國調查：六分一青少年有中至重度焦慮症狀，逾四成重度者過去一年無接受治療",
