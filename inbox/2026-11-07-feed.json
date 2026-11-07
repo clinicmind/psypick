@@ -1,0 +1,172 @@
+{
+ "format": "psypick-muse-v1",
+ "items": [
+  {
+   "category": "研究與證據",
+   "evidence_hint": "隨機對照試驗（二期）",
+   "evidence_quote": "mean GAD-7 difference, –1.5",
+   "key_points_zh": [
+    "樣本：268 名孕婦（16–28 週），高反覆負面思考、輕至中度焦慮；每組 134 人",
+    "介入：RELAX，八週 12 節自導式數碼治療（8 節網上＋4 節 SMS），加常規照顧；對照為單用常規照顧",
+    "八週主要結果：GAD-7 平均低 1.5 分（95% CI −2.4 至 −0.6；P=.001；效應量 −0.42）",
+    "次要結果：PHQ-9 −0.8、EPDS −1.1、反覆負面思考 −2.7、憂慮 −3.6、圍產期焦慮 PASS −5.5",
+    "焦慮惡化：常規組 11 人（8.2%），RELAX 組 2 人（1.5%）；OR 5.84",
+    "36 週時一般焦慮、產後抑鬱與反覆負面思考的效果維持；無與介入相關的不良事件"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-04",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "relax-perinatal-digital-intervention-prevents-increasing-anx",
+   "source": {
+    "author_name": "Hirsch 等（倫敦國王學院）",
+    "description": "期刊原文頁：RELAX 預防孕期焦慮惡化的隨機對照試驗，含樣本、介入與主要結果。",
+    "platform": "web",
+    "title": "RELAX Perinatal Digital Intervention to Prevent Increasing Anxiety: A Randomized Clinical Trial (JAMA Network Open; DOI: 10.1001/jamanetworkopen.2026.40518)",
+    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856249"
+   },
+   "title_zh": "RCT：孕期數碼治療 RELAX 可減低焦慮惡化，八週 GAD-7 平均低 1.5 分（268 人）"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "同儕審查期刊前瞻性隊列研究",
+   "evidence_quote": "11,546 new cases of depression",
+   "key_points_zh": [
+    "樣本：UK Biobank 368,756 人，40–69 歲入組時無抑鬱焦慮診斷；追蹤中位逾 13 年",
+    "新發個案：抑鬱 11,546 人、焦慮 15,780 人",
+    "10 歲自述偏瘦：抑鬱風險高 9%、焦慮高 13%；偏胖：抑鬱高 19%、焦慮高 11%",
+    "成年超重：抑鬱高 18%；肥胖：抑鬱高 52%、焦慮高 15%；抑鬱風險最低 BMI 約 23–24",
+    "童年偏瘦至成年肥胖組風險最高：抑鬱高 73%、焦慮高 33%",
+    "童年偏胖但成年體重正常者：風險與一直平均者無顯著差異；成年 BMI 解釋約 45% 童年偏胖與成年抑鬱的關聯"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-05",
+   "population": [
+    "兒童青少年",
+    "成人",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "body-size-trajectories-childhood-to-adulthood-depression-anx",
+   "source": {
+    "author_name": "Li 等（中國醫科大學）",
+    "description": "PsyPost 報道 UK Biobank 隊列研究：童年至成年體型軌跡與抑鬱焦慮風險，含各組風險比與中介分析。",
+    "platform": "web",
+    "title": "Losing childhood weight by adulthood might erase later depression risks (PsyPost 報道；原刊 Journal of Affective Disorders；DOI: 10.1016/j.jad.2026.122042)",
+    "url": "https://www.psypost.org/adulthood-weight-management-may-reverse-childhood-mental-health-risks/"
+   },
+   "title_zh": "研究：童年體型偏離平均與成年抑鬱焦慮風險較高，成年體重正常者風險無顯著差異（368,756 人）"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "隨機對照試驗（二期）",
+   "evidence_quote": "rapid, robust, and durable reductions",
+   "key_points_zh": [
+    "樣本：193 名 18–75 歲難治抑鬱成人（2–5 種抗抑鬱藥無效），38 個中心；8 mg 組 46 人、12 mg 組 73 人、0.3 mg 對照組 74 人",
+    "介入：單劑鼻噴 mebufotenin benzoate，輔以心理支援；主要結果為 29 天 MADRS 變化",
+    "29 天 MADRS：12 mg 組降 11.1 分、8 mg 組降 12.5 分，對照組降 5.5 分；12 mg 組平均差 −5.3（95% CI −8.9 至 −1.8；P=.003）",
+    "反應率（≥50% 改善）：34.8%（8 mg）、34.2%（12 mg），對照組 12.2%；緩解率 26%、18%，對照組 8%",
+    "效果自第 2 天出現，維持至第 57 天；85%（8 mg）與 78%（12 mg）參加者於兩小時內達到可出院標準",
+    "不良事件多屬輕至中度；12 mg 組一名參加者出現兩次與治療相關的嚴重驚恐發作"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-10-26",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "single-dose-mebufotenin-nasal-spray-treatment-resistant-depr",
+   "source": {
+    "author_name": "Feifel 等（Kadima Neuropsychiatry Institute）",
+    "description": "PubMed 摘要：單劑鼻噴 mebufotenin 治療難治抑鬱的二期隨機試驗，含主要結果、反應率與安全性。",
+    "platform": "web",
+    "title": "Single Intranasal Administration of the Psychedelic Mebufotenin for Treatment-Resistant Depression: A Randomized Clinical Trial (JAMA; DOI: 10.1001/jama.2026.18380)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42931733/"
+   },
+   "title_zh": "二期試驗：單劑迷幻藥鼻噴霧 mebufotenin 可快速減輕難治抑鬱，效果維持八週（193 人）"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "同儕審查期刊橫斷面研究",
+   "evidence_quote": "11.7-fold higher",
+   "key_points_zh": [
+    "樣本：29,861 名 0–17 歲兒童（14,418 名女童），19 間兒科診所，2021–2024 年健兒門診",
+    "工具：PEARLS（標準 ACEs 篩查）＋QUIC-5（五題不可預測性問卷）；12 歲以上兒童亦自填",
+    "0–4 歲兒童：13% 至少一種 ACE、23% 至少一種不可預測經歷",
+    "4 項或以上暴露 vs 零暴露：PEARLS 勝算比 1.7–7.2，QUIC-5 勝算比 1.6–6.1（青少年自填）",
+    "抑鬱：PEARLS≥4 且 QUIC-5=0，OR 7.9；PEARLS=0 且 QUIC-5 高分（4+），OR 11.7（n=50）",
+    "睡眠障礙方面，QUIC-5 的預測力強於 PEARLS"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-07-21",
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "childhood-unpredictability-quic-5-screen-identifies-mental-h",
+   "source": {
+    "author_name": "Glynn 等（Chapman University）",
+    "description": "期刊原文頁：QUIC-5 不可預測性篩查與兒童心理健康的研究，含樣本、勝算比與熱圖分析。",
+    "platform": "web",
+    "title": "Unpredictability is a childhood adversity that contributes to mental health problems (Nature Mental Health; DOI: 10.1038/s44220-026-00681-x)",
+    "url": "https://doi.org/10.1038/s44220-026-00681-x"
+   },
+   "title_zh": "研究：童年生活「不可預測」獨立於 ACEs，可找出標準篩查測不到的高危兒童（29,861 人）"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "系統性回顧與網絡統合分析",
+   "evidence_quote": "RR 0.52; NNT 5.4",
+   "key_points_zh": [
+    "76 項 RCT，17,379 人；平均 45.2 歲、67.5% 女性、87.9% 白人；平均追蹤 45.9 週",
+    "與突然停藥比較：標準劑量繼續＋心理支援 RR 0.40（95% CI 0.26–0.61；NNT 4.3；中度確定性）",
+    "標準劑量繼續服藥 RR 0.51（0.46–0.58；NNT 5.3；中度）；慢速減藥＋心理支援 RR 0.52（0.38–0.72；NNT 5.4；中度）",
+    "減量繼續服藥 RR 0.62（0.42–0.92；NNT 6.8；低度）；慢速減藥單獨 RR 0.81，無顯著差異",
+    "快速減藥＋支援、突然停藥＋支援亦無顯著差異；各策略耐受性相近；研究無資助、作者聲明無利益衝突"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2025-12-10",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "slow-tapering-plus-therapy-prevents-antidepressant-relapse-n",
+   "source": {
+    "author_name": "Zaccoletti 等（維羅納大學 WHO 合作中心）",
+    "description": "PubMed 摘要：抗抑鬱藥減藥策略的系統性回顧與網絡統合分析，含各策略的相對風險與 NNT。",
+    "platform": "web",
+    "title": "Comparison of antidepressant deprescribing strategies in individuals with clinically remitted depression: a systematic review and network meta-analysis (Lancet Psychiatry; DOI: 10.1016/S2215-0366(25)00330-X)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41386898/"
+   },
+   "title_zh": "統合分析：抗抑鬱藥慢速減藥加心理支援，預防復發效果與繼續服藥相近（76 項 RCT）"
+  }
+ ],
+ "notes": "Feed 工具在本 run 不可用（與 11-01 至 11-06 run 相同），候選經公開搜尋標題預篩、逐項開原頁核實。JAMA Network Open RELAX 原文頁經 browser.browse 核實；JAMA mebufotenin 原文頁 Cloudflare Turnstile 未能清除，經 PubMed 摘要及多篇報道交叉核對；J Affect Disord 體型研究期刊頁未能直接讀取，經三篇報道交叉核對。",
+ "run_date": "2026-11-07",
+ "skipped": [
+  "APT 情緒失調網上講座 11/11：站內已有",
+  "Drexel 親密伴侶暴力基礎 11/12：站內已有",
+  "CBT-SP 自殺預防培訓 11/04–05：日期已過",
+  "Couples Counseling Masterclass 11/05：日期已過",
+  "Marshall Roots of Resilience 母嬰心理健康系列：只有 LinkedIn 貼文，無官方報名頁可核實",
+  "THRIVE-PMH 免費網上工作坊系列：對象為衛生部官員等政策執行者，報名截止 10/09 已過",
+  "Frontiers COVID 照顧者離世觀點文：只有兩個隊列數據，證據太弱",
+  "青少年心理健康與投票研究（Political Psychology）：與臨床／家長用途關聯弱"
+ ],
+ "unreachable_sources": [
+  "https://doi.org/10.1001/jamanetworkopen.2026.40518（browser.open 回 403，經 browser.browse 讀 JAMA 原文頁核實全部數字）",
+  "https://doi.org/10.1001/jama.2026.18380（JAMA 原文頁 Cloudflare Turnstile 未能清除，經 PubMed 摘要 PMID 42931733 及多篇報道交叉核對）",
+  "https://doi.org/10.1016/j.jad.2026.122042（期刊頁無可抽取內容，經 PsyPost 報道及另外兩篇報道交叉核對）"
+ ]
+}
