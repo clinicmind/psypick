@@ -1,0 +1,138 @@
+{
+ "format": "psypick-muse-v1",
+ "items": [
+  {
+   "category": "研究與證據",
+   "evidence_hint": "隨機對照試驗（可行性）",
+   "evidence_quote": "MADRS difference, −10.41 at week 3",
+   "key_points_zh": [
+    "樣本：60 名難治抑鬱成人（每組 30 人），中至重度、平均病程 20 年；中位年齡 40.8 歲，一半女性",
+    "介入：單劑 25 mg 裸蓋菇素（COMP360）或安慰劑，輔以心理支援；單一 NHS 機構，2021–2024 年進行",
+    "第三週 MADRS 組間平均差 −10.41 分（95% CI −14.86 至 −5.95）；第六週 −12.92 分（95% CI −17.37 至 −8.47）",
+    "第三週反應率 43% 對 3%，緩解率 40% 對 3%；第六週反應率升至 50%",
+    "第六週 GAD-7 達 10 分或以上者：裸蓋菇素組 5/30（17%），安慰劑組 18/29（62%）",
+    "設盲失效：被問及者中裸蓋菇素組 13/13、安慰劑組 7/10 猜中分組；287 宗非嚴重不良事件，4 宗嚴重不良事件中只有 1 宗被評為可能相關（安慰劑組）"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-08-06",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "psilocybin-assisted-therapy-for-treatment-resistant-depressi",
+   "source": {
+    "author_name": "Rucker 等（倫敦國王學院）",
+    "description": "期刊原文頁：單劑裸蓋菇素輔助治療難治抑鬱的隨機對照試驗，含樣本、主要結果、設盲與安全性。",
+    "platform": "web",
+    "title": "Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial (Nature Medicine; DOI: 10.1038/s41591-026-04541-0)",
+    "url": "https://doi.org/10.1038/s41591-026-04541-0"
+   },
+   "title_zh": "RCT：單劑裸蓋菇素輔助治療減輕難治抑鬱，第三週 MADRS 平均低 10.4 分（60 人）"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "隨機對照試驗（工作論文，未經同儕審查）",
+   "evidence_quote": "52.3% vs 31.7% meaningful improvement",
+   "key_points_zh": [
+    "樣本：1,137 名本科生，單一北美大學，2025 年夏秋學期以研究學分招募；無症狀篩查",
+    "介入：Flourish 生成式 AI 應用（AI 教練 Sunnie，GPT-4o／GPT-4.1），每週至少兩次，共六週；對照為常規照顧",
+    "整體軌跡：壓力 β=−0.03（P=.010）、抑鬱 β=−0.03（P=.006）、焦慮 β=−0.04（P=.001），Flourish 組均較佳",
+    "基線症狀較高者：抑鬱明顯改善 52.3% 對 31.7%（RR 1.65）、焦慮 50.6% 對 38.1%（RR 1.33）；改善定義為 PHQ-2／GAD-2 降至少 2 分",
+    "基線症狀較低者：兩組症狀均上升，但 Flourish 組升幅較小；第四週壓力較低與第六週症狀較輕相關",
+    "每節使用 8–10 分鐘；無與介入相關的不良事件；試驗預先註冊（NCT06668532）"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-03",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "flourish-ai-app-rct-stress-depression-anxiety-university-stu",
+   "source": {
+    "author_name": "Cachia 等（Flourish Science／哈佛商學院）",
+    "description": "工作論文原文：生成式 AI 應用 Flourish 預防與早期介入的隨機對照試驗，含樣本、主要結果與安全機制。",
+    "platform": "web",
+    "title": "AI-Powered Prevention and Early Intervention for Stress, Depression, and Anxiety: A Randomized Clinical Trial (Harvard Business School Working Paper 27-002)",
+    "url": "https://www.hbs.edu/ris/Publication%20Files/27-002_5e71d8d9-4bf6-4afa-a72c-a3af2caa1501.pdf"
+   },
+   "title_zh": "RCT：生成式 AI 應用 Flourish 減壓，六週抑鬱明顯改善者 52.3% 對 31.7%（1,137 人）"
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "免費網上講座（培訓）",
+   "evidence_quote": "free one-hour webinar on Zoom",
+   "key_points_zh": [
+    "2026-11-18（星期三）美東 13:00–14:00，即香港時間 11 月 19 日凌晨 2:00–3:00",
+    "免費，一小時 Zoom 網上講座；須預先登記",
+    "講者：Julie Kaplow 博士，臨床心理學家，紐奧良兒童醫院創傷與哀傷中心執行總監",
+    "內容：哀傷在不同發展階段兒童的呈現、容易被忽略或誤解的徵狀、哀傷敏感的識別與回應策略",
+    "主辦：耶魯兒童研究中心 Grief-Sensitive Healthcare Project（New York Life Foundation 資助）"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-11-04",
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "yale-free-webinar-recognizing-grief-in-children-november-18",
+   "source": {
+    "author_name": "Yale Child Study Center",
+    "description": "耶魯官方頁面：免費一小時網上講座，識別兒童哀傷，含日期、講者與登記安排。",
+    "platform": "web",
+    "title": "Recognizing Grief in Children: Upcoming Webinar for Healthcare Professionals (Yale Child Study Center)",
+    "url": "https://medicine.yale.edu/childstudy/news-article/recognizing-grief-in-children-webinar/"
+   },
+   "title_zh": "免費網上講座：識別兒童哀傷，耶魯兒童研究中心（11/18）"
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "免費網上講座（培訓）",
+   "evidence_quote": "November 26, 2026, at 8:00 AM US EST",
+   "key_points_zh": [
+    "2026-11-26（星期四）美東 8:00–9:00，即香港時間 20:00–21:00",
+    "免費，Zoom 網上講座；須經 Zoom 登記",
+    "講者：Albert Ali Salah 教授，烏特勒支大學",
+    "內容：以計算方法與 AI 分析情感及社交訊號，支援行為與臨床科學；例子包括兒童互動遊戲治療與躁鬱症多模態診斷",
+    "重點：面部表情、身體動作、手勢、語音分析，以及可解釋性在可信 AI 系統中的角色"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-10-13",
+   "population": [
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "ieee-webinar-designing-computational-tools-behavioral-clinic",
+   "source": {
+    "author_name": "IEEE Biometrics Council",
+    "description": "IEEE 官方頁面：免費網上講座，設計行為與臨床科學的計算工具，含日期、講者與登記連結。",
+    "platform": "web",
+    "title": "Upcoming Webinar: Designing Computational Tools for Behavioral and Clinical Science (IEEE Biometrics Council)",
+    "url": "https://ieee-biometrics.org/upcoming-webinar-designing-computational-tools-for-behavioral-and-clinical-science/"
+   },
+   "title_zh": "免費網上講座：設計行為與臨床科學的計算工具（11/26）"
+  }
+ ],
+ "notes": "Feed 工具在本 run 不可用（與 11-01 至 11-07 run 相同），候選經公開搜尋標題預篩、逐項開原頁核實。四則全部經原頁核實：PsiDeR（Nature Medicine 原文頁）、Flourish（HBS 工作論文 PDF 原文）、Yale 哀傷講座（耶魯官方頁）、IEEE 講座（IEEE 官方頁）。",
+ "run_date": "2026-11-08",
+ "skipped": [
+  "可卡因腦連結研究（Nature Mental Health）：原文 2024-02-16 刊出，已非新研究，跳過",
+  "Definium DT120 三期數據（NEI 會議）：只有新聞稿，無同儕審查論文，跳過",
+  "瑞士管制大麻銷售研究（Drug and Alcohol Dependence）：觀察性、無對照組、效果小，跳過",
+  "APT 情緒失調網上講座 11/11：站內已有",
+  "Drexel 親密伴侶暴力基礎 11/12：站內已有",
+  "CDP 延長暴露療法培訓 11/09–10：名額已滿，只餘候補名單，跳過",
+  "SWEET Institute 提升個案投入講座 11/07：日期已過且售罄，跳過",
+  "臨床督導論壇 11/13：站內已有",
+  "Take This 結構性壓力工作坊 11/16：對象為遊戲業社群，非專業培訓，跳過",
+  "運動博彩傷害、宗教轉變威權主義、婚姻性生活、懲罰心理等 PsyPost 研究：與臨床／家長用途關聯弱，跳過",
+  "AI 專家技能田野實驗（NBER 工作論文，Google 資助、未經同儕審查）：專利律師樣本，與臨床關聯弱，跳過"
+ ],
+ "unreachable_sources": []
+}
