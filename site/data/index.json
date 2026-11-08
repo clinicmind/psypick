@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T13:58:54+00:00",
+ "generated_at": "2026-11-08T13:26:00+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,151 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "psilocybin-assisted-therapy-for-treatment-resistant-depressi",
+   "title_zh": "RCT：單劑裸蓋菇素輔助治療減輕難治抑鬱，第三週 MADRS 平均低 10.4 分（60 人）",
+   "title_en": "Psilocybin-assisted therapy for treatment-resistant depression NHS randomized trial",
+   "summary_zh": "Nature Medicine 隨機雙盲安慰劑對照可行性試驗，60 名中至重度難治抑鬱成人（平均病程 20 年），於英格蘭一間 NHS 機構接受單劑 25 mg 裸蓋菇素（COMP360）或安慰劑，輔以心理支援。第三週時 MADRS 組間平均差 −10.41 分（95% CI −14.86 至 −5.95）；反應率 43% 對 3%，緩解率 40% 對 3%；效果維持至第六週（MADRS 平均差 −12.92 分）。第六週時 GAD-7 達中度或以上者，裸蓋菇素組 17%，安慰劑組 62%。兩年追蹤正在進行。",
+   "summary_en": "A Nature Medicine double-blind, placebo-controlled feasibility randomised trial randomised 60 adults with moderate-to-severe treatment-resistant depression (mean illness duration 20 years) at a single NHS site in England to a single 25 mg dose of psilocybin (COMP360) or placebo, with psychological support. At week 3, the between-group MADRS difference was -10.41 points (95% CI -14.86 to -5.95); response rates were 43% versus 3% and remission rates 40% versus 3%. Effects were sustained at week 6 (MADRS difference -12.92 points). At week 6, 17% of the psilocybin arm versus 62% of the placebo arm scored 10 or more on the GAD-7. A two-year follow-up is underway.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "難治抑鬱",
+    "裸蓋菇素",
+    "迷幻藥物",
+    "RCT",
+    "NHS"
+   ],
+   "first_seen_at": "2026-11-08T13:26:00+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-08-06T00:00:00+00:00"
+  },
+  {
+   "slug": "flourish-ai-app-rct-stress-depression-anxiety-university-stu",
+   "title_zh": "RCT：生成式 AI 應用 Flourish 減壓，六週抑鬱明顯改善者 52.3% 對 31.7%（1,137 人）",
+   "title_en": "Flourish AI app RCT stress depression anxiety university students",
+   "summary_zh": "哈佛商學院工作論文報告一項預先註冊隨機對照試驗，1,137 名北美大學本科生（未經症狀篩查）隨機分派使用生成式 AI 心理健康應用 Flourish（每週至少兩次）或常規照顧六週。整體而言，Flourish 組的壓力（β=−0.03，P=.010）、抑鬱症狀（β=−0.03，P=.006）與焦慮症狀（β=−0.04，P=.001）軌跡均較佳。基線症狀較高者中，抑鬱明顯改善者 52.3% 對 31.7%，焦慮 50.6% 對 38.1%；基線症狀較低者中，Flourish 緩和了症狀惡化。無與介入相關的不良事件。",
+   "summary_en": "A Harvard Business School working paper reports a preregistered randomised clinical trial in which 1,137 unscreened university students at a large North American university were assigned to six weeks of the generative AI mental health app Flourish (at least twice weekly) or care as usual. Across the full sample, Flourish produced more favourable trajectories for perceived stress (beta -0.03, P=.010), depressive symptoms (beta -0.03, P=.006) and anxiety symptoms (beta -0.04, P=.001). Among participants with elevated baseline symptoms, meaningful improvement was achieved by 52.3% versus 31.7% for depression and 50.6% versus 38.1% for anxiety; among those with low baseline symptoms, Flourish buffered deterioration. No intervention-related adverse events were reported.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "生成式 AI",
+    "心理健康應用",
+    "大學生",
+    "RCT",
+    "預防"
+   ],
+   "first_seen_at": "2026-11-08T13:26:00+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-03T00:00:00+00:00"
+  },
+  {
+   "slug": "yale-free-webinar-recognizing-grief-in-children-november-18",
+   "title_zh": "免費網上講座：識別兒童哀傷，耶魯兒童研究中心（11/18）",
+   "title_en": "Yale free webinar recognizing grief in children November 18",
+   "summary_zh": "耶魯兒童研究中心「哀傷敏感醫療計劃」（Grief-Sensitive Healthcare Project）免費一小時網上講座，2026 年 11 月 18 日星期三美東時間 13:00（香港時間 11 月 19 日凌晨 2:00）於 Zoom 舉行。講者 Julie Kaplow 博士（臨床心理學家，紐奧良兒童醫院創傷與哀傷中心執行總監）講解哀傷在不同發展階段的兒童身上如何呈現，以及兒科與基層醫療工作者如何識別容易被忽略或誤解的徵狀，並分享以哀傷敏感方式識別與回應兒童的實務策略。須預先登記。",
+   "summary_en": "A free one-hour webinar from Yale Child Study Center's Grief-Sensitive Healthcare Project, held on Zoom on Wednesday, November 18, 2026 at 1 p.m. ET (2 a.m. HKT on November 19). Julie Kaplow, PhD, a clinical psychologist and executive director of the Trauma and Grief Center at Children's Hospital New Orleans, will address how grief manifests in children across developmental stages, how paediatric and primary-care professionals can identify signs that may be missed or misunderstood, and practical strategies for recognising and responding to grieving children in a grief-sensitive manner. Advance registration is required.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "兒童哀傷",
+    "哀傷",
+    "免費",
+    "網上講座",
+    "兒科"
+   ],
+   "first_seen_at": "2026-11-08T13:26:00+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-08T13:26:00+00:00",
+   "training": {
+    "provider": "Yale Child Study Center（耶魯兒童研究中心）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "2026-11-18",
+    "format": "線上直播（Zoom）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "ieee-webinar-designing-computational-tools-behavioral-clinic",
+   "title_zh": "免費網上講座：設計行為與臨床科學的計算工具（11/26）",
+   "title_en": "IEEE webinar designing computational tools behavioral clinical science",
+   "summary_zh": "IEEE Biometrics Council 免費網上講座，2026 年 11 月 26 日星期四美東時間 8:00（香港時間 20:00）於 Zoom 舉行。烏特勒支大學 Albert Ali Salah 教授講解計算方法與人工智能如何透過自動分析情感與社交訊號，支援行為與臨床科學，例子包括兒童互動遊戲治療與以多模態線索診斷躁鬱症；內容涵蓋面部表情、身體動作、手勢、語音與多模態分析，以及可解釋性在建立可信 AI 系統中的重要性。須經 Zoom 登記，免費參加。",
+   "summary_en": "A free IEEE Biometrics Council webinar on Zoom on Thursday, November 26, 2026 at 8:00 a.m. ET (8:00 p.m. HKT). Prof. Albert Ali Salah of Utrecht University will explore how computational methods and artificial intelligence can support behavioral and clinical sciences through the automatic analysis of affective and social signals, with examples from interactive play therapy with children and diagnosing bipolar disorder using multimodal cues. The talk covers facial expressions, body movements, gestures, speech and multimodal analysis, and the importance of explainability in trustworthy AI systems for behavioral and clinical applications. Free registration via Zoom.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "人工智能",
+    "計算方法",
+    "行為科學",
+    "免費",
+    "網上講座"
+   ],
+   "first_seen_at": "2026-11-08T13:26:00+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-08T13:26:00+00:00",
+   "training": {
+    "provider": "IEEE Biometrics Council",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "2026-11-26",
+    "format": "線上直播（Zoom）"
+   },
+   "deadline_soon": false
+  },
   {
    "slug": "relax-perinatal-digital-intervention-prevents-increasing-anx",
    "title_zh": "RCT：孕期數碼治療 RELAX 可減低焦慮惡化，八週 GAD-7 平均低 1.5 分（268 人）",
