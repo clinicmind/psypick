@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T13:26:00+00:00",
+ "generated_at": "2026-11-09T13:41:55+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,173 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "amhart-adolescent-mental-health-ai-chatbot-evaluation-nature",
+   "title_zh": "研究：AI 聊天機械人回應青少年焦慮較抑鬱貼近指引，重度抑鬱覆蓋最低（1,600 次模擬對話）",
+   "title_en": "AMHART adolescent mental health AI chatbot evaluation Nature Mental Health",
+   "summary_zh": "Nature Mental Health 研究由 RAND 團隊開發「青少年心理健康 AI 回應工具」（AMHART），一套由臨床醫生參與制定的評估工具，涵蓋七個範疇、14 個項目，用以審核 AI 聊天機械人的回應是否包含臨床指引建議的內容。研究以 8 個 13–16 歲模擬青少年檔案，與 ChatGPT-5、GPT-4、Claude Sonnet 4.5 及 Gemini 2.5 Flash 進行 1,600 次多輪模擬對話（共 16,000 則回應）。結果顯示，四個聊天機械人覆蓋指引內容的比例，焦慮高於抑鬱，中度症狀高於重度症狀；中度焦慮最高達 93.1%（Gemini），重度抑鬱最低只有 57.5%（Claude）。研究由美國國家精神衛生研究院資助，作者申報無利益衝突。",
+   "summary_en": "A Nature Mental Health study from RAND developed the Adolescent Mental Health AI Response Tool (AMHART), a clinician-informed instrument covering seven domains and 14 items, to audit whether AI chatbot replies contain guideline-informed content. Using eight simulated adolescent personas aged 13-16, the team ran 1,600 multiturn conversations (16,000 responses) with ChatGPT-5, GPT-4, Claude Sonnet 4.5 and Gemini 2.5 Flash. Chatbots covered a higher proportion of criteria for anxiety than for depression and for moderate symptoms than for severe symptoms: coverage reached 93.1% for moderate anxiety (Gemini) but only 57.5% for severe depression (Claude). The work was funded by the US National Institute of Mental Health, and the authors declare no competing interests.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "AI 聊天機械人",
+    "青少年",
+    "焦慮",
+    "抑鬱",
+    "評估工具"
+   ],
+   "first_seen_at": "2026-11-09T13:41:55+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-28T00:00:00+00:00"
+  },
+  {
+   "slug": "fireside-database-psychedelic-support-interactions-science-a",
+   "title_zh": "研究：迷幻藥求助熱線 25,419 次對話，困擾程度與用藥時機關係大過物質種類",
+   "title_en": "Fireside Database psychedelic support interactions Science Advances",
+   "summary_zh": "Science Advances 刊出 Fireside Database，分析美國 Fireside Project 迷幻藥支援熱線於 2021 年 4 月至 2026 年 2 月間、由 220 名受訓義工處理的 25,419 次同儕支援互動，另整合 2,777 份來電者滿意度調查。裸蓋菇素是最常提及的物質，佔有物質記錄互動的 59.9%。整體困擾率介乎 40.7%（MDMA）至 47.2%（大麻）；按來電時機分組後，使用中的困擾率約 47%，事後整合期約 36%，同一時機內各物質之間無顯著差異。有記錄社交處境的來電者中，66.3% 當時獨自一人；有精神健康史記錄者中，60.5% 自述至少一種精神診斷。轉介 911／988 的比例全部低於 1%。研究由 Fireside Project 營運經費資助，多名作者屬該機構僱員。",
+   "summary_en": "Science Advances published the Fireside Database, analysing 25,419 peer-support interactions handled by 220 trained volunteers at the Fireside Project's Psychedelic Support Line in the United States between April 2021 and February 2026, plus 2,777 caller satisfaction surveys. Psilocybin was the most commonly reported substance (59.9% of coded interactions). Pooled distress rates ranged from 40.7% (MDMA) to 47.2% (cannabis); once calls were split by timing, distress was about 47% during active trips versus about 36% during integration, with no significant differences across substances within either call type. Of callers with known social context, 66.3% were alone; of those with recorded mental-health history, 60.5% reported at least one psychiatric diagnosis. Escalation to 911/988 stayed below 1% for every substance. The work was funded by Fireside Project operational funds, and several authors are its employees.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "迷幻藥物",
+    "同儕支援",
+    "求助熱線",
+    "減害",
+    "數據庫"
+   ],
+   "first_seen_at": "2026-11-09T13:41:55+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-30T00:00:00+00:00"
+  },
+  {
+   "slug": "authoritarian-parenting-adolescent-antisocial-thinking-longi",
+   "title_zh": "研究：威權式管教與青少年反社會思維穩定相關，焦慮抑鬱約 18 個月後才見輕微上升（491 人）",
+   "title_en": "Authoritarian parenting adolescent antisocial thinking longitudinal study",
+   "summary_zh": "Journal of Research on Adolescence 縱貫研究分析美國 491 名青少年及其家長，於 2021 年 11 月至 2023 年夏季完成四波調查（每波相隔約六個月），青少年平均 15.3 歲。組間比較顯示，基線威權式管教愈嚴厲，青少年的反社會思維穩定水平愈高，即較認同違規與攻擊合理；威權管教與焦慮或抑鬱的平均水平則無顯著關聯。組內追蹤顯示，基線管教與第二、三波的波動無關，但到約 18 個月後的第四波，管教較嚴厲者的焦慮與抑鬱較個人基線輕微上升。研究屬觀察性設計，不能證明因果；樣本限於順性別異性戀青少年與親生父母。",
+   "summary_en": "A longitudinal study in the Journal of Research on Adolescence analysed 491 US adolescents and their parents across four survey waves from November 2021 to summer 2023 (about six months apart); adolescents averaged 15.3 years old. Between-person comparisons showed that stricter authoritarian parenting at baseline was associated with modestly higher stable levels of antisocial thinking, meaning stronger beliefs that rule-breaking and aggression are acceptable, while links with average anxiety or depression were not significant. Within-person tracking found no link at waves two and three, but by wave four, about 18 months later, stricter baseline parenting was associated with modest within-person increases in anxiety and depression above each teenager's own baseline. The design is observational and cannot establish causation; the sample was limited to cisgender, heterosexual adolescents with a biological parent.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "管教方式",
+    "青少年",
+    "反社會思維",
+    "焦慮",
+    "抑鬱"
+   ],
+   "first_seen_at": "2026-11-09T13:41:55+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-08T00:00:00+00:00"
+  },
+  {
+   "slug": "glp-1-receptor-agonists-mortality-serious-mental-illness-jam",
+   "title_zh": "研究：嚴重精神疾病患者用 GLP-1 受體促效劑，四年死亡率 4.91% 對 6.45%（逾 150 萬人配對）",
+   "title_en": "GLP-1 receptor agonists mortality serious mental illness JAMA Psychiatry",
+   "summary_zh": "JAMA Psychiatry 目標試驗模擬研究比較開始使用 GLP-1 受體促效劑與開始使用 SGLT2 抑制劑的成人，分析 TriNetX 電子健康記錄，逾 150 萬人經傾向評分配對。嚴重精神疾病組（重性抑鬱、躁鬱症、精神分裂症）共 195,184 對，四年全因死亡率為 GLP-1 組 4.91%，SGLT2 組 6.45%（風險比 0.76，絕對風險差 −1.54 個百分點）；一年死亡率為 1.46% 對 2.84%（相對風險 0.52）。效益在一年內已見，各嚴重精神疾病亞組一致，主要由 semaglutide 與 tirzepatide 帶動。研究屬觀察性設計，作者強調須以前瞻隨機試驗確認因果。",
+   "summary_en": "A JAMA Psychiatry target trial emulation compared adults starting a GLP-1 receptor agonist with adults starting an SGLT2 inhibitor, using TriNetX electronic health records with more than 1.5 million propensity score-matched participants. In the serious mental illness cohort (major depressive disorder, bipolar disorder and schizophrenia), 195,184 pairs were matched: four-year all-cause mortality was 4.91% with GLP-1 RAs versus 6.45% with SGLT2 inhibitors (hazard ratio 0.76; absolute risk difference -1.54 percentage points), and one-year mortality was 1.46% versus 2.84% (risk ratio 0.52). Benefits appeared within one year, were consistent across serious mental illness subgroups, and were driven mainly by semaglutide and tirzepatide. The design is observational, and the authors state that prospective randomised trials are needed to confirm causality.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "GLP-1",
+    "嚴重精神疾病",
+    "心血管",
+    "死亡率",
+    "藥物"
+   ],
+   "first_seen_at": "2026-11-09T13:41:55+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-08-26T00:00:00+00:00"
+  },
+  {
+   "slug": "harborview-telebehavioral-assessment-cognition-older-adults",
+   "title_zh": "免費網上講座：長者認知評估，華盛頓大學 Harborview（11/20）",
+   "title_en": "Harborview TeleBehavioral assessment cognition older adults November 20",
+   "summary_zh": "華盛頓大學 Harborview 行為健康研究所免費每月網上講座系列（TeleBehavioral Health Training Series），2026 年 11 月 20 日星期五太平洋時間 11:00–12:00（香港時間 11 月 21 日凌晨 3:00–4:00）於 Zoom 舉行，主題為「長者認知評估」。講者為 Emily Trittschuh 博士與 Stephen Thielke 醫學博士。系列開放予任何為精神健康或物質使用人士提供服務者，每場須分別登記，免費參加。",
+   "summary_en": "A free monthly webinar from the University of Washington's Harborview Behavioral Health Institute (TeleBehavioral Health Training Series), held on Zoom on Friday, November 20, 2026, 11:00 a.m.-12:00 p.m. PT (3:00-4:00 a.m. HKT on November 21), on the topic \"Assessment of Cognition in Older Adults\". The speakers are Emily Trittschuh, PhD, and Stephen Thielke, MD, MS, MA. The series is open to anyone providing services to people with mental health and substance use issues; each webinar requires separate registration and is free to attend.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "認知評估",
+    "長者",
+    "免費",
+    "網上講座",
+    "遠程醫療"
+   ],
+   "first_seen_at": "2026-11-09T13:41:55+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-09T13:41:55+00:00",
+   "training": {
+    "provider": "Harborview Behavioral Health Institute（University of Washington）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "2026-11-20",
+    "format": "線上直播（Zoom）"
+   },
+   "deadline_soon": false
+  },
   {
    "slug": "psilocybin-assisted-therapy-for-treatment-resistant-depressi",
    "title_zh": "RCT：單劑裸蓋菇素輔助治療減輕難治抑鬱，第三週 MADRS 平均低 10.4 分（60 人）",
