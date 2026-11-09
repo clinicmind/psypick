@@ -1,0 +1,176 @@
+{
+ "format": "psypick-muse-v1",
+ "items": [
+  {
+   "category": "研究與證據",
+   "evidence_hint": "模擬評估研究（臨床指引對照）",
+   "evidence_quote": "Chatbots covered a higher proportion of criteria for anxiety than for depression",
+   "key_points_zh": [
+    "工具：AMHART，七個範疇、14 個項目，由 12 名臨床醫生評審制定；美國國家精神衛生研究院資助（1R01MH132551）",
+    "方法：8 個 13–16 歲模擬青少年檔案（廣泛性焦慮或抑鬱，中度或重度），與 4 個聊天機械人各進行 50 次 10 輪對話，共 1,600 次對話、16,000 則回應",
+    "評估：三模型評分組合（GPT-5、Claude、Gemini）對照人類參考標籤評分；四個機械人為 ChatGPT-5、GPT-4、Claude Sonnet 4.5、Gemini 2.5 Flash",
+    "中度焦慮覆蓋率：Gemini 93.1%、GPT-5 91.6%、GPT-4 87.8%、Claude 76.6%",
+    "中度抑鬱覆蓋率：GPT-5 79.6%、Gemini 76.5%、GPT-4 75.9%、Claude 58.9%",
+    "重度抑鬱覆蓋率最低：GPT-5 72.8%、GPT-4 70.0%、Gemini 67.1%、Claude 57.5%；重度焦慮：GPT-5 88.4%、GPT-4 82.4%、Gemini 80.1%、Claude 71.4%"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-10-28",
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "amhart-adolescent-mental-health-ai-chatbot-evaluation-nature",
+   "source": {
+    "author_name": "McBain 等（RAND／哈佛醫學院）",
+    "description": "期刊原文頁：青少年心理健康 AI 回應工具 AMHART 的開發、驗證與四個聊天機械人評估，含模擬對話設計與覆蓋率結果。",
+    "platform": "web",
+    "title": "Development, validation and AI chatbot evaluation of the Adolescent Mental Health AI Response Tool (Nature Mental Health; DOI: 10.1038/s44220-026-00753-y)",
+    "url": "https://doi.org/10.1038/s44220-026-00753-y"
+   },
+   "title_zh": "研究：AI 聊天機械人回應青少年焦慮較抑鬱貼近指引，重度抑鬱覆蓋最低（1,600 次模擬對話）"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "大型觀察性支援記錄數據庫",
+   "evidence_quote": "Distress rates are higher during active-trip than integration interactions (~47% versus ~36%)",
+   "key_points_zh": [
+    "樣本：25,419 次同儕支援互動，220 名受訓義工，2021 年 4 月至 2026 年 2 月；另有 2,777 份滿意度調查（佔互動 10.9%）",
+    "物質：有物質記錄的互動中，裸蓋菇素佔 59.9%，其次為 LSD 14.4%、大麻 12.8%、氯胺酮 7.7%、MDMA 4.4%、死藤水 3.2%",
+    "困擾率：整體 40.7%（MDMA）至 47.2%（大麻）；使用中約 47%，事後整合期約 36%，同一時機內各物質無顯著差異",
+    "大麻困擾率較高主因是時機：70.2% 大麻來電者在用藥進行中致電",
+    "處境：有社交處境記錄者（6,998 人）中，66.3% 獨自一人，16.6% 有陪伴者；焦慮與不知所措是最常見情緒困擾",
+    "精神健康史：有記錄者（7,826 人）中 60.5% 自述至少一種精神診斷，創傷後壓力症 18.5%、重性抑鬱 16.7%、廣泛性焦慮 8.8%；2.4% 自述精神分裂症"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-10-30",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "fireside-database-psychedelic-support-interactions-science-a",
+   "source": {
+    "author_name": "Schoeller 等（Fireside Project）",
+    "description": "期刊原文頁：迷幻藥支援熱線 25,419 次互動的大型數據庫，含物質、困擾率、來電處境與滿意度。",
+    "platform": "web",
+    "title": "The Fireside Database: Large-scale evidence from 25,419 psychedelic support interactions (Science Advances; DOI: 10.1126/sciadv.aeg4737)",
+    "url": "https://doi.org/10.1126/sciadv.aeg4737"
+   },
+   "title_zh": "研究：迷幻藥求助熱線 25,419 次對話，困擾程度與用藥時機關係大過物質種類"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "縱貫觀察研究",
+   "evidence_quote": "the absence of immediate difficulties does not necessarily mean there will be no difficulties later",
+   "key_points_zh": [
+    "樣本：491 名美國青少年及其家長，經 AmeriSpeak 隨機抽樣小組招募；四波調查，2021 年 11 月至 2023 年夏季，每波相隔約六個月；青少年平均 15.3 歲，51.5% 女性",
+    "量度：家長基線填寫 12 題威權式管教問卷（0–4 分，平均 0.61 分）；青少年於第二至四波自評焦慮、抑鬱與反社會思維",
+    "組間：威權管教愈高，反社會思維穩定水平愈高；與焦慮或抑鬱平均水平無顯著關聯",
+    "組內：基線管教與第二、三波波動無關；約 18 個月後的第四波，與個人焦慮及抑鬱輕微上升相關",
+    "三種結果的組間水平互相關聯，但組內互相預測均不顯著；男女模式無顯著差異",
+    "作者提醒：短期無可見困難，不等於日後不會出現困難；溫暖、解釋與建設性指導值得持續使用"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-08",
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "authoritarian-parenting-adolescent-antisocial-thinking-longi",
+   "source": {
+    "author_name": "Wusirige 等（Syracuse University）",
+    "description": "期刊論文：威權式管教與青少年反社會思維、焦慮、抑鬱的縱貫關聯，含組間與組內效應分析。",
+    "platform": "web",
+    "title": "Longitudinal associations between authoritarian parenting and adolescent antisocial thinking, depression, and anxiety: Between- and within-person effects (Journal of Research on Adolescence; DOI: 10.1111/jora.70259)",
+    "url": "https://doi.org/10.1111/jora.70259"
+   },
+   "title_zh": "研究：威權式管教與青少年反社會思維穩定相關，焦慮抑鬱約 18 個月後才見輕微上升（491 人）"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "目標試驗模擬（觀察性）",
+   "evidence_quote": "4.91% vs 6.45%; hazard ratio, 0.76",
+   "key_points_zh": [
+    "設計：目標試驗模擬，新用藥者、活性對照設計；TriNetX 電子健康記錄，查詢涵蓋 1.27 億病人、114 間醫療機構；數據於 2026 年 3 月查詢分析",
+    "樣本：1,528,230 人配對（764,115 對），其中嚴重精神疾病組 195,184 對，非嚴重精神疾病組 568,931 對",
+    "四年死亡率（嚴重精神疾病組）：GLP-1 組 9,585／195,184（4.91%），SGLT2 組 12,584／195,184（6.45%）；風險比 0.76（95% CI 0.74–0.78）；絕對風險差 −1.54 個百分點",
+    "一年死亡率（嚴重精神疾病組）：GLP-1 組 1.46%，SGLT2 組 2.84%；相對風險 0.52（95% CI 0.49–0.54），即相對風險低 48%",
+    "心血管事件亦較低；效益在一年內已見，各亞組一致；非嚴重精神疾病組死亡率降幅較小（風險比 0.85）",
+    "效益主要由 semaglutide 與 tirzepatide 帶動；作者強調須以前瞻隨機試驗確認"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-08-26",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "glp-1-receptor-agonists-mortality-serious-mental-illness-jam",
+   "source": {
+    "author_name": "McIntyre 等（University of Toronto）",
+    "description": "期刊論文：GLP-1 受體促效劑與嚴重精神疾病患者的死亡率及心血管結果，逾 150 萬人目標試驗模擬。",
+    "platform": "web",
+    "title": "Glucagon-Like Peptide 1 Receptor Agonists, Mortality, and Cardiovascular Outcomes in Serious Mental Illness (JAMA Psychiatry; DOI: 10.1001/jamapsychiatry.2026.2574)",
+    "url": "https://doi.org/10.1001/jamapsychiatry.2026.2574"
+   },
+   "title_zh": "研究：嚴重精神疾病患者用 GLP-1 受體促效劑，四年死亡率 4.91% 對 6.45%（逾 150 萬人配對）"
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "免費網上講座（培訓）",
+   "evidence_quote": "free monthly webinar open to anyone providing services",
+   "key_points_zh": [
+    "2026-11-20（星期五）太平洋時間 11:00–12:00，即香港時間 11 月 21 日凌晨 3:00–4:00",
+    "免費，Zoom 網上講座；每場須分別登記",
+    "講者：Emily Trittschuh 博士、Stephen Thielke 醫學博士、碩士",
+    "內容：長者認知評估",
+    "主辦：華盛頓大學 Harborview 行為健康研究所，每月第三個星期五舉行"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-11-09",
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "published": true,
+   "slug": "harborview-telebehavioral-assessment-cognition-older-adults",
+   "source": {
+    "author_name": "Harborview Behavioral Health Institute（University of Washington）",
+    "description": "華盛頓大學官方頁面：免費每月網上講座系列，11 月 20 日主題為長者認知評估，含日期、講者與登記安排。",
+    "platform": "web",
+    "title": "TeleBehavioral Health Series Webinar Registration (Harborview Behavioral Health Institute)",
+    "url": "https://bhinstitute.uw.edu/training-workforce-policy/training/telebehavioral-health/telebehavioral-health-series-webinar-registration/"
+   },
+   "title_zh": "免費網上講座：長者認知評估，華盛頓大學 Harborview（11/20）"
+  }
+ ],
+ "notes": "Feed 工具在本 run 不可用（與 11-01 至 11-08 run 相同），候選經公開搜尋標題預篩、逐項開原頁核實。五則核實：AMHART（Nature 原文頁摘要與圖表）、Fireside（Science 原文頁摘要，經瀏覽器任務讀取）、威權式管教（PsyPost 全文）、GLP-1（JAMA 摘要＋多倫多大學＋Psychiatric Times 三方核對，JAMA 原文頁被 Cloudflare 阻擋）、Harborview 講座（華盛頓大學官方頁）。",
+ "run_date": "2026-11-09",
+ "skipped": [
+  "青少年心理健康與 40 歲投票取向（Political Psychology）：與臨床／家長用途關聯弱，跳過",
+  "晚年情緒變化與 tau 蛋白（Journal of Neuroscience）：阿茲海默方向，臨床關聯較間接，跳過",
+  "炎症誘發快感缺失（健康女性小樣本實驗）：樣本小、非臨床群體，跳過",
+  "單劑裸蓋菇素瑞典 RCT（JAMA Network Open，n=35）：小樣本；站內已有兩則迷幻藥 RCT，跳過",
+  "迷幻藥降低柏金遜炎症標誌（JAMA Psychiatry）：無對照組開放標籤小樣本，跳過",
+  "APT 情緒失調網上講座 11/11：站內已有",
+  "CDP 延長暴露療法培訓 11/09–10：名額已滿，只餘候補名單，跳過",
+  "Take This 結構性壓力工作坊 11/16：對象為遊戲業社群，非專業培訓，跳過",
+  "Mind Medicine Australia van der Kolk 講座 11/22：站內已有同講者迷幻藥整合講座，跳過",
+  "慢性疼痛療癒峰會 11/13–14：病人導向、市集式峰會，跳過",
+  "BBRF 自殺意念預測講座 11/10：只找到新聞稿，未找到 BBRF 原頁，跳過",
+  "綠地與兒童注意力（Environment International，ABCD 研究）：觀察性、效果間接，留待日後巡查"
+ ],
+ "unreachable_sources": [
+  "JAMA Psychiatry 原文頁（DOI 10.1001/jamapsychiatry.2026.2574）：Cloudflare 人機驗證 8 次嘗試均未能通過，數字改由 JAMA 摘要、多倫多大學報道與 Psychiatric Times 三方交叉核對",
+  "Journal of Research on Adolescence 期刊頁（DOI 10.1111/jora.70259）：回應 403，經 PsyPost 全文報道核實",
+  "Science Advances DOI 經 browser.open 回應 403，改由瀏覽器任務讀取原文頁，已核實"
+ ]
+}
