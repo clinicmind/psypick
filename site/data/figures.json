@@ -2226,7 +2226,363 @@
    "checked": "2026-11-06",
    "tier": "B",
    "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "產品發布",
+   "summary_zh": "Willison 為 llm-anthropic 推出 0.31 版，加入 Anthropic 新發布的 Fable 5.2 及 Mythos 5.2。他以五檔推理強度測試生成單車鵜鶘圖，最高強度耗用 12.8 萬 token 後未能出圖；新模型定價較上一代便宜兩成。",
+   "quote_en": "Fable 5.2 is currently ranked first on Artificial Analysis.",
+   "topics": [
+    "Claude Fable 5.2",
+    "llm-anthropic",
+    "LLM 工具"
+   ],
+   "evidence_quote": "run prompts through Fable 5.2 like this",
+   "checked": "2026-11-10",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "文章",
+   "summary_zh": "Willison 用 Claude Code 寫了一個 Beep Locator 系統，以多部裝置的咪高峰三角定位屋內神秘嗶嗶聲，準確至約 40 厘米，最後發現是一部舊一氧化碳探測器。他形容這是為 Claude Code 加上「耳朵」的實驗。",
+   "quote_en": "The system worked as intended. It gave me the position of the beep to within about 40cm",
+   "topics": [
+    "Claude Code",
+    "Beep Locator",
+    "AI 代理"
+   ],
+   "evidence_quote": "the source of a mysterious beep",
+   "checked": "2026-11-10",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "andrej-karpathy",
+   "url": "https://karpathy.ai/tristan-tube/",
+   "platform": "web",
+   "page_date": "2026-11-07",
+   "kind": "產品發布",
+   "summary_zh": "Karpathy 11 月 7 日在 X 發文，把 Tristan Hume 的 YouTube 分級清單變成 TristanTube：約 47,000 條影片、156 個頻道，附電視模式。他稱整個網站只用 Claude Code 一次過在 3 分鐘內建成，是 HackerTube 之後的第二個同類周末作品。",
+   "quote_en": "One-shotted it with Claude Code in 3 minutes.",
+   "topics": [
+    "Claude Code",
+    "TristanTube",
+    "影片策展",
+    "AI 編程"
+   ],
+   "evidence_quote": "One-shotted it with Claude Code",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未直接打開；日期、影片數目及 3 分鐘建成等細節以 ExplainX 及 FourWeekMBA 兩家報道交叉核對，本人官網 karpathy.ai/tristan-tube/ 已打開確認網站存在"
+  },
+  {
+   "person": "yann-lecun",
+   "url": "https://cryptobriefing.com/lecun-counterfactual-world-models-robots/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "論文",
+   "summary_zh": "LeCun 與 Brown 大學的 Balestriero 及 Varaku 發表新預印本論文，提出反事實世界模型：以預測與現實的誤差相減，推斷未見過的行動會帶來什麼結果。模擬測試中，機械人首次重試成功率達 35–69%，高於基線方法的 14–23%。方法建基於 JEPA 架構，可配合 DINOv2 或 MAE 等現成編碼器使用。",
+   "quote_en": "The method looks at the discrepancy between what the world model predicted and what actually happened in the real world, then subtracts it out.",
+   "topics": [
+    "世界模型",
+    "JEPA",
+    "機械人",
+    "反事實推理"
+   ],
+   "evidence_quote": "published on November 9, 2026",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "arXiv 連結當時未公開；論文標題、作者及 11 月 9 日發表日期以 Crypto Briefing 及 The Register 兩家同日報道交叉核對"
+  },
+  {
+   "person": "geoffrey-hinton",
+   "url": "https://aisfoundation.ai/hinton-lectures-2026",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "演講",
+   "summary_zh": "Hinton 主持的 Hinton Lectures 2026 於 11 月 9 日在多倫多開幕，一連三晚。首晚由 Paul Christiano 主講 AI 對齊的實證問題，Hinton 負責引言；11 月 11 日最後一晚他將與主持人作爐邊對談，該場次超出本次窗口。",
+   "quote_en": "The Hinton Lectures explore the risks, revelations, and revolutionary solutions shaping tomorrow's world.",
+   "topics": [
+    "AI 安全",
+    "AI 對齊",
+    "Hinton Lectures"
+   ],
+   "evidence_quote": "Hosted by Professor Geoffrey Hinton",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "ethan-mollick",
+   "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "文章",
+   "summary_zh": "Mollick 親身試用 Claude Fable 5.2 後，提出「Jagged AGI」（參差不齊的通用智能）概念。他以創業、學術研究、重建歷史課程及生成 3D 世界等多項實驗說明，模型在多個領域已接近人類專家水平，但品味與判斷仍有明顯短板。",
+   "quote_en": "I think the answer is that this is 'almost' AGI, or what I have called Jagged AGI.",
+   "topics": [
+    "Claude Fable 5.2",
+    "Jagged AGI",
+    "AI agents",
+    "AGI"
+   ],
+   "evidence_quote": "this is 'almost' AGI",
+   "checked": "2026-11-10",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://x.com/elonmusk/status/2119419126045454531",
+   "platform": "x",
+   "page_date": "2026-11-08",
+   "kind": "貼文",
+   "summary_zh": "Musk 表示 Grok Bot 正進行修正，以提升 token 效率及行為表現。此前有用戶投訴 200 美元方案的使用量由一週縮短至約 14 小時，Musk 回應會即日跟進。",
+   "quote_en": "Grok Bot fixes for improved token efficiency and smarter behavior are underway",
+   "topics": [
+    "Grok Bot",
+    "token efficiency",
+    "xAI"
+   ],
+   "evidence_quote": "token efficiency and smarter behavior",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原文未能打開（x.com 被封），只靠多家報導的搜尋摘要核實原文，未能親眼看到貼文頁面"
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://x.com/elonmusk/status/2119617455102333206",
+   "platform": "x",
+   "page_date": "2026-11-09",
+   "kind": "貼文",
+   "summary_zh": "Musk 表示已與 Grok Bot 工程團隊開會檢討，修正會連夜實施，用戶翌日應會感到明顯改善。他邀請用戶如問題持續可回覆反映，但未列出具體修正內容或數據。",
+   "quote_en": "Fixes are being implemented overnight and you should notice a dramatic improvement by tomorrow",
+   "topics": [
+    "Grok Bot",
+    "xAI",
+    "token efficiency"
+   ],
+   "evidence_quote": "Fixes are being implemented overnight",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原文未能打開（x.com 被封），只靠多家報導的搜尋摘要核實原文，未能親眼看到貼文頁面"
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://x.com/elonmusk/status/2119691615774146614",
+   "platform": "x",
+   "page_date": "2026-11-09",
+   "kind": "貼文",
+   "summary_zh": "Musk 表示 Cybertruck 訂單遠超產能，生產線約 8 個月後停產，屆時將轉做 Cybercab，不少訂金須退回。他強調停產並非因為 Cybertruck 虧損，而是 Cybercab 的增量價值更高。",
+   "quote_en": "The Cybertruck order rate far exceeds our production rate.",
+   "topics": [
+    "Cybertruck",
+    "Cybercab",
+    "Tesla"
+   ],
+   "evidence_quote": "far exceeds our production rate",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原文未能打開（x.com 被封），只靠 Reuters、Fast Company 等多家報導的搜尋摘要核實原文，未能親眼看到貼文頁面；狀態連結來自報導內文"
+  },
+  {
+   "person": "arthur-mensch",
+   "url": "https://dealroom.co/news/170911-energy-is-only-about-10-of-compute-costs-capital-is-the-bottleneck-mensc/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "Mensch 在 20VC 訪問中表示，能源只佔算力總擁有成本約一成，真正瓶頸是晶片成本與資金成本，歐洲現時電力仍有餘裕，預計要到 2029 至 2030 年能源才成為瓶頸。他又表示 Mistral 絕對可以在歐洲上市。",
+   "quote_en": "Energy is around 10% of the bill in the total cost of ownership of compute. Mistral can absolutely go public in Europe.",
+   "topics": [
+    "算力成本",
+    "能源",
+    "歐洲 AI",
+    "IPO",
+    "Mistral"
+   ],
+   "evidence_quote": "Energy is \"around 10% of the bill",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "jensen-huang",
+   "url": "https://fourweekmba.com/ai-huang-calls-china-chip-curbs-a-mistake-after-4-9b-charges/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "Bloomberg 於 11 月 9 日公開黃仁勳接受 Emily Chang 訪問的片段，他表示曾盡力向美國政策制定者說明接觸中國市場的重要性，認為限制對華售賣晶片是難以挽回的錯誤，並說中國不是敵人，雙方應就 AI 安全保持對話。片段於 10 月 14 日錄製，在 Nvidia 董事會宣布獨立調查前拍攝。",
+   "quote_en": "I did my best to inform the policymakers in the United States of the importance of engaging the Chinese market. I think we made a mistake, and this mistake is hard to unwind. They're not our enemies.",
+   "topics": [
+    "晶片出口管制",
+    "中美關係",
+    "AI 安全",
+    "Nvidia"
+   ],
+   "evidence_quote": "I think we made a mistake",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "未直接打開 Bloomberg 原片頁面；日期與引文以 FourWeekMBA 的逐字稿及多家報道交叉核對，原訪談於 2026-10-14 錄製、2026-11-09 公開"
+  },
+  {
+   "person": "aravind-srinivas",
+   "url": "https://xholic.ai/tools/x-profile-analytics/aravsrinivas/",
+   "platform": "web",
+   "page_date": "2026-11-07",
+   "kind": "貼文",
+   "summary_zh": "Srinivas 在 X 發文表示，Teammates 上線首日到第二日，自動化執行次數增長 3.7 倍，即使第二日是星期五。他預期高自主性專業人士會出現更多時間放大效應。",
+   "quote_en": "Teammate automation runs grew 3.7x from launch day to day two. We're going to see a lot more time dilation for high-agency professionals.",
+   "topics": [
+    "Perplexity Teammates",
+    "AI 代理",
+    "自動化"
+   ],
+   "evidence_quote": "Teammate automation runs grew 3.7x",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "未直接打開 X 原貼文，日期與引文以 Xholic 公開彙整核對，未取得原貼文連結"
+  },
+  {
+   "person": "andrew-huberman",
+   "url": "https://podcasts.apple.com/us/podcast/overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke/id1545953110?i=1000800773328",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "Huberman 訪問成癮醫學專家 Anna Lembke，談多巴胺如何影響冒險、執迷與強迫行為，以及最常見的「對控制上癮」，並談祈禱與靈性修習如何幫助打破不健康的思維模式。",
+   "quote_en": "We discuss dopamine dynamics in the brain and how they impact risk-taking, mental obsession, and compulsive behaviors.",
+   "topics": [
+    "成癮",
+    "多巴胺",
+    "強迫行為",
+    "靈性與復元"
+   ],
+   "evidence_quote": "dopamine dynamics in the brain",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "adam-grant",
+   "url": "https://richroll.com/podcast/adam-grant-1026/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "Grant 在 Rich Roll 節目談新書《Vibe》，講孤獨與獨處的分別、四種友誼，以及相處契合度是可以建立和經營的。",
+   "quote_en": "Compatibility is something you construct, something you can build and work on.",
+   "topics": [
+    "友誼",
+    "孤獨",
+    "人際連結"
+   ],
+   "evidence_quote": "Strong Relationships In A Lonely World",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "esther-perel",
+   "url": "https://zeno.fm/podcast/where-should-we-begin-with-esther-perel/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "一對相處近四十年的伴侶決定分開，但為法律與實際原因維持婚姻關係、分居三百英里，來找 Esther 探討如何在情感糾纏多年後拆解浪漫連結，同時繼續像生意拍檔般合作。",
+   "quote_en": "They come to Esther wondering how, after decades of emotional enmeshment, they can disentangle their romantic connection while continuing to function like business partners.",
+   "topics": [
+    "伴侶關係",
+    "分居",
+    "情感糾纏"
+   ],
+   "evidence_quote": "they've decided to split",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "laurie-santos",
+   "url": "https://podcasts.apple.com/us/podcast/are-you-taking-fun-seriously-enough/id1474245040?i=1000800282202",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "Santos 在 Aspen Ideas Festival 的現場對談中，與 Catherine Price 及 Elizabeth Dunn 探討為何認真看待玩樂對快樂、健康以至改善世界都重要。",
+   "quote_en": "In this live conversation from the Aspen Ideas Festival, Dr. Laurie is joined by science journalist Catherine Price and psychologist Elizabeth Dunn to explore why we should all be taking fun more seriously.",
+   "topics": [
+    "快樂",
+    "玩樂",
+    "幸福感"
+   ],
+   "evidence_quote": "having fun isn't just a nice bonus",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "lisa-damour",
+   "url": "https://www.issh.ac.jp/community/news-details/~board/news-board/post/internationally-acclaimed-author-dr-lisa-damour-to-visit-issh-in-november",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "演講",
+   "summary_zh": "Damour 今日在東京國際學校 ISSH 舉行家長晚間講座，講青少年的健康情緒發展、破除情緒迷思，並談數碼科技與性別如何影響情緒表達與管理。",
+   "quote_en": "Dr. Damour will draw on decades of clinical experience and psychological research to explain what healthy emotional development really looks like.",
+   "topics": [
+    "青少年",
+    "情緒發展",
+    "家長講座"
+   ],
+   "evidence_quote": "Date: Tuesday 10 November 2026",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "ethan-kross",
+   "url": "https://www.eventbrite.co.uk/e/managing-your-emotions-prof-ethan-kross-tickets-1998426503468?aff=ebdssbdestsearch",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "演講",
+   "summary_zh": "Kross 今晚在 Action for Happiness 的 Zoom 講座分享新書《Shift》的情緒管理工具，包括抽離式自我對話，以及在平靜時先建立工具箱，應對情緒風暴。",
+   "quote_en": "We can't stop difficult feelings from arriving - frustration, worry, anger and sadness are all part of being human. However, although we can't choose what we feel, we have more control than we realise over what happens next.",
+   "topics": [
+    "情緒管理",
+    "自我對話",
+    "情緒調節"
+   ],
+   "evidence_quote": "Tuesday 10 November • 7 PM - 8 PM UTC",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "stephen-porges",
+   "url": "https://www.polyvagalinstitute.org/polyvagaltalksbook",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "產品發布",
+   "summary_zh": "Porges 的新書《Polyvagal Talks》今日出版，收錄他與 Bessel van der Kolk、Gabor Maté、Daniel Siegel、Peter Levine、Pat Ogden 等人的對談，探討多叉迷走神經理論如何影響創傷治療；對談原片同日免費公開。",
+   "quote_en": "Watch all of the original recordings of the conversations on our Learning Platform, releasing November 10, 2026.",
+   "topics": [
+    "多叉迷走神經理論",
+    "創傷治療",
+    "新書"
+   ],
+   "evidence_quote": "releasing November 10, 2026",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
   }
  ],
- "updated": "2026-11-06"
+ "updated": "2026-11-10"
 }
