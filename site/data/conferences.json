@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T01:15:33+00:00",
- "today": "2026-11-06",
+ "generated_at": "2026-11-10T21:20:48+00:00",
+ "today": "2026-11-11",
  "regions": [
   "香港",
   "澳門",
@@ -1284,6 +1284,100 @@
    "verify_notes": "日期、地點、主題取自搜尋結果摘要（官網首頁僅見主題橫幅，未見日期、講者與費用），請到官網最新公告核對。",
    "speakers": [],
    "last_checked": "2026-10-05"
+  },
+  {
+   "slug": "trauma-free-childhood-summit-2026",
+   "name_zh": "無創傷童年高峰會 2026（第二季）",
+   "name_en": "Trauma-Free Childhood Summit 2026 (Season Two): Breaking the Cycle",
+   "start": "2026-11-16",
+   "end": "2026-11-21",
+   "city": "線上",
+   "country": "美國",
+   "region": "北美",
+   "format": "線上",
+   "language": "英語",
+   "organizer": "TowardNewHumans.Org",
+   "fee_text": "免費（須預先登記）；另設 CEU 學分途徑，費用官方頁未列明（待查證）",
+   "url": "https://traumafreechildhood.com/mmartin",
+   "register_url": "https://traumafreechildhood.com/mmartin",
+   "venue": "線上（預錄及直播對談；精選場次重播為 2026-11-21 至 22 日）",
+   "summary_zh": "一連六日（2026 年 11 月 16 至 21 日）的免費線上高峰會，主題是「打破創傷循環」。35 位以上講者，來自教育、心理治療、兒童發展、教養與創傷療癒界，內容包括預防不必要的童年創傷、修復關係破裂，以及在家庭、學校與社區建立情感安全的文化。由教育工作者 Susan M. Curry 主持。",
+   "themes": [
+    "兒童創傷預防",
+    "依附與情感安全",
+    "跨代創傷",
+    "創傷知情教育"
+   ],
+   "interest_zh": "對兒童心理、創傷工作與親子教養讀者：講者包括持牌心理學家 Keith Witt、依附及創傷網絡（Attachment & Trauma Network）的 Ginger Healy 等，橫跨治療、教育與教養實務，全程免費。留意：講者背景多元，非全屬臨床專業，觀點屬教育性質；CEU 學分在各地的執照認受性須自行核實。",
+   "domains": [
+    "兒童心理",
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "CEU 學分途徑的費用與各地執照認受性，官方頁未列明；官方頁稱 35+ 講者，完整名單與時間表仍在公布中，本條目只列頁面已公布的部分講者；登記連結路徑 /mmartin 疑為合作推廣連結，內容與主辦單位資料已對官方頁核實。",
+   "speakers": [
+    {
+     "name": "Susan M. Curry",
+     "role": "主持人；得獎教育工作者、非牟利機構領袖與社區組織者",
+     "affiliation": "",
+     "session": "",
+     "bio_zh": "有五十多年教育與社會變革經驗，曾於 Project SEED 任職 29 年，走遍 17 個城市學區服務兒童、教師與家庭。",
+     "works": [],
+     "verified": true,
+     "note": "職銜與場次取自大會官方頁，2026-11-11 查核。"
+    },
+    {
+     "name": "Ginger Healy",
+     "role": "LCSW；Attachment & Trauma Network 項目總監",
+     "affiliation": "",
+     "session": "The Role of Joy Stalking, Self-Compassion and Community Care in the Healing of Trauma",
+     "bio_zh": "臨床社工，任職依附及創傷網絡，專注創傷療癒與社區照顧。",
+     "works": [],
+     "verified": true,
+     "note": "職銜與場次取自大會官方頁，2026-11-11 查核。"
+    },
+    {
+     "name": "Keith Witt",
+     "role": "持牌心理學家、教師、作者",
+     "affiliation": "",
+     "session": "Trauma into Transcendence",
+     "bio_zh": "持牌心理學家，長期教授整合心理學與關係治療。",
+     "works": [],
+     "verified": true,
+     "note": "職銜與場次取自大會官方頁，2026-11-11 查核。"
+    },
+    {
+     "name": "Glenn R. Schiraldi",
+     "role": "PhD；美國陸軍退役中校；壓力管理教育者、作者",
+     "affiliation": "",
+     "session": "What I Wish Everyone Knew about Trauma: Hope for Healing, Prevention, & Thriving",
+     "bio_zh": "專研創傷後壓力與韌性，著有多本壓力管理著作。",
+     "works": [],
+     "verified": true,
+     "note": "職銜與場次取自大會官方頁，2026-11-11 查核。"
+    },
+    {
+     "name": "Melissa Sadin",
+     "role": "兒童創傷與教育顧問、主題講者",
+     "affiliation": "",
+     "session": "Resilience Rising: Harnessing Hope Science in Schools",
+     "bio_zh": "專注創傷知情學校與希望科學在校園的應用。",
+     "works": [],
+     "verified": true,
+     "note": "職銜與場次取自大會官方頁，2026-11-11 查核。"
+    },
+    {
+     "name": "Aya Caspi",
+     "role": "CNVC 認證培訓師、引導師與調解員",
+     "affiliation": "",
+     "session": "Breaking the cycle of intergenerational trauma with Nonviolent Communication",
+     "bio_zh": "以非暴力溝通處理跨代創傷與家庭衝突。",
+     "works": [],
+     "verified": true,
+     "note": "職銜與場次取自大會官方頁，2026-11-11 查核。"
+    }
+   ],
+   "last_checked": "2026-11-11"
   },
   {
    "slug": "tandmr-annual-conference-2026",
