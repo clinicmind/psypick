@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T01:28:21+00:00",
+ "generated_at": "2026-11-10T13:28:11+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,164 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "open-dialogue-versus-treatment-as-usual-oddessi-trial",
+   "title_zh": "研究：開放對話危機照顧未延遲復發，住院率 21% 對 44%（494 人群組隨機試驗）",
+   "title_en": "Open Dialogue versus treatment as usual ODDESSI trial",
+   "summary_zh": "Lancet Psychiatry 刊出 ODDESSI 試驗，是至今最大規模的開放對話（Open Dialogue）隨機評估。研究在英格蘭五間 NHS 精神健康機構，以基層診所群組隨機分配 494 名因危機求助的成人（開放對話組 271 人，常規治療組 223 人），追蹤兩年。主要結果顯示，兩組由危機康復後首次復發的時間無顯著差異（邊際風險比 0.95，95% 置信區間 0.67–1.32）。次要結果較有利於開放對話：精神科住院比率為 21%，常規治療組為 44%；再轉介危機照顧或二級精神健康服務的機率亦較低，自評康復、健康相關生活質素與服務滿意度較佳。嚴重不良事件共 386 宗，97% 與介入無關。研究由英國國家健康研究所資助。",
+   "summary_en": "The Lancet Psychiatry published the ODDESSI trial, the largest randomised evaluation of Open Dialogue to date. Across five NHS mental health trusts in England, 494 adults presenting in crisis were allocated by GP-practice cluster to Open Dialogue (n=271) or treatment as usual (n=223) and followed for two years. The primary outcome showed no significant difference in time to first relapse after recovery from the index crisis (marginal hazard ratio 0.95, 95% CI 0.67-1.32). Secondary outcomes favoured Open Dialogue: psychiatric inpatient admission was 21% versus 44% with treatment as usual, re-referral to crisis or secondary mental health services was lower, and self-rated recovery, health-related quality of life and service satisfaction were better. There were 386 serious adverse events, 97% of them unrelated to the intervention. The trial was funded by the UK National Institute for Health Research.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "開放對話",
+    "危機照顧",
+    "隨機試驗",
+    "住院",
+    "復發"
+   ],
+   "first_seen_at": "2026-11-10T13:28:11+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-08-26T00:00:00+00:00"
+  },
+  {
+   "slug": "arts-and-arts-therapies-mental-health-children-young-people",
+   "title_zh": "統合分析：藝術活動與藝術治療可減輕兒童青少年抑鬱焦慮（100 項試驗）",
+   "title_en": "Arts and arts therapies mental health children young people",
+   "summary_zh": "eClinicalMedicine 刊出系統性回顧與統合分析，綜合 100 項隨機對照試驗（29 個國家，5 至 24 歲兒童青少年），評估藝術活動與藝術治療對心理健康的影響。結果顯示，藝術介入可減輕抑鬱（標準化平均差低 1.06，1,655 人）與焦慮（低 0.75，3,898 人），並提升幸福感（高 0.53）與生活質素（高 0.54），平均效應與已建立的非藝術心理社會介入相近。介入一個月後追蹤，抑鬱與焦慮的改善仍然存在。研究亦見生理指標改善：靜止心率平均低 4.53 次／分鐘，收縮壓平均低 4.04 毫米汞柱。最大效益見於 9 至 13 歲、多模式與主動參與的介入。研究由英國研究與創新局資助。",
+   "summary_en": "eClinicalMedicine published a systematic review and meta-analysis of 100 randomised controlled trials from 29 countries, assessing arts-based interventions and arts therapies for children and young people aged 5-24. Arts interventions reduced depression (standardised mean difference 1.06 lower, n=1,655) and anxiety (0.75 lower, n=3,898), and increased wellbeing (0.53 higher) and quality of life (0.54 higher), with average effects similar to those of established non-arts psychosocial interventions. Improvements in depression and anxiety persisted at follow-up of at least one month. Physiological markers also improved: resting heart rate was 4.53 beats per minute lower and systolic blood pressure 4.04 mmHg lower on average. The largest benefits were seen in 9- to 13-year-olds and in multimodal, actively participatory programmes. The work was funded by UK Research and Innovation.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "藝術治療",
+    "兒童青少年",
+    "抑鬱",
+    "焦慮",
+    "統合分析"
+   ],
+   "first_seen_at": "2026-11-10T13:28:11+00:00",
+   "evidence_level": 4,
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-16T00:00:00+00:00"
+  },
+  {
+   "slug": "school-phone-bans-adolescent-mental-health-iceland",
+   "title_zh": "研究：冰島 70 校禁手機，青少年心理健康無明顯改善（23,938 人次）",
+   "title_en": "School phone bans adolescent mental health Iceland",
+   "summary_zh": "JAMA Network Open 研究分析冰島全國「冰島青年」調查，70 間學校、23,938 人次 13 至 15 歲青少年，橫跨 2016 年 2 月、2018 年 2 月與 2023 年 11 月三波調查。其中 22 間學校於 2018 至 2023 年間實施上課時間禁手機。差異中差異分析顯示，禁手機與抑鬱症狀、焦慮、敵意或心理幸福感均無有意義的變化：抑鬱 β=0.65（95% CI 0.01–1.30），焦慮 β=0.21，敵意 β=0.23，幸福感 β=−0.52。欺凌、同儕支援與每日屏幕時間亦無顯著變化。作者結論：單靠禁手機，未必足以在人口層面改善青少年心理健康。研究由冰島研究基金與 NordForsk 資助。",
+   "summary_en": "A JAMA Network Open study analysed Iceland's nationwide Youth in Iceland survey: 23,938 observations of adolescents aged 13-15 from 70 schools across three waves (February 2016, February 2018 and November 2023). Twenty-two schools introduced schoolwide mobile phone bans between 2018 and 2023. Difference-in-differences analysis found no meaningful change in depressive symptoms, anxiety, hostility or mental well-being: depressive symptoms β=0.65 (95% CI 0.01-1.30), anxiety β=0.21, hostility β=0.23, well-being β=-0.52. Bullying, peer support and daily screen time also showed no significant change. The authors conclude that school phone bans implemented alone may be insufficient to improve adolescent mental health at the population level. The work was funded by the Icelandic Research Fund and NordForsk.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "手機禁令",
+    "學校",
+    "青少年",
+    "抑鬱",
+    "焦慮"
+   ],
+   "first_seen_at": "2026-11-10T13:28:11+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-27T00:00:00+00:00"
+  },
+  {
+   "slug": "sparc-support-calls-versus-caring-texts-suicide-follow-up",
+   "title_zh": "RCT：自殺風險篩查陽性後跟進，成人宜電話、青少年長遠宜短訊（1,520 人）",
+   "title_en": "SPARC support calls versus caring texts suicide follow-up",
+   "summary_zh": "American Journal of Psychiatry 刊出 SPARC 實用隨機試驗，比較自殺風險篩查陽性後兩種跟進方式：實務支援電話（Instrumental Support Calls）與關懷短訊（Caring Contacts Texts）。研究在 9 間急症室與 36 間基層診所招募 723 名 12 至 17 歲青少年與 797 名 18 歲以上成人，兩組均在常規照顧上加跟進。主要結果（六個月自殺意念與行為分數）顯示，成人用電話較短訊低（調整平均差 0.50）；青少年在六個月時兩組相近，到 12 個月時短訊組較低（調整平均差 −0.64）。PCORI 摘要補充，短訊組青少年在 6 至 12 個月間自殺企圖少 2.5 倍。作者結論：最合適的跟進方式可能因年齡而異。研究由美國病人為本結果研究所（PCORI）資助。",
+   "summary_en": "The American Journal of Psychiatry published the SPARC pragmatic randomised trial comparing two follow-up approaches after a positive suicide-risk screen: instrumental support calls versus two-way Caring Contacts text messages. Across 9 emergency departments and 36 primary care clinics, 723 adolescents aged 12-17 and 797 adults aged 18 and over were randomised, with both arms added to usual care. At the primary 6-month time point, adults had lower suicidal ideation and behaviour scores with calls than with texts (adjusted difference in means 0.50); adolescents were similar at 6 months, but at 12 months their scores were lower with texts (adjusted difference -0.64). The PCORI summary adds that adolescents receiving texts reported 2.5 times fewer suicide attempts between 6 and 12 months. The authors conclude that the best follow-up care may vary by age. The trial was funded by the US Patient-Centered Outcomes Research Institute (PCORI).",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "自殺預防",
+    "跟進照顧",
+    "短訊",
+    "電話",
+    "青少年"
+   ],
+   "first_seen_at": "2026-11-10T13:28:11+00:00",
+   "evidence_level": 3,
+   "population": [
+    "兒童青少年",
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-28T00:00:00+00:00"
+  },
+  {
+   "slug": "antipsychotic-use-clinical-outcomes-schizophrenia",
+   "title_zh": "統合分析：精神分裂症患者用抗精神病藥，死亡與復發風險較低，但癌症、骨折、肺感染較高（68 項研究）",
+   "title_en": "Antipsychotic use clinical outcomes schizophrenia",
+   "summary_zh": "Molecular Psychiatry 刊出系統性回顧與統合分析，綜合 68 項觀察性研究、1,424,455 名精神分裂症患者，比較用抗精神病藥與不用的臨床結果。用藥與較低的全因死亡率相關（合併估計 0.64），復發風險亦較低（0.34）。另一方面，用藥與較高的癌症（1.41）、骨折（1.35）與肺部感染（1.25）風險相關，其他結果則無顯著差異。作者強調，全部研究均屬觀察性，殘餘混雜因素可能影響結果，不能作因果解讀，證據基礎有限，部分合併估計只來自少數研究。研究由中國國家自然科學基金資助，作者申報無利益衝突。",
+   "summary_en": "Molecular Psychiatry published a systematic review and meta-analysis of 68 observational studies covering 1,424,455 people with schizophrenia, comparing antipsychotic use with nonuse. Use was associated with lower all-cause mortality (pooled estimate 0.64) and lower relapse risk (0.34). On the other hand, use was associated with higher risks of cancer (1.41), fractures (1.35) and lung infections (1.25); other outcomes did not reach significance. The authors stress that every included study was observational, that residual confounding may shape the associations, and that the findings cannot be read as causal; the evidence base was limited, with several pooled figures resting on few studies. The work was funded by the National Natural Science Foundation of China, and the authors declare no competing interests.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "抗精神病藥",
+    "精神分裂症",
+    "死亡率",
+    "復發",
+    "身體健康"
+   ],
+   "first_seen_at": "2026-11-10T13:28:11+00:00",
+   "evidence_level": 4,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-27T00:00:00+00:00"
+  },
   {
    "slug": "effective-trialing-of-digital-interventions-in-daily-life-me",
    "title_zh": "數碼心理健康介入的日常試驗：方法學展望",
