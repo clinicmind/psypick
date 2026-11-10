@@ -1,0 +1,30 @@
+{
+ "format": "psypick-muse-v1",
+ "run_date": "2026-11-11",
+ "source_note": "Gu 手動提供連結，要求加入 PsyPick（2026-11-11）",
+ "items": [
+  {
+   "category": "學術會議",
+   "kind": "conference",
+   "page_date": "2026-11-11",
+   "title": "Trauma-Free Childhood Summit 2026 (Season Two): Breaking the Cycle",
+   "evidence_quote": "Join Us November 16–21, 2026 For Season Two of the Trauma-Free Childhood Summit",
+   "key_points_zh": [
+    "2026 年 11 月 16 至 21 日（星期一至六）免費線上高峰會，主辦 TowardNewHumans.Org，Susan M. Curry 主持",
+    "35 位以上講者：教育、心理治療、兒童發展、教養與創傷療癒；精選場次重播 11 月 21 至 22 日",
+    "設 CEU 學分途徑，費用官方頁未列明（待查證）；講者非全屬臨床專業"
+   ],
+   "source": {
+    "title": "Trauma-Free Childhood Summit 2026 | Breaking the Cycle",
+    "url": "https://traumafreechildhood.com/mmartin",
+    "platform": "web",
+    "author_name": "TowardNewHumans.Org",
+    "description": "大會官方頁：日期、免費登記、講者名單與場次主題。"
+   },
+   "site_action": "上架 conferences.json，slug trauma-free-childhood-summit-2026"
+  }
+ ],
+ "skipped": [],
+ "unreachable_sources": [],
+ "notes": "conferences.json 26→27 則；推送 main 後開真網站核實。"
+}
