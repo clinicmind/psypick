@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T13:41:55+00:00",
+ "generated_at": "2026-11-10T01:28:21+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,321 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "effective-trialing-of-digital-interventions-in-daily-life-me",
+   "title_zh": "數碼心理健康介入的日常試驗：方法學展望",
+   "title_en": "Effective Trialing of Digital Interventions in Daily Life Mental Health Perspective",
+   "summary_zh": "文章指出數碼心理健康介入常出現先導研究亮麗、隨機對照試驗卻失敗的落差。原因包括依從率低（一項涵蓋 70 項隨機對照試驗的統合分析顯示只有 34% 用戶完成全部介入）、alpha 膨脹，以及機器學習分析的時間數據洩漏。作者建議試驗期要夠長（復發自然機率至少 50%）、提高結果量度的時間精確度，並發展效度更高的數碼表型。",
+   "summary_en": "A Perspective in npj Digital Medicine (November 6, 2026) asks why promising pilot data for digital mental health interventions so often fail in RCTs. A meta-analysis of 70 RCTs found only 34% of users completed the full intervention, and the authors point to alpha-inflation and temporal data leakage in machine-learning analyses. They recommend longer trials (relapse probability of at least 50%), weekly ground-truth classification, and digital phenotypes with stronger construct validity.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "數碼心理健康",
+    "mHealth",
+    "隨機對照試驗",
+    "研究方法"
+   ],
+   "first_seen_at": "2026-11-10T01:28:21+00:00",
+   "evidence_level": 2,
+   "population": [
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-06T00:00:00+00:00"
+  },
+  {
+   "slug": "psychologists-navigate-ais-growing-role-in-assessment",
+   "title_zh": "心理學家如何應對 AI 在心理評估中日增的角色",
+   "title_en": "Psychologists navigate AIs growing role in assessment",
+   "summary_zh": "AI 已廣泛用於心理評估報告撰寫，也開始協助產生測驗題目與在真實情境中偵測風險。專家提醒，通用聊天機械人不是 HIPAA 合規工具，不可輸入受保護健康資訊；過度依賴 AI 解讀結果可能導致誤診，作假偵測亦面臨挑戰。美國心理學會心理測驗與評估委員會已發布負責任使用 AI 的報告。",
+   "summary_en": "APA's Monitor on Psychology (November 1, 2026) reports on AI's growing role in psychological assessment: report writing is the most widespread use, while generative psychometrics may adapt tests in real time. Experts warn that general-purpose chatbots are not HIPAA-compliant, must not receive protected health information, and can help test-takers feign symptoms, though validity scales still catch most AI-assisted feigning. APA's Committee on Psychological Tests and Assessment has released a report on responsible AI use in assessment.",
+   "category": "評估與篩檢",
+   "kind": "practice",
+   "model_names": [
+    "ChatGPT",
+    "Claude",
+    "Copilot"
+   ],
+   "tags": [
+    "AI",
+    "心理評估",
+    "倫理",
+    "報告撰寫",
+    "測驗安全"
+   ],
+   "first_seen_at": "2026-11-10T01:28:21+00:00",
+   "evidence_level": 2,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-01T00:00:00+00:00"
+  },
+  {
+   "slug": "seven-states-ban-ai-therapy-chatbots",
+   "title_zh": "美國七州禁止 AI 治療聊天機械人：臨床人員須知",
+   "title_en": "Seven states ban AI therapy chatbots",
+   "summary_zh": "科羅拉多、緬因、羅德島、田納西與佛蒙特五州於 2026 年加入伊利諾與內華達，禁止 AI 治療聊天機械人。賓州醫學委員會 2026 年 5 月就 Character Technologies 的「Emilie」角色提告，是首宗以醫療執業法追究聊天機械人的案件。加州 AB 1979 要求持牌人員在使用 AI 臨床決策支援時行使獨立專業判斷，大部分條文 2027 年 1 月 1 日生效。禁令不會令病人停用聊天機械人。",
+   "summary_en": "Telehealth.org (November 9, 2026) reports that seven US states now ban AI therapy chatbots: Colorado, Maine, Rhode Island, Tennessee and Vermont joined Illinois and Nevada in 2026. The article also covers Pennsylvania's May 2026 lawsuit against Character Technologies over a chatbot persona posing as a psychiatrist, and California's AB 1979, which requires licensed clinicians to exercise independent judgment when using AI clinical decision support, effective January 1, 2027.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "AI",
+    "聊天機械人",
+    "法規",
+    "美國各州",
+    "治療"
+   ],
+   "first_seen_at": "2026-11-10T01:28:21+00:00",
+   "evidence_level": 2,
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-09T00:00:00+00:00"
+  },
+  {
+   "slug": "ai-chatbots-mens-mental-health-middle-ground",
+   "title_zh": "AI 聊天機械人能否成為男性心理健康的切入點",
+   "title_en": "AI chatbots mens mental health middle ground",
+   "summary_zh": "男性佔自殺死亡人數高達八成，接受心理治療的機會卻只有女性約一半。皮尤研究中心調查發現，8% 男性用聊天機械人尋求情緒支援。受訪專家指出，聊天機械人因不帶評價、無須預約，或能降低男性求助的門檻；但現有研究有限，長期效益未明，過度依賴、取代人際互動等傷害亦未有明確定義。Dartmouth 的 Therabot 隨機對照試驗顯示症狀減輕，但研究者提醒不可把結果推廣至一般商用聊天機械人。",
+   "summary_en": "A STAT feature (November 9, 2026) explores whether AI chatbots can reach men, who account for up to 80% of suicide deaths but are about half as likely as women to receive mental health treatment. A Pew survey found 8% of men use chatbots for emotional support; experts say the non-judgmental, always-available format lowers the help-seeking threshold, but evidence of lasting benefit is limited and the definition of harm from extended AI relationships is unsettled. Dartmouth's Therabot RCT showed symptom reductions, but researchers caution against generalizing to commercial chatbots.",
+   "category": "人機互動心理",
+   "kind": "practice",
+   "model_names": [
+    "Claude",
+    "Therabot"
+   ],
+   "tags": [
+    "AI",
+    "聊天機械人",
+    "男性心理健康",
+    "求助行為",
+    "Therabot"
+   ],
+   "first_seen_at": "2026-11-10T01:28:21+00:00",
+   "evidence_level": 1,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-09T00:00:00+00:00"
+  },
+  {
+   "slug": "ozempic-dilemma-glp-1-psychiatry-promises-pitfalls",
+   "title_zh": "Ozempic 的兩難：GLP-1 藥物在精神科的機遇與隱憂",
+   "title_en": "Ozempic dilemma GLP-1 psychiatry promises pitfalls",
+   "summary_zh": "GLP-1 受體促效劑已進入精神科，主要用於處理抗精神病藥引致的體重增加與代謝症候群。2025 年 COaST 試驗顯示，思覺失調症合併氯氮平引致肥胖的病人使用 semaglutide，體重較安慰劑組多減 13.46%。藥物亦在成癮治療現初步訊號，但對飲食失調、青少年濫用與身體形象的影響令人關注。2026 年 1 月 FDA 要求移除 GLP-1 藥物標籤上的自殺意念警告，但藥物警戒數據仍見情緒低落的訊號，臨床人員應留意有精神病史病人的情緒變化。",
+   "summary_en": "A Psychiatric Times review (November 4, 2026) examines GLP-1 receptor agonists in psychiatry: the 2025 COaST trial found semaglutide produced 13.46% placebo-subtracted weight loss in schizophrenia with clozapine-induced obesity, and early trials show signals for alcohol use disorder. The review also flags eating-disorder risks, a case of adolescent semaglutide misuse, and cultural pressures around pharmacological weight loss; the FDA asked in January 2026 to remove the suicidal-ideation warning from GLP-1 labelling, though pharmacovigilance signals persist.",
+   "category": "臨床與治療應用",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "GLP-1",
+    "思覺失調症",
+    "體重增加",
+    "成癮",
+    "飲食失調"
+   ],
+   "first_seen_at": "2026-11-10T01:28:21+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-04T00:00:00+00:00"
+  },
+  {
+   "slug": "lyra-2027-workforce-mental-health-trends-forecast-survey",
+   "title_zh": "Lyra 2027 職場心理健康趨勢預測：83% 人力資源主管認為心理健康對業務表現更重要",
+   "title_en": "Lyra 2027 Workforce Mental Health Trends Forecast survey",
+   "summary_zh": "Lyra Health 發表第七屆年度調查，訪問超過 500 名人力資源與福利主管。92% 受訪者認為心理健康對維持業務表現不可或缺，83% 認為其重要性較三年前提高。調查亦指出，近半受訪者把人工智能與急速科技轉變列為最損害員工心理健康的職場因素之一，而一半受訪者表示兒童心理健康是他們最感準備不足的範疇。",
+   "summary_en": "Lyra Health's seventh annual Workforce Mental Health Trends Forecast (November 3, 2026), a survey of more than 500 HR and benefits leaders, finds 92% say mental health is essential to sustaining business performance and 83% say it matters more than three years ago. Nearly half (48%) cite AI and rapid technological change among the workplace factors most harming employee mental health, and half say children's mental health is among the needs they feel least prepared to address.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "職場心理健康",
+    "調查",
+    "人力資源",
+    "AI與工作"
+   ],
+   "first_seen_at": "2026-11-10T01:28:21+00:00",
+   "evidence_level": 1,
+   "population": [
+    "成人",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-03T00:00:00+00:00"
+  },
+  {
+   "slug": "bbrf-free-webinar-predicting-suicidal-ideation-outcomes",
+   "title_zh": "BBRF 免費網上講座：預測自殺意念結果——人格、認知與腦功能",
+   "title_en": "BBRF Free Webinar: Predicting Suicidal Ideation Outcomes",
+   "summary_zh": "2026 年 11 月 10 日美東時間下午 2 時，腦與行為研究基金會舉辦免費網上講座。McLean 醫院 Jenna Traynor 博士分享以人格障礙評估、認知測量與神經影像預測高危精神科群體自殺意念結果的新發現，並討論針對認知控制與情緒調節腦網絡的新興治療。主持人為基金會主席 Jeffrey Borenstein 醫生。",
+   "summary_en": "The Brain & Behavior Research Foundation's free webinar on November 10, 2026 (2:00 p.m. ET; 3:00 a.m. Macau time, November 11) features McLean Hospital's Jenna Traynor, PhD, on predicting suicidal ideation outcomes from personality, cognition and brain function in high-risk psychiatric populations, including borderline personality disorder. Registration details were announced via press release; the official registration page was not verified.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "自殺預防",
+    "自殺意念",
+    "神經影像",
+    "邊緣人格障礙",
+    "免費講座"
+   ],
+   "first_seen_at": "2026-11-10T01:28:21+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-10T01:28:21+00:00",
+   "training": {
+    "provider": "Brain & Behavior Research Foundation",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-10",
+    "format": "線上（網上講座）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "drexel-live-webinar-hope-and-spirituality-as-foundations-of",
+   "title_zh": "Drexel 網上培訓：希望與靈性作為心理健康的基礎",
+   "title_en": "Drexel Live Webinar: Hope and Spirituality as Foundations of Psychological Well-Being",
+   "summary_zh": "2026 年 11 月 10 日美東時間上午 9 時至 12:15，Drexel 舉辦網上培訓，由 Karin Gladney 博士主講。課程以 Snyder 希望理論與 Pargament 宗教靈性因應理論為本，探討希望、靈性與意義建構在精神健康與復元中的保護作用，並教授如何以合乎倫理及文化敏感的方式融入評估與介入。收費 27 美元，3 學分。",
+   "summary_en": "Drexel University College of Medicine's live webinar on November 10, 2026 (9:00 a.m.-12:15 p.m. ET; 10:00 p.m.-1:15 a.m. Macau time), led by Karin C. Gladney, PhD, explores hope and spirituality as foundations of psychological well-being, drawing on Snyder's hope theory and Pargament's religious/spiritual coping framework. Cost is $27 for 3 CE credits (APA, NBCC and others).",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "希望",
+    "靈性",
+    "意義建構",
+    "復元",
+    "持續進修學分"
+   ],
+   "first_seen_at": "2026-11-10T01:28:21+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-10T01:28:21+00:00",
+   "training": {
+    "provider": "Drexel University College of Medicine, Behavioral Healthcare Education",
+    "price": "$27",
+    "price_tier": "低價",
+    "ce_credits": "3",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-10",
+    "format": "線上（網上直播）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "csi-webinar-wellness-counseling-in-action-incorporating-well",
+   "title_zh": "Chi Sigma Iota 網上講座：實踐中的健康輔導——有意圖地融入健康元素",
+   "title_en": "CSI Webinar: Wellness Counseling in Action — Incorporating Wellness with Intentionality",
+   "summary_zh": "Chi Sigma Iota 於 2026 年 11 月 10 日美東時間下午 2–3 時舉辦網上講座，由 Philip Clarke、Mary Wynn、Cha'Ke'Sha Spencer 及 Chris Leeth 四位博士主講。內容概述健康輔導的技巧、文化回應式實踐、健康評估步驟及示範介入方法。會員免費，非會員 39 美元；完成可獲 NBCC 認可時數。",
+   "summary_en": "Chi Sigma Iota's webinar on November 10, 2026 (2:00-3:00 p.m. EST; 3:00-4:00 a.m. Macau time, November 11), presented by Philip Clarke, Mary Wynn, Cha'Ke'Sha Spencer and Chris Leeth, covers wellness counseling skills, culturally responsive practice, wellness assessment and intervention demonstrations. Free for CSI members, $39 for non-members; one NBCC-approved clock hour is available.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "健康輔導",
+    "全人健康",
+    "文化回應",
+    "持續進修學分"
+   ],
+   "first_seen_at": "2026-11-10T01:28:21+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-10T01:28:21+00:00",
+   "training": {
+    "provider": "Chi Sigma Iota",
+    "price": "會員免費，非會員 $39",
+    "price_tier": "低價",
+    "ce_credits": "1",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-10",
+    "format": "線上（網上直播）"
+   },
+   "deadline_soon": false
+  },
   {
    "slug": "amhart-adolescent-mental-health-ai-chatbot-evaluation-nature",
    "title_zh": "研究：AI 聊天機械人回應青少年焦慮較抑鬱貼近指引，重度抑鬱覆蓋最低（1,600 次模擬對話）",
