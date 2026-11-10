@@ -1,0 +1,653 @@
+{
+ "format": "psypick-muse-v1",
+ "run_date": "2026-11-10",
+ "items": [
+  {
+   "category": "研究與證據",
+   "evidence_hint": "評論或個人經驗",
+   "evidence_quote": "only 34% of users completed the full",
+   "key_points_zh": [
+    "70 項隨機對照試驗的統合分析顯示，只有 34% 用戶完成全部手機介入；業界數據顯示近 75% 用戶在登入十次後便停用健康應用程式",
+    "先導研究與隨機對照試驗落差的三大原因：介入執行與依從問題、alpha 膨脹、時間數據洩漏",
+    "即時復發預防與即時適應介入目標不同：前者偵測將出現的發作並預防，後者觸發微型治療以減輕當下症狀",
+    "建議：研究期要令復發自然機率至少達 50%（約 12 個月以上）、每週都能判斷有病或無病、重視數碼表型的建構效度"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-06",
+   "population": [
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "source": {
+    "author_name": "Ulrich W. Ebner-Priemer, Lorenz Deserno, Markus Reichert",
+    "description": "npj Digital Medicine 刊登的方法學評論，分析數碼心理健康介入的先導研究與隨機對照試驗結果常有落差的原因，並提出即時復發預防與即時適應介入的試驗設計建議。",
+    "platform": "web",
+    "title": "Effective trialing of digital interventions in daily life – the mental health perspective",
+    "url": "https://www.nature.com/articles/s41746-026-03414-7"
+   },
+   "summary_zh": "文章指出數碼心理健康介入常出現先導研究亮麗、隨機對照試驗卻失敗的落差。原因包括依從率低（一項涵蓋 70 項隨機對照試驗的統合分析顯示只有 34% 用戶完成全部介入）、alpha 膨脹，以及機器學習分析的時間數據洩漏。作者建議試驗期要夠長（復發自然機率至少 50%）、提高結果量度的時間精確度，並發展效度更高的數碼表型。",
+   "tags": [
+    "數碼心理健康",
+    "mHealth",
+    "隨機對照試驗",
+    "研究方法"
+   ],
+   "title_en": "Effective Trialing of Digital Interventions in Daily Life Mental Health Perspective",
+   "title_zh": "數碼心理健康介入的日常試驗：方法學展望",
+   "training": null,
+   "type": "case",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "category": "評估與篩檢",
+   "evidence_hint": "評論或個人經驗",
+   "evidence_quote": "AI is already shaping practice",
+   "key_points_zh": [
+    "AI 在心理評估中最普遍的用途是協助撰寫報告，專家提醒須審核輸出、揭露使用、不輸入受保護健康資訊",
+    "通用聊天機械人可能助長受測者作假，效度量表目前仍能識別多數 AI 協助的作假者，但防禦未必持久",
+    "生成式心理測量學可用 AI 即時調整測驗題目，但仍須符合信度、效度與文化公平等心理測量標準",
+    "專家認為 AI 訓練已不能視為專科，心理學教育須教導學生負責任地使用 AI"
+   ],
+   "kind": "practice",
+   "model_names": [
+    "ChatGPT",
+    "Claude",
+    "Copilot"
+   ],
+   "page_date": "2026-11-01",
+   "population": [
+    "臨床工作者"
+   ],
+   "source": {
+    "author_name": "Zara Abrams（美國心理學會《Monitor on Psychology》）",
+    "description": "美國心理學會 2026 年 11 月專題，探討 AI 如何改變心理評估的報告撰寫、測驗設計與作假偵測，以及相關倫理風險。",
+    "platform": "web",
+    "title": "Psychologists navigate AI’s growing role in assessment",
+    "url": "https://www.apa.org/monitor/2026/11-12/ai-psychological-assessment"
+   },
+   "summary_zh": "AI 已廣泛用於心理評估報告撰寫，也開始協助產生測驗題目與在真實情境中偵測風險。專家提醒，通用聊天機械人不是 HIPAA 合規工具，不可輸入受保護健康資訊；過度依賴 AI 解讀結果可能導致誤診，作假偵測亦面臨挑戰。美國心理學會心理測驗與評估委員會已發布負責任使用 AI 的報告。",
+   "tags": [
+    "AI",
+    "心理評估",
+    "倫理",
+    "報告撰寫",
+    "測驗安全"
+   ],
+   "title_en": "Psychologists navigate AIs growing role in assessment",
+   "title_zh": "心理學家如何應對 AI 在心理評估中日增的角色",
+   "training": null,
+   "type": "case",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "category": "倫理與風險",
+   "evidence_hint": "法規或指引",
+   "evidence_quote": "Seven states now ban AI therapy chatbots",
+   "key_points_zh": [
+    "七州已禁止 AI 治療聊天機械人：伊利諾、內華達（2025 年）及科羅拉多、緬因、羅德島、田納西、佛蒙特（2026 年）",
+    "賓州醫學委員會 2026 年 5 月起訴 Character Technologies，指其「Emilie」角色涉無牌行醫",
+    "加州 AB 1979 要求持牌人員在使用 AI 臨床決策支援時保持獨立專業判斷，2027 年 1 月 1 日起生效"
+   ],
+   "kind": "practice",
+   "model_names": [],
+   "page_date": "2026-11-09",
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "source": {
+    "author_name": "Telehealth.org",
+    "description": "2026 年 11 月 9 日報導：美國七個州已禁止 AI 治療聊天機械人，加州則要求臨床人員在使用 AI 臨床決策支援時保持獨立專業判斷。",
+    "platform": "web",
+    "title": "7 States Ban AI Therapy Chatbots: What Changes for Clinicians?",
+    "url": "https://telehealth.org/news/seven-states-have-banned-ai-therapy-chatbots-what-changes-for-clinicians/"
+   },
+   "summary_zh": "科羅拉多、緬因、羅德島、田納西與佛蒙特五州於 2026 年加入伊利諾與內華達，禁止 AI 治療聊天機械人。賓州醫學委員會 2026 年 5 月就 Character Technologies 的「Emilie」角色提告，是首宗以醫療執業法追究聊天機械人的案件。加州 AB 1979 要求持牌人員在使用 AI 臨床決策支援時行使獨立專業判斷，大部分條文 2027 年 1 月 1 日生效。禁令不會令病人停用聊天機械人。",
+   "tags": [
+    "AI",
+    "聊天機械人",
+    "法規",
+    "美國各州",
+    "治療"
+   ],
+   "title_en": "Seven states ban AI therapy chatbots",
+   "title_zh": "美國七州禁止 AI 治療聊天機械人：臨床人員須知",
+   "training": null,
+   "type": "case",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "category": "人機互動心理",
+   "evidence_hint": "評論或個人經驗",
+   "evidence_quote": "Men feel more comfortable, less judged",
+   "key_points_zh": [
+    "男性佔自殺死亡人數高達八成，但接受心理治療的機會只有女性約一半",
+    "皮尤研究中心調查：8% 男性用聊天機械人尋求情緒支援，4% 用作陪伴，9% 表示使用後快樂感提升",
+    "Dartmouth Therabot 隨機對照試驗約 100 名治療組對 100 名等候名單對照組，症狀顯著減輕，但屬專門設計的治療機械人",
+    "專家提醒：心理健康 AI 的傷害定義未明，聯邦層面亦未有針對心理健康 AI 的具體指引"
+   ],
+   "kind": "practice",
+   "model_names": [
+    "Claude",
+    "Therabot"
+   ],
+   "page_date": "2026-11-09",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "source": {
+    "author_name": "Annalisa Merelli（STAT）",
+    "description": "STAT 2026 年 11 月 9 日報導：男性較少求助心理治療，AI 聊天機械人因不帶評價、隨時可用，或能成為接觸男性心理健康的切入點，但證據與傷害定義仍未明確。",
+    "platform": "web",
+    "title": "AI chatbots offer intriguing middle ground for men's mental health",
+    "url": "https://www.statnews.com/2026/11/09/ai-chatbots-can-overcome-mental-health-barriers-in-men/"
+   },
+   "summary_zh": "男性佔自殺死亡人數高達八成，接受心理治療的機會卻只有女性約一半。皮尤研究中心調查發現，8% 男性用聊天機械人尋求情緒支援。受訪專家指出，聊天機械人因不帶評價、無須預約，或能降低男性求助的門檻；但現有研究有限，長期效益未明，過度依賴、取代人際互動等傷害亦未有明確定義。Dartmouth 的 Therabot 隨機對照試驗顯示症狀減輕，但研究者提醒不可把結果推廣至一般商用聊天機械人。",
+   "tags": [
+    "AI",
+    "聊天機械人",
+    "男性心理健康",
+    "求助行為",
+    "Therabot"
+   ],
+   "title_en": "AI chatbots mens mental health middle ground",
+   "title_zh": "AI 聊天機械人能否成為男性心理健康的切入點",
+   "training": null,
+   "type": "case",
+   "verify_needed": true,
+   "verify_reason": "頁面正文未顯示發布日，日期依網址 2026/11/09"
+  },
+  {
+   "category": "臨床與治療應用",
+   "evidence_hint": "評論或個人經驗",
+   "evidence_quote": "curbing antipsychotic weight gain",
+   "key_points_zh": [
+    "COaST 試驗：semaglutide 在思覺失調症合併氯氮平引致肥胖病人中，體重較安慰劑組多減 13.46%",
+    "低劑量 semaglutide 在 2025 年第二期試驗中減少酒精使用障礙病人的渴求與飲酒量",
+    "飲食失調情況複雜：或可減少暴食，但亦有極端抑制食慾與病理性節食的個案報告；厭食症尚無臨床試驗",
+    "FDA 於 2026 年 1 月要求移除 GLP-1 藥物標籤上的自殺意念警告，但藥物警戒數據仍見情緒低落訊號"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-04",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "source": {
+    "author_name": "Ravleen Kaur Suri 等（Psychiatric Times）",
+    "description": "Psychiatric Times 2026 年 11 月 4 日綜述：GLP-1 受體促效劑進入精神科，協助處理抗精神病藥引致的體重增加，但對成癮、情緒、飲食失調與身體形象的影響仍有未解問題。",
+    "platform": "web",
+    "title": "The Ozempic Dilemma: Promises and Pitfalls in Psychiatry",
+    "url": "https://www.psychiatrictimes.com/view/the-ozempic-dilemma-promises-and-pitfalls-in-psychiatry"
+   },
+   "summary_zh": "GLP-1 受體促效劑已進入精神科，主要用於處理抗精神病藥引致的體重增加與代謝症候群。2025 年 COaST 試驗顯示，思覺失調症合併氯氮平引致肥胖的病人使用 semaglutide，體重較安慰劑組多減 13.46%。藥物亦在成癮治療現初步訊號，但對飲食失調、青少年濫用與身體形象的影響令人關注。2026 年 1 月 FDA 要求移除 GLP-1 藥物標籤上的自殺意念警告，但藥物警戒數據仍見情緒低落的訊號，臨床人員應留意有精神病史病人的情緒變化。",
+   "tags": [
+    "GLP-1",
+    "思覺失調症",
+    "體重增加",
+    "成癮",
+    "飲食失調"
+   ],
+   "title_en": "Ozempic dilemma GLP-1 psychiatry promises pitfalls",
+   "title_zh": "Ozempic 的兩難：GLP-1 藥物在精神科的機遇與隱憂",
+   "training": null,
+   "type": "case",
+   "verify_needed": true,
+   "verify_reason": "發布日見於 Psychiatric Times 首頁列表（November 4th 2026），文章頁未顯示日期"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "不明",
+   "evidence_quote": "92% of benefits leaders say mental",
+   "key_points_zh": [
+    "92% 福利主管認為心理健康對維持業務表現不可或缺",
+    "83% 認為心理健康的重要性較三年前提高",
+    "48% 把人工智能與急速科技轉變列為最損害員工心理健康的職場因素之一",
+    "一半受訪者表示兒童心理健康是最感準備不足的範疇",
+    "84% 認為單靠擴大服務覆蓋已不足夠，82% 預期心理健康預算會增加"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-03",
+   "population": [
+    "成人",
+    "一般大眾"
+   ],
+   "source": {
+    "author_name": "Lyra Health",
+    "description": "Lyra Health 發表 2027 年職場心理健康趨勢預測，調查超過 500 名人力資源與福利主管對職場心理健康的看法。",
+    "platform": "web",
+    "title": "New Lyra Survey: 83% of HR Leaders Say Mental Health Matters More to Business Performance Than It Did Three Years Ago",
+    "url": "https://www.lyrahealth.com/announcement/new-lyra-survey-83-of-hr-leaders-say-mental-health-matters-more-to-business-performance-than-it-did-three-years-ago/"
+   },
+   "summary_zh": "Lyra Health 發表第七屆年度調查，訪問超過 500 名人力資源與福利主管。92% 受訪者認為心理健康對維持業務表現不可或缺，83% 認為其重要性較三年前提高。調查亦指出，近半受訪者把人工智能與急速科技轉變列為最損害員工心理健康的職場因素之一，而一半受訪者表示兒童心理健康是他們最感準備不足的範疇。",
+   "tags": [
+    "職場心理健康",
+    "調查",
+    "人力資源",
+    "AI與工作"
+   ],
+   "title_en": "Lyra 2027 Workforce Mental Health Trends Forecast survey",
+   "title_zh": "Lyra 2027 職場心理健康趨勢預測：83% 人力資源主管認為心理健康對業務表現更重要",
+   "training": null,
+   "type": "case",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "不明",
+   "evidence_quote": "Wednesday 11 November 2026",
+   "key_points_zh": [
+    "2026 年 11 月 11 日（星期三）英國時間 14:00–15:00，Zoom 網上舉行",
+    "免費參加，對象為心理健康專業人員",
+    "講者為 APT 應用臨床心理學主管 Dr William Davies",
+    "內容涵蓋辨識情緒調節困難及協助案主建立調節技巧"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-11-11",
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "source": {
+    "author_name": "Association for Psychological Therapies (APT)",
+    "description": "APT 為心理健康專業人員舉辦的免費星期三網上講座，本期講情緒失調：如何認識及調節情緒，並協助案主建立調節技巧。",
+    "platform": "web",
+    "title": "FREE Webinars for Mental Health Professionals",
+    "url": "https://www.apt.ac/webinars/free-webinars-for-mental-health-professionals.html"
+   },
+   "summary_zh": "APT 於 2026 年 11 月 11 日（星期三）英國時間下午 2–3 時舉辦免費網上講座，由 Dr William Davies 主講。內容介紹何謂情緒失調、如何辨識情緒調節困難，並分享協助自己與案主調節強烈情緒的實用方法。對象為心理健康專業人員，Zoom 進行，免費參加。",
+   "tags": [
+    "情緒調節",
+    "情緒失調",
+    "免費講座",
+    "網上培訓"
+   ],
+   "title_en": "APT Free Webinar: Emotional Dysregulation and Emotion Regulation for Mental Health Professionals",
+   "title_zh": "APT 免費網上講座：情緒失調——認識與調節情緒，協助自己與案主",
+   "training": {
+    "audience_level": "心理健康專業人員",
+    "ce_credits": "",
+    "deadline": "",
+    "event_date": "2026-11-11",
+    "format": "線上（Zoom 網上講座）",
+    "language": "英語",
+    "price": "免費",
+    "price_tier": "免費",
+    "provider": "Association for Psychological Therapies (APT)",
+    "signup_url": "https://us02web.zoom.us/webinar/register/WN_m8etla53Tv6eCM_PDroQ1Q",
+    "topic": "情緒失調與情緒調節"
+   },
+   "type": "case",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "不明",
+   "evidence_quote": "November 10, 2026, at 2pm ET",
+   "key_points_zh": [
+    "2026 年 11 月 10 日美東時間 14:00，免費網上講座",
+    "講者 Jenna Traynor 博士，McLean 醫院臨床科學家、哈佛醫學院心理學講師",
+    "主題為以人格、認知與腦功能預測自殺意念治療反應",
+    "涵蓋邊緣人格障礙等高危群體及新興腦網絡治療"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-10-28",
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "source": {
+    "author_name": "Brain & Behavior Research Foundation",
+    "description": "腦與行為研究基金會的免費網上講座，講者分享以人格、認知測量與神經影像預測高危精神科群體自殺意念結果的新發現。",
+    "platform": "web",
+    "title": "Predicting Suicidal Ideation Outcomes: How Personality, Cognition, and Brain Function Shape Treatment Response",
+    "url": "https://www.globenewswire.com/news-release/2026/10/28/3390543/0/en/predicting-suicidal-ideation-outcomes-how-personality-cognition-and-brain-function-shape-treatment-response.html"
+   },
+   "summary_zh": "2026 年 11 月 10 日美東時間下午 2 時，腦與行為研究基金會舉辦免費網上講座。McLean 醫院 Jenna Traynor 博士分享以人格障礙評估、認知測量與神經影像預測高危精神科群體自殺意念結果的新發現，並討論針對認知控制與情緒調節腦網絡的新興治療。主持人為基金會主席 Jeffrey Borenstein 醫生。",
+   "tags": [
+    "自殺預防",
+    "自殺意念",
+    "神經影像",
+    "邊緣人格障礙",
+    "免費講座"
+   ],
+   "title_en": "BBRF Free Webinar: Predicting Suicidal Ideation Outcomes",
+   "title_zh": "BBRF 免費網上講座：預測自殺意念結果——人格、認知與腦功能",
+   "training": {
+    "audience_level": "心理健康專業人員及研究人員",
+    "ce_credits": "",
+    "deadline": "",
+    "event_date": "2026-11-10",
+    "format": "線上（網上講座）",
+    "language": "英語",
+    "price": "免費",
+    "price_tier": "免費",
+    "provider": "Brain & Behavior Research Foundation",
+    "signup_url": "",
+    "topic": "自殺意念預測與治療反應"
+   },
+   "type": "case",
+   "verify_needed": true,
+   "verify_reason": "經 GlobeNewswire 發布的新聞稿，未及開 BBRF 官方頁核對報名連結"
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "不明",
+   "evidence_quote": "November 10, 9 a.m.-12:15 p.m.",
+   "key_points_zh": [
+    "2026 年 11 月 10 日美東時間 9:00–12:15，網上直播",
+    "收費 27 美元，3 學分（APA、NBCC 等）",
+    "講者 Karin C. Gladney 博士",
+    "內容包括希望理論、靈性因應及復元導向策略"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-11-10",
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "source": {
+    "author_name": "Drexel University College of Medicine",
+    "description": "Drexel 大學醫學院行為健康教育的網上直播課程，本期探討希望、靈性與意義建構在精神健康與復元中的保護作用。",
+    "platform": "web",
+    "title": "Live Webinars: Behavioral Healthcare Education - Drexel University College of Medicine",
+    "url": "https://drexel.edu/medicine/academics/continuing-education/behavioral-healthcare-education/live-webinars/"
+   },
+   "summary_zh": "2026 年 11 月 10 日美東時間上午 9 時至 12:15，Drexel 舉辦網上培訓，由 Karin Gladney 博士主講。課程以 Snyder 希望理論與 Pargament 宗教靈性因應理論為本，探討希望、靈性與意義建構在精神健康與復元中的保護作用，並教授如何以合乎倫理及文化敏感的方式融入評估與介入。收費 27 美元，3 學分。",
+   "tags": [
+    "希望",
+    "靈性",
+    "意義建構",
+    "復元",
+    "持續進修學分"
+   ],
+   "title_en": "Drexel Live Webinar: Hope and Spirituality as Foundations of Psychological Well-Being",
+   "title_zh": "Drexel 網上培訓：希望與靈性作為心理健康的基礎",
+   "training": {
+    "audience_level": "行為健康專業人員",
+    "ce_credits": "3",
+    "deadline": "",
+    "event_date": "2026-11-10",
+    "format": "線上（網上直播）",
+    "language": "英語",
+    "price": "$27",
+    "price_tier": "低價",
+    "provider": "Drexel University College of Medicine, Behavioral Healthcare Education",
+    "signup_url": "",
+    "topic": "希望、靈性與心理健康"
+   },
+   "type": "case",
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "不明",
+   "evidence_quote": "November 10, 2026, 2:00 - 3:00pm EST",
+   "key_points_zh": [
+    "2026 年 11 月 10 日美東時間 14:00–15:00，網上直播",
+    "會員免費，非會員 39 美元",
+    "NBCC 認可持續進修時數（看錄影加測驗亦可取分）",
+    "對象為輔導員，內容包括健康評估與介入示範"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-11-10",
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "source": {
+    "author_name": "Chi Sigma Iota",
+    "description": "Chi Sigma Iota 的網上講座，由四位博士主講健康輔導的技巧、文化回應式實踐、健康評估步驟及介入示範。",
+    "platform": "web",
+    "title": "Webinar 2026-11-10 - Chi Sigma Iota",
+    "url": "https://www.csi-net.org/page/267ClarkeWynnSpencerLeeth"
+   },
+   "summary_zh": "Chi Sigma Iota 於 2026 年 11 月 10 日美東時間下午 2–3 時舉辦網上講座，由 Philip Clarke、Mary Wynn、Cha'Ke'Sha Spencer 及 Chris Leeth 四位博士主講。內容概述健康輔導的技巧、文化回應式實踐、健康評估步驟及示範介入方法。會員免費，非會員 39 美元；完成可獲 NBCC 認可時數。",
+   "tags": [
+    "健康輔導",
+    "全人健康",
+    "文化回應",
+    "持續進修學分"
+   ],
+   "title_en": "CSI Webinar: Wellness Counseling in Action — Incorporating Wellness with Intentionality",
+   "title_zh": "Chi Sigma Iota 網上講座：實踐中的健康輔導——有意圖地融入健康元素",
+   "training": {
+    "audience_level": "輔導員",
+    "ce_credits": "1",
+    "deadline": "",
+    "event_date": "2026-11-10",
+    "format": "線上（網上直播）",
+    "language": "英語",
+    "price": "會員免費，非會員 $39",
+    "price_tier": "低價",
+    "provider": "Chi Sigma Iota",
+    "signup_url": "",
+    "topic": "健康輔導"
+   },
+   "type": "case",
+   "verify_needed": false,
+   "verify_reason": ""
+  }
+ ],
+ "skipped": [
+  {
+   "url": "https://formative.jmir.org/2026/1/e106118",
+   "reason": "窗口外：發布日 2026-10-23（15 天窗口自 2026-10-26 起）"
+  },
+  {
+   "url": "https://www.nature.com/articles/s41562-026-02607-0",
+   "reason": "窗口外：發布日 2026-10-08（15 天窗口自 2026-10-26 起）"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42895746/",
+   "reason": "窗口外：發布日 2026-10-01（15 天窗口自 2026-10-26 起）"
+  },
+  {
+   "url": "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(26)00184-2/fulltext",
+   "reason": "窗口外：發布日 2026-10-20（15 天窗口自 2026-10-26 起）"
+  },
+  {
+   "reason": "已收錄：HBS 生成式 AI Flourish 減壓研究（哈佛商學院工作論文 No. 27-002）",
+   "url": "https://www.manilatimes.net/2026/11/03/tmt-newswire/plentisoft/harvard-working-paper-finds-flourish-ai-app-improves-stress-depression-and-anxiety-symptoms/2460422/amp"
+  },
+  {
+   "reason": "招募中的研究，非已發表成果：雪城大學以 Claude 聊天機械人協助退伍軍人創業者建立韌性的研究剛獲倫理批准開始招募",
+   "url": "https://news.syr.edu/2026/11/09/can-a-chatbot-help-humans-build-resilience/"
+  },
+  {
+   "reason": "未開始招募的試驗登記：青少年四週數碼排毒準實驗研究，尚未招募，非已發表成果",
+   "url": "https://trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2026/10/119246"
+  },
+  {
+   "url": "https://beta.manilatimes.net/2026/10/06/tmt-newswire/globenewswire/fda-clears-motivista-ct-155-the-first-authorized-treatment-for-negative-schizophrenia-symptoms/2439402/amp",
+   "reason": "窗口外：發布日 2026-10-05（15 天窗口自 2026-10-26 起）；且為第三方轉載"
+  },
+  {
+   "url": "https://www.apa.org/topics/artificial-intelligence-machine-learning/state-ai-laws-psychologists",
+   "reason": "窗口外：發布日 2026-10-23；且與 2026-11-03 已收錄同頁重複"
+  },
+  {
+   "reason": "第三方網站非一手來源；GRACE 模型屬個別作者框架，非專業共識",
+   "url": "https://www.counselingpsychology.org/articles/ai-in-counseling-2026-10-09/"
+  },
+  {
+   "reason": "第三方網站非一手來源；六步模型未獲倫理機構背書",
+   "url": "https://www.counselingpsychology.org/articles/ai-ethics-for-mental-health-professionals-2026-10-29/"
+  },
+  {
+   "reason": "同事件重複：州 AI 法規已有 APA 與 Telehealth.org 一手／較新報導",
+   "url": "https://www.recordinglaw.com/us-laws/ai-laws/ai-healthcare-laws/"
+  },
+  {
+   "reason": "同事件重複：州 AI 法規已有 APA 與 Telehealth.org 報導",
+   "url": "https://lifesciencedaily.news/ai-mental-health-care-rules/"
+  },
+  {
+   "reason": "第三方網站；FDA 生成式 AI 討論文件公眾意見期已於 2026-10-19 結束，未開 FDA 官方頁核實",
+   "url": "https://theprofessions.cloud/therapists/fda-generative-ai-mental-health-devices-comments/"
+  },
+  {
+   "reason": "付費書籍（39.99 美元），非免費或低價培訓",
+   "url": "https://www.apa.org/pubs/books/clinicians-guide-ai-supported-therapy-homework"
+  },
+  {
+   "reason": "首頁當日無心理健康相關內容（僅見 Ellipsis Health 收購等非臨床消息）",
+   "url": "https://www.mobihealthnews.com/"
+  },
+  {
+   "reason": "列表所見 Fonagy 致年輕人公開信（2026-10-12）未開原頁核實，未收",
+   "url": "https://www.bps.org.uk/psychologist"
+  },
+  {
+   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens/",
+   "reason": "同事件重複：與 2026-11-03 已上架 OpenAI 社群安全報告同一公布"
+  },
+  {
+   "reason": "發布日 2026-09-23，超出 15 天範圍",
+   "url": "https://openai.com/index/introducing-mentalhealthbench/"
+  },
+  {
+   "reason": "發布日 2025-12-11，超出 15 天範圍",
+   "url": "https://openai.com/index/introducing-gpt-5-2/"
+  },
+  {
+   "reason": "期內新發布為 Claude Fable 5.2 與 Mythos 5.2（2026-11-09），屬編程、金融與科學用途，與心理健康無關",
+   "url": "https://www.anthropic.com/news"
+  },
+  {
+   "reason": "2026-11-09 發布的研究基建安全系統，與心理健康無關",
+   "url": "https://openai.com/index/control-room"
+  },
+  {
+   "reason": "2026-11-05 自我排名新聞稿，屬純行銷稿",
+   "url": "https://menafn.com/1111923641/Lovon-Separates-Itself-In-Free-AI-Therapist-Apps-With-Voice-Sessions"
+  },
+  {
+   "reason": "UHS 收購 Talkspace 於 2026-03-09 公布，超出 15 天範圍",
+   "url": "http://www.stockwatch.com/News/Item/U-PH05053-U!UHS-20260309/U/UHS"
+  },
+  {
+   "reason": "發布日 2026-10-15，超出 15 天範圍",
+   "url": "https://news.vanderbilt.edu/2026/10/15/mental-health-support-is-evolving-spring-health-is-coming-january-2027/"
+  },
+  {
+   "reason": "Lisa Damour 學校訪問（2026-11-10），晚間講座以家長為對象，不屬主站 case 範疇",
+   "url": "https://www.issh.ac.jp/community/news-details/~board/news-board/post/internationally-acclaimed-author-dr-lisa-damour-to-visit-issh-in-november"
+  },
+  {
+   "reason": "Lyra Engage 強制轉用第三方評論文章，關鍵來源需登入，未能核實",
+   "url": "https://theinsurancemaze.com/the-controversy-over-lyra-engage/"
+  },
+  {
+   "reason": "OpenAI 更新版 Model Spec（2026-10-29）列於新聞室但未開頁核實，頁面配額已用完",
+   "url": "https://openai.com/news/safety-alignment/"
+  },
+  {
+   "reason": "GPT-6.1 Sol 系統卡 2026-09-29，超出 15 天範圍",
+   "url": "https://cdn.openai.com/pdf/38e3efcf-545e-44cd-99ec-2b7eb395f4cc/oai_GPT_6_1_Sol.pdf"
+  },
+  {
+   "url": "https://drexel.edu/medicine/academics/continuing-education/behavioral-healthcare-education/live-webinars/",
+   "reason": "已收錄：與 2026-11-03 Drexel 親密伴侶暴力基礎同一課程"
+  },
+  {
+   "url": "https://drexel.edu/medicine/academics/continuing-education/behavioral-healthcare-education/live-webinars/",
+   "reason": "已收錄：與 2026-11-03 Drexel 文化謙遜積極聆聽同一課程"
+  },
+  {
+   "url": "https://cams-care.com/resources/",
+   "reason": "證據不足：原頁無發布日、費用、形式與報名連結，免費一說只見 LinkedIn 帖文"
+  },
+  {
+   "reason": "已上架（耶魯兒童哀傷免費講座 11/18）",
+   "url": "https://medicine.yale.edu/childstudy/news-article/recognizing-grief-in-children-webinar/"
+  },
+  {
+   "reason": "已上架（IEEE 行為與臨床科學計算工具講座 11/26）",
+   "url": "https://ieee-biometrics.org/upcoming-webinar-designing-computational-tools-for-behavioral-and-clinical-science/"
+  },
+  {
+   "reason": "迷幻藥主題，留待主巡查決定是否上架",
+   "url": "https://events.humanitix.com/mind-medicine-australia-free-webinar-remembering-how-psychedelics-can-help-to-integrate-disparate-experiences-change-old-habits-and-promote-flexibility-and-self-compassion"
+  },
+  {
+   "reason": "對象為遊戲業社群，非專業培訓",
+   "url": "https://www.takethis.org/2026/10/take-this-talks-november-workshop-program-updates/"
+  },
+  {
+   "reason": "已滿額，不再接受報名",
+   "url": "https://cdp.usuhs.edu/training/online-prolonged-exposure-therapy-pe-training-via-zoom-9-10-nov-2026"
+  },
+  {
+   "reason": "收費 119 美元，超過 50 美元上限",
+   "url": "https://bridgetraininginstitute.givecloud.co/product/2026-2027-Suicide-Interventions-Walsh/virtual-thursday-november-12-2026-900-1200pm-understanding-managing-and-treating-suicidal-behavior-with-barent-walsh-phd"
+  },
+  {
+   "reason": "收費 324.99 加元，超過上限",
+   "url": "https://www.pesicanada.ca/item/working-suicidal-risk-collaborative-assessment-management-suicidality-cams-evidencebased-treatments-150382/"
+  },
+  {
+   "reason": "以家長為對象的講座，不收",
+   "url": "https://butterfield.d70schools.org/our-school/news-clone/detail-clone/~board/communication-news/post/families-learning-together-event-nov-10-on-overcoming-perfectionism-and-social-anxiety"
+  },
+  {
+   "reason": "非會員收費未列，費用不明",
+   "url": "https://fmhca.wildapricot.org/page-1075411"
+  },
+  {
+   "reason": "12 月課程（12/15–12/21）留待後續巡查，本次只收 11 月課程；WOL846 已於 11 月 5 日結束，過期",
+   "url": "https://drexel.edu/medicine/academics/continuing-education/behavioral-healthcare-education/schedule-at-a-glance/"
+  },
+  {
+   "reason": "葡語課程且須先修前置課程，不適合",
+   "url": "https://conectaprofessores.com/2026/11/06/unifesp-abre-600-vagas-em-curso-gratuito-online-sobre-saude-mental-inscricoes-ate-16-de-novembro/"
+  }
+ ],
+ "unreachable_sources": [
+  {
+   "name": "JAMA Network Open 原文（經 DOI）",
+   "problem": "開啟被拒（HTTP 403），改以 PubMed 記錄核實標題、日期與摘要",
+   "url": "https://doi.org/10.1001/jamanetworkopen.2026.39400"
+  },
+  {
+   "name": "Eric Topol Ground Truths（Substack）",
+   "problem": "首頁讀不到文章列表，無法辨識近 15 天心理健康相關文章",
+   "url": "https://erictopol.substack.com"
+  },
+  {
+   "name": "Ethan Mollick One Useful Thing（Substack）",
+   "problem": "首頁讀不到文章列表，無法辨識近 15 天心理健康相關文章",
+   "url": "https://www.oneusefulthing.org"
+  },
+  {
+   "name": "AIHOT 搜尋 q=心理",
+   "problem": "browser.open 讀取失敗（工具錯誤），按指示未重試",
+   "url": "https://aihot.news/api/v1/agent/search?q=心理&window=7d"
+  },
+  {
+   "name": "Techno Sapiens（Jacqueline Nesi Substack）",
+   "problem": "首頁只顯示訂閱說明，未顯示文章清單，無法核實期內新文",
+   "url": "https://technosapiens.substack.com"
+  },
+  {
+   "name": "Jonathan Shedler Substack",
+   "problem": "首頁只顯示訂閱說明，未顯示文章清單，無法核實期內新文",
+   "url": "https://jonathanshedler.substack.com"
+  }
+ ],
+ "notes": "週二組巡查（A/B 期刊預印本、C/D 組織機構、新聞電子報、E/F AI 公司產品、美國心理師、K 培訓），窗口 2026-10-26 至 2026-11-10。收 10 則：研究 3（npj 數碼心理健康試驗方法學、Psychiatric Times Ozempic 綜述、Lyra 職場調查）、實務／倫理 3（APA 心理評估 AI、七州禁 AI 治療聊天機械人、STAT 男性心理健康）、培訓 4（APT 情緒調節 11/11、BBRF 自殺意念預測 11/10、Drexel 希望與靈性 11/10、CSI 健康輔導 11/10）。已逐則複核：npj 發布日 2026-11-06 與 70 項 RCT／34% 完成率已核實；APA Monitor 日期 2026-11-01 已核實；Telehealth.org 七州、賓州訴訟、加州 AB 1979 經瀏覽器任務核實（原文頁 403）；STAT 與 Ozempic 內容已核實，日期分別依網址與首頁列表，保留 verify_needed；Lyra 數字（92%、83%、逾 500 人）已核實，屬廠商自家調查；CSI 時間與費用已核實（會員免費／非會員 $39、NBCC 1 時數）；BBRF 只見 GlobeNewswire 新聞稿，未核對官方報名頁，保留 verify_needed；APT、Drexel 希望與靈性由分組巡查開原頁核實。略過主因：4 則期刊窗口外（10-01 至 10-23）、FDA Motivista 窗口外、APA 州法文窗口外且已收錄、OpenAI 社群安全報告與 11-03 同事件重複、Drexel 兩課與 11-03 重複、CAMS-care 證據不足。未掃來源：JMIR Mental Health、Nature Mental Health、World Psychiatry、BMJ Mental Health 等期刊列表頁；WHO、FDA Digital Health、NICE、港台學會、Mind、BIDMC、Stanford HAI、MIT Media Lab 等組織；Google Health、Character.AI、Wysa、Woebot、Limbic 等產品頁；PESI、Beck、NCTSN、OpenWHO 等培訓來源。跟進線索（未核實）：預印本《When AI Takes the Couch》、npj 2026-11-03 TEMPO 社論、Ways of Being 博物館 RCT、npj AI 介導心理治療具身評論、OpenAI 更新版 Model Spec（2026-10-29）。AIHOT 預篩：q=心理讀取失敗；其餘關鍵字無心理健康命中。"
+}
