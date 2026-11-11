@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T13:28:11+00:00",
+ "generated_at": "2026-11-11T13:33:22+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,173 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "blended-digital-parenting-intervention-tanzania-parentapp-tr",
+   "title_zh": "群組隨機試驗：坦桑尼亞混合式數碼親職程式，女童過去一個月性暴力受害率低 57%（2,396 對親子）",
+   "title_en": "Blended digital parenting intervention Tanzania ParentApp trial",
+   "summary_zh": "The Lancet 刊出 ParentApp 群組隨機對照試驗，測試混合式數碼親職介入能否在坦桑尼亞大規模預防青少年性暴力與虐待。研究在 80 個分區隨機分配 2,396 對照顧者與 10 至 17 歲青少年（ParentApp 組與水衛生對照程式 WASHApp 各 1,198 對），介入為 12 個單元離線手機程式，加一次面授簡介與 WhatsApp 小組支援，每家庭成本 6 美元。追蹤 18 個月後，女童過去一個月性暴力受害率低 57%（發生率比 0.43），男童則無效果；過去一個月虐待（身體、言語虐待與疏忽）亦較低，青少年自報發生率比 0.92，照顧者自報 0.87；性暴力高危處境亦較低。研究指低成本混合式數碼親職程式可同時減少女童性暴力與男女童的虐待及高危處境。作者申報與 Parenting for Lifelong Health 慈善機構及程式開發公司 IDEMS 有職務關聯。",
+   "summary_en": "The Lancet published the ParentApp cluster-randomised controlled trial testing whether a blended digital parenting intervention can prevent sexual violence and maltreatment of adolescents at scale in Tanzania. Across 80 sub-wards, 2,396 caregiver-adolescent dyads (adolescents aged 10-17) were randomised 1:1 to ParentApp or a water, sanitation and hygiene control app (WASHApp), each 1,198 dyads. ParentApp is a 12-module offline-first app plus one in-person orientation and WhatsApp group support, costing US$6 per family at scale. At 18 months, past-month sexual violence victimisation was 57% lower among girls (incidence rate ratio 0.43), with no effect for boys; past-month maltreatment was also lower (adolescent report IRR 0.92, caregiver report 0.87), as was exposure to high-risk situations for sexual violence. The authors conclude a low-cost blended digital parenting programme can simultaneously reduce sexual violence for girls and maltreatment and risk situations for girls and boys. Authors declared roles with the Parenting for Lifelong Health charity and IDEMS, the app developer.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "親職介入",
+    "數碼介入",
+    "兒童保護",
+    "性暴力預防",
+    "坦桑尼亞"
+   ],
+   "first_seen_at": "2026-11-11T13:33:22+00:00",
+   "evidence_level": 3,
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-10T00:00:00+00:00"
+  },
+  {
+   "slug": "affective-generative-ai-use-and-youth-mental-health",
+   "title_zh": "研究：五分一中小學生曾向 AI 聊天機械人傾訴感受，用者臨床情緒問題比率近倍（39,761 人）",
+   "title_en": "Affective generative AI use and youth mental health",
+   "summary_zh": "JAMA Pediatrics 刊出安大略省大型橫斷面調查，探討青少年以生成式 AI 傾訴感受（情感性使用）與情緒問題的關聯。研究分析 39,761 名 4 至 12 年級學生（2025 年 5 月至 2026 年 3 月，安大略省健康與同儕關係研究），8,408 人（21%）曾用 AI 聊天機械人傾訴感受或尋求人際建議，年級越高、女學生、種族化與性別多元青少年比率越高。情感性使用 AI 的學生中，57.7% 達臨床情緒問題水平，未用者為 29.2%；即使計入人口特徵、孤獨感、歸屬感與學業用 AI 後，臨床情緒問題盛行率仍高 26%。作者強調，橫斷面設計不能證明因果，向 AI 傾訴可能是求助信號，值得成人以不帶批判的對話回應，而非只問「有冇用 AI」。研究由渥太華大學 Bonnesen 與 Vaillancourt 領導。",
+   "summary_en": "JAMA Pediatrics published a large cross-sectional survey from Ontario examining whether young people's affective use of generative AI (turning to chatbots for emotional support or relationship advice) is associated with emotional problems. Among 39,761 students in grades 4-12 (May 2025-March 2026, Ontario Health and Peer Relations Study), 8,408 (21%) had used an AI chatbot for feelings or advice, more often among older students, girls, and racialized and gender-diverse youth. Of affective AI users, 57.7% met criteria for clinically significant emotional problems versus 29.2% of non-users; after accounting for demographics, loneliness, mattering and school-related AI use, the prevalence of clinical-level emotional difficulties remained 26% higher. The authors stress the cross-sectional design cannot show causation and that affective AI use may be a signal to start a nonjudgmental conversation. Led by Bonnesen and Vaillancourt (University of Ottawa).",
+   "category": "人機互動心理",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "AI聊天機械人",
+    "青少年",
+    "情緒問題",
+    "橫斷面調查",
+    "求助信號"
+   ],
+   "first_seen_at": "2026-11-11T13:33:22+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-08-31T00:00:00+00:00"
+  },
+  {
+   "slug": "cognitive-behavioral-interventions-adhd-core-symptoms-meta-a",
+   "title_zh": "統合分析：認知行為介入可減輕兒童青少年 ADHD 核心症狀，專注力改善最一致（10 項試驗，849 人）",
+   "title_en": "Cognitive behavioral interventions ADHD core symptoms meta-analysis",
+   "summary_zh": "Behavioral Sciences 刊出系統性回顧與統合分析，綜合認知行為介入對兒童青少年 ADHD 核心症狀維度的效果。研究檢索 PubMed、Web of Science、Embase 與 CENTRAL 至 2026 年 6 月 30 日，納入 10 項隨機對照試驗共 849 人，介入包括結構化認知行為治療、執行功能訓練、組織技巧訓練、自我管理與正念／第三浪介入。結果顯示，認知行為介入可減輕整體 ADHD 症狀（Hedges' g −0.389）、專注力不足（−0.415）與過度活躍／衝動（−0.366），專注力改善的效應最大，敏感度分析亦最一致。亞組分析未發現介入種類、療程長短與每週頻次之間有統計顯著差異。研究由中國國家社會科學基金資助（24BTY045），作者申報無利益衝突。",
+   "summary_en": "Behavioral Sciences published a systematic review and meta-analysis of cognitive behavioral interventions for core ADHD symptom dimensions in children and adolescents. Searching PubMed, Web of Science, Embase and CENTRAL to 30 June 2026, the review included 10 randomised controlled trials with 849 participants, covering structured CBT, executive function training, organizational skills training, self-management and mindfulness/third-wave interventions. Cognitive behavioral interventions reduced overall ADHD symptoms (Hedges' g -0.389), inattention (-0.415) and hyperactivity/impulsivity (-0.366); inattention showed the numerically largest effect and the most consistent findings in sensitivity analyses. No statistically significant differences were found between subgroups by intervention type, duration or weekly frequency. Funded by the National Social Science Fund of China (24BTY045); authors declared no conflicts of interest.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "ADHD",
+    "認知行為治療",
+    "統合分析",
+    "專注力",
+    "兒童青少年"
+   ],
+   "first_seen_at": "2026-11-11T13:33:22+00:00",
+   "evidence_level": 4,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-02T00:00:00+00:00"
+  },
+  {
+   "slug": "raising-the-standard-for-supervision-kate-walker-webinar",
+   "title_zh": "免費網上培訓：督導標準——選督導不等於選實習地點（11 月 19 日，1 CE）",
+   "title_en": "Raising the standard for supervision Kate Walker webinar",
+   "summary_zh": "Kate Walker Training 免費網上直播講座，由 Tara Fox 博士主講，主題是「提高督導標準：選督導不等於選實習地點」。講座針對輔導實習生與準督導，講解如何分辨選實習地點與選督導是兩個決定、面試督導時值得問的問題、簽督導合約前的警號，以及督導未盡責時實習生可以自保的策略，並比較 LPC、LMFT 與社工督導要求的差異。2026 年 11 月 19 日下午 5 時舉行（頁面未註明時區，主辦機構位於德州），全程線上，免費參加，可獲 1 小時繼續教育學分（符合德州 50% 要求，其他地區須自行核對）。",
+   "summary_en": "Kate Walker Training offers a free live webinar, \"Raising the Standard for Supervision: Because Choosing a Supervisor Isn't the Same as Choosing a Site\", presented by Dr. Tara Fox. Aimed at counselling associates and prospective supervisors, it covers how choosing a site differs from choosing a supervisor, questions worth asking in a supervisor interview, red flags before signing a supervision contract, and strategies for getting quality supervision when a supervisor is not holding up their end, plus a comparison of supervision requirements for LPC Associates, LMFT Associates and social workers. It runs on 19 November 2026 at 5:00 pm (timezone not stated on the page; the organiser is Texas-based), fully online and free, with 1 CE hour (meets the Texas 50% requirement; other jurisdictions should check locally).",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "督導",
+    "免費培訓",
+    "CE",
+    "實習生"
+   ],
+   "first_seen_at": "2026-11-11T13:33:22+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-11T13:33:22+00:00",
+   "training": {
+    "provider": "Kate Walker Training",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "1 CE Hour（符合德州 50% 要求；其他地區須自行核對）",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-19 17:00（頁面未註明時區；主辦機構位於德州）",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "ssris-pediatric-ocd-individual-participant-data-meta-analysi",
+   "title_zh": "個別數據統合分析：SSRI 治兒童青少年強迫症效果小但真實，基線越嚴重反應越差（4 項試驗，614 人）",
+   "title_en": "SSRIs pediatric OCD individual participant data meta-analysis",
+   "summary_zh": "Journal of the American Academy of Child and Adolescent Psychiatry 刊出個別參與者數據（IPD）統合分析，綜合 SSRI 對照安慰劑治療兒童青少年強迫症的隨機試驗。研究取自荷蘭監管機構登記冊的原始數據，納入 4 項短期雙盲隨機試驗共 614 名患者，佔歷來所有雙盲安慰劑對照試驗參與者的 86%。結果顯示，SSRI 較安慰劑多減 3.0 分 CY-BOCS（95% CI 2.5–3.5，Hedges' g 0.38），達到至少 35% 症狀減輕的反應機會高近一倍（OR 1.89）。基線嚴重程度越高，反應機會越低（基線每高 1 分，反應機會低約 8%）。作者結論：SSRI 效果小但真實，須向家長說明平均改善有限。研究於 2025 年 7 月刊出，2026 年 11 月 4 日經 MediCAMHS 每日簡報重新討論。",
+   "summary_en": "The Journal of the American Academy of Child and Adolescent Psychiatry published an individual-participant-data (IPD) meta-analysis of SSRIs versus placebo for pediatric obsessive-compulsive disorder. Using raw data from the Dutch regulatory authority registry, the analysis included 4 short-term double-blind randomised trials with 614 patients, representing 86% of all participants ever enrolled in double-blind placebo-controlled SSRI trials for pediatric OCD. SSRIs reduced CY-BOCS scores by 3.0 points more than placebo (95% CI 2.5-3.5, Hedges' g 0.38), and nearly doubled the odds of response of at least 35% symptom reduction (OR 1.89). Higher baseline severity predicted lower odds of response (about 8% lower per 1-point increase). The authors conclude the effect is small but real, and families should be told the average gain is modest. Published July 2025; re-discussed in the MediCAMHS Daily Briefing on 4 November 2026.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "強迫症",
+    "SSRI",
+    "兒童青少年",
+    "統合分析",
+    "個別參與者數據"
+   ],
+   "first_seen_at": "2026-11-11T13:33:22+00:00",
+   "evidence_level": 4,
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2025-07-01T00:00:00+00:00"
+  },
   {
    "slug": "open-dialogue-versus-treatment-as-usual-oddessi-trial",
    "title_zh": "研究：開放對話危機照顧未延遲復發，住院率 21% 對 44%（494 人群組隨機試驗）",
