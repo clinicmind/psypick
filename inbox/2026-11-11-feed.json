@@ -1,0 +1,176 @@
+{
+ "format": "psypick-muse-v1",
+ "items": [
+  {
+   "category": "研究與證據",
+   "evidence_hint": "群組隨機對照試驗",
+   "evidence_quote": "Adolescent girls in ParentApp clusters had a substantial reduction in past-month sexual violence victimisation",
+   "key_points_zh": [
+    "樣本：80 個坦桑尼亞分區，2,692 對親子接受篩查，2,396 對隨機分配（ParentApp 組與 WASHApp 對照組各 1,198 對）；青少年 10 至 17 歲（50.8% 女），照顧者 74.9% 為女性；2023 年 5 月 11 日至 10 月 9 日招募",
+    "設計：群組隨機對照試驗，按城鄉分層、每六個分區一組隨機分配；統計師與數據分析員設盲，參與者與研究員無法設盲；按意向治療分析",
+    "介入：12 個單元離線手機程式 ParentApp，加一次面授簡介與 WhatsApp 小組支援；對照組獲同款手機及水衛生程式 WASHApp；每家庭成本 6 美元（計入兩成手機提供則為 10 美元）；70.8% 介入組完成全部 12 個單元",
+    "主要結果（18 個月）：女童過去一個月性暴力受害 IRR 0.43（95% CI 0.21–0.86，p=0.018）；男童 IRR 1.21，無效果；過去一個月虐待：青少年自報 IRR 0.92（0.88–0.96），照顧者自報 0.87（0.82–0.92）；性暴力高危處境：女童 0.87，男童 0.85，照顧者自報 0.81",
+    "次要結果：剝削性性行為整體無顯著差異，女童 18 個月 IRR 0.45（p=0.042）；5 個月追蹤時女童性暴力受害 IRR 0.32，效果更明顯",
+    "保留率與安全：18 個月時青少年保留 89.5%（2,145／2,396），照顧者保留 94.0%（2,252／2,396）；無試驗相關不良事件報告；資助：UKRI 全球挑戰研究基金、Oak 基金會、LEGO 基金會、歐洲研究委員會及匿名捐助者；資助方未參與研究設計與寫作"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-10",
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "blended-digital-parenting-intervention-tanzania-parentapp-tr",
+   "source": {
+    "author_name": "Cluver 等（牛津大學）",
+    "description": "期刊論文：坦桑尼亞混合式數碼親職介入群組隨機試驗，預防兒童性暴力與虐待。",
+    "platform": "web",
+    "title": "A blended digital parenting intervention for the prevention of sexual violence, exploitative sex, and maltreatment of children at scale in Tanzania: a cluster-randomised, controlled trial (The Lancet; DOI: 10.1016/S0140-6736(26)01819-2)",
+    "url": "https://doi.org/10.1016/S0140-6736(26)01819-2"
+   },
+   "title_zh": "群組隨機試驗：坦桑尼亞混合式數碼親職程式，女童過去一個月性暴力受害率低 57%（2,396 對親子）"
+  },
+  {
+   "category": "人機互動心理",
+   "evidence_hint": "橫斷面調查",
+   "evidence_quote": "Of almost 40,000 students, those who leaned on AI for emotional support were much more likely to be struggling with clinical-level emotional issues",
+   "key_points_zh": [
+    "樣本：39,761 名 4 至 12 年級學生（平均 12.8 歲），安大略省四個教育局；2025 年 5 月至 2026 年 3 月課堂匿名問卷，屬安大略省健康與同儕關係研究",
+    "量度：曾否用 AI 聊天機械人傾訴感受或尋求人際建議（情感性使用），與學業用 AI 分開量度；情緒問題、孤獨感、歸屬感以標準量表量度",
+    "主要數字：8,408 人（21%）曾情感性使用 AI；小學 16.2%、中學 21.3%、高中 25.6%；女學生 27.2%，男學生 14.2%",
+    "主要結果：情感性使用 AI 的學生中，57.7% 達臨床情緒問題水平，未用者為 29.2%（盛行率比 1.98）；計入人口特徵、孤獨感、歸屬感與學業用 AI 後，仍高 26%",
+    "作者提醒：Bonnesen 指「唔代表 AI 造成困擾」，向 AI 傾訴可能是青少年需要更多人際連結的信號；Vaillancourt 建議成人問「點解用」，而不只問「有冇用」",
+    "作者：Kamilla Bonnesen、Amanda Krygsman、Sarah Hobson、Daphne Korczak、Tracy Vaillancourt（渥太華大學）"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-08-31",
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "affective-generative-ai-use-and-youth-mental-health",
+   "source": {
+    "author_name": "Bonnesen 等（渥太華大學）",
+    "description": "期刊論文：39,761 名中小學生調查，情感性使用生成式 AI 與臨床情緒問題的關聯。",
+    "platform": "web",
+    "title": "Affective Generative Artificial Intelligence Use and Youth Mental Health (JAMA Pediatrics; DOI: 10.1001/jamapediatrics.2026.3904)",
+    "url": "https://doi.org/10.1001/jamapediatrics.2026.3904"
+   },
+   "title_zh": "研究：五分一中小學生曾向 AI 聊天機械人傾訴感受，用者臨床情緒問題比率近倍（39,761 人）"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "系統性回顧與統合分析（隨機試驗）",
+   "evidence_quote": "These findings support the potential benefits of cognitive behavioral interventions for ADHD symptom management",
+   "key_points_zh": [
+    "樣本：10 項隨機對照試驗，849 名兒童青少年 ADHD 患者；檢索至 2026 年 6 月 30 日；以 PRISMA 2020 進行，PROSPERO 註冊 CRD420261376097",
+    "介入：結構化認知行為治療、執行功能訓練、組織技巧訓練、自我管理介入、正念／第三浪介入；對照包括等候名單、常規治療、穩定藥物治療與其他非藥物介入",
+    "主要結果：整體 ADHD 症狀 Hedges' g −0.389（95% CI −0.773 至 −0.005）；專注力不足 −0.415（−0.749 至 −0.082）；過度活躍／衝動 −0.366（−0.658 至 −0.075）",
+    "亞組分析：介入種類、療程長短與每週頻次在數值上有差異，但正式調節檢驗未發現組間統計顯著差異",
+    "偏倚評估：以 Cochrane RoB 2 評估，由兩名評審獨立進行，分歧由第三名評審裁決",
+    "資助：中國國家社會科學基金（24BTY045）；作者申報無利益衝突；作者單位為福建師範大學體育科學學院"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-02",
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "cognitive-behavioral-interventions-adhd-core-symptoms-meta-a",
+   "source": {
+    "author_name": "福建師範大學體育科學學院",
+    "description": "期刊論文：10 項隨機試驗統合分析，認知行為介入對 ADHD 核心症狀的效果。",
+    "platform": "web",
+    "title": "Effects of Cognitive Behavioral Interventions on Core Symptom Dimensions of Attention-Deficit/Hyperactivity Disorder in Children and Adolescents: A Systematic Review and Meta-Analysis (Behavioral Sciences)",
+    "url": "https://www.mdpi.com/2076-3425/16/11/1202"
+   },
+   "title_zh": "統合分析：認知行為介入可減輕兒童青少年 ADHD 核心症狀，專注力改善最一致（10 項試驗，849 人）"
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "免費網上直播培訓（1 CE）",
+   "evidence_quote": "Choosing a Supervisor Isn't the Same as Choosing a Site",
+   "key_points_zh": [
+    "講者：Tara Fox 博士（PhD, LPC-S），與 Kate Walker 對談，設即場問答",
+    "學習目標：分辨選實習地點與選督導的評估重點；識別督導面試值得問的問題；認出簽約前的警號；督導未盡責時的自保策略；比較 LPC、LMFT 與社工的督導要求",
+    "日期：2026 年 11 月 19 日下午 5 時（頁面未註明時區；主辦機構位於德州）",
+    "費用：免費參加；可獲至少 1 小時繼續教育學分，須開鏡頭並填寫出席表格",
+    "對象：輔導實習生（LPC／LMFT／社工）、準督導與督導",
+    "形式：線上直播；Step it UP 會員可獲重播作非同步 CE"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-11-11",
+   "population": [
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "raising-the-standard-for-supervision-kate-walker-webinar",
+   "source": {
+    "author_name": "Kate Walker Training",
+    "description": "培訓頁面：免費網上督導講座，2026 年 11 月 19 日下午 5 時，1 CE。",
+    "platform": "web",
+    "title": "Free CE Webinars for Counselors: Raising the Standard for Supervision with Dr. Tara Fox (19 November 2026)",
+    "url": "https://katewalkertraining.lpages.co/webinar-landing-page/"
+   },
+   "title_zh": "免費網上培訓：督導標準——選督導不等於選實習地點（11 月 19 日，1 CE）"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "個別參與者數據統合分析（隨機試驗）",
+   "evidence_quote": "This IPD meta-analysis showed a small effect size of SSRIs in pediatric OCD",
+   "key_points_zh": [
+    "樣本：4 項短期雙盲安慰劑對照隨機試驗，614 名 6 至 18 歲強迫症兒童青少年；佔歷來所有同類試驗參與者的 86%；數據取自荷蘭監管機構登記冊",
+    "設計：個別參與者數據統合分析，一階段與二階段分析並行；主要結果為 CY-BOCS 分數變化；反應定義為症狀減輕至少 35%",
+    "主要結果：SSRI 較安慰劑多減 3.0 分 CY-BOCS（95% CI 2.5–3.5，Hedges' g 0.38）；反應機會 OR 1.89（95% CI 1.45–2.45）",
+    "調節因素：基線嚴重程度越高，反應機會越低（每高 1 分，勝算比 0.92，p = .0074）；年齡、性別、體重與病程未見明顯調節作用",
+    "限制：全部試驗在北美進行，白人過多；偏倚風險整體偏低；未能納入社經地位與共病數據；試驗期短",
+    "作者：Sem E. Cohen 等（阿姆斯特丹大學醫學中心）；刊於 JAACAP 2025 年 7 月號"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2025-07-01",
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "ssris-pediatric-ocd-individual-participant-data-meta-analysi",
+   "source": {
+    "author_name": "Cohen 等（阿姆斯特丹大學醫學中心）",
+    "description": "期刊論文：4 項隨機試驗個別參與者數據統合分析，614 名兒童青少年強迫症患者。",
+    "platform": "web",
+    "title": "Systematic Review and Meta-Analysis of Individual Participant Data: Randomized, Placebo-Controlled Trials of Selective Serotonin Reuptake Inhibitors for Pediatric Obsessive-Compulsive Disorder (JAACAP; DOI: 10.1016/j.jaac.2025.01.001)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39799995/"
+   },
+   "title_zh": "個別數據統合分析：SSRI 治兒童青少年強迫症效果小但真實，基線越嚴重反應越差（4 項試驗，614 人）"
+  }
+ ],
+ "notes": "Feed 工具在本 run 不可用（與 11-01 至 11-10 run 相同），候選經公開搜尋標題預篩、逐項開原頁核實。五則核實：坦桑尼亞 ParentApp（Lancet 全文頁，經 browser.browse 讀取；追蹤點為基線後 5 個月與 18 個月）、情感性 AI（渥太華大學官方報道與 JAMA 記錄）、ADHD 認知行為統合分析（MDPI 原文頁全文）、Kate Walker 督導培訓（主辦機構原頁）、兒童 OCD 之 SSRI（PubMed 摘要與烏特勒支大學記錄）。兩則較舊論文因新近觸發點入選：JAMA Pediatrics 研究經 11 月 9 日 JAMA Pediatrics LinkedIn 帖文重新受到關注；JAACAP 研究經 11 月 4 日 MediCAMHS 每日簡報重新討論。",
+ "run_date": "2026-11-11",
+ "skipped": [
+  "Drexel 親密伴侶暴力基礎免費培訓 11/12：站內已有（slug drexel-free-webinar-fundamentals-intimate-partner-violence-n）",
+  "CDP 認知處理治療培訓 11/12–13：名額已滿，只餘候補名單，跳過",
+  "Harborview TeleBehavioral 長者認知評估 11/20：站內已有（2026-11-09 上架）",
+  "Synergetic Education「Beyond the Calm Corner」免費網上講座：頁面未註明舉行日期，無法核實是否未過期，跳過",
+  "Cariprazine 兒童青少年雙相 I 型事後分析（NEI Fall Congress）：開放標籤事後分析，藥廠產品，證據弱，跳過",
+  "Nature Mental Health 腦電圖估計抑鬱嚴重程度研究（11 月 10 日，276 名成人）：自陳症狀、未經臨床診斷驗證，臨床用途未明，跳過",
+  "JCPP 丹麥全國登記研究（CAMHS 接觸者其後精神病／雙相診斷，200 萬人）：2026 年 9 月 17 日發表，無新近觸發點，本次未深入處理",
+  "UWE 輔導與心理治療碩士課程網上講座：招生宣傳，非專業培訓，跳過",
+  "FMHCA 網上講座：須會員才免費，跳過",
+  "Magellan Federal 輔導研討會 11/02–06：已結束，跳過"
+ ],
+ "unreachable_sources": [
+  "Lancet DOI 頁（DOI 10.1016/S0140-6736(26)01819-2）：browser.open 無可抽取內容，經 browser.browse 讀 Lancet 全文頁核實（Cloudflare 檢查初時受阻，換環境後讀到全文）",
+  "Crossref API：查詢 MDPI 論文 DOI 時回應 429 限流，已停用，DOI 待查證，未重試",
+  "MDPI 原文頁未顯示 DOI（待查證）"
+ ]
+}
