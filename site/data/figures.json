@@ -2582,7 +2582,360 @@
    "checked": "2026-11-10",
    "tier": "B",
    "verify_needed": false
+  },
+  {
+   "person": "demis-hassabis",
+   "url": "https://x.com/demishassabis/status/2120210297948696997",
+   "platform": "x",
+   "page_date": "2026-11-10",
+   "kind": "產品發布",
+   "summary_zh": "Hassabis 在 X 宣布 Gemini 4 Carbon 於 11 月 10 日全面推出。他以 Carbon 把自己在 1990 年代編寫的遊戲 Theme Park 原版二進制檔逆向工程，加入 DeepMind 主題新設施後一次過移植到網頁上，展示模型能力。",
+   "quote_en": "Our latest frontier model Gemini 4 Carbon is rolling out today! Amazing progress from Gemini 3 → Gemini 4 in less than a year… Carbon reverse engineers my original Theme Park binaries, adds a new DeepMind themed ride, and ports it to the web in one shot - kind of mindblowing to see!",
+   "topics": [
+    "Gemini 4 Carbon",
+    "DeepMind"
+   ],
+   "evidence_quote": "kind of mindblowing to see!",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能直接開啟（政策封鎖），帖文內容經多家媒體逐字引述核實一致。"
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://x.com/elonmusk/status/2120088070443655190",
+   "platform": "x",
+   "page_date": "2026-11-10",
+   "kind": "產品發布",
+   "summary_zh": "Musk 在 X 表示 Grok 4.8 已完成預訓練，強化學習與推理技術棧已由 JAX/SGLang 全面改寫為 C/C++，模型現正進行強化學習，評估分數開始上升，本週內會向 Grok Bot 用戶小範圍推出。他稱 4.8 將與 4.7 截然不同。",
+   "quote_en": "Training (aka pre-training) is done. Lot of cleanup was needed on the SFT data to get that mostly right. Now, 4.8 is in RL and the evals are starting to climb. We will do a soft rollout to Bot users later this week and see how it goes.",
+   "topics": [
+    "Grok 4.8",
+    "xAI"
+   ],
+   "evidence_quote": "Training (aka pre-training) is done.",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能直接開啟（政策封鎖），帖文內容經多家媒體逐字引述核實一致。"
+  },
+  {
+   "person": "demis-hassabis",
+   "url": "https://x.com/demishassabis/status/2120565316619284734",
+   "platform": "x",
+   "page_date": "2026-11-11",
+   "kind": "產品發布",
+   "summary_zh": "Hassabis 宣布推出 DNA 序列模型 AlphaGenome 2，可預測 DNA 變異在不同細胞類型的影響，協助理解複雜疾病，現已開放學術研究經 API 使用。",
+   "quote_en": "Super proud to announce AlphaGenome 2 - our new DNA sequence model! It predicts the impact of DNA variants in different specific cell types - unlocking crucial information for understanding complex diseases. Available for academic research via our API",
+   "topics": [
+    "AlphaGenome 2",
+    "基因組學"
+   ],
+   "evidence_quote": "Super proud to announce AlphaGenome 2",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能直接開啟（政策封鎖），帖文內容經 Gigazine、AI Hub 等多處逐字引述核實一致；status 連結由搜尋結果來源清單取得。"
+  },
+  {
+   "person": "aravind-srinivas",
+   "url": "https://cryptobriefing.com/perplexity-computer-gemini-4-carbon/",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "產品發布",
+   "summary_zh": "Srinivas 宣布向所有 Perplexity Pro 與 Max 訂閱用戶推出 Gemini 4 Carbon，可用於建立長期 Teammates 或一次性代理任務；他稱 Carbon 在代理研究任務上的能力與 Fable 5.2 相近，成本低 2.5 倍。",
+   "quote_en": "Rolling out Gemini 4 Carbon to all Perplexity Pro and Max subscribers. You can create persistent Teammates with them or use it for one off agentic sessions in Computer. Carbon is 2.5x cheaper than Fable 5.2 with similar capabilities on agentic research tasks.",
+   "topics": [
+    "Gemini 4 Carbon",
+    "Perplexity"
+   ],
+   "evidence_quote": "Rolling out Gemini 4 Carbon",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能開啟（政策封鎖），帖文內容經 Xholic 帖文列表頁及 CryptoBriefing 報道核實；未能取得 status 連結，來源用報道頁。"
+  },
+  {
+   "person": "aravind-srinivas",
+   "url": "https://www.ndtvprofit.com/business/perplexity-ceo-aravind-srinivas-praises-jensen-huang-your-grit-perseverance-should-always-be-remembered-12319494?pfrom=home-business_opinion",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "其他",
+   "summary_zh": "Huang 辭任當日，Srinivas 在 X 公開致謝，讚揚他 33 年領導把 Nvidia 建成美國最有價值的公司，並感謝他對創辦人的提攜。",
+   "quote_en": "Thank you @JensenHuang for 33 years of bold leadership. You built a small startup into America's most valuable company, with relentless improvement. Your grit and perseverance should always be remembered.",
+   "topics": [
+    "Jensen Huang",
+    "NVIDIA"
+   ],
+   "evidence_quote": "Thank you @JensenHuang for 33 years",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能開啟（政策封鎖），帖文內容經 NDTV Profit、Indian Express、Inc 等多處逐字引述核實一致；未能取得 status 連結，來源用報道頁。"
+  },
+  {
+   "person": "jensen-huang",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "職務異動",
+   "summary_zh": "黃仁勳辭任 NVIDIA 總裁、行政總裁及董事，即時生效，結束 33 年掌舵。財務總監 Colette Kress 出任臨時行政總裁，董事會展開繼任人選搜尋，並委任 Harvey C. Jones 為首任董事會主席。官方公告未交代辭任原因。",
+   "quote_en": "Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
+   "topics": [
+    "NVIDIA",
+    "CEO辭任",
+    "Colette Kress"
+   ],
+   "evidence_quote": "Jensen Huang has resigned as President",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "satya-nadella",
+   "url": "https://www.fastcompany.com/91640556/microsoft-ceo-satya-nadella-workers-in-ai-heavy-jobs-are-having-an-identity-crisis",
+   "platform": "web",
+   "page_date": "2026-11-11",
+   "kind": "訪談",
+   "summary_zh": "納德拉接受法國《Le Point》專訪（11 月 10 日刊出），指 AI 令不少從業員的專業身份受衝擊，工作意義面臨危機。他強調 AI 必須賦予人類力量、由人類掌控，否則理應被拒絕。",
+   "quote_en": "[AI] needs to be empowering humans and should be in human control. If not, it should be, by definition, rejected.",
+   "topics": [
+    "AI與工作",
+    "人類主體性",
+    "Microsoft"
+   ],
+   "evidence_quote": "needs to be empowering humans",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "clement-delangue",
+   "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "貼文",
+   "summary_zh": "黃仁勳辭任後，Delangue 在 X 發文，形容當日令人難過，並承諾 Hugging Face 會比以往更堅定捍衛開源 AI。NVIDIA 以 129 億美元收購 Hugging Face 的交易仍預定 2027 年上半年完成。",
+   "quote_en": "we'll keep fighting for open-source AI, harder than ever. This is too important to slow down now. Let's go!",
+   "topics": [
+    "開源AI",
+    "Hugging Face",
+    "NVIDIA收購"
+   ],
+   "evidence_quote": "we'll keep fighting for open-source AI",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能開啟，依 TechCrunch 全文引述核實。"
+  },
+  {
+   "person": "fei-fei-li",
+   "url": "https://worldlabs.ai/atlas",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "產品發布",
+   "summary_zh": "World Labs 正式向所有人開放 Atlas 世界模型，隨附 Viewfinder、Chisel、Splats to Mesh 等工具及開發者 API，可將相片或灰盒場景轉化為可探索的 3D 世界。",
+   "quote_en": "Generate and reconstruct worlds and bring creations into your own workflows with our tools and developer APIs.",
+   "topics": [
+    "Atlas",
+    "世界模型",
+    "World Labs"
+   ],
+   "evidence_quote": "Generate and reconstruct worlds",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "fei-fei-li",
+   "url": "https://finance.biggo.com/news/b3662d88-f92f-4a22-8452-c56395d37403",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "演講",
+   "summary_zh": "李飛飛在 CoRL 2026 發表 Atlas 主題演講，展示單一模型如何統一生成與重建，並與 AMD 行政總裁 Lisa Su 自 AMD 宣布收購 World Labs 以來首次同台對談。兩人均認為實體 AI 與機械人將帶動下一波算力需求。",
+   "quote_en": "Viewpoint is all you need.",
+   "topics": [
+    "Atlas",
+    "CoRL 2026",
+    "機械人"
+   ],
+   "evidence_quote": "Viewpoint is all you need.",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "lisa-damour",
+   "url": "https://drlisadamour.com/resource/why-teens-lie-and-how-to-respond-without-escalating/",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "訪談",
+   "summary_zh": "Damour 以「Office Hours」形式回答家長提問，講解青少年說謊的三類原因，以及如何回應而不激化衝突。",
+   "quote_en": "Good kids do dumb things, but we don't want them to do those dumb things.",
+   "topics": [
+    "青少年說謊",
+    "親子溝通"
+   ],
+   "evidence_quote": "Why Teens Lie—and How to Respond",
+   "checked": "2026-11-13",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "becky-kennedy",
+   "url": "https://www.audible.co.uk/podcast/Good-Inside-with-Dr-Becky/episodes/B08JJHWP8K",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "訪談",
+   "summary_zh": "Dr. Becky 與五屆奧運獎牌得主 Elana Meyers Taylor 對談，談她由壘球轉項雪車的經歷，以及「擅長當新手」的心態如何幫助孩子面對失敗、建立韌性。",
+   "quote_en": "am I good at getting good at things, or am I good at being a novice?",
+   "topics": [
+    "兒童韌性",
+    "面對失敗"
+   ],
+   "evidence_quote": "am I good at being a novice?",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "peter-levine",
+   "url": "https://thetherapytap.com/somatic-approach-to-healing-trauma/",
+   "platform": "web",
+   "page_date": "2026-11-11",
+   "kind": "演講",
+   "summary_zh": "Levine 與 Arielle Schwartz 於 11 月 11 日舉行免費網上直播培訓，以「受傷的療癒者」為題，分享他早年暴力經歷與復原力如何塑造其身體取向創傷工作。",
+   "quote_en": "Join one of the field's most respected voices for a rare and deeply personal conversation on healing, resilience, and the wounded healer's journey.",
+   "topics": [
+    "身體取向創傷治療",
+    "受傷的療癒者"
+   ],
+   "evidence_quote": "a rare and deeply personal conversation",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "jill-stoddard",
+   "url": "https://podcasts.apple.com/us/podcast/sysk-trending-the-surprising-upside-of-imposter-syndrome/id1150124880?i=1000800954790",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "訪談",
+   "summary_zh": "Stoddard 談冒名頂替症候群的另一面：自我懷疑未必是壞事，可能是正在挑戰自己、成長的訊號，重點不在消除懷疑，而是不讓懷疑主宰行動。",
+   "quote_en": "According to Dr. Jill Stoddard, the goal isn't necessarily to eliminate self-doubt but to stop letting it dictate what you do.",
+   "topics": [
+    "冒名頂替症候群",
+    "自我懷疑"
+   ],
+   "evidence_quote": "stop letting it dictate what you do",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "ethan-kross",
+   "url": "https://www.youtube.com/watch?v=2HU8U_NZ2dc",
+   "platform": "web",
+   "page_date": "2026-11-11",
+   "kind": "演講",
+   "summary_zh": "Kross 在 Action for Happiness 的網上活動中分享新書《Shift》的情緒管理工具，包括抽離式自我對話，以及在平靜時預先建立情緒工具箱。錄影為 11 月 10 日現場活動，於 11 月 11 日上載。",
+   "quote_en": "We can't stop difficult feelings from arriving - frustration, worry, anger and sadness are all part of being human.",
+   "topics": [
+    "情緒管理",
+    "情緒調節"
+   ],
+   "evidence_quote": "a live Action for Happiness event",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "lex-fridman",
+   "url": "https://www.linkedin.com/posts/lexfridman_nvidia-letting-jensen-go-is-a-huge-mistake-activity-7526752981682376704-JR9y",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "貼文",
+   "summary_zh": "Lex Fridman 公開為黃仁勳辯護，稱 NVIDIA 讓黃仁勳離開是對美國和人類的巨大錯誤，堪比當年 Apple 解雇 Steve Jobs，但影響更大。他表示與黃仁勳相識多年，從未聽聞關於他的負面評價，並反駁間諜傳聞，表明自己站在黃仁勳一方。",
+   "quote_en": "NVIDIA letting Jensen go is a huge mistake, for America and for humanity. It's Apple firing Steve Jobs all over again, but much bigger, given the role of AI in defining the future of our world.",
+   "topics": [
+    "NVIDIA",
+    "黃仁勳",
+    "AI 產業"
+   ],
+   "evidence_quote": "Apple firing Steve Jobs all over again",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能開啟，依本人 LinkedIn 同文（已打開核對，全文一致，發布時間 2026-11-12T21:09:11Z）及多家媒體搜尋摘要核實。"
+  },
+  {
+   "person": "dylan-patel",
+   "url": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "文章",
+   "summary_zh": "Dylan Patel 在 SemiAnalysis 長文分析，黃仁勳辭任與美國情報界推動、針對中國遠端存取 GPU 的 RASA 法案有關。他們認為對華 AI 及晶片限制將會加速收緊，但警告設計不當的限制會損害美國利益，包括擾亂供應鏈及削弱開源 AI 發展。",
+   "quote_en": "AI and chip restrictions on China are going to ramp now much faster with the biggest defender Jensen, gone.",
+   "topics": [
+    "NVIDIA",
+    "晶片出口管制"
+   ],
+   "evidence_quote": "with the biggest defender Jensen, gone",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "文章",
+   "summary_zh": "Simon Willison 評測 Meta 新推出的輕量推理模型 Muse Ember，比較它與 GPT-6 Luna 及 Claude Haiku 5.5 的定價與性價比。他指出三者在 Artificial Analysis 成本效益圖上，Ember 處於效率前沿，同等成本下智能表現更高。",
+   "quote_en": "For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million output.",
+   "topics": [
+    "Muse Ember",
+    "模型評測"
+   ],
+   "evidence_quote": "our smallest and most efficient model",
+   "checked": "2026-11-13",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/11/llm/",
+   "platform": "web",
+   "page_date": "2026-11-11",
+   "kind": "產品發布",
+   "summary_zh": "Simon Willison 發布 llm 0.37.2，修復一個安全問題：程式在特定情況下可能把已設定的 OpenAI API 金鑰誤傳給其他供應商。問題由 Daniel de Araujo 回報，涉及兩個觸發情境。",
+   "quote_en": "Daniel reported two ways this could accidentally send your configured OpenAI API key to one of those providers.",
+   "topics": [
+    "llm",
+    "安全修復"
+   ],
+   "evidence_quote": "Fixes a security issue",
+   "checked": "2026-11-13",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "產品發布",
+   "summary_zh": "Simon Willison 隨 Google 推出 Gemini 4 Hydrogen 發布 llm-gemini 0.37，並以九格圖比較 Gemini 4 三個模型在不同思考強度下的畫質與成本。他指出 Hydrogen 雖名為廉價版，現價只比高階版便宜約四分之一，但將成為 Google 搜尋 AI 功能的免費層模型。",
+   "quote_en": "Hydrogen is the new free tier model, and is the model that will power AI features in Google Search.",
+   "topics": [
+    "Gemini 4",
+    "llm-gemini"
+   ],
+   "evidence_quote": "Google launched Gemini 4 Hydrogen today",
+   "checked": "2026-11-13",
+   "tier": "A",
+   "verify_needed": false
   }
  ],
- "updated": "2026-11-10"
+ "updated": "2026-11-13"
 }
