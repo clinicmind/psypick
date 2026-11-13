@@ -1,0 +1,266 @@
+{
+ "format": "psypick-muse-v1",
+ "run_date": "2026-11-13",
+ "items": [
+  {
+   "category": "研究與證據",
+   "evidence_hint": "隊列研究（JAMA Network Open）",
+   "evidence_quote": "The more adolescents walked, the fewer mental health problems they had a year later",
+   "key_points_zh": [
+    "樣本：ABCD 研究 5,515 名青少年，平均 11.93 歲（標準差 0.65），47.9% 女性；美國 21 個研究點",
+    "方法：11 至 12 歲時佩戴 Fitbit 三星期記錄每日步數；一年後以兒童行為量表評估情緒問題，並以腦掃描量度皮質厚度",
+    "主要結果：步數愈高，一年後整體情緒問題愈少（B −0.080，標準誤 0.015，P < .001），效應呈劑量反應，未見平台期",
+    "步數分組：每日少於 5,000 步組症狀最多，約 8,000 步較少，12,000 步或以上最少；每日多 1,000 至 2,000 步已與較佳結果相關",
+    "腦結構：步數較高者中央旁區皮質較厚（B 0.057，P < .001）與吻側前扣帶皮質較厚（B 0.052，P = .001）；中央旁區厚度在統計上中介步數與一年後較少情緒問題的關聯",
+    "學業與限制：步數與學業成績無明顯關聯；觀察性研究，未能證明因果；腦結構差異細小；樣本為美國 ABCD 參加者"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-10-01",
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "physical-activity-adolescent-brain-structure-mental-health-a",
+   "source": {
+    "author_name": "Li、Paluch 與 Rakesh（倫敦國王學院／麻省大學阿默斯特分校）",
+    "description": "隊列研究：5,515 名青少年，每日步數愈高一年後情緒問題愈少，12,000 步組最少。",
+    "platform": "web",
+    "title": "Physical Activity and Adolescent Brain Structure, Mental Health, and Academic Outcomes (JAMA Network Open; DOI: 10.1001/jamanetworkopen.2026.36973)",
+    "url": "https://doi.org/10.1001/jamanetworkopen.2026.36973"
+   },
+   "title_zh": "每日步數愈多，青少年一年後情緒問題愈少：12,000 步組最少，效應未見平台期（5,515 人）"
+  },
+  {
+   "category": "評估與篩檢",
+   "evidence_hint": "探索性因素分析（JAACAP）",
+   "evidence_quote": "Results yield new insights on the empirically based organization of youth mental health symptoms.",
+   "key_points_zh": [
+    "樣本：588 名社區青少年及其父母，基線平均 13.58 歲（9.3–17.5 歲），55.5% 女性；來自美國丹佛與新澤西中部",
+    "方法：探索性因素分析，以青少年自述與父母報告的症狀項目建構層次模型；追蹤 18 個月，比較不同時間、報告者、性別與青春期狀態",
+    "主要結果：症狀由一個整體精神病理因素展開至九個可詮釋的窄帶症狀因素",
+    "中層結構：複製三大寬帶譜系——內化、外化失抑制與人格失調；寬帶譜系在不同報告者之間大致一致",
+    "差異：窄帶結構在性別與青春期狀態之間有細微差異；青少年自述的結構隨時間變化較父母報告大，父母報告較穩定",
+    "預註冊：研究設計與分析計劃已預註冊（OSF）"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-01",
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "testing-hierarchical-structural-model-youth-psychopathology",
+   "source": {
+    "author_name": "Hankin 與 Brandes 等",
+    "description": "探索性因素分析：588 名青少年，症狀由一個整體因素展開至九個窄帶因素。",
+    "platform": "web",
+    "title": "Testing a Hierarchical Structural Model of Youth Psychopathology Symptoms Over Time and Across Informants, Gender, and Pubertal Status (JAACAP 2026;65(11):1398–1411)",
+    "url": "https://www.jaacap.org/action/showPdf?pii=S0890-8567%2826%2900025-0"
+   },
+   "title_zh": "青少年精神病理的層次結構：一個整體因素下分九個窄帶症狀因素，父母報告比青少年自述更穩定（588 人）"
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "免費網上直播培訓（每月系列）",
+   "evidence_quote": "Attendance is completely free.",
+   "key_points_zh": [
+    "講者：Amy Hardy 博士",
+    "主題：打破思覺失調中創傷的沉默——從臨床試驗學習",
+    "日期：2026 年 11 月 30 日星期一 12:30–13:30（英國時間，約香港時間 20:30–21:30）",
+    "費用：免費參加",
+    "對象：提供思覺失調認知行為治療（CBTp）的 NHS 臨床工作者；具專業興趣者亦歡迎",
+    "形式：線上直播；45 分鐘講座加 15 分鐘問答；設錄影（視乎講者同意）"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-10-28",
+   "population": [
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "oxford-cbtp-research-update-clinicians-webinar-trauma-psycho",
+   "source": {
+    "author_name": "Oxford Cognitive Therapy Centre",
+    "description": "免費網上培訓：2026 年 11 月 30 日，Amy Hardy 主講創傷與思覺失調。",
+    "platform": "web",
+    "title": "Unlocking the latest in CBTp: Introducing the OCRU webinar series for clinicians (30 November 2026: Dr Amy Hardy)",
+    "url": "https://www.octc.co.uk/the-oxford-cbtp-research-update-for-clinicians/"
+   },
+   "title_zh": "免費網上培訓：牛津 CBTp 研究新知——創傷與思覺失調的沉默（11 月 30 日，Amy Hardy）"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "隊列研究通訊（JAMA Psychiatry）",
+   "evidence_quote": "Disagreement was the norm",
+   "key_points_zh": [
+    "樣本：ABCD 研究 11,868 名青少年及其照顧者，年齡 9–17 歲；縱向追蹤兒童後期、青少年早期與中期",
+    "方法：青少年與照顧者在分開的臨床訪談中回答相同診斷問題，按 DSM-5 分別從雙方報告得出診斷，再比較各診斷在不同發展階段的重疊程度",
+    "主要結果：不一致是常態——當一個診斷被報告時，約 65%–98% 情況下只由一方報告，視乎診斷與發展階段",
+    "青少年較多報告：重性抑鬱症、睡眠問題、物質使用、自殺意念與企圖、非自殺性自傷；隨年齡增長，青少年報告抑鬱的比例較照顧者更高",
+    "照顧者較多報告：品行障礙、飲食障礙、廣泛性與社交焦慮症；差距在年幼時最大，隨青少年長大而收窄",
+    "整體一致程度隨發展階段改善，但仍然有限；作者結論：評估青少年精神健康須同時直接問青少年與照顧者"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-11",
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "youth-caregiver-discordance-psychiatric-diagnosis-clinical-p",
+   "source": {
+    "author_name": "El-Shafie 等（Laureate 腦研究所／加州大學聖地牙哥分校）",
+    "description": "期刊研究通訊：11,868 名青少年與照顧者，9–17 歲，診斷報告不一致率 65%–98%。",
+    "platform": "web",
+    "title": "Youth-Caregiver Discordance in Psychiatric Diagnosis and Clinical Problems in the ABCD Study (JAMA Psychiatry; DOI: 10.1001/jamapsychiatry.2026.3768)",
+    "url": "https://doi.org/10.1001/jamapsychiatry.2026.3768"
+   },
+   "title_zh": "青少年與照顧者對精神科診斷的報告大不同：一個診斷只由一方報告的比例達 65%–98%（11,868 人，ABCD 研究）"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "觀察性隊列分析（Nature Mental Health）",
+   "evidence_quote": "Three distinct brain biotypes exist in children who have ADHD, anxiety disorder or both",
+   "key_points_zh": [
+    "樣本：ABCD 數據 3,508 名 9–11 歲 ADHD 或焦慮症青少年，對照 1,947 名對照組；獨立驗證隊列為 224 名健康腦網絡（HBN）同齡參加者",
+    "方法：深度學習框架 DeCoDE（對比變分自編碼器結合深度廣義典型相關分析），以靜息態功能性磁力共振的功能連結對照認知測驗與行為量表",
+    "兩個維度：認知行為功能失調（交叉驗證典型相關 rcv=0.412，p < 0.0001，Cohen's d = 0.905）；情緒注意力功能失調（rcv=0.212，p < 0.0001，d = 0.435）",
+    "三種生物型：外化—抑制失調型（敵意、違抗、衝動、攻擊與違規較多，較多 ADHD 診斷）；內化—困擾型（內疚、緊張、完美主義、焦慮／抑鬱症狀較多，較多焦慮症診斷）；混合型（嚴重程度居中，注意力缺損明顯）",
+    "早期偵測：生物型在青少年出現症狀前已可從基線腦掃描偵測，作者指有助早期分類與配對治療的潛力",
+    "資助與利益衝突：美國國立衛生研究院（R01MH129694）、Eagles 自閉症基金會、史丹福 Knight 腦部韌性計劃、Rosenkranz 基金會；Fonzo 申報接受 SynapseBio AI 顧問費並持有 Alto Neuroscience 股權，其餘作者無"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-10-16",
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "deep-learning-brain-behavior-dimensions-transdiagnostic-biot",
+   "source": {
+    "author_name": "Jiao 等（愛荷華大學／史丹福大學）",
+    "description": "期刊論文：3,508 名 ADHD 或焦慮症青少年腦影像深度學習分析，找出兩個維度與三種生物型。",
+    "platform": "web",
+    "title": "Deep learning of brain–behavior dimensions identifies transdiagnostic biotypes in youth with ADHD and anxiety disorders (Nature Mental Health; DOI: 10.1038/s44220-026-00740-3)",
+    "url": "https://www.nature.com/articles/s44220-026-00740-3"
+   },
+   "title_zh": "深度學習找出 ADHD 與焦慮青少年的三種腦部生物型：兩個腦—行為維度（3,508 人）"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "橫斷面研究（JAMA Pediatrics）",
+   "evidence_quote": "youth exposure to unhealthy food marketing on digital media is high",
+   "key_points_zh": [
+    "樣本：1,011 名美國 8–17 歲青少年（中位年齡 12 歲；51.3% 女性；511 名 8–12 歲，500 名 13–17 歲）；2024 年 11 月至 2025 年 10 月實時屏幕擷取數據",
+    "屏幕使用：每日在課外用智能手機或平板平均 3.7 小時（標準差 1.9 小時）",
+    "接觸次數：每人每年中位 3,883 則（四分位距 0–16,697）；青少年 10,107 則對兒童 1,427 則（P < .001）；女性 8,017 則對男性 2,139 則（P < .001）",
+    "食品類別：快餐 28.8%、糖果 20.4%、飲品 20.1%；非餐廳食品中 91.6% 未達泛美衛生組織營養標準",
+    "平台與形式：82.6% 接觸來自社交媒體（TikTok 30.4%、YouTube 22.6%）；52.4% 付費廣告，43.9% 自發傳播，3.7% 自有媒體",
+    "公司來源：46.9% 推廣食品來自兒童食品飲料廣告倡議（CFBAI）成員公司；部分作者申報接受 Bloomberg Philanthropies 資助"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-09",
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "youth-exposure-food-beverage-marketing-digital-media-platfor",
+   "source": {
+    "author_name": "Powell 等（伊利諾大學芝加哥分校）",
+    "description": "期刊論文：1,011 名 8–17 歲青少年實時屏幕擷取研究，每年中位接觸 3,883 則食品廣告。",
+    "platform": "web",
+    "title": "Youth Exposure to Food and Beverage Marketing on Digital Media Platforms (JAMA Pediatrics; DOI: 10.1001/jamapediatrics.2026.5190)",
+    "url": "https://doi.org/10.1001/jamapediatrics.2026.5190"
+   },
+   "title_zh": "橫斷面研究：美國青少年每年接觸近 4,000 則網上食品廣告，九成不健康，社交媒體佔八成（1,011 人）"
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "免費網上直播培訓（90 分鐘）",
+   "evidence_quote": "Introduction of Neurofeedback into Schools",
+   "key_points_zh": [
+    "講者：Siegfried Othmer 博士",
+    "主題：將神經反饋引入學校，包括講者對丹麥少女心理健康趨勢與訓練成效的臨床觀察",
+    "日期：2026 年 11 月 13 日星期五美國東部時間中午 12 時，90 分鐘",
+    "費用：免費參加；繼續教育學分須另付費（頁面未註明學分時數）",
+    "對象：臨床工作者、學校心理健康人員",
+    "形式：線上直播；報名經 ISNR 會員平台"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-11-12",
+   "population": [
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "introduction-of-neurofeedback-into-schools-isnr-webinar",
+   "source": {
+    "author_name": "ISNR",
+    "description": "培訓頁面：免費網上神經反饋講座，2026 年 11 月 13 日美國東部時間 12:00，90 分鐘。",
+    "platform": "web",
+    "title": "Introduction of Neurofeedback into Schools (ISNR free webinar, 13 November 2026)",
+    "url": "https://isnr.org/events/webinar-introduction-of-neurofeedback-into-schools"
+   },
+   "title_zh": "免費網上培訓：將神經反饋引入學校（11 月 13 日，90 分鐘）"
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "免費網上直播培訓（1 CE）",
+   "evidence_quote": "Skipping Past Emotion: Understanding Spiritual Bypassing in Religious and Spiritual Trauma",
+   "key_points_zh": [
+    "講者：Kennesha Rodgers（MA, LAPC, CTP）",
+    "主題：宗教與靈性創傷中的靈性迴避——以靈性語言或修習繞過情緒處理；如何辨識、如何阻礙創傷處理、治療中的回應方法",
+    "日期：2026 年 11 月 18 日星期三美國東部時間 12:00–13:00",
+    "費用：免費參加；可獲 1 小時繼續教育學分（NBCC、賓州社工、LPC、LMFT、心理學家；須全程出席）",
+    "對象：臨床工作者",
+    "形式：線上直播（Zoom）；報名經 Google 文件連結"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-11-12",
+   "population": [
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "skipping-past-emotion-spiritual-bypassing-religious-spiritua",
+   "source": {
+    "author_name": "Phoenix Center for Experiential Trauma Therapy",
+    "description": "培訓頁面：免費網上靈性迴避講座，2026 年 11 月 18 日美國東部時間 12:00–13:00，1 CE。",
+    "platform": "web",
+    "title": "Free Webinar: Skipping Past Emotion: Understanding Spiritual Bypassing in Religious and Spiritual Trauma (18 November 2026)",
+    "url": "https://phoenixtraumacenter.com/event/free-webinar-skipping-past-emotion-understanding-spiritual-bypassing-in-religious-and-spiritual-trauma/"
+   },
+   "title_zh": "免費網上培訓：跳過情緒——認識宗教與靈性創傷中的靈性迴避（11 月 18 日，1 CE）"
+  }
+ ],
+ "skipped": [
+  "AMHART 青少年心理健康 AI 回應工具（Nature Mental Health 11/05）：站內已有",
+  "耶魯兒童哀傷網上講座 11/18：站內已有",
+  "Harborview TeleBehavioral 長者認知評估 11/20：站內已有（2026-11-09 上架）",
+  "Molecular Psychiatry 運動統合分析 ADHD（11/12）：原頁只讀到參考文獻，摘要數字未能核實，留待下次",
+  "Mind Medicine Australia 迷幻藥整合網絡講座 11/22：倡議機構主辦，建議捐款，本輪未深入處理",
+  "APT 情緒調節網絡講座 11/11：已結束",
+  "Mindful Courses 迷幻藥與 IFS 11/06：已結束",
+  "Inner Child Healing Masterclass 11/28：對象為一般公眾，非專業培訓",
+  "新加坡自然遊戲自閉症研究（28 人）：樣本細小，經影片報道轉述，證據弱",
+  "Frontiers 大熊貓國家公園自然教育研究（35 人）：樣本細小，臨床相關性弱",
+  "Scientific Reports 植物互動研究（120 人）：小型實驗研究，臨床相關性弱",
+  "JCPP 丹麥 CAMHS 登記研究（9/17）：11-11 run 已略過，無新近觸發點"
+ ],
+ "unreachable_sources": [
+  "JAMA Network Open 原文頁（DOI 10.1001/jamanetworkopen.2026.36973）：403 拒絕存取，數字經 KCL 官方報道與論文摘要核實",
+  "Molecular Psychiatry 原文頁（DOI 10.1038/s41380-026-03943-3）：只抽取到參考文獻，摘要未讀取",
+  "JAMA Psychiatry 原文頁（11-12 項目，DOI 10.1001/jamapsychiatry.2026.3768）：Cloudflare 阻擋，經 PubMed 與大學報道核實"
+ ],
+ "notes": "Feed 工具在本 run 不可用（與 11-01 至 11-12 run 相同），候選經公開搜尋標題預篩、逐項開原頁核實。八則上架：三則今日核實（步數 JAMA Network Open，經 KCL 官方報道與論文摘要核實；JAACAP HiTOP，原文 PDF 全文；牛津 OCRU，OCTC 原頁）；五則 2026-11-12 已核實，因 GitHub 授權受阻未推送，今日授權恢復後補推。步數研究原刊 2026 年 10 月 1 日，因 11 月 9–11 日媒體報道再引起關注而入選。"
+}
