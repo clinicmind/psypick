@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T01:15:33+00:00",
- "today": "2026-11-06",
+ "generated_at": "2026-11-13T01:16:48+00:00",
+ "today": "2026-11-13",
  "ages": [
   "孕期",
   "0-1歲",
@@ -38,6 +38,419 @@
   "美國"
  ],
  "items": [
+  {
+   "kind": "activity",
+   "title_zh": "渣打藝趣嘉年華 2026",
+   "title_en": "Standard Chartered Arts in the Park 2026",
+   "summary_zh": "香港最大型戶外青年藝術嘉年華，以流傳百年的童話故事為主題。活動包括夜光巡遊、壓軸巡遊、17 個互動藝術攤位、舞台表演、故事劇場及藝術作品展覽，巨型木偶會現身與大小朋友見面。",
+   "summary_en": "Hong Kong's largest outdoor youth arts carnival, themed on century-old fairy tales, with a night parade, grand finale parade, 17 interactive art booths, stage shows, storytelling theatre and exhibitions, plus giant puppets.",
+   "ages": [
+    "3-6歲",
+    "6-12歲",
+    "12-18歲"
+   ],
+   "topic": "親子活動",
+   "region": "香港",
+   "tips": [
+    "夜光巡遊在 11 月 14 日晚上，壓軸巡遊在 11 月 15 日下午，宜預留時間",
+    "活動免費入場，適合一家大小即興前往",
+    "人流料多，宜提早到場"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "非牟利",
+   "posted_at": "",
+   "tags": [
+    "嘉年華",
+    "木偶巡遊",
+    "戶外藝術",
+    "免費"
+   ],
+   "verify_needed": true,
+   "verify_reason": "官網未列每日開放時間，10:00–17:00 取自 Sassy Mama 及 Kidscovery 的活動整理，未在官網原頁看到",
+   "activity": {
+    "age_range": "全年齡",
+    "date_end": "2026-11-15",
+    "date_start": "2026-11-14",
+    "deadline": "",
+    "free": true,
+    "last_checked": "2026-11-13",
+    "organizer": "",
+    "price": "免費",
+    "signup": "無需報名（免費入場）",
+    "time": "10:00–17:00",
+    "venue": "銅鑼灣維多利亞公園及周邊"
+   },
+   "deal": null,
+   "bounty": null,
+   "url": "https://www.scartsinthepark.com/tc/",
+   "source_title": "Homepage — 渣打藝趣嘉年華",
+   "org": "渣打藝趣嘉年華",
+   "slug": "standard-chartered-arts-in-the-park-2026",
+   "created_at": "2026-11-13T01:16:48+00:00",
+   "ended": false
+  },
+  {
+   "kind": "activity",
+   "title_zh": "親子故事工作坊「我做得到」",
+   "title_en": "Parent-child storytelling workshop I can do it HKPL",
+   "summary_zh": "香港中央圖書館逢星期日上午舉行的免費親子故事工作坊，以普通話進行。本場主題為「打針才不可怕」，內容包括熱身遊戲、講故事、主題勞作及延伸閱讀推介。",
+   "summary_en": "Free parent-child storytelling workshop at Hong Kong Central Library on Sunday mornings, in Putonghua. This session, themed Injections are not scary, includes warm-up games, storytelling, crafts and reading recommendations.",
+   "ages": [
+    "3-6歲",
+    "6-12歲"
+   ],
+   "topic": "親子活動",
+   "region": "香港",
+   "tips": [
+    "每場只收 30 組家庭，宜在開放報名首日致電或親臨登記",
+    "活動以普通話進行，報名前宜確認孩子能聽懂",
+    "同系列逢星期日舉行，11 月 22、29 日及 12 月亦有場次"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "政府",
+   "posted_at": "",
+   "tags": [
+    "親子閱讀",
+    "故事工作坊",
+    "圖書館",
+    "免費"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": {
+    "age_range": "3–7 歲小朋友及一位家長",
+    "date_end": "2026-11-15",
+    "date_start": "2026-11-15",
+    "deadline": "",
+    "free": true,
+    "last_checked": "2026-11-13",
+    "organizer": "香港公共圖書館主辦，宏邦教育主持",
+    "price": "免費",
+    "signup": "活動舉行前一星期開始接受電話或親臨二樓兒童圖書館櫃檯報名，先到先得",
+    "time": "11:00–12:00",
+    "venue": "香港中央圖書館（二樓兒童活動室）"
+   },
+   "deal": null,
+   "bounty": null,
+   "url": "https://www.hkpl.gov.hk/tc/extension-activities/event-detail/305059/parent-child-storytelling-workshops-i-can-do-it",
+   "source_title": "香港公共圖書館 — 親子故事工作坊：我做得到",
+   "org": "香港公共圖書館",
+   "slug": "parent-child-storytelling-workshop-i-can-do-it-hkpl",
+   "created_at": "2026-11-13T01:16:48+00:00",
+   "ended": false
+  },
+  {
+   "kind": "activity",
+   "title_zh": "中大中醫學院體驗日",
+   "title_en": "CUHK School of Chinese Medicine experience day",
+   "summary_zh": "香港中文大學中醫學院在中大校友日舉辦的免費體驗日，設有漢服初體驗、艾草按摩槌工作坊、中醫診所參觀及攤位遊戲。孩子可透過遊戲認識中草藥材與中醫知識，另有「五行穴位大搜查」攤位。",
+   "summary_en": "Free experience day by CUHK School of Chinese Medicine during CUHK Alumni Day, with hanfu try-on, mugwort massage hammer workshops, clinic visits and game stalls introducing children to Chinese herbs and medicine.",
+   "ages": [
+    "3-6歲",
+    "6-12歲",
+    "12-18歲"
+   ],
+   "topic": "親子活動",
+   "region": "香港",
+   "tips": [
+    "報名截止日為 11 月 18 日，名額有限，宜提早報名",
+    "同日中午起可先到百萬大道玩「五行穴位大搜查」攤位"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "媒體",
+   "posted_at": "2026-11-09",
+   "tags": [
+    "中醫文化",
+    "親子手作",
+    "免費",
+    "體驗日"
+   ],
+   "verify_needed": true,
+   "verify_reason": "Oh!爸媽二手報導，未對照中大官網原頁核對",
+   "activity": {
+    "age_range": "全年齡",
+    "date_end": "2026-11-28",
+    "date_start": "2026-11-28",
+    "deadline": "2026-11-18",
+    "free": true,
+    "last_checked": "2026-11-13",
+    "organizer": "香港中文大學中醫學院",
+    "price": "免費",
+    "signup": "網上報名",
+    "time": "14:30–16:30",
+    "venue": "中大崇基學院李慧珍樓 G07 室"
+   },
+   "deal": null,
+   "bounty": null,
+   "url": "https://www.stheadline.com/ohpama/3635188/%E4%B8%AD%E5%A4%A7%E4%B8%AD%E9%86%AB%E5%AD%B8%E9%99%A2%E9%AB%94%E9%A9%97%E6%97%A5%E5%85%8D%E8%B2%BB%E6%BC%A2%E6%9C%8D%E5%88%9D%E9%AB%94%E9%A9%97%E8%89%BE%E8%8D%89%E6%8C%89%E6%91%A9%E6%A7%8C%E5%B7%A5%E4%BD%9C%E5%9D%8A%E6%94%A4%E4%BD%8D%E9%81%8A%E6%88%B2-%E9%99%84%E5%A0%B1%E5%90%8D%E6%96%B9%E6%B3%95",
+   "source_title": "中大中醫學院體驗日免費漢服初體驗／艾草按摩槌工作坊／攤位遊戲 附報名方法",
+   "org": "香港中文大學中醫學院",
+   "slug": "cuhk-school-of-chinese-medicine-experience-day",
+   "created_at": "2026-11-13T01:16:48+00:00",
+   "ended": false
+  },
+  {
+   "kind": "activity",
+   "title_zh": "2026 年「書香伴成長」親子閱讀推廣活動",
+   "title_en": "Reading with growth parent-child reading programme Macao 2026",
+   "summary_zh": "澳門公共圖書館的親子閱讀系列活動，以繪本為主題，結合繪本演說、劇情演繹、創意遊戲、唱歌及手作，培養兒童閱讀習慣。11 月場次包括《房子跳舞，地震了？》《善良，我做得到！》等，12 月場次包括聖誕主題繪本。",
+   "summary_en": "Macao Public Library's parent-child reading series uses picture books with storytelling, drama, games, songs and crafts to build reading habits. November sessions include earthquake and kindness themes; December sessions include Christmas picture books.",
+   "ages": [
+    "3-6歲",
+    "6-12歲"
+   ],
+   "topic": "親子活動",
+   "region": "澳門",
+   "tips": [
+    "11 月場次報名已於 10 月 28 日截止，只餘 12 月場次可報，截止日為 11 月 25 日",
+    "同一主題每人只限報一場，取錄方式為抽籤",
+    "此活動已納入教育及青年發展局「百分百家長獎勵計劃」項目"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "政府",
+   "posted_at": "",
+   "tags": [
+    "親子閱讀",
+    "繪本",
+    "圖書館",
+    "免費"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": {
+    "age_range": "4–7 歲親子（2019 至 2022 年出生之兒童），每場 10 對親子",
+    "date_end": "2026-12-19",
+    "date_start": "2026-11-14",
+    "deadline": "2026-11-25",
+    "free": true,
+    "last_checked": "2026-11-13",
+    "organizer": "澳門公共圖書館（文化局）",
+    "price": "免費",
+    "signup": "一戶通網站報名，抽籤取錄",
+    "time": "各場 10:30–12:00 或 15:00–16:30",
+    "venue": "澳門中央圖書館、青洲坊圖書館、氹仔圖書館、下環圖書館、黑沙環公園黃營均兒童圖書館等"
+   },
+   "deal": null,
+   "bounty": null,
+   "url": "https://www.library.gov.mo/zh-hant/promotion-events/events/detail/202610-12-RPG",
+   "source_title": "2026 年「書香伴成長」親子閱讀推廣活動（10–12 月）",
+   "org": "澳門公共圖書館",
+   "slug": "reading-with-growth-parent-child-reading-programme-macao-202",
+   "created_at": "2026-11-13T01:16:48+00:00",
+   "ended": false
+  },
+  {
+   "kind": "activity",
+   "title_zh": "第四屆「粵澳共此時」花海歡樂季",
+   "title_en": "Guangdong Macao flower sea festival 2026",
+   "summary_zh": "橫琴與澳門合辦的免費花海親子活動，逢周六、日舉行，共四個主題周。首周「聚好玩・其樂桃桃」聚焦親子互動，有童聲合唱、非遺土風舞、小丑巡遊、親子跳蚤市集及草木拓印等手作體驗。",
+   "summary_en": "Free flower festival co-hosted by Hengqin and Macao, held on weekends with four themed weeks. The first week focuses on parent-child activities, with children's choir, folk dance, clown parade, flea market and leaf-print crafts.",
+   "ages": [
+    "3-6歲",
+    "6-12歲",
+    "12-18歲"
+   ],
+   "topic": "親子活動",
+   "region": "澳門",
+   "tips": [
+    "地點在橫琴花海長廊，非澳門本島，往返宜預留交通時間",
+    "首周 11 月 14–15 日是親子主題周，最切合親子家庭",
+    "手作體驗材料包每份 19.9 元，領完即止，可現場排隊"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "政府",
+   "posted_at": "2026-11-06",
+   "tags": [
+    "花海",
+    "親子市集",
+    "戶外活動",
+    "免費"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": {
+    "age_range": "全年齡",
+    "date_end": "2026-12-06",
+    "date_start": "2026-11-14",
+    "deadline": "",
+    "free": true,
+    "last_checked": "2026-11-13",
+    "organizer": "橫琴粵澳深度合作區民生事務局、澳門文化體育局、澳門社會工作局聯合主辦",
+    "price": "免費入場（手作體驗材料包每份 19.9 元）",
+    "signup": "免費入場，手作體驗需線上預約或現場排隊",
+    "time": "逢周六、日 14:30–17:30",
+    "venue": "橫琴花海長廊一號驛站"
+   },
+   "deal": null,
+   "bounty": null,
+   "url": "https://www.gov.mo/zh-hant/news/1280205/",
+   "source_title": "第四屆「粵澳共此時」花海歡樂季 將於 11 月 14 日啟幕 —— 打造「花海桃源」四大主題 豐富琴澳周末生活",
+   "org": "橫琴粵澳深度合作區民生事務局",
+   "slug": "guangdong-macao-flower-sea-festival-2026",
+   "created_at": "2026-11-13T01:16:48+00:00",
+   "ended": false
+  },
+  {
+   "kind": "article",
+   "title_zh": "跟女兒吵到甩門後，怎麼開口和好？",
+   "title_en": "How to make up with your daughter after a slamming door argument",
+   "summary_zh": "作者丁菱娟分享與女兒吵架後甩門的經歷，反思親子溝通不應先講道理，而要先接住感情。她指出不要用成人的成熟要求孩子有同樣的成熟度，並以一句道歉與擁抱修復關係。",
+   "summary_en": "PR veteran Ding Ling-juan shares slamming the door after arguing with her daughter, reflecting that parent-child communication should hold feelings before reasoning. She notes adults should not demand adult maturity from children, and repaired the relationship with an apology and a hug.",
+   "ages": [
+    "12-18歲"
+   ],
+   "topic": "溝通與品格",
+   "region": "台灣",
+   "tips": [
+    "衝突當下先冷靜，別急著講道理",
+    "先承認自己的情緒與說話過重，再談事情本身",
+    "記住家中先講愛再講理，修復重於爭輸贏"
+   ],
+   "when_to_seek_help": "親子衝突反覆失控、關係持續緊張，可找臨床心理師或諮商心理師談談。",
+   "source_type": "媒體",
+   "posted_at": "2026-11-10",
+   "tags": [
+    "親子衝突",
+    "情緒修復",
+    "溝通",
+    "道歉"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": null,
+   "deal": null,
+   "bounty": null,
+   "url": "https://futureparenting.cwgv.com.tw/family/content/index/37369",
+   "source_title": "公關教母跟女兒講道理，也有講不通的時候？吵到甩門後，怎麼開口和好？",
+   "org": "未來親子",
+   "slug": "how-to-make-up-with-your-daughter-after-a-slamming-door-argu",
+   "created_at": "2026-11-13T01:16:48+00:00",
+   "ended": false
+  },
+  {
+   "kind": "article",
+   "title_zh": "考前給父母的 10 個提醒，別把陪讀當投資",
+   "title_en": "Ten reminders for parents before exams do not treat tutoring as investment",
+   "summary_zh": "作者以薩提爾模式提出十個面對考試的提醒，包括分數有高低但孩子價值沒有高低、陪讀付出不應變成孩子欠下的分數、考不好不應取消玩樂。文章提醒父母先聽孩子的心情，再一起看考卷。",
+   "summary_en": "Using the Satir model, the author offers ten reminders for exam season: scores vary but a child's worth does not, tutoring time is not a debt to repay with grades, and poor results should not mean cancelling play. Parents are urged to hear the child's feelings before reviewing the test paper.",
+   "ages": [
+    "6-12歲"
+   ],
+   "topic": "升學與學習",
+   "region": "台灣",
+   "tips": [
+    "考卷發回來先問孩子的心情，別先問錯了哪一題",
+    "別把陪讀時間當投資，期待孩子用分數回報",
+    "保留孩子的休息與玩樂，別因一次低分全部取消"
+   ],
+   "when_to_seek_help": "孩子對考試持續焦慮、失眠或拒學，可找學校輔導老師或臨床心理師談談。",
+   "source_type": "媒體",
+   "posted_at": "2026-11-05",
+   "tags": [
+    "考試焦慮",
+    "親子關係",
+    "分數壓力",
+    "薩提爾"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": null,
+   "deal": null,
+   "bounty": null,
+   "url": "https://futureparenting.cwgv.com.tw/family/content/index/37355",
+   "source_title": "考不好就取消玩樂、加強補習？李儀婷：考前給父母的 10 個提醒，別把陪讀當投資",
+   "org": "未來親子",
+   "slug": "ten-reminders-for-parents-before-exams-do-not-treat-tutoring",
+   "created_at": "2026-11-13T01:16:48+00:00",
+   "ended": false
+  },
+  {
+   "kind": "article",
+   "title_zh": "教孩子最在乎的 3 件事：閱讀、運動、興趣",
+   "title_en": "Three things that matter most in raising children reading sport interests",
+   "summary_zh": "退休校長陳採卿分享教養兩個性情迥異兒子的經驗，強調不比較手足、包容孩子的不同步伐。她提出三件從小要做的事：閱讀、運動與培養興趣，並提醒父母用心陪伴比用力管教重要。",
+   "summary_en": "Retired principal Chen Tsai-ching shares raising two very different sons, stressing not comparing siblings and allowing each child's own pace. She names three things to do from childhood: reading, exercise and developing an interest, and reminds parents that mindful company matters more than forceful discipline.",
+   "ages": [
+    "6-12歲",
+    "12-18歲"
+   ],
+   "topic": "溝通與品格",
+   "region": "台灣",
+   "tips": [
+    "別拿手足或別人的孩子比較，留意每個孩子的獨特之處",
+    "從小陪孩子閱讀、運動及發展一個興趣",
+    "孩子犯錯時先討論原因與處理方法，別把孩子當犯人"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "媒體",
+   "posted_at": "2026-11-03",
+   "tags": [
+    "手足比較",
+    "因材施教",
+    "興趣培養",
+    "閱讀"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": null,
+   "deal": null,
+   "bounty": null,
+   "url": "https://futureparenting.cwgv.com.tw/family/content/index/37315",
+   "source_title": "大兒子是台大醫學霸，小兒子從小頑皮、長大成名藝術家：龍門退休校長陳採卿，教孩子最在乎這 3 件事",
+   "org": "未來親子",
+   "slug": "three-things-that-matter-most-in-raising-children-reading-sp",
+   "created_at": "2026-11-13T01:16:48+00:00",
+   "ended": false
+  },
+  {
+   "kind": "deal",
+   "title_zh": "淘寶雙11童裝優惠：官方立減85折，一件包郵，今日收檔",
+   "title_en": "Taobao Double 11 kids clothing 85 percent off ends today",
+   "summary_zh": "淘寶／天貓香港站雙11現貨期今日晚上11時59分結束。童裝官方立減85折，疊加消費券可低至72折，部分商品一件包郵，並有「HK可退」本地退貨。文章附中國碼尺碼對照表及五個網購陷阱，提醒家長按身高及實測尺寸選碼。",
+   "summary_en": "Taobao and Tmall Hong Kong's Double 11 sale ends tonight at 11:59 p.m. Kids' clothing is 85 percent off with official instant discounts, down to 72 percent off with coupons; some items ship free for a single piece, with local HK returns on selected goods. The guide includes a China-size chart and five shopping pitfalls.",
+   "ages": [
+    "3-6歲",
+    "6-12歲"
+   ],
+   "topic": "優惠",
+   "region": "香港",
+   "tips": [
+    "按孩子身高及實測尺寸對照中國碼尺碼表選碼",
+    "留意「HK可退」只限指定商品及賣家",
+    "預售及尾款期已過，只剩現貨"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "媒體",
+   "posted_at": "2026-11-04",
+   "tags": [
+    "淘寶",
+    "雙11",
+    "童裝",
+    "優惠"
+   ],
+   "verify_needed": true,
+   "verify_reason": "第三方攻略整理，未見淘寶官方活動頁核實折扣",
+   "activity": null,
+   "deal": {
+    "category": "童裝",
+    "code": "",
+    "conditions": "「HK可退」本地退貨只限指定商品及賣家；預售及尾款期已過，只剩現貨",
+    "discount": "官方立減85折起，疊加消費券可低至72折",
+    "how_to_use": "於淘寶／天貓香港站下單，官方立減自動套用",
+    "last_checked": "2026-11-13",
+    "min_spend": "",
+    "platform": "淘寶",
+    "valid_from": "2026-10-20",
+    "valid_to": "2026-11-13"
+   },
+   "bounty": null,
+   "url": "https://www.ohmyhk.com/double11-kids-clothing-2026-hk/",
+   "source_title": "雙11童裝攻略2026｜仲有9日收檔：淘寶85折＋一件包郵點買最抵（附尺碼對照表＋5個退換陷阱）",
+   "org": "Oh My HK",
+   "slug": "taobao-double-11-kids-clothing-85-percent-off-ends-today",
+   "created_at": "2026-11-13T01:16:48+00:00",
+   "ended": false
+  },
   {
    "kind": "article",
    "title_zh": "當孩子的情緒，碰上父母最脆弱的時刻",

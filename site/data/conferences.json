@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-10T21:20:48+00:00",
- "today": "2026-11-11",
+ "generated_at": "2026-11-13T01:16:48+00:00",
+ "today": "2026-11-13",
  "regions": [
   "香港",
   "澳門",
@@ -1444,6 +1444,42 @@
    "last_checked": "2026-10-05"
   },
   {
+   "slug": "taaanz-group-conference-2026",
+   "name_zh": "2026 TAAANZ Group Conference（紐西蘭交易分析協會團體年會）",
+   "name_en": "2026 TAAANZ Group Conference",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "city": "威靈頓",
+   "country": "紐西蘭",
+   "region": "亞太",
+   "format": "實體",
+   "language": "英語",
+   "organizer": "Transactional Analysis Association of Aotearoa New Zealand (TAAANZ)",
+   "fee_text": "會員 NZD $490／非會員 NZD $590（含稅）",
+   "url": "https://www.taaanz.nz/2026-taaanz-group-conference",
+   "register_url": "https://www.taaanz.nz/2026-taaanz-group-conference",
+   "venue": "Te Wharewaka o Pōneke（威靈頓）",
+   "summary_zh": "紐西蘭交易分析協會年會，2026 年 12 月 5–6 日於威靈頓 Te Wharewaka o Pōneke 舉行，主題演講 Seán Manning 談「Disruption as the Object of Psychotherapy」；另有 Keith Tudor、Gerry Pyves、Jr-Earn Lam 等工作坊，全程無平行場次，可獲 14 CPD 小時。",
+   "themes": [
+    "交易分析",
+    "心理治療"
+   ],
+   "interest_zh": "交易分析心理治療的年會，全程無平行場次，可獲 14 CPD 小時；主題演講談治療中的顛覆。",
+   "domains": [
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "原頁未顯示發布日；報名截止日未公布。",
+   "speakers": [
+    "Seán Manning",
+    "Keith Tudor",
+    "Gerry Pyves",
+    "Jr-Earn Lam"
+   ],
+   "deadline": "",
+   "last_checked": "2026-11-13"
+  },
+  {
    "slug": "evolution-of-psychotherapy-2026",
    "name_zh": "心理治療的演進大會 2026",
    "name_en": "The Evolution of Psychotherapy Conference 2026",
@@ -1688,6 +1724,79 @@
     }
    ],
    "last_checked": "2026-10-05"
+  },
+  {
+   "slug": "scap-2026-singapore",
+   "name_zh": "第 10 屆新加坡應用心理學會議 SCAP 2026",
+   "name_en": "10th Singapore Conference on Applied Psychology (SCAP 2026)",
+   "start": "2026-12-08",
+   "end": "2026-12-09",
+   "city": "新加坡",
+   "country": "新加坡",
+   "region": "新加坡",
+   "format": "混合",
+   "language": "英語",
+   "organizer": "East Asia Research（新加坡科技設計大學支持）",
+   "fee_text": "S$810（不含 GST，兩日）",
+   "url": "https://www.cbs.com.sg/events/singapore-conference-on-applied-psychology-driving-strategic-impact-with-applied-psychology/",
+   "register_url": "https://www.cbs.com.sg/events/singapore-conference-on-applied-psychology-driving-strategic-impact-with-applied-psychology/",
+   "venue": "新加坡",
+   "summary_zh": "第 10 屆新加坡應用心理學會議，2026 年 12 月 8–9 日於新加坡混合舉行，主題為心理健康（Psychological Well-being），由 East Asia Research 主辦、新加坡科技設計大學支持。主題演講包括 David Shum（香港理工大學）、Jansen Ang、Keong Yap、Yow Wei Quin，另有 30 多場心理健康相關發表。",
+   "themes": [
+    "心理健康",
+    "應用心理學"
+   ],
+   "interest_zh": "應用心理學會議，主題為心理健康，30 多場心理健康相關發表，對心理學家與學校輔導員有參考價值。",
+   "domains": [
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "原頁未顯示發布日；報名截止日未公布。",
+   "speakers": [
+    "David Shum",
+    "Jansen Ang",
+    "Keong Yap",
+    "Yow Wei Quin"
+   ],
+   "deadline": "",
+   "last_checked": "2026-11-13"
+  },
+  {
+   "slug": "cosrt-50th-anniversary-conference-2026",
+   "name_zh": "Defining Future Therapies：COSRT 50 週年會議",
+   "name_en": "Defining Future Therapies: COSRT's 50th Anniversary Conference 2026",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "city": "",
+   "country": "英國",
+   "region": "歐洲",
+   "format": "混合",
+   "language": "英語",
+   "organizer": "College of Sexual and Relationship Therapists (COSRT)",
+   "fee_text": "",
+   "url": "https://www.cosrtlearn.org.uk/next-cosrt-conference/",
+   "register_url": "https://www.cosrtlearn.org.uk/next-cosrt-conference/",
+   "venue": "",
+   "summary_zh": "英國性與關係治療師學院（COSRT）成立 50 週年會議，2026 年 12 月 10 日，線上＋實體同步舉行。開幕主題演講由 Divine Charura 教授主講，講者包括 Angela Wright、Markie Twist、H. Eli Joubert、Leila Frodsham，探討性心理治療與關係治療的未來發展、專業標準與實證基礎。",
+   "themes": [
+    "性心理治療",
+    "關係治療"
+   ],
+   "interest_zh": "性與關係治療的未來發展、專業標準與實證基礎，對性心理治療師有參考價值。",
+   "domains": [
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "費用與報名截止日原頁未公布；報名連結未在頁面顯示。",
+   "speakers": [
+    "Divine Charura",
+    "Angela Wright",
+    "Markie Twist",
+    "H. Eli Joubert",
+    "Leila Frodsham"
+   ],
+   "deadline": "",
+   "last_checked": "2026-11-13"
   },
   {
    "slug": "tsap-jung-2026",
@@ -1965,6 +2074,101 @@
     }
    ],
    "last_checked": "2026-10-30"
+  },
+  {
+   "slug": "bgca-90th-anniversary-conference-2026",
+   "name_zh": "香港小童群益會 90 週年國際研討會「促進心理健康 – 數碼時代的科技與人本連結」",
+   "name_en": "BGCA 90th Anniversary International Conference: Promoting Mental Health - Technology and Human Connection in the Digital Age",
+   "start": "2026-12-16",
+   "end": "2026-12-16",
+   "city": "香港",
+   "country": "香港",
+   "region": "香港",
+   "format": "混合",
+   "language": "英語／普通話／廣東話（設即時傳譯）",
+   "organizer": "香港小童群益會",
+   "fee_text": "全日早鳥 HKD $200／正價 $300，半日 $100／$150，全日制學生全日 $50",
+   "url": "https://www.bgca.org.hk/article/5964",
+   "register_url": "https://event.bgca.org.hk/18502-bgca-90th-anniversary-international-conference-2/?lang=zh-hant#/",
+   "venue": "香港小童群益會灣仔總部（＋線上）",
+   "summary_zh": "香港小童群益會 90 週年壓軸國際會議，2026 年 12 月 16 日（星期三）9:00–18:00，灣仔總部實體＋線上混合舉行，主題為數碼時代的心理健康與科技和人本連結；另設 12 月 15 日會前及 12 月 17 日會後工作坊。",
+   "themes": [
+    "心理健康",
+    "數碼時代",
+    "科技與人本連結"
+   ],
+   "interest_zh": "香港本地社福與心理健康專業人員的國際會議，主題切合數碼時代的臨床實務；早鳥優惠 11 月 21 日截止。",
+   "domains": [
+    "臨床心理"
+   ],
+   "verify_needed": false,
+   "verify_notes": "",
+   "speakers": [],
+   "deadline": "2026-11-21",
+   "last_checked": "2026-11-13"
+  },
+  {
+   "slug": "pingtung-multicultural-counselling-conference-2026",
+   "name_zh": "2026 多元文化能力與諮商輔導實務國際研討會",
+   "name_en": "2026 International Conference on Multicultural Competence and Counselling Practice",
+   "start": "2026-12-18",
+   "end": "2026-12-18",
+   "city": "屏東",
+   "country": "台灣",
+   "region": "台灣",
+   "format": "實體",
+   "language": "中文",
+   "organizer": "國立屏東大學教育心理與輔導學系",
+   "fee_text": "",
+   "url": "https://nrjh.kl.edu.tw/最新公告/轉知國立屏東大學訂於115年12月18日（星期五）辦理「2026多元文化能力與諮商輔導實務國際研討會」",
+   "register_url": "https://forms.gle/ZQdqwkt8pPHuMH7k9",
+   "venue": "屏東大學民生校區五育樓國際會議廳",
+   "summary_zh": "國立屏東大學教育心理與輔導學系主辦，2026 年 12 月 18 日（星期五）8:40–17:00 於屏東大學民生校區五育樓國際會議廳舉行，形式為專題演講及壁報論文發表，對象為國內外心理諮商工作者、中小學教師、大專校院相關系所教師及學生。投稿已於 11 月 1 日截止，審查結果 11 月 20 日通知。",
+   "themes": [
+    "多元文化能力",
+    "諮商輔導"
+   ],
+   "interest_zh": "多元文化能力與諮商輔導實務的專題演講及壁報發表，對學校與社區諮商工作者有參考價值。",
+   "domains": [
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "費用及一般聽眾報名截止日未見公布；所開頁面為學校轉知公告，非主辦方自家頁面。",
+   "speakers": [],
+   "deadline": "",
+   "last_checked": "2026-11-13"
+  },
+  {
+   "slug": "taclip-alzheimer-clinical-neuropsychology-seminar-2026",
+   "name_zh": "阿茲海默症診療新進展：臨床神經心理學的評估與挑戰",
+   "name_en": "Advances in Alzheimer's Disease Diagnosis and Treatment: Assessment and Challenges in Clinical Neuropsychology",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "city": "台北",
+   "country": "台灣",
+   "region": "台灣",
+   "format": "實體",
+   "language": "中文",
+   "organizer": "台灣臨床心理學會",
+   "fee_text": "免費",
+   "url": "https://taclip.org.tw/news/15516/",
+   "register_url": "https://forms.gle/AmNaakkYydq2fGG69",
+   "venue": "台北集思台大會議中心",
+   "summary_zh": "台灣臨床心理學會主辦、台灣臨床失智症學會及台灣神經學學會協辦的半日研討會，2026 年 12 月 19 日上午於台北集思台大會議中心舉行，聚焦阿茲海默症最新診斷與治療趨勢、臨床心理師的角色及 TMS 等非藥物介入，全程免費。",
+   "themes": [
+    "阿茲海默症",
+    "臨床神經心理學",
+    "非藥物介入"
+   ],
+   "interest_zh": "阿茲海默症最新診斷與治療趨勢及臨床心理師的角色，全程免費，對臨床與神經心理專業人員有參考價值。",
+   "domains": [
+    "臨床心理"
+   ],
+   "verify_needed": false,
+   "verify_notes": "",
+   "speakers": [],
+   "deadline": "",
+   "last_checked": "2026-11-13"
   }
  ]
 }

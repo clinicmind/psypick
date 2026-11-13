@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T13:33:22+00:00",
+ "generated_at": "2026-11-13T01:16:48+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,178 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "fonagy-review-what-should-come-next-for-children-mental-heal",
+   "title_zh": "Fonagy 審查之後：兒童心理健康支援不應等待診斷",
+   "title_en": "Fonagy review what should come next for children mental health",
+   "summary_zh": "英國政府委託 Fonagy 教授的獨立審查，呼籲兒童心理健康支援由「依賴診斷」轉向「以需要為先」。Anna Freud 五位專家提出五項政策訴求，包括支援不應等待診斷、預防要處理貧窮與孤獨等成因、投資學校與幼兒服務、讓兒童參與政策制定。審查未證實大規模過度診斷，但五歲以下服務缺口大。",
+   "summary_en": "Anna Freud (November 10, 2026) responds to the UK government's independent Fonagy review of children's mental health, which calls for support based on need rather than diagnosis. Five experts set out five policy asks: support should not wait for a diagnosis, prevention must tackle poverty and loneliness, schools and early-years services need investment, and children should help shape policy. The review found no evidence of large-scale overdiagnosis, but early-years specialist services reach only about 4% of families in need.",
+   "category": "研究與證據",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "Fonagy 審查",
+    "英國政策",
+    "圍產期",
+    "診斷"
+   ],
+   "first_seen_at": "2026-11-13T01:16:48+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-10T00:00:00+00:00"
+  },
+  {
+   "slug": "healthy-babies-expansion-perinatal-mental-health-england",
+   "title_zh": "英國 Healthy Babies 計劃擴展至全英家庭中心：圍產期心理健康的啟示",
+   "title_en": "Healthy Babies expansion perinatal mental health England",
+   "summary_zh": "英國政府宣布 Healthy Babies 計劃擴展至全英 Best Start Family Hub，目標 2028 年底前建立 1,000 個中心與 2,000 項連結服務。作者指出目前逾半地方政府缺乏此類服務，呼籲建立跨機構員工培訓，令所有接觸孕產婦與嬰兒的專業人員具備圍產期心理健康能力。",
+   "summary_en": "Tavistock Education and Training (November 5, 2026) welcomes the UK government's expansion of the Healthy Babies programme to every Best Start Family Hub in England, aiming for 1,000 hubs and 2,000 linked services by the end of 2028. Author Jo Brook notes that over half of local authorities currently lack such services and calls for cross-agency workforce training so every professional working with pregnant people and babies has perinatal mental health capability.",
+   "category": "臨床與治療應用",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "圍產期心理健康",
+    "嬰兒心理健康",
+    "英國",
+    "Family Hub"
+   ],
+   "first_seen_at": "2026-11-13T01:16:48+00:00",
+   "evidence_level": 0,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-05T00:00:00+00:00"
+  },
+  {
+   "slug": "cuhk-beat-ad-dementia-prevention-ai-retinal-screening-pilot",
+   "title_zh": "高錕中大「腦智同護」先導計劃：AI 視網膜篩查識別高風險長者，認知評估「逆齡」三歲",
+   "title_en": "CUHK Beat AD dementia prevention AI retinal screening pilot results",
+   "summary_zh": "中大醫學院與高錕慈善基金公布「腦智同護」先導成果，AI 視網膜影像在 831 名認知功能正常長者中識出約 21% 較高阿茲海默症風險者。接受一年個人化腦健康管理者認知評分改善，水平接近年輕約三歲人士。計劃 2027 年 1 月起落戶黃大仙，兩年內為 2,700 名長者提供免費腦健康評估。",
+   "summary_en": "The Chinese University of Hong Kong (November 3, 2026) reports encouraging pilot results from its Beat AD dementia-prevention programme with the Charles K. Kao Foundation: AI retinal imaging flagged about 21% of 831 cognitively normal community participants as higher risk for Alzheimer's disease. After one year of personalised brain-health management, participants' cognitive scores improved to a level close to people about three years younger. The programme expands to Wong Tai Sin from January 2027, aiming to serve 2,700 older adults over two years.",
+   "category": "評估與篩檢",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "認知障礙症",
+    "AI 篩查",
+    "視網膜影像",
+    "長者",
+    "預防"
+   ],
+   "first_seen_at": "2026-11-13T01:16:48+00:00",
+   "evidence_level": 2,
+   "population": [
+    "長者",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-03T00:00:00+00:00"
+  },
+  {
+   "slug": "perinatal-mental-health-pn1-online-open-event-24-november-20",
+   "title_zh": "圍產期心理健康深造單元 PN1 網上課程簡介會（11 月 24 日，免費）",
+   "title_en": "Perinatal mental health PN1 online open event 24 November 2026",
+   "summary_zh": "Tavistock 將於 2026 年 11 月 24 日舉行免費網上簡介會，介紹圍產期心理健康深造單元 PN1 的課程理念、入學要求、評核與學分。對象為現職 NHS 專科圍產期心理健康崗位、有意報讀者，可與課程團隊見面及聽取舊生經驗。",
+   "summary_en": "Tavistock Education and Training hosts a free online open event on Tuesday, November 24, 2026 (11:30 a.m.-12:30 p.m.) introducing its Perinatal Mental Health (PN1) postgraduate module. The session covers the course philosophy, entry requirements, assessment and credits, with a chance to meet the course team and hear from former students. It is aimed at professionals in NHS specialist perinatal mental health roles considering the module.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "圍產期心理健康",
+    "深造課程",
+    "簡介會",
+    "免費"
+   ],
+   "first_seen_at": "2026-11-13T01:16:48+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-13T01:16:48+00:00",
+   "training": {
+    "provider": "Tavistock Education and Training",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "English",
+    "deadline": "",
+    "event_date": "2026-11-24",
+    "format": "線上"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "when-speaking-up-takes-courage-mind-hk-free-webinar-20-novem",
+   "title_zh": "敢於發聲需要勇氣：文化期望如何影響發聲（Mind HK 免費網上講座，11 月 20 日）",
+   "title_en": "When speaking up takes courage Mind HK free webinar 20 November 2026",
+   "summary_zh": "Mind HK 免費午間網上講座，由在香港及英國註冊的臨床心理學家 Beatrice Ng-Kessler 主講，以 Content-Process-Relationship（CPR）框架探討文化期望如何影響人敢於發聲。2026 年 11 月 20 日（星期五）12:00–13:00（香港時間），Zoom 舉行，英語。",
+   "summary_en": "Mind HK hosts a free Lunch & Learn webinar on Friday, November 20, 2026 (12:00-1:00 p.m. HKT), presented by Beatrice Ng-Kessler, a clinical psychologist registered in Hong Kong and the UK. Using the Content-Process-Relationship (CPR) framework, the session explores how cultural expectations shape whether people feel able to speak up. The page was blocked by a Cloudflare check, so details were verified from the official page's search cache (updated November 11, 2026).",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "文化",
+    "發聲",
+    "臨床心理",
+    "免費"
+   ],
+   "first_seen_at": "2026-11-13T01:16:48+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-13T01:16:48+00:00",
+   "training": {
+    "provider": "Mind HK",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "English",
+    "deadline": "",
+    "event_date": "2026-11-20",
+    "format": "線上"
+   },
+   "deadline_soon": false
+  },
   {
    "slug": "blended-digital-parenting-intervention-tanzania-parentapp-tr",
    "title_zh": "群組隨機試驗：坦桑尼亞混合式數碼親職程式，女童過去一個月性暴力受害率低 57%（2,396 對親子）",
