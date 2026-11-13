@@ -1,0 +1,28 @@
+{
+  "format": "psypick-muse-v1",
+  "run_date": "2026-11-13",
+  "type": "manual_removal",
+  "items": [],
+  "removed": {
+    "section": "親子版 優惠（kind=deal）",
+    "count": 12,
+    "reason": "Gu 於 2026-11-13 指示：停止定期搜尋淘寶／HKTVmall 優惠，並刪除 PsyPick 整個優惠欄目。",
+    "slugs": [
+      "taobao-double-11-kids-clothing-85-percent-off-ends-today",
+      "taobao-double-11-sitewide-code-rmb120-off-rmb1000",
+      "taobao-national-day-carnival-week-until-7-oct",
+      "taobao-1-yuan-gifts-double-11-coupon-lock-in-until-13-nov",
+      "taobao-supersale8-19-off-159",
+      "taobao-cainiao19-cainiao29-19-off-199-29-off-299",
+      "citi-hktvmall-card-5-off-on-hktvmall-every-thursday",
+      "taobao-hk-new-user-offer-50-off-first-order-until-31-oct-202",
+      "tmall-app-freebie-perk-red-packet-up-to-99-until-31-dec-2026",
+      "dbs-compass-visa-super-wednesday-up-to-8-off-at-supermarkets",
+      "standard-chartered-smart-card-5-cashback-at-designated-merch",
+      "taobao-alipayhk-codes-alipay19-alipay29"
+    ],
+    "family_changes": "family.json items 193→181；topics 移除「優惠」；deal_platforms 清空為 []。",
+    "main_commit": "b3893a63029bd90f665e9a4b4e6b050567ccaf82"
+  },
+  "notes": "同步修訂：巡查 cron psypick-daily-patrol 加入停收優惠鐵則；巡查任務說明.md 新增鐵則第 12 條並刪除 deal 規格與配額；巡查來源清單.md E 節標題移除優惠。賞金獵人（bounty）不受影響，照舊收錄。"
+}
