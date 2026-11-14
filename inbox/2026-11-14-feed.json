@@ -1,0 +1,166 @@
+{
+ "format": "psypick-muse-v1",
+ "run_date": "2026-11-14",
+ "items": [
+  {
+   "category": "研究與證據",
+   "evidence_hint": "傘狀回顧（JAMA Pediatrics）",
+   "evidence_quote": "associations between screen use and several domains of children's developmental health outcomes",
+   "key_points_zh": [
+    "樣本：23 項統合分析，2,817,252 名 18 歲以下兒童，64 個國家；文獻搜尋至 2025 年 11 月 25 日",
+    "方法：定量傘狀回顧（回顧的回顧），效應值轉換為 Pearson r 再分析；依 PRISMA 報告",
+    "主要結果：學業成績 r=-0.15（95% CI -0.23 至 -0.07）；語言能力 r=-0.14（-0.18 至 -0.10）",
+    "心理健康：內化行為問題 r=0.10（0.07–0.13），社交媒體使用 r=0.09（0.06–0.12）；外化行為問題 r=0.11（0.08–0.14）；情緒問題 r=0.30（0.08–0.50）；同儕問題 r=0.28（0.04–0.49）",
+    "無關聯：執行功能、親社會行為、數學、科學、閱讀成績",
+    "限制：效應細小；大部分原始研究為橫斷面，不能證明因果；情緒與同儕問題估計基於較少研究、置信區間闊；未能區分不同屏幕用途"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-09-28",
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "screen-use-child-adolescent-development-mental-health-outcom",
+   "source": {
+    "author_name": "Al-Jbouri、Madigan 等（卡爾加里大學）",
+    "description": "傘狀回顧：23 項統合分析，281 萬名兒童；屏幕愈多，學業與語言愈弱、情緒行為問題愈多，效應細小。",
+    "platform": "web",
+    "title": "Screen Use and Child and Adolescent Development and Mental Health Outcomes: A Quantitative Umbrella Review (JAMA Pediatrics; DOI: 10.1001/jamapediatrics.2026.4339)",
+    "url": "https://doi.org/10.1001/jamapediatrics.2026.4339"
+   },
+   "title_zh": "屏幕時間愈多，兒童學業與語言愈弱、情緒行為問題愈多：281 萬名兒童傘狀回顧，效應細小"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "隊列研究（JAMA Pediatrics）",
+   "evidence_quote": "overall decisional regret was very low",
+   "key_points_zh": [
+    "樣本：376 名曾於青少年時期開始荷爾蒙治療者（112 人雌激素，264 人睾酮）；調查時 14–28 歲，平均 20.9 歲；開始治療後平均 4.9 年（1.2 個月至 10.7 年）",
+    "方法：2023 年 10 月至 2025 年 10 月自述網上調查；決策後悔量表（0–100 分，分數愈高後悔愈大）",
+    "主要結果：整體後悔平均 4.3 分（標準差 14.7），中位數 0；360／372 人（96.8%）認為是正確決定；10 人（2.7%）後悔；7 人（1.9%）認為受害",
+    "分組：已停用荷爾蒙者 65 人（17.3%），後悔分數平均高 15.95 分；非二元性別認同者平均高 6.07 分",
+    "無關聯：後悔、受害與目前是否用藥狀態，均與開始治療年齡或青春期前性別多樣表現無關",
+    "限制：單一診所樣本；自述調查；約四成受邀者未回覆；未記錄停藥原因；量度對決定的滿意度，非具體治療效果"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-09",
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "satisfaction-regret-harm-hormone-therapy-youth-multidiscipli",
+   "source": {
+    "author_name": "Kuper 等（德州大學西南醫學中心）",
+    "description": "隊列研究：376 名青少年時期開始荷爾蒙治療者，96.8% 認為是正確決定，2.7% 後悔。",
+    "platform": "web",
+    "title": "Satisfaction, Regret, and Harm After Hormone Therapy in Youth From a Multidisciplinary Gender Clinic (JAMA Pediatrics; DOI: 10.1001/jamapediatrics.2026.5185)",
+    "url": "https://doi.org/10.1001/jamapediatrics.2026.5185"
+   },
+   "title_zh": "青少年開始荷爾蒙治療後悔嗎？376 人追蹤：96.8% 認為是正確決定，2.7% 後悔"
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "免費網上直播培訓（每月系列）",
+   "evidence_quote": "participation is offered free of charge",
+   "key_points_zh": [
+    "講者：Luis Augusto Rohde 教授（巴西南里奧格蘭德聯邦大學精神病學教授；前世界 ADHD 聯合會主席；IACAPAP 主席 2022–2026；參與制訂 DSM-5 的 ADHD 診斷標準；發表 500 多篇論文）",
+    "主題：如何診斷有／無共病的 ADHD——實證評估入門",
+    "日期：2026 年 12 月 16 日星期三 13:00（柏林時間，約香港時間 20:00）",
+    "內容：DSM-5 與 ICD-11 核心症狀評估、評定量表、結構化晤談、共病識別、鑑別診斷與補充評估策略",
+    "費用：免費參加",
+    "對象：心理健康專業人員（心理學家、精神科醫生）、基層醫療與兒科醫生；適合評估入門或進修者"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-11-14",
+   "population": [
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "world-federation-adhd-webinar-diagnose-adhd-comorbidity-dece",
+   "source": {
+    "author_name": "World Federation of ADHD",
+    "description": "免費網上培訓：2026 年 12 月 16 日，Rohde 主講有／無共病的 ADHD 實證診斷評估。",
+    "platform": "web",
+    "title": "Live Webinars - Education - World Federation of ADHD (16 December 2026: How to diagnose ADHD in people without & with comorbidity?)",
+    "url": "https://www.adhd-federation.org/education/live-webinars"
+   },
+   "title_zh": "免費網上培訓：如何診斷有／無共病的 ADHD——實證評估入門（12 月 16 日，Luis Augusto Rohde）"
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "免費網上直播培訓（45 分鐘）",
+   "evidence_quote": "Free. The recording comes to you either way.",
+   "key_points_zh": [
+    "講者：Anna Cohen 博士（資深臨床心理學家，三十年兒童及家庭臨床經驗）與 Isabel Fraser（資深臨床心理學家、董事會認可督導）",
+    "主題：不想來的青少年——拒絕背後的四種保護（自主、身份、安全、歸屬）",
+    "日期：2026 年 12 月 9 日星期三 19:00–19:45（悉尼時間，約香港時間 16:00–16:45）",
+    "內容：以四個同被形容為「無動力」的年輕人，示範如何分辨拒絕背後的不同作用；一個貫穿九節的完整個案示範；下星期一可用的具體做法",
+    "費用：免費參加；登記即可獲錄影與講義",
+    "對象：與青少年工作的心理學家、輔導員、社工、精神健康職業治療師與學校心理學家；不設證書與 CPD 時數"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-11-14",
+   "population": [
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "teenager-who-does-not-want-to-be-here-free-session-clinician",
+   "source": {
+    "author_name": "The Clinical Psychology Resource Centre",
+    "description": "免費網上培訓：2026 年 12 月 9 日，Cohen 與 Fraser 主講不想來的青少年與拒絕背後的四種保護。",
+    "platform": "web",
+    "title": "The Teenager Who Does Not Want To Be Here: Free Session for Clinicians (9 December 2026)",
+    "url": "https://www.theclinicalpsychologyresourcecentre.com/free-adolescent-webinar"
+   },
+   "title_zh": "免費網上培訓：不想來的青少年——拒絕背後的四種保護（12 月 9 日，Anna Cohen／Isabel Fraser）"
+  },
+  {
+   "category": "學術會議",
+   "kind": "conference",
+   "page_date": "2026-11-14",
+   "title": "2026 On the Shoulders of Giants Scientific Symposium: Beyond One-Size-Fits-All - Designing Mental Health Care That Works for Every Child",
+   "evidence_quote": "Beyond One-Size-Fits-All: Designing Mental Health Care That Works for Every Child",
+   "key_points_zh": [
+    "2026 年 12 月 3 日星期四 17:00–19:30（美國東部時間，約香港時間 12 月 4 日 06:00–08:30），免費線上研討會，主辦 Child Mind Institute",
+    "主題：超越一刀切——為每個孩子設計有效的心理健康照護；Sarah Gund 獎得主 Peter Szatmari 主講自閉症與神經發展下的個人化照護",
+    "圓桌由 Mark Ghaly 主持，討論 AI 與數碼工具、服務可及性與公平；設 2.5 CE／CME 學分，設錄影"
+   ],
+   "source": {
+    "title": "2026 On the Shoulders of Giants Scientific Symposium - Child Mind Institute",
+    "url": "https://childmind.org/event/2026-on-the-shoulders-of-giants-scientific-symposium/",
+    "platform": "web",
+    "author_name": "Child Mind Institute",
+    "description": "大會官方頁：日期、免費登記、學分、講者名單與議程。"
+   },
+   "site_action": "上架 conferences.json，slug child-mind-shoulders-of-giants-2026"
+  }
+ ],
+ "skipped": [
+  "ABCD 青少年與照顧者診斷不一致研究（JAMA Psychiatry 11/11）：站內已有（2026-11-12 上架）",
+  "青少年情感性生成式 AI 使用研究（JAMA Pediatrics）：站內已有（affective-generative-ai-use-and-youth-mental-health）",
+  "Brunborg 挪威社交媒體社交比較研究（4,011 人）：站內已有（social-comparison-on-social-media-strongest-link-adolescent）",
+  "社交媒體與焦慮抑鬱 37 項研究統合分析（MedicalXpress 11/04）：與傘狀回顧主題重疊，未另行收錄",
+  "Magellan 免費網上培訓「精神健康數據追蹤與成效」12/03：對象限賓州 IBHS 臨床人員，地域太窄",
+  "EMDR 基礎網絡講座 11/18：30 分鐘入門介紹，內容單薄，屬宣傳性質",
+  "Harborview TeleBehavioral 長者認知評估 11/20：站內已有",
+  "APT 免費網絡講座：11 月場次已結束，2027 年場次未公布主題",
+  "Alaska Lunch & Learn 冬季系列：對象為一般公眾，非專業培訓",
+  "FMHCA 網絡講座 11/16、12/07：非會員須付費，非免費",
+  "世界 ADHD 聯合會網上講座 11/18（ADHD 對家長的影響）：符合專業培訓，但已達本日 5 則上限，留待下次篩選",
+  "意大利 MiB 羅馬青少年調查（約 3,000 人）：地區性調查，證據弱",
+  "AXA 2026 心理健康報告（菲律賓青年）：企業調查，二手報道"
+ ],
+ "unreachable_sources": [
+  "JAMA Pediatrics 原文頁（DOI 10.1001/jamapediatrics.2026.4339）：403 拒絕存取，數字經 PubMed 摘要 PMID 42804186 核實；瀏覽器任務另行開啟同一 DOI 頁核對",
+  "JAMA Pediatrics 原文頁（DOI 10.1001/jamapediatrics.2026.5185）：未直接開啟，數字經 PubMed 摘要 PMID 43002408 核實"
+ ],
+ "notes": "Feed 工具在本 run 不可用（與 11-01 至 11-13 run 相同），候選經公開搜尋標題預篩、逐項開原頁核實。五則上架：研究 2 則（屏幕傘狀回顧經 PubMed 摘要核實，原刊 2026 年 9 月 28 日，因 11 月 5–12 日媒體報道再引起關注；荷爾蒙治療後悔研究經 PubMed 摘要核實，2026 年 11 月 9 日刊出）、培訓 2 則、會議 1 則。荷爾蒙治療研究為敏感題材，摘要以中性數字呈現，限制（單一診所、自述、回覆率）已列明。"
+}
