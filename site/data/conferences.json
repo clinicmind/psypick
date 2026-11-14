@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T01:16:48+00:00",
- "today": "2026-11-13",
+ "generated_at": "2026-11-14T13:32:07+00:00",
+ "today": "2026-11-14",
  "regions": [
   "香港",
   "澳門",
@@ -1442,6 +1442,81 @@
    "verify_notes": "資料只來自第三方會議資訊站「會議通」，沒有查到學會官方頁面，地點、主題、費用皆未知；請以學會官方通知為準。",
    "speakers": [],
    "last_checked": "2026-10-05"
+  },
+  {
+   "slug": "child-mind-shoulders-of-giants-2026",
+   "name_zh": "Child Mind Institute 2026「站在巨人肩膀上」科學研討會：超越一刀切——為每個孩子設計有效的心理健康照護",
+   "name_en": "2026 On the Shoulders of Giants Scientific Symposium: Beyond One-Size-Fits-All - Designing Mental Health Care That Works for Every Child",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "city": "線上",
+   "country": "美國",
+   "region": "北美",
+   "format": "線上",
+   "language": "英語",
+   "organizer": "Child Mind Institute",
+   "fee_text": "免費（須預先登記；設 2.5 CE／CME 學分）",
+   "url": "https://childmind.org/event/2026-on-the-shoulders-of-giants-scientific-symposium/",
+   "register_url": "https://child-mind-institute.ce-go.com/on-the-shoulder-of-giants-2026/registration?embed=1",
+   "venue": "線上（設錄影，登記人士可重溫）",
+   "summary_zh": "Child Mind Institute 年度科學研討會，2026 年 12 月 3 日星期四 17:00–19:30（美國東部時間，約香港時間 12 月 4 日 06:00–08:30），免費線上舉行。今年主題為「超越一刀切」，探討如何為每個孩子設計有效的心理健康照護。Sarah Gund 獎得主 Peter Szatmari 將與 Kathy Georgiades、Stelios Georgiades 主講自閉症與神經發展差異下的個人化照護；其後由 Mark Ghaly 主持圓桌，討論 AI 與數碼工具、服務可及性與公平。設 2.5 CE／CME 學分，活動設錄影。",
+   "themes": [
+    "兒童心理健康照護",
+    "個人化照護",
+    "自閉症與神經發展",
+    "AI 與數碼工具",
+    "服務可及性"
+   ],
+   "interest_zh": "對兒童心理臨床與研究讀者：自閉症權威 Szatmari 獲獎演講，兼論個人化照護與系統改革；免費參加兼取 2.5 學分，設錄影。留意：時間為美國東部時間，香港參加者為 12 月 4 日清晨 06:00。",
+   "domains": [
+    "兒童心理",
+    "臨床心理"
+   ],
+   "verify_needed": false,
+   "verify_notes": "日期、免費、線上、學分與講者名單經官方頁核實（2026-11-14）。",
+   "speakers": [
+    {
+     "name": "Peter Szatmari",
+     "role": "Sarah Gund 2026 得主；自閉症與神經發展研究",
+     "affiliation": "",
+     "session": "From Heterogeneity to Better Care",
+     "bio_zh": "Sarah Gund 兒童心理健康研究及指導獎 2026 年得主，長期研究自閉症與神經發展。",
+     "works": [],
+     "verified": true,
+     "note": "講題與身份取自大會官方頁，2026-11-14 查核。"
+    },
+    {
+     "name": "Kathy Georgiades",
+     "role": "研究員；兒童心理健康流行病學",
+     "affiliation": "",
+     "session": "From Individual Need to Population Impact",
+     "bio_zh": "研究兒童心理健康需要、服務可及性與人口層面影響。",
+     "works": [],
+     "verified": true,
+     "note": "講題取自大會官方頁，2026-11-14 查核。"
+    },
+    {
+     "name": "Stelios Georgiades",
+     "role": "研究員；自閉症與神經發展",
+     "affiliation": "",
+     "session": "Toward More Personalized Care",
+     "bio_zh": "研究神經發展差異下的個人化照護。",
+     "works": [],
+     "verified": true,
+     "note": "講題取自大會官方頁，2026-11-14 查核。"
+    },
+    {
+     "name": "Mark Ghaly",
+     "role": "圓桌主持；前加州衛生及公共服務部部長",
+     "affiliation": "",
+     "session": "Right Care, Right Time, Right Place",
+     "bio_zh": "前加州衛生及公共服務部部長，主持專家圓桌。",
+     "works": [],
+     "verified": true,
+     "note": "身份取自大會官方頁，2026-11-14 查核。"
+    }
+   ],
+   "last_checked": "2026-11-14"
   },
   {
    "slug": "taaanz-group-conference-2026",

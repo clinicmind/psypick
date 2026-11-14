@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T13:30:36+00:00",
+ "generated_at": "2026-11-14T13:32:07+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,151 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "screen-use-child-adolescent-development-mental-health-outcom",
+   "title_zh": "屏幕時間愈多，兒童學業與語言愈弱、情緒行為問題愈多：281 萬名兒童傘狀回顧，效應細小",
+   "title_en": "Screen use child adolescent development mental health outcomes umbrella review",
+   "summary_zh": "JAMA Pediatrics 2026 年 9 月 28 日網上刊出卡爾加里大學主導的定量傘狀回顧，綜合 23 項統合分析，涵蓋 64 個國家 2,817,252 名 18 歲以下兒童。屏幕時間愈多，整體學業成績愈低（r=-0.15）、語言能力愈弱（r=-0.14），內化行為問題（r=0.10；社交媒體使用 r=0.09）與外化行為問題（r=0.11）愈多，情緒問題（r=0.30）與同儕問題（r=0.28）亦較多；但與執行功能、親社會行為、數學、科學及閱讀成績無明顯關聯。作者指出效應細小，大部分原始研究為橫斷面，不能證明因果。研究由 Elizabeth Al-Jbouri、Sheri Madigan 等領導；共同作者 Christakis 為 JAMA Pediatrics 主編，利益衝突已申報。",
+   "summary_en": "JAMA Pediatrics published a quantitative umbrella review online on 28 September 2026, led by the University of Calgary, synthesising 23 meta-analyses covering 2,817,252 children aged 18 or younger across 64 countries. More screen-based media exposure was associated with lower overall academic achievement (r=-0.15) and weaker language skills (r=-0.14), more internalising behaviour problems (r=0.10; social media use r=0.09) and externalising behaviour problems (r=0.11), and more emotional problems (r=0.30) and peer problems (r=0.28); it was not associated with executive functioning, prosociality, or mathematics, science or reading scores. The authors note the effects are small and that most underlying studies are cross-sectional, so causation cannot be established. Led by Elizabeth Al-Jbouri and Sheri Madigan; co-author Christakis is Editor in Chief of JAMA Pediatrics, with conflicts of interest disclosed.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "屏幕時間",
+    "兒童發展",
+    "心理健康",
+    "傘狀回顧",
+    "JAMA Pediatrics"
+   ],
+   "first_seen_at": "2026-11-14T13:32:07+00:00",
+   "evidence_level": 4,
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-09-28T00:00:00+00:00"
+  },
+  {
+   "slug": "satisfaction-regret-harm-hormone-therapy-youth-multidiscipli",
+   "title_zh": "青少年開始荷爾蒙治療後悔嗎？376 人追蹤：96.8% 認為是正確決定，2.7% 後悔",
+   "title_en": "Satisfaction regret harm hormone therapy youth multidisciplinary gender clinic",
+   "summary_zh": "JAMA Pediatrics 2026 年 11 月 9 日網上刊出隊列研究，由德州大學西南醫學中心 Laura Kuper 領導，追蹤一所美國多學科性別診所 376 名曾於青少年時期開始荷爾蒙治療（雌激素或睾酮）的前病人。調查時參加者 14 至 28 歲，平均 20.9 歲，開始治療後平均 4.9 年（1.2 個月至 10.7 年）。以決策後悔量表（0–100 分）量度：整體後悔極低，平均 4.3 分，中位數 0；372 名完成量表者中 360 人（96.8%）認為開始治療是正確決定，10 人（2.7%）表示後悔，7 人（1.9%）認為治療令自己受害。65 人（17.3%）已停用荷爾蒙，其後悔分數較高；非二元性別認同者分數亦較高。後悔與受害均與開始治療年齡或青春期前性別多樣表現無關。",
+   "summary_en": "JAMA Pediatrics published a cohort study online on 9 November 2026, led by Laura Kuper at the University of Texas Southwestern Medical Center, following 376 former patients of a single multidisciplinary gender clinic in the US who began hormone therapy (estrogen or testosterone) as youth. Participants were aged 14 to 28 at survey (mean 20.9 years), a mean of 4.9 years after starting treatment (range 1.2 months to 10.7 years). On the Decision Regret Scale (0-100), overall regret was very low: mean 4.3, median 0; of 372 respondents with scores, 360 (96.8%) endorsed starting treatment as the right decision, 10 (2.7%) reported regret and 7 (1.9%) reported perceived harm. Sixty-five participants (17.3%) were no longer receiving hormones and had higher regret scores, as did those identifying on the nonbinary spectrum. Neither regret nor harm was associated with age at treatment initiation or prepubertal gender diversity.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "性別肯定荷爾蒙治療",
+    "跨性別青少年",
+    "決定後悔",
+    "追蹤研究"
+   ],
+   "first_seen_at": "2026-11-14T13:32:07+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-09T00:00:00+00:00"
+  },
+  {
+   "slug": "world-federation-adhd-webinar-diagnose-adhd-comorbidity-dece",
+   "title_zh": "免費網上培訓：如何診斷有／無共病的 ADHD——實證評估入門（12 月 16 日，Luis Augusto Rohde）",
+   "title_en": "World Federation ADHD webinar diagnose ADHD comorbidity December 2026",
+   "summary_zh": "世界 ADHD 聯合會免費每月網上講座系列，下一場為 2026 年 12 月 16 日 13:00（柏林時間，約香港時間 20:00），由巴西南里奧格蘭德聯邦大學精神病學教授 Luis Augusto Rohde 主講「如何診斷有／無共病的 ADHD？」。內容涵蓋 DSM-5 與 ICD-11 核心症狀評估、評定量表、結構化晤談、共病識別、鑑別診斷與補充評估策略。對象為心理健康專業人員（包括心理學家、精神科醫生）、基層醫療與兒科醫生。費用全免，登記經 Microsoft Forms 連結；過往講座錄影設於網上圖書館。",
+   "summary_en": "The World Federation of ADHD's free monthly live webinar series holds its next session on 16 December 2026 at 1:00 p.m. Berlin time (about 8:00 p.m. Hong Kong time), with Professor Luis Augusto Rohde of the Federal University of Rio Grande do Sul, Brazil, presenting 'How to diagnose ADHD in people without & with comorbidity?'. It covers evidence-based ADHD assessment across the lifespan: core symptoms under DSM-5 and ICD-11, rating scales, structured interviews, identifying co-occurring conditions, differential diagnosis and complementary assessment strategies. It is aimed at mental health professionals (including psychologists and psychiatrists), primary care professionals and paediatricians. Attendance is free; registration is via a Microsoft Forms link; recordings of past webinars are available in the online library.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "ADHD",
+    "診斷評估",
+    "共病",
+    "免費培訓",
+    "網上講座"
+   ],
+   "first_seen_at": "2026-11-14T13:32:07+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-14T13:32:07+00:00",
+   "training": {
+    "provider": "World Federation of ADHD（世界 ADHD 聯合會）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-12-16 13:00（柏林時間，約香港時間 20:00）",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "teenager-who-does-not-want-to-be-here-free-session-clinician",
+   "title_zh": "免費網上培訓：不想來的青少年——拒絕背後的四種保護（12 月 9 日，Anna Cohen／Isabel Fraser）",
+   "title_en": "Teenager who does not want to be here free session clinicians December 2026",
+   "summary_zh": "臨床心理學資源中心（澳洲）免費網上講座，2026 年 12 月 9 日星期三 19:00–19:45（悉尼時間，約香港時間 16:00–16:45），由 Anna Cohen 博士與 Isabel Fraser 主講「不想來的青少年」。45 分鐘講解如何理解被轉介而非自願求助的青少年的拒絕：拒絕背後四種保護作用（自主、身份、安全、歸屬），以及一個貫穿九節的完整個案示範。對象為與青少年工作的心理學家、輔導員、社工、精神健康職業治療師與學校心理學家。費用全免，登記即可獲錄影與講義；不設證書與 CPD 時數。",
+   "summary_en": "The Clinical Psychology Resource Centre (Australia) holds a free live online session on Wednesday 9 December 2026, 7:00-7:45 p.m. Sydney time (about 4:00-4:45 p.m. Hong Kong time), with Dr Anna Cohen and Isabel Fraser presenting 'The Teenager Who Does Not Want To Be Here'. In 45 minutes it explains how to read refusal from young people who were sent rather than referred: four things refusal protects (autonomy, identity, safety, belonging), plus a full worked case across nine sessions. It is aimed at psychologists, counsellors, social workers, mental health occupational therapists and school psychologists working with adolescents. Attendance is free and all registrants receive the recording and slides; no certificate or CPD hours are issued.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "青少年",
+    "抗拒",
+    "治療關係",
+    "免費培訓",
+    "網上講座"
+   ],
+   "first_seen_at": "2026-11-14T13:32:07+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-14T13:32:07+00:00",
+   "training": {
+    "provider": "The Clinical Psychology Resource Centre（臨床心理學資源中心）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "無證書、無 CPD 時數",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-12-09 19:00–19:45（悉尼時間，約香港時間 16:00–16:45）",
+    "format": "線上直播（設錄影）"
+   },
+   "deadline_soon": false
+  },
   {
    "slug": "physical-activity-adolescent-brain-structure-mental-health-a",
    "title_zh": "每日步數愈多，青少年一年後情緒問題愈少：12,000 步組最少，效應未見平台期（5,515 人）",
