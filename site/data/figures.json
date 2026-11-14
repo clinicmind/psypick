@@ -1209,158 +1209,234 @@
  ],
  "updates": [
   {
-   "person": "simon-willison",
-   "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+   "person": "sam-altman",
+   "url": "https://wisevoter.com/world/2026/10/30/sam-altman-sets-20-billion-ai-capacity-target",
    "platform": "web",
-   "page_date": "2026-11-12",
-   "kind": "產品發布",
-   "summary_zh": "Simon Willison 隨 Google 推出 Gemini 4 Hydrogen 發布 llm-gemini 0.37，並以九格圖比較 Gemini 4 三個模型在不同思考強度下的畫質與成本。他指出 Hydrogen 雖名為廉價版，現價只比高階版便宜約四分之一，但將成為 Google 搜尋 AI 功能的免費層模型。",
-   "quote_en": "Hydrogen is the new free tier model, and is the model that will power AI features in Google Search.",
+   "page_date": "2026-10-29",
+   "kind": "其他",
+   "summary_zh": "奧特曼於 10 月 29 日重申目標：五年內把部署 1 吉瓦 AI 算力的成本降至 200 億美元，較現時約 700 億美元估算大幅降低，關鍵在於模型每年 10 倍的效能提升。",
+   "quote_en": "Altman reaffirmed the $20 billion target",
    "topics": [
-    "Gemini 4",
-    "llm-gemini"
+    "AI 基建成本",
+    "算力部署"
    ],
-   "evidence_quote": "Google launched Gemini 4 Hydrogen today",
-   "checked": "2026-11-14"
+   "evidence_quote": "October 29, 2026: Altman reaffirmed",
+   "checked": "2026-10-30",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "第三方報道（Wisevoter），非本人帳號或主辦方原文，出處待核"
   },
   {
-   "person": "demis-hassabis",
-   "url": "https://x.com/demishassabis/status/2120565316619284734",
-   "platform": "x",
-   "page_date": "2026-11-11",
-   "kind": "產品發布",
-   "summary_zh": "Hassabis 宣布推出 DNA 序列模型 AlphaGenome 2，可預測 DNA 變異在不同細胞類型的影響，協助理解複雜疾病，現已開放學術研究經 API 使用。",
-   "quote_en": "Super proud to announce AlphaGenome 2 - our new DNA sequence model! It predicts the impact of DNA variants in different specific cell types - unlocking crucial information for understanding complex diseases. Available for academic research via our API",
-   "topics": [
-    "AlphaGenome 2",
-    "基因組學"
-   ],
-   "evidence_quote": "Super proud to announce AlphaGenome 2",
-   "checked": "2026-11-14"
-  },
-  {
-   "person": "simon-willison",
-   "url": "https://simonwillison.net/2026/Nov/11/llm/",
+   "person": "mira-murati",
+   "url": "https://home.dartmouth.edu/news/2026/10/dartmouth-convenes-landmark-ai-70-conference",
    "platform": "web",
-   "page_date": "2026-11-11",
-   "kind": "產品發布",
-   "summary_zh": "Simon Willison 發布 llm 0.37.2，修復一個安全問題：程式在特定情況下可能把已設定的 OpenAI API 金鑰誤傳給其他供應商。問題由 Daniel de Araujo 回報，涉及兩個觸發情境。",
-   "quote_en": "Daniel reported two ways this could accidentally send your configured OpenAI API key to one of those providers.",
+   "page_date": "2026-10-29",
+   "kind": "訪談",
+   "summary_zh": "Murati 在 Dartmouth「AI at 70：What Must Remain Human?」會議首日作主題對談，主張 AI 工具應以人類繁榮、判斷與意志為中心，讓人掌握自己的未來。",
+   "quote_en": "For me, success is really thinking about the degree to which we succeed in keeping human flourishing, human judgment, and human will at the center",
    "topics": [
-    "llm",
-    "安全修復"
+    "AI 與人類判斷",
+    "主題對談"
    ],
-   "evidence_quote": "Fixes a security issue",
-   "checked": "2026-11-14"
+   "evidence_quote": "keynote conversation with Mira Murati",
+   "checked": "2026-10-30",
+   "tier": "B"
   },
   {
-   "person": "demis-hassabis",
-   "url": "https://x.com/demishassabis/status/2120210297948696997",
-   "platform": "x",
-   "page_date": "2026-11-10",
-   "kind": "產品發布",
-   "summary_zh": "Hassabis 在 X 宣布 Gemini 4 Carbon 於 11 月 10 日全面推出。他以 Carbon 把自己在 1990 年代編寫的遊戲 Theme Park 原版二進制檔逆向工程，加入 DeepMind 主題新設施後一次過移植到網頁上，展示模型能力。",
-   "quote_en": "Our latest frontier model Gemini 4 Carbon is rolling out today! Amazing progress from Gemini 3 → Gemini 4 in less than a year… Carbon reverse engineers my original Theme Park binaries, adds a new DeepMind themed ride, and ports it to the web in one shot - kind of mindblowing to see!",
-   "topics": [
-    "Gemini 4 Carbon",
-    "DeepMind"
-   ],
-   "evidence_quote": "kind of mindblowing to see!",
-   "checked": "2026-11-14"
-  },
-  {
-   "person": "elon-musk",
-   "url": "https://x.com/elonmusk/status/2120088070443655190",
-   "platform": "x",
-   "page_date": "2026-11-10",
-   "kind": "產品發布",
-   "summary_zh": "Musk 在 X 表示 Grok 4.8 已完成預訓練，強化學習與推理技術棧已由 JAX/SGLang 全面改寫為 C/C++，模型現正進行強化學習，評估分數開始上升，本週內會向 Grok Bot 用戶小範圍推出。他稱 4.8 將與 4.7 截然不同。",
-   "quote_en": "Training (aka pre-training) is done. Lot of cleanup was needed on the SFT data to get that mostly right. Now, 4.8 is in RL and the evals are starting to climb. We will do a soft rollout to Bot users later this week and see how it goes.",
-   "topics": [
-    "Grok 4.8",
-    "xAI"
-   ],
-   "evidence_quote": "Training (aka pre-training) is done.",
-   "checked": "2026-11-14"
-  },
-  {
-   "person": "simon-willison",
-   "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+   "person": "yann-lecun",
+   "url": "https://home.dartmouth.edu/news/2026/10/dartmouth-convenes-landmark-ai-70-conference",
    "platform": "web",
-   "page_date": "2026-11-10",
+   "page_date": "2026-10-29",
+   "kind": "演講",
+   "summary_zh": "LeCun 在同一會議獲頒 AI at 70 Award，並在主題演講中表示現時距離人類水平 AI 仍很遠，下一波革命將是能理解物理世界的世界模型。",
+   "quote_en": "Despite what you might hear from some of the more optimistic CEOs of Silicon Valley, we're not anywhere close to human-level AI.",
+   "topics": [
+    "世界模型",
+    "人類水平 AI"
+   ],
+   "evidence_quote": "honored with the AI at 70 Award",
+   "checked": "2026-10-30",
+   "tier": "B"
+  },
+  {
+   "person": "jensen-huang",
+   "url": "https://cryptobriefing.com/jensen-huang-us-not-top-3-manufacturing/",
+   "platform": "web",
+   "page_date": "2026-10-29",
+   "kind": "演講",
+   "summary_zh": "黃仁勳在柏林 GTC 表示美國在製造業與先進技術上已不在全球前三，前三為德國、日本與中國，歸因於過去 50 年製造業外移。",
+   "quote_en": "For the last 50 years…the United States has largely exported its heavy manufacturing…to China.",
+   "topics": [
+    "製造業",
+    "供應鏈"
+   ],
+   "evidence_quote": "America doesn't make the podium",
+   "checked": "2026-10-30",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "第三方報道（Crypto Briefing），非本人帳號或主辦方原文，演講出處待核"
+  },
+  {
+   "person": "dwarkesh-patel",
+   "url": "https://www.dwarkesh.com/p/lessons-in-power",
+   "platform": "web",
+   "page_date": "2026-10-29",
    "kind": "文章",
-   "summary_zh": "Simon Willison 評測 Meta 新推出的輕量推理模型 Muse Ember，比較它與 GPT-6 Luna 及 Claude Haiku 5.5 的定價與性價比。他指出三者在 Artificial Analysis 成本效益圖上，Ember 處於效率前沿，同等成本下智能表現更高。",
-   "quote_en": "For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million output.",
+   "summary_zh": "Dwarkesh 整理 Robert Caro 傳記中 Moses 與 LBJ 累積及運用權力的教訓，為即將播出的 Caro 專訪做鋪墊。",
+   "quote_en": "I finally got to sit down with him",
    "topics": [
-    "Muse Ember",
-    "模型評測"
+    "權力",
+    "傳記"
    ],
-   "evidence_quote": "our smallest and most efficient model",
-   "checked": "2026-11-14"
+   "evidence_quote": "I finally got to sit down with him",
+   "checked": "2026-10-30",
+   "tier": "A"
   },
   {
-   "person": "simon-willison",
-   "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+   "person": "becky-kennedy",
+   "url": "https://podcasts.apple.com/in/podcast/dr-becky-doesnt-always-follow-her-own-scripts-and/id1449924733?i=1000798684807",
    "platform": "web",
-   "page_date": "2026-11-09",
-   "kind": "產品發布",
-   "summary_zh": "Willison 為 llm-anthropic 推出 0.31 版，加入 Anthropic 新發布的 Fable 5.2 及 Mythos 5.2。他以五檔推理強度測試生成單車鵜鶘圖，最高強度耗用 12.8 萬 token 後未能出圖；新模型定價較上一代便宜兩成。",
-   "quote_en": "Fable 5.2 is currently ranked first on Artificial Analysis.",
+   "page_date": "2026-10-29",
+   "kind": "訪談",
+   "summary_zh": "Becky 談過度為孩子掃除困難反而令孩子脆弱，區分安慰與代為解困，指出忍受困難感受才是孩子建立自信與自我信任之途。",
+   "quote_en": "learning to tolerate hard feelings is how kids build confidence and self-trust",
    "topics": [
-    "Claude Fable 5.2",
-    "llm-anthropic",
-    "LLM 工具"
+    "抗逆力",
+    "教養"
    ],
-   "evidence_quote": "run prompts through Fable 5.2 like this",
-   "checked": "2026-11-14"
+   "evidence_quote": "Letting Kids Struggle Builds Resilience",
+   "checked": "2026-10-30",
+   "tier": "B"
   },
   {
-   "person": "simon-willison",
-   "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+   "person": "satya-nadella",
+   "url": "https://cryptobriefing.com/ai-agents-open-40-percent-github-pull-requests/",
    "platform": "web",
-   "page_date": "2026-11-09",
+   "page_date": "2026-10-28",
+   "kind": "演講",
+   "summary_zh": "Nadella 在 GitHub Universe 引用 Octoverse 2026 數據，稱 9 月 GitHub 上逾四成 pull request 由 AI 智能體開啟，單月達 1.1 億宗，並公布 Copilot Fusion 等更新。",
+   "quote_en": "",
+   "topics": [
+    "AI 智能體",
+    "GitHub"
+   ],
+   "evidence_quote": "AI agents opened more than 40%",
+   "checked": "2026-10-30",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "第三方報道（Crypto Briefing），頁面未標示發布日，演講出處待核"
+  },
+  {
+   "person": "nathan-lambert",
+   "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+   "platform": "web",
+   "page_date": "2026-10-28",
    "kind": "文章",
-   "summary_zh": "Willison 用 Claude Code 寫了一個 Beep Locator 系統，以多部裝置的咪高峰三角定位屋內神秘嗶嗶聲，準確至約 40 厘米，最後發現是一部舊一氧化碳探測器。他形容這是為 Claude Code 加上「耳朵」的實驗。",
-   "quote_en": "The system worked as intended. It gave me the position of the beep to within about 40cm",
+   "summary_zh": "Lambert 評論 Artificial Analysis Intelligence Index v5，指出把模型能力壓縮成單一分數必然有取捨，基準制定者實際上左右著萬億美元市場的贏家與輸家。",
+   "quote_en": "No number is perfect",
    "topics": [
-    "Claude Code",
-    "Beep Locator",
-    "AI 代理"
+    "AI 基準",
+    "模型評估"
    ],
-   "evidence_quote": "the source of a mysterious beep",
-   "checked": "2026-11-14"
+   "evidence_quote": "No number is perfect",
+   "checked": "2026-10-30",
+   "tier": "A"
   },
   {
-   "person": "elon-musk",
-   "url": "https://x.com/elonmusk/status/2119617455102333206",
-   "platform": "x",
-   "page_date": "2026-11-09",
-   "kind": "貼文",
-   "summary_zh": "Musk 表示已與 Grok Bot 工程團隊開會檢討，修正會連夜實施，用戶翌日應會感到明顯改善。他邀請用戶如問題持續可回覆反映，但未列出具體修正內容或數據。",
-   "quote_en": "Fixes are being implemented overnight and you should notice a dramatic improvement by tomorrow",
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+   "platform": "web",
+   "page_date": "2026-10-28",
+   "kind": "文章",
+   "summary_zh": "Willison 認為 2026 年 10 月是 vibe coding 電腦遊戲的轉折點，Claude Opus 5.5 已能做出真正好玩的遊戲，並以自己做的四款遊戲為例。",
+   "quote_en": "Make it a LOT more fun",
    "topics": [
-    "Grok Bot",
-    "xAI",
-    "token efficiency"
+    "vibe coding",
+    "遊戲開發"
    ],
-   "evidence_quote": "Fixes are being implemented overnight",
-   "checked": "2026-11-14"
+   "evidence_quote": "Make it a LOT more fun",
+   "checked": "2026-10-30",
+   "tier": "A"
   },
   {
-   "person": "elon-musk",
-   "url": "https://x.com/elonmusk/status/2119691615774146614",
-   "platform": "x",
-   "page_date": "2026-11-09",
-   "kind": "貼文",
-   "summary_zh": "Musk 表示 Cybertruck 訂單遠超產能，生產線約 8 個月後停產，屆時將轉做 Cybercab，不少訂金須退回。他強調停產並非因為 Cybertruck 虧損，而是 Cybercab 的增量價值更高。",
-   "quote_en": "The Cybertruck order rate far exceeds our production rate.",
+   "person": "janina-fisher",
+   "url": "https://podcast.app/in-conversation-with-janina-fisher-wisdom-between-colleagues-insights-for-us-all-p7073418",
+   "platform": "web",
+   "page_date": "2026-10-28",
+   "kind": "訪談",
+   "summary_zh": "Fisher 與 Francesca Marguerite Maximé 對談創傷如何形塑關係，指出舊有生存模式會在親密衝突中重現，覺察與身體調節是改變的起點。",
+   "quote_en": "Awareness must come before change",
    "topics": [
-    "Cybertruck",
-    "Cybercab",
-    "Tesla"
+    "創傷",
+    "親密關係"
    ],
-   "evidence_quote": "far exceeds our production rate",
-   "checked": "2026-11-14"
+   "evidence_quote": "Awareness must come before change",
+   "checked": "2026-10-30",
+   "tier": "B"
+  },
+  {
+   "person": "janina-fisher",
+   "url": "https://spiritualgrowthevents.com/events/somatic-approach-to-grief-work-janina-fisher/",
+   "platform": "web",
+   "page_date": "2026-10-27",
+   "kind": "演講",
+   "summary_zh": "Fisher 主講免費線上講座，談哀傷的身體訊號，教治療師以溫和的身體取向陪伴凍結或難以承受的哀傷，不催促個案走向結束。",
+   "quote_en": "heaviness, collapse, numbness, tightness",
+   "topics": [
+    "哀傷",
+    "身體取向治療"
+   ],
+   "evidence_quote": "heaviness, collapse, numbness, tightness",
+   "checked": "2026-10-30",
+   "tier": "B"
+  },
+  {
+   "person": "daniel-siegel",
+   "url": "https://www.trybooking.com/au/event/1599798",
+   "platform": "web",
+   "page_date": "2026-10-27",
+   "kind": "演講",
+   "summary_zh": "Siegel 主講《全腦教養 2.0》系列第二場，介紹大腦發展、整合與調節的最新研究，以及可即時應用的親子與臨床策略。",
+   "quote_en": "Connect and Redirect",
+   "topics": [
+    "全腦教養",
+    "情緒調節"
+   ],
+   "evidence_quote": "Live at 10:00am AEST, 27 October 2026",
+   "checked": "2026-10-30",
+   "tier": "B"
+  },
+  {
+   "person": "lisa-damour",
+   "url": "https://drlisadamour.com/",
+   "platform": "web",
+   "page_date": "2026-10-27",
+   "kind": "訪談",
+   "summary_zh": "Damour 的 Ask Lisa Podcast 新一集邀請 Angela Duckworth，談父母今日的選擇如何形塑孩子的未來。",
+   "quote_en": "",
+   "topics": [
+    "教養",
+    "青少年"
+   ],
+   "evidence_quote": "Ask Lisa Podcast – Episode 295",
+   "checked": "2026-10-30",
+   "tier": "A"
+  },
+  {
+   "person": "becky-kennedy",
+   "url": "https://podscripts.co/podcasts/good-inside-with-dr-becky/?page=1",
+   "platform": "web",
+   "page_date": "2026-10-27",
+   "kind": "訪談",
+   "summary_zh": "Becky 與 Chelsea Handler 對談，探討父母以外的成年人能為孩子看見什麼，以及父母自身的議題如何影響教養。",
+   "quote_en": "",
+   "topics": [
+    "教養",
+    "親子關係"
+   ],
+   "evidence_quote": "Your Kid Needs Someone Who Isn't You",
+   "checked": "2026-10-30",
+   "tier": "B"
   },
   {
    "person": "simon-willison",
@@ -1520,7 +1596,1346 @@
    ],
    "evidence_quote": "confirmed the planned name change Sunday",
    "checked": "2026-10-08"
+  },
+  {
+   "person": "sam-altman",
+   "url": "https://www.martechai.com/ai-news/openai-expands-uae-presence-with-four-deals-as-sam-altman-visits-abu-dhabi-3708.html",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "演講",
+   "summary_zh": "Altman 11 月 2 日在阿布扎比 ADIPEC 能源會議演講，並見證 OpenAI 與當地機構簽署四項協議，涵蓋能源、投資分析與機器可讀政府計劃。ADNOC 將成為首家部署 OpenAI 前沿技術的能源企業。",
+   "quote_en": "AI is going to transform the economics of the energy world.",
+   "topics": [
+    "OpenAI",
+    "阿布扎比",
+    "能源"
+   ],
+   "evidence_quote": "the first company in the energy sector",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://startupfortune.com/elon-musk-admits-grok-bot-costs-too-much-to-run-as-users-hit-weekly-caps/",
+   "platform": "web",
+   "page_date": "2026-11-01",
+   "kind": "貼文",
+   "summary_zh": "Musk 在 X 回覆用戶時承認，Grok Bot 的服務成本相對收入已高到難以持續。背景是付費用戶當週用量提早耗盡，但他未公布具體數字、新的上限或修正時間表。",
+   "quote_en": "The cost of serving Grok Bot was unsustainably high relative to revenue.",
+   "topics": [
+    "Grok",
+    "成本",
+    "X"
+   ],
+   "evidence_quote": "unsustainably high relative to revenue",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "mustafa-suleyman",
+   "url": "https://dataconomy.com/2026/11/02/microsoft-ai-ceo-says-building-conscious-ai-would-be/",
+   "platform": "web",
+   "page_date": "2026-11-01",
+   "kind": "貼文",
+   "summary_zh": "Suleyman 在 X 長文表明，現時 AI 系統沒有意識、主觀經驗，也不會受苦。假如訓練中出現意識跡象，他主張全面暫停開發，直至能把相關特性設計掉，並須即時向公眾披露證據。",
+   "quote_en": "If it is possible, based on everything I know, developing conscious AIs would be reckless, and we should not build them.",
+   "topics": [
+    "AI 意識",
+    "安全",
+    "Microsoft"
+   ],
+   "evidence_quote": "we should not build them",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "jensen-huang",
+   "url": "https://www.digitimes.com/news/a20261102PR200/sweden-government-ceo.html?chid=9",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "演講",
+   "summary_zh": "Huang 在斯德哥爾摩與 Wallenberg、Sferical AI 及 Spotify 創辦人同台，討論新啟用的共享超級電腦 Sferical One。他表示，如此強大的工具會推高企業與社會的抱負。",
+   "quote_en": "Because you now have an instrument that's so incredible, your ambition goes up.",
+   "topics": [
+    "超級電腦",
+    "瑞典",
+    "NVIDIA"
+   ],
+   "evidence_quote": "your ambition goes up",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "andrej-karpathy",
+   "url": "https://karpathy.bearblog.dev/hacker-tube/",
+   "platform": "web",
+   "page_date": "2026-10-31",
+   "kind": "產品發布",
+   "summary_zh": "Karpathy 因不滿 YouTube 推薦，叫 Claude Opus 5.5 用 Hacker News 留言推薦的影片建了一個 YouTube 替代站 HackerTube。他表示整個建造約 2 小時，自己只動手做了 API 金鑰、開 VPS 和買域名三件事。",
+   "quote_en": "Let's write our own YouTube clone based on whatever videos have been recommended on Hacker News.",
+   "topics": [
+    "HackerTube",
+    "AI 寫程式",
+    "YouTube"
+   ],
+   "evidence_quote": "This takes ~2 hours now.",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/2/llm/",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "產品發布",
+   "summary_zh": "Willison 發布個人 LLM 命令列工具與 Python 套件 llm 0.37 版，累積約兩個月的功能與修正。預設模型改為 gpt-6-luna，價格約為舊預設的一半，並新增 OpenAI 相容端點設定指令。",
+   "quote_en": "I added gpt-6.1-sol and gpt-6.1-terra, plus a new llm openai endpoint add command.",
+   "topics": [
+    "llm 工具",
+    "開源",
+    "模型"
+   ],
+   "evidence_quote": "half the price of the previous default",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "文章",
+   "summary_zh": "Willison 用美國人口普查局最新調查數據重繪企業 AI 採用率圖表，發現問卷措辭已由「AI」改為「Super Intelligence（SI）」。他提醒新舊問卷措辭不同，數字不能直接比較，且新措辭的調查結果尚未公布。",
+   "quote_en": "I decided to try running those numbers again to see what had changed over the past year.",
+   "topics": [
+    "人口普查局",
+    "Super Intelligence",
+    "AI 採用率"
+   ],
+   "evidence_quote": "the Bureau has fallen foul",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "dylan-patel",
+   "url": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "產品發布",
+   "summary_zh": "SemiAnalysis 發布 GDPx 基準，橫跨 11 個高價值專業領域、206 項代理式任務，最佳模型 Claude Opus 5.5 也只有 12.0%。金融與法律任務在嚴格評分下幾乎全軍覆沒，作者定位 GDPx 為 OpenAI GDPval 的後繼者。",
+   "quote_en": "GDPx is a true frontier-level benchmark: even the best model scores just 12%.",
+   "topics": [
+    "GDPx",
+    "基準",
+    "AI 代理"
+   ],
+   "evidence_quote": "even the best model scores just 12%",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "andrew-huberman",
+   "url": "https://www.hubermanlab.com/episode/access-the-sublime-and-live-your-best-life-robert-greene",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "訪談",
+   "summary_zh": "Huberman 本集邀請 Robert Greene 談「崇高」體驗。內容涵蓋在關係、工作、觀察與表達中接觸崇高，以及如何讓生活被更充分地體驗。",
+   "quote_en": "Robert Greene explains the sublime and how to access it in relationships, work, observation and expression.",
+   "topics": [
+    "崇高",
+    "Robert Greene",
+    "Podcast"
+   ],
+   "evidence_quote": "Robert Greene explains the sublime",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "laurie-santos",
+   "url": "https://podcasts.apple.com/us/podcast/the-happiness-lab-with-dr-laurie-santos/id1474245040?at=1000l36zH&ct=pushkin_podcasts&itsct=pushkin_podcasts&itscg=30200S&ls=1",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "訪談",
+   "summary_zh": "Santos 在 SXSW EDU 現場對談錄音於 11 月 2 日上架，與 Common Sense Media 的 Bruce Reed 討論社交媒體與 AI 如何影響青少年的快樂與福祉，以及家長、教育者與政策制定者可以如何協助孩子在 AI 時代健康成長。",
+   "quote_en": "In this live conversation from SXSW EDU, Dr. Laurie is joined by Bruce Reed to explore how social media and AI are shaping young people's happiness and wellbeing.",
+   "topics": [
+    "青少年",
+    "AI",
+    "幸福感"
+   ],
+   "evidence_quote": "Can We Protect Kids This Time?",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "adam-grant",
+   "url": "https://podcasts.apple.com/us/podcast/adam-grant-on-how-to-vibe-with-just-about-anyone/id1561860622?i=1000799515500",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "Grant 在《A Slight Change of Plans》受訪，談人與人之間為何合拍或不合拍。內容指出良好的連結可以培養，並談到如何在關係中建立與維持這種連結，呼應其新書《Vibe》的主題。",
+   "quote_en": "In this episode, psychologist and author Adam Grant talks with Maya about what makes us click with some people and not others.",
+   "topics": [
+    "人際連結",
+    "Vibe",
+    "Podcast"
+   ],
+   "evidence_quote": "what makes us click with some people",
+   "checked": "2026-11-03"
+  },
+  {
+   "person": "mira-murati",
+   "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+   "platform": "web",
+   "page_date": "2026-11-05",
+   "kind": "產品發布",
+   "summary_zh": "Thinking Machines Lab 發布第二代模型 Inkling 2 Small，總參數 594B、每 token 激活 17B 的混合專家模型，支援圖像輸入與可變推理力度。初期經 Tinker 提供，下週完成外部安全測試後以 Apache 2.0 授權開放權重。",
+   "quote_en": "Today we are introducing our second model generation with Inkling 2 Small. It is a Mixture-of-Experts model with 594B total parameters, 17B active.",
+   "topics": [
+    "Inkling 2 Small",
+    "混合專家模型",
+    "開源權重"
+   ],
+   "evidence_quote": "Introducing Inkling 2 Small",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "demis-hassabis",
+   "url": "https://mastersofscale.com/video/google-deepminds-demis-hassabis-how-ai-could-become-dangerous-with-reid-hoffman-summit-26/",
+   "platform": "web",
+   "page_date": "2026-11-05",
+   "kind": "訪談",
+   "summary_zh": "Hassabis 在 Masters of Scale Summit '26 與 Reid Hoffman 對談，指出世界尚未為下一波 AI 做好準備，並談及如何有效治理前沿 AI。對談於 10 月在三藩市現場錄製，11 月 5 日上線。",
+   "quote_en": "Google DeepMind co-founder and chair Demis Hassabis says the world is not ready yet for what's next in AI.",
+   "topics": [
+    "AI 治理",
+    "前沿 AI 風險"
+   ],
+   "evidence_quote": "How AI could become dangerous",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "aravind-srinivas",
+   "url": "https://runtimewire.com/article/perplexity-teammates-computer-agents-ongoing-work",
+   "platform": "web",
+   "page_date": "2026-11-05",
+   "kind": "產品發布",
+   "summary_zh": "Perplexity 在 Computer 內推出 Teammates——可長期承擔持續工作的具名智能體，能主動運用任務、技能、記憶與工具。現已向 Max 訂戶開放網頁版。",
+   "quote_en": "Teammates work for you. They take on jobs, and work proactively using your Computer tasks, skills, memory, and tools.",
+   "topics": [
+    "Perplexity Teammates",
+    "持續智能體"
+   ],
+   "evidence_quote": "Teammates work for you.",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "alexandr-wang",
+   "url": "https://x.com/alexandr_wang/status/2118411432161403375",
+   "platform": "x",
+   "page_date": "2026-11-05",
+   "kind": "貼文",
+   "summary_zh": "Wang 在 X 宣布，Meta 個人 AI 助手 Muse 的語音與視像通話功能現已向全美用戶開放，用戶可致電或視像對話 Muse 尋求建議。",
+   "quote_en": "muse voice is out for everyone in the US! you can now phone call and video chat with your muse whenever you need.",
+   "topics": [
+    "Meta Muse",
+    "語音視像"
+   ],
+   "evidence_quote": "muse voice is out for everyone",
+   "checked": "2026-11-06",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "jensen-huang",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/03/nvidia-is-happy-to-take-your-money-whether-youre-using-open-or-closed-models-says-jensen-huang/5307368",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "黃仁勳 11 月 3 日在三藩市 Fireworks Forge 活動上與 Fireworks.ai 行政總裁對談。他表示封閉前沿模型有其位置，但世界大部分價值來自針對特定領域知識訓練的專業智能；他又預測，明年業界談論的大突破將是硬件在環（hardware in the loop）的機械人系統。",
+   "quote_en": "The opportunity for artificial superintelligence is already here. By taking an open frontier model, adapting it, and providing it with your domain knowledge, your access to your specialized tools, and the proper evaluation, you should be able to create essentially a superintelligence.",
+   "topics": [
+    "開放模型",
+    "專業智能",
+    "超級智能"
+   ],
+   "evidence_quote": "We love closed models",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "satya-nadella",
+   "url": "https://www.datacenterdynamics.com/en/news/microsoft-has-ai-gpus-sitting-in-inventory-because-it-lacks-the-power-necessary-to-install-them/",
+   "platform": "web",
+   "page_date": "2026-11-04",
+   "kind": "訪談",
+   "summary_zh": "納德拉在 Bg2 Pod 訪問中與 Altman 一同受訪時表示，AI 行業目前最大的問題不是算力過剩，而是缺乏電力支援數據中心部署。微軟有 AI GPU 因無足夠電力安裝而閒置在庫存中。",
+   "quote_en": "The biggest issue we are now having is not a compute glut, but it's power – it's sort of the ability to get the builds done fast enough close to power",
+   "topics": [
+    "數據中心電力",
+    "AI 算力"
+   ],
+   "evidence_quote": "it's not a compute glut, but it's power",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "mustafa-suleyman",
+   "url": "https://x.com/mustafasuleyman/status/2118381163136123019",
+   "platform": "x",
+   "page_date": "2026-11-05",
+   "kind": "貼文",
+   "summary_zh": "蘇萊曼在 X 發文，對特拉華州擬允許 AI 智能體經營企業的提案表示深切關注，呼籲各方非常謹慎。提案指特拉華 AI 公司將成為獨立法律實體，日常事務由 AI 智能體而非人類管理。",
+   "quote_en": "Deeply concerning to me... Delaware proposal to let agents run businesees... we should be very cautious here",
+   "topics": [
+    "AI 智能體",
+    "企業治理",
+    "特拉華州"
+   ],
+   "evidence_quote": "Deeply concerning to me...",
+   "checked": "2026-11-06",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "clement-delangue",
+   "url": "https://technologistmag.com/hugging-faces-ceo-says-his-pdoom-is-close-to-zero/",
+   "platform": "web",
+   "page_date": "2026-11-04",
+   "kind": "演講",
+   "summary_zh": "德朗格在邁阿密 WIRED World Fair 上表示，他評估 AI 導致災難的機率接近零。他認為真正的風險並非來自開放生態，而是少數大公司閉門開發前沿模型；開放模型反而是緩解風險的力量。",
+   "quote_en": "Most of the risk is actually created by a couple of players building behind closed doors. Most of the mitigation of this risk will be the full ecosystem, meaning everyone being able to build in the open.",
+   "topics": [
+    "P(doom)",
+    "開放模型",
+    "AI 安全"
+   ],
+   "evidence_quote": "Most of the risk is actually created",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "geoffrey-hinton",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "辛頓在《衛報》訪問中表示，人類可能本來不發展 AI 會更好，並預測今年底或明年會出現一次「車諾比」級別的 AI 事件，例如針對電力或金融系統的攻擊。他呼籲設立類似美國 FDA 的獨立監管機構，在模型發布前檢查其利大於弊。",
+   "quote_en": "Either later this year or next year we'll see Chornobyl, and that may be enough to make people really pay attention.",
+   "topics": [
+    "AI 風險",
+    "AI 監管"
+   ],
+   "evidence_quote": "My gut is that we're still in control",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "fei-fei-li",
+   "url": "https://x.com/drfeifei/status/2118438515474374904",
+   "platform": "x",
+   "page_date": "2026-11-05",
+   "kind": "產品發布",
+   "summary_zh": "李飛飛在 X 轉發 World Labs 公告，宣傳 Frameboy 發布。Frameboy 是 Atlas 世界模型的即時體驗 demo，以高度優化的 Atlas 版本在雲端 GPU 運行，最高每秒 15 幀將畫面串流至瀏覽器，讓用戶即時操控鏡頭探索生成的世界。",
+   "quote_en": "Real time Atlas! Try it now!",
+   "topics": [
+    "Frameboy",
+    "Atlas 世界模型"
+   ],
+   "evidence_quote": "Real time Atlas! Try it now!",
+   "checked": "2026-11-06",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "yann-lecun",
+   "url": "https://www.guestvine.fm/p/yann-lecun",
+   "platform": "web",
+   "page_date": "2026-11-04",
+   "kind": "訪談",
+   "summary_zh": "勒昆在 Marginalia 播客與 Randall Balestriero 一同講解柏拉圖表徵假說與 JEPA，內容圍繞二人 10 月 29 日發表的論文。該論文提出 JEPA 在良好視角下訓練可收斂至同一表徵。",
+   "quote_en": "",
+   "topics": [
+    "JEPA",
+    "柏拉圖表徵假說"
+   ],
+   "evidence_quote": "The Platonic Representation Hypothesis",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "集數標題與日期僅據 GuestVine 追蹤頁核實，未打開 Marginalia 原始音頻頁"
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "文章",
+   "summary_zh": "Willison 親自複現《Sparks of Weight-Space Programming》實驗，讓在筆電上跑的 Qwen 3.8 27B 只看模型權重數字就猜出遊戲。Pac-Man 猜中，Pong、Breakout 亦猜中，Freeway 失敗。他提醒不應就此斷言原始碼時代已經結束。",
+   "quote_en": "Game: A simplified Pac-Man-style gridworld: an agent moves through a fixed 8x8 maze with central and corner wall blocks, moving objects/ghosts, and reward targets/pellets.",
+   "topics": [
+    "權重空間編程",
+    "本地模型"
+   ],
+   "evidence_quote": "Qwen 3.8 27B on my laptop",
+   "checked": "2026-11-06",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+   "platform": "web",
+   "page_date": "2026-11-04",
+   "kind": "產品發布",
+   "summary_zh": "Datasette Apps 0.3a0 加入在 Datasette 內託管及編輯自訂 HTML 應用，並強化與 Datasette Agent 的整合，可在對話中以 # 標記應用。",
+   "quote_en": "Apps can now be tagged in Datasette Agent chat messages by typing #, which autocompletes from the apps the user has permission to view.",
+   "topics": [
+    "Datasette",
+    "AI 代理"
+   ],
+   "evidence_quote": "Release: datasette-apps 0.3a0",
+   "checked": "2026-11-06",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "nathan-lambert",
+   "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+   "platform": "web",
+   "page_date": "2026-11-04",
+   "kind": "文章",
+   "summary_zh": "Lambert 發表首份開放模型經濟研究筆記，估算開放模型推理市場規模。以 Baseten、Fireworks、Together AI 等推理平台的公開數據為指標，指出 Fireworks 單一客製模型推理業務每日已超過 40T tokens。",
+   "quote_en": "For example, Fireworks announced at their first company conference this week that they're serving more than 40T tokens per day to customers' customized models.",
+   "topics": [
+    "開放模型",
+    "推理市場"
+   ],
+   "evidence_quote": "How big is the open model economy today?",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "dwarkesh-patel",
+   "url": "https://www.dwarkesh.com/p/clocktower",
+   "platform": "web",
+   "page_date": "2026-11-05",
+   "kind": "文章",
+   "summary_zh": "Dwarkesh 用約 2 萬美元 API 額度，讓不同模型互玩 386 場社交欺騙遊戲《Blood on the Clocktower》，建立新基準。結果 GPT-6 Astra 領先 Claude Opus 4.6 約 430 Elo 分，約等於 92% 勝率；他同時開放程式碼與對戰網站。",
+   "quote_en": "That means that Astra wins about 92% of the games it plays against Opus 4.6.",
+   "topics": [
+    "基準測試",
+    "多智能體",
+    "欺騙推理"
+   ],
+   "evidence_quote": "AIs have to lie to win",
+   "checked": "2026-11-06",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "bessel-van-der-kolk",
+   "url": "https://www.psychiatrictimes.com/view/brain-trust-bessel-van-der-kolk-md-on-complex-ptsd-attachment-and-the-limits-of-pharmacotherapy",
+   "platform": "web",
+   "page_date": "2026-11-04",
+   "kind": "訪談",
+   "summary_zh": "van der Kolk 在 Psychiatric Times 的 Brain Trust 訪談中指出，藥物單獨治療複雜性創傷效果有限。他談到依附創傷、EMDR、身體取向療法，以及迷幻藥輔助治療的新角色。",
+   "quote_en": "Trauma changes your brain and changes your perspectives on whatever is going on with you right now",
+   "topics": [
+    "複雜性創傷",
+    "藥物治療限度",
+    "迷幻藥輔助治療"
+   ],
+   "evidence_quote": "Trauma changes your brain",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "janina-fisher",
+   "url": "https://creators.spotify.com/pod/profile/janina-fisher-phd",
+   "platform": "web",
+   "page_date": "2026-11-04",
+   "kind": "訪談",
+   "summary_zh": "Fisher 在本人 Podcast 新一集與關係治療師 Terry Real 對談，探討童年求生策略如何在成年親密關係中變成衝突循環。兩人談到關係正念，以及同理與問責並重的重要性。",
+   "quote_en": "What if the very strategies that helped you survive childhood are the same ones sabotaging your relationships today?",
+   "topics": [
+    "童年求生策略",
+    "伴侶關係",
+    "關係正念"
+   ],
+   "evidence_quote": "In Conversation with Janina Fisher",
+   "checked": "2026-11-06",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "peter-levine",
+   "url": "https://theembodylab.com/products/healing-trauma-through-the-body",
+   "platform": "web",
+   "page_date": "2026-11-06",
+   "kind": "演講",
+   "summary_zh": "Levine 主講的四節線上工作坊今日（11 月 6 日）開課，首節主題為哀傷的身體取向處理。其後三節為依附創傷（11 月 12 日）、創傷與靈性（11 月 20 日）、複雜性創傷（12 月 4 日），每節包括現場一對一示範。收費 167 美元，附 6 CE 學分。",
+   "quote_en": "Learn directly from Peter Levine, the developer of Somatic Experiencing®, across four sessions exploring grief, attachment trauma, spiritual disconnection, and complex trauma.",
+   "topics": [
+    "身體經驗取向",
+    "哀傷",
+    "複雜性創傷"
+   ],
+   "evidence_quote": "Nov 6, 12, 20 & Dec 4 · Live online",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "活動頁無發布日期，page_date 取首場日期 2026-11-06；工作坊是否今日才公布未能核實"
+  },
+  {
+   "person": "lisa-damour",
+   "url": "https://podcasts.apple.com/us/podcast/296-avoidance-feeds-anxiety-when-to-make-teens-do-hard/id1525689066?i=1000799567500",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "Damour 與焦慮症專家 Meredith Elkins 討論青少年逃避上學的問題。逃避會令焦慮惡化，家長可從困擾程度、持續時間及影響程度三方面，分辨正常的困難時期與需要介入的臨床焦慮。",
+   "quote_en": "look at distress, duration, and how much it's getting in the way",
+   "topics": [
+    "青少年焦慮",
+    "逃避行為"
+   ],
+   "evidence_quote": "296: Avoidance Feeds Anxiety",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "becky-kennedy",
+   "url": "https://podcastrex.com/shows/good-inside-with-dr-becky/youre-too-sensitive-isnt-helpful-heres-what-is-with-dr-sasha-hamdani",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "Becky 訪問精神科醫生 Sasha Hamdani，談拒絕敏感性焦慮（RSD）。敏感是神經生物學特質，不是缺點。家長可把敏感重新理解為「超級感應器」，先安撫情緒再解決問題。",
+   "quote_en": "even as I struggle on the outside, I remain good inside.",
+   "topics": [
+    "拒絕敏感性焦慮",
+    "高度敏感孩子"
+   ],
+   "evidence_quote": "You're Too Sensitive",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "becky-kennedy",
+   "url": "https://podcasts.apple.com/us/podcast/parenting-mistakes-we-can-still-fix-with-dr-becky-kennedy/id1378725018?i=1000799569063",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "Becky 以嘉賓身份在 Laugh Lines 節目談家長仍可修正的教養錯誤，強調連結比事事做對更重要。內容亦談及 ADHD 孩子與高度敏感孩子的教養。",
+   "quote_en": "talk about the parenting mistakes we can still fix and why connection matters more than getting everything right",
+   "topics": [
+    "教養錯誤",
+    "親子連結"
+   ],
+   "evidence_quote": "We're Still Learning About Parenting",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "andrew-huberman",
+   "url": "https://www.goloudnow.com/podcasts/the-a16z-show-381/andrew-hubermans-three-rules-for-better-health-and-focus-616816",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "Huberman 以嘉賓身份接受 a16z 訪問，提出三項最重要的健康習慣：起床後盡快接觸明亮光線、阻力訓練，以及盡量提升睡眠質素。他亦提醒，過度追求每項健康指標反而可能影響生活。",
+   "quote_en": "get bright light shortly after waking, resistance train, and make the sleep you can get as high-quality as possible",
+   "topics": [
+    "晝夜節律",
+    "阻力訓練",
+    "睡眠"
+   ],
+   "evidence_quote": "Three Rules for Better Health and Focus",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "andrew-huberman",
+   "url": "https://podcastrex.com/shows/chris-williamsons-podcast/ep-147-how-effective-are-longevity-dr-ugs-andrew-huberman-chris-williamson",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "Huberman 談長壽藥物與補充品的實證現況。他表示自己服用舌下 NMN 是為了頭髮、指甲生長及早上精神，而非延長壽命；因人體數據不足而避用 rapamycin，因會引致低血糖而拒用 metformin 及 berberine。",
+   "quote_en": "he takes sublingual NMN for hair/nail growth and morning energy but not to extend lifespan",
+   "topics": [
+    "長壽藥物",
+    "NMN",
+    "補充品"
+   ],
+   "evidence_quote": "How Effective Are Longevity Drugs?",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "adam-grant",
+   "url": "https://shows.acast.com/rethinking/episodes/how-to-escape-your-echo-chamber-with-utah-governor-spencer-c",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "Grant 在其主持的 ReThinking 節目訪問猶他州州長 Spencer Cox。Cox 認為化解政治兩極化的關鍵不是尋求共識，而是不帶輕蔑地表達不同意見。兩人亦談及如何走出同溫層，以及防範人工智能風險。",
+   "quote_en": "the key to depolarization isn't consensus—it's disagreeing without contempt",
+   "topics": [
+    "政治兩極化",
+    "建設性分歧"
+   ],
+   "evidence_quote": "How to disagree better",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "adam-grant",
+   "url": "https://podcastrex.com/shows/the-jefferson-fisher-podcast/friendship-expert-3-types-of-friends-every-person-needs",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "Grant 談成人友誼的科學，配合新書《Vibe》。約一半你視為朋友的人並不視你為朋友。友誼可分為盟友、玩伴及知己三類，分散需求有助提升幸福感；適度的摩擦反而能鞏固關係。",
+   "quote_en": "Sociologists have found repeatedly that about half the people you name as friends do not see you as a friend back.",
+   "topics": [
+    "成人友誼",
+    "新書 Vibe"
+   ],
+   "evidence_quote": "3 Types of Friends Every Person Needs",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "adam-grant",
+   "url": "https://podcasts.apple.com/us/podcast/adam-grant-how-to-feel-less-lonely-and-build-deeper/id1782960381?i=1000799581425",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "Grant 在 The Oprah Podcast 談新書《Vibe》，解釋人際連結的科學，以及何謂與人建立「vibe」。節目亦訪問太空人 Cady Coleman 與 NBA 名宿 Joe Dumars，談信任與團隊默契。",
+   "quote_en": "Adam Grant explains the science behind human connection and the surprising secrets about what it means to create a “vibe” with another person.",
+   "topics": [
+    "人際連結",
+    "新書 Vibe"
+   ],
+   "evidence_quote": "How to Feel Less Lonely",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "產品發布",
+   "summary_zh": "Willison 為 llm-anthropic 推出 0.31 版，加入 Anthropic 新發布的 Fable 5.2 及 Mythos 5.2。他以五檔推理強度測試生成單車鵜鶘圖，最高強度耗用 12.8 萬 token 後未能出圖；新模型定價較上一代便宜兩成。",
+   "quote_en": "Fable 5.2 is currently ranked first on Artificial Analysis.",
+   "topics": [
+    "Claude Fable 5.2",
+    "llm-anthropic",
+    "LLM 工具"
+   ],
+   "evidence_quote": "run prompts through Fable 5.2 like this",
+   "checked": "2026-11-10",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "文章",
+   "summary_zh": "Willison 用 Claude Code 寫了一個 Beep Locator 系統，以多部裝置的咪高峰三角定位屋內神秘嗶嗶聲，準確至約 40 厘米，最後發現是一部舊一氧化碳探測器。他形容這是為 Claude Code 加上「耳朵」的實驗。",
+   "quote_en": "The system worked as intended. It gave me the position of the beep to within about 40cm",
+   "topics": [
+    "Claude Code",
+    "Beep Locator",
+    "AI 代理"
+   ],
+   "evidence_quote": "the source of a mysterious beep",
+   "checked": "2026-11-10",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "andrej-karpathy",
+   "url": "https://karpathy.ai/tristan-tube/",
+   "platform": "web",
+   "page_date": "2026-11-07",
+   "kind": "產品發布",
+   "summary_zh": "Karpathy 11 月 7 日在 X 發文，把 Tristan Hume 的 YouTube 分級清單變成 TristanTube：約 47,000 條影片、156 個頻道，附電視模式。他稱整個網站只用 Claude Code 一次過在 3 分鐘內建成，是 HackerTube 之後的第二個同類周末作品。",
+   "quote_en": "One-shotted it with Claude Code in 3 minutes.",
+   "topics": [
+    "Claude Code",
+    "TristanTube",
+    "影片策展",
+    "AI 編程"
+   ],
+   "evidence_quote": "One-shotted it with Claude Code",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未直接打開；日期、影片數目及 3 分鐘建成等細節以 ExplainX 及 FourWeekMBA 兩家報道交叉核對，本人官網 karpathy.ai/tristan-tube/ 已打開確認網站存在"
+  },
+  {
+   "person": "yann-lecun",
+   "url": "https://cryptobriefing.com/lecun-counterfactual-world-models-robots/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "論文",
+   "summary_zh": "LeCun 與 Brown 大學的 Balestriero 及 Varaku 發表新預印本論文，提出反事實世界模型：以預測與現實的誤差相減，推斷未見過的行動會帶來什麼結果。模擬測試中，機械人首次重試成功率達 35–69%，高於基線方法的 14–23%。方法建基於 JEPA 架構，可配合 DINOv2 或 MAE 等現成編碼器使用。",
+   "quote_en": "The method looks at the discrepancy between what the world model predicted and what actually happened in the real world, then subtracts it out.",
+   "topics": [
+    "世界模型",
+    "JEPA",
+    "機械人",
+    "反事實推理"
+   ],
+   "evidence_quote": "published on November 9, 2026",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "arXiv 連結當時未公開；論文標題、作者及 11 月 9 日發表日期以 Crypto Briefing 及 The Register 兩家同日報道交叉核對"
+  },
+  {
+   "person": "geoffrey-hinton",
+   "url": "https://aisfoundation.ai/hinton-lectures-2026",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "演講",
+   "summary_zh": "Hinton 主持的 Hinton Lectures 2026 於 11 月 9 日在多倫多開幕，一連三晚。首晚由 Paul Christiano 主講 AI 對齊的實證問題，Hinton 負責引言；11 月 11 日最後一晚他將與主持人作爐邊對談，該場次超出本次窗口。",
+   "quote_en": "The Hinton Lectures explore the risks, revelations, and revolutionary solutions shaping tomorrow's world.",
+   "topics": [
+    "AI 安全",
+    "AI 對齊",
+    "Hinton Lectures"
+   ],
+   "evidence_quote": "Hosted by Professor Geoffrey Hinton",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "ethan-mollick",
+   "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "文章",
+   "summary_zh": "Mollick 親身試用 Claude Fable 5.2 後，提出「Jagged AGI」（參差不齊的通用智能）概念。他以創業、學術研究、重建歷史課程及生成 3D 世界等多項實驗說明，模型在多個領域已接近人類專家水平，但品味與判斷仍有明顯短板。",
+   "quote_en": "I think the answer is that this is 'almost' AGI, or what I have called Jagged AGI.",
+   "topics": [
+    "Claude Fable 5.2",
+    "Jagged AGI",
+    "AI agents",
+    "AGI"
+   ],
+   "evidence_quote": "this is 'almost' AGI",
+   "checked": "2026-11-10",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://x.com/elonmusk/status/2119419126045454531",
+   "platform": "x",
+   "page_date": "2026-11-08",
+   "kind": "貼文",
+   "summary_zh": "Musk 表示 Grok Bot 正進行修正，以提升 token 效率及行為表現。此前有用戶投訴 200 美元方案的使用量由一週縮短至約 14 小時，Musk 回應會即日跟進。",
+   "quote_en": "Grok Bot fixes for improved token efficiency and smarter behavior are underway",
+   "topics": [
+    "Grok Bot",
+    "token efficiency",
+    "xAI"
+   ],
+   "evidence_quote": "token efficiency and smarter behavior",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原文未能打開（x.com 被封），只靠多家報導的搜尋摘要核實原文，未能親眼看到貼文頁面"
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://x.com/elonmusk/status/2119617455102333206",
+   "platform": "x",
+   "page_date": "2026-11-09",
+   "kind": "貼文",
+   "summary_zh": "Musk 表示已與 Grok Bot 工程團隊開會檢討，修正會連夜實施，用戶翌日應會感到明顯改善。他邀請用戶如問題持續可回覆反映，但未列出具體修正內容或數據。",
+   "quote_en": "Fixes are being implemented overnight and you should notice a dramatic improvement by tomorrow",
+   "topics": [
+    "Grok Bot",
+    "xAI",
+    "token efficiency"
+   ],
+   "evidence_quote": "Fixes are being implemented overnight",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原文未能打開（x.com 被封），只靠多家報導的搜尋摘要核實原文，未能親眼看到貼文頁面"
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://x.com/elonmusk/status/2119691615774146614",
+   "platform": "x",
+   "page_date": "2026-11-09",
+   "kind": "貼文",
+   "summary_zh": "Musk 表示 Cybertruck 訂單遠超產能，生產線約 8 個月後停產，屆時將轉做 Cybercab，不少訂金須退回。他強調停產並非因為 Cybertruck 虧損，而是 Cybercab 的增量價值更高。",
+   "quote_en": "The Cybertruck order rate far exceeds our production rate.",
+   "topics": [
+    "Cybertruck",
+    "Cybercab",
+    "Tesla"
+   ],
+   "evidence_quote": "far exceeds our production rate",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原文未能打開（x.com 被封），只靠 Reuters、Fast Company 等多家報導的搜尋摘要核實原文，未能親眼看到貼文頁面；狀態連結來自報導內文"
+  },
+  {
+   "person": "arthur-mensch",
+   "url": "https://dealroom.co/news/170911-energy-is-only-about-10-of-compute-costs-capital-is-the-bottleneck-mensc/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "Mensch 在 20VC 訪問中表示，能源只佔算力總擁有成本約一成，真正瓶頸是晶片成本與資金成本，歐洲現時電力仍有餘裕，預計要到 2029 至 2030 年能源才成為瓶頸。他又表示 Mistral 絕對可以在歐洲上市。",
+   "quote_en": "Energy is around 10% of the bill in the total cost of ownership of compute. Mistral can absolutely go public in Europe.",
+   "topics": [
+    "算力成本",
+    "能源",
+    "歐洲 AI",
+    "IPO",
+    "Mistral"
+   ],
+   "evidence_quote": "Energy is \"around 10% of the bill",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "jensen-huang",
+   "url": "https://fourweekmba.com/ai-huang-calls-china-chip-curbs-a-mistake-after-4-9b-charges/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "Bloomberg 於 11 月 9 日公開黃仁勳接受 Emily Chang 訪問的片段，他表示曾盡力向美國政策制定者說明接觸中國市場的重要性，認為限制對華售賣晶片是難以挽回的錯誤，並說中國不是敵人，雙方應就 AI 安全保持對話。片段於 10 月 14 日錄製，在 Nvidia 董事會宣布獨立調查前拍攝。",
+   "quote_en": "I did my best to inform the policymakers in the United States of the importance of engaging the Chinese market. I think we made a mistake, and this mistake is hard to unwind. They're not our enemies.",
+   "topics": [
+    "晶片出口管制",
+    "中美關係",
+    "AI 安全",
+    "Nvidia"
+   ],
+   "evidence_quote": "I think we made a mistake",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "未直接打開 Bloomberg 原片頁面；日期與引文以 FourWeekMBA 的逐字稿及多家報道交叉核對，原訪談於 2026-10-14 錄製、2026-11-09 公開"
+  },
+  {
+   "person": "aravind-srinivas",
+   "url": "https://xholic.ai/tools/x-profile-analytics/aravsrinivas/",
+   "platform": "web",
+   "page_date": "2026-11-07",
+   "kind": "貼文",
+   "summary_zh": "Srinivas 在 X 發文表示，Teammates 上線首日到第二日，自動化執行次數增長 3.7 倍，即使第二日是星期五。他預期高自主性專業人士會出現更多時間放大效應。",
+   "quote_en": "Teammate automation runs grew 3.7x from launch day to day two. We're going to see a lot more time dilation for high-agency professionals.",
+   "topics": [
+    "Perplexity Teammates",
+    "AI 代理",
+    "自動化"
+   ],
+   "evidence_quote": "Teammate automation runs grew 3.7x",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "未直接打開 X 原貼文，日期與引文以 Xholic 公開彙整核對，未取得原貼文連結"
+  },
+  {
+   "person": "andrew-huberman",
+   "url": "https://podcasts.apple.com/us/podcast/overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke/id1545953110?i=1000800773328",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "Huberman 訪問成癮醫學專家 Anna Lembke，談多巴胺如何影響冒險、執迷與強迫行為，以及最常見的「對控制上癮」，並談祈禱與靈性修習如何幫助打破不健康的思維模式。",
+   "quote_en": "We discuss dopamine dynamics in the brain and how they impact risk-taking, mental obsession, and compulsive behaviors.",
+   "topics": [
+    "成癮",
+    "多巴胺",
+    "強迫行為",
+    "靈性與復元"
+   ],
+   "evidence_quote": "dopamine dynamics in the brain",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "adam-grant",
+   "url": "https://richroll.com/podcast/adam-grant-1026/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "Grant 在 Rich Roll 節目談新書《Vibe》，講孤獨與獨處的分別、四種友誼，以及相處契合度是可以建立和經營的。",
+   "quote_en": "Compatibility is something you construct, something you can build and work on.",
+   "topics": [
+    "友誼",
+    "孤獨",
+    "人際連結"
+   ],
+   "evidence_quote": "Strong Relationships In A Lonely World",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "esther-perel",
+   "url": "https://zeno.fm/podcast/where-should-we-begin-with-esther-perel/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "一對相處近四十年的伴侶決定分開，但為法律與實際原因維持婚姻關係、分居三百英里，來找 Esther 探討如何在情感糾纏多年後拆解浪漫連結，同時繼續像生意拍檔般合作。",
+   "quote_en": "They come to Esther wondering how, after decades of emotional enmeshment, they can disentangle their romantic connection while continuing to function like business partners.",
+   "topics": [
+    "伴侶關係",
+    "分居",
+    "情感糾纏"
+   ],
+   "evidence_quote": "they've decided to split",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "laurie-santos",
+   "url": "https://podcasts.apple.com/us/podcast/are-you-taking-fun-seriously-enough/id1474245040?i=1000800282202",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "Santos 在 Aspen Ideas Festival 的現場對談中，與 Catherine Price 及 Elizabeth Dunn 探討為何認真看待玩樂對快樂、健康以至改善世界都重要。",
+   "quote_en": "In this live conversation from the Aspen Ideas Festival, Dr. Laurie is joined by science journalist Catherine Price and psychologist Elizabeth Dunn to explore why we should all be taking fun more seriously.",
+   "topics": [
+    "快樂",
+    "玩樂",
+    "幸福感"
+   ],
+   "evidence_quote": "having fun isn't just a nice bonus",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "lisa-damour",
+   "url": "https://www.issh.ac.jp/community/news-details/~board/news-board/post/internationally-acclaimed-author-dr-lisa-damour-to-visit-issh-in-november",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "演講",
+   "summary_zh": "Damour 今日在東京國際學校 ISSH 舉行家長晚間講座，講青少年的健康情緒發展、破除情緒迷思，並談數碼科技與性別如何影響情緒表達與管理。",
+   "quote_en": "Dr. Damour will draw on decades of clinical experience and psychological research to explain what healthy emotional development really looks like.",
+   "topics": [
+    "青少年",
+    "情緒發展",
+    "家長講座"
+   ],
+   "evidence_quote": "Date: Tuesday 10 November 2026",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "ethan-kross",
+   "url": "https://www.eventbrite.co.uk/e/managing-your-emotions-prof-ethan-kross-tickets-1998426503468?aff=ebdssbdestsearch",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "演講",
+   "summary_zh": "Kross 今晚在 Action for Happiness 的 Zoom 講座分享新書《Shift》的情緒管理工具，包括抽離式自我對話，以及在平靜時先建立工具箱，應對情緒風暴。",
+   "quote_en": "We can't stop difficult feelings from arriving - frustration, worry, anger and sadness are all part of being human. However, although we can't choose what we feel, we have more control than we realise over what happens next.",
+   "topics": [
+    "情緒管理",
+    "自我對話",
+    "情緒調節"
+   ],
+   "evidence_quote": "Tuesday 10 November • 7 PM - 8 PM UTC",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "stephen-porges",
+   "url": "https://www.polyvagalinstitute.org/polyvagaltalksbook",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "產品發布",
+   "summary_zh": "Porges 的新書《Polyvagal Talks》今日出版，收錄他與 Bessel van der Kolk、Gabor Maté、Daniel Siegel、Peter Levine、Pat Ogden 等人的對談，探討多叉迷走神經理論如何影響創傷治療；對談原片同日免費公開。",
+   "quote_en": "Watch all of the original recordings of the conversations on our Learning Platform, releasing November 10, 2026.",
+   "topics": [
+    "多叉迷走神經理論",
+    "創傷治療",
+    "新書"
+   ],
+   "evidence_quote": "releasing November 10, 2026",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "demis-hassabis",
+   "url": "https://x.com/demishassabis/status/2120210297948696997",
+   "platform": "x",
+   "page_date": "2026-11-10",
+   "kind": "產品發布",
+   "summary_zh": "Hassabis 在 X 宣布 Gemini 4 Carbon 於 11 月 10 日全面推出。他以 Carbon 把自己在 1990 年代編寫的遊戲 Theme Park 原版二進制檔逆向工程，加入 DeepMind 主題新設施後一次過移植到網頁上，展示模型能力。",
+   "quote_en": "Our latest frontier model Gemini 4 Carbon is rolling out today! Amazing progress from Gemini 3 → Gemini 4 in less than a year… Carbon reverse engineers my original Theme Park binaries, adds a new DeepMind themed ride, and ports it to the web in one shot - kind of mindblowing to see!",
+   "topics": [
+    "Gemini 4 Carbon",
+    "DeepMind"
+   ],
+   "evidence_quote": "kind of mindblowing to see!",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能直接開啟（政策封鎖），帖文內容經多家媒體逐字引述核實一致。"
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://x.com/elonmusk/status/2120088070443655190",
+   "platform": "x",
+   "page_date": "2026-11-10",
+   "kind": "產品發布",
+   "summary_zh": "Musk 在 X 表示 Grok 4.8 已完成預訓練，強化學習與推理技術棧已由 JAX/SGLang 全面改寫為 C/C++，模型現正進行強化學習，評估分數開始上升，本週內會向 Grok Bot 用戶小範圍推出。他稱 4.8 將與 4.7 截然不同。",
+   "quote_en": "Training (aka pre-training) is done. Lot of cleanup was needed on the SFT data to get that mostly right. Now, 4.8 is in RL and the evals are starting to climb. We will do a soft rollout to Bot users later this week and see how it goes.",
+   "topics": [
+    "Grok 4.8",
+    "xAI"
+   ],
+   "evidence_quote": "Training (aka pre-training) is done.",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能直接開啟（政策封鎖），帖文內容經多家媒體逐字引述核實一致。"
+  },
+  {
+   "person": "demis-hassabis",
+   "url": "https://x.com/demishassabis/status/2120565316619284734",
+   "platform": "x",
+   "page_date": "2026-11-11",
+   "kind": "產品發布",
+   "summary_zh": "Hassabis 宣布推出 DNA 序列模型 AlphaGenome 2，可預測 DNA 變異在不同細胞類型的影響，協助理解複雜疾病，現已開放學術研究經 API 使用。",
+   "quote_en": "Super proud to announce AlphaGenome 2 - our new DNA sequence model! It predicts the impact of DNA variants in different specific cell types - unlocking crucial information for understanding complex diseases. Available for academic research via our API",
+   "topics": [
+    "AlphaGenome 2",
+    "基因組學"
+   ],
+   "evidence_quote": "Super proud to announce AlphaGenome 2",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能直接開啟（政策封鎖），帖文內容經 Gigazine、AI Hub 等多處逐字引述核實一致；status 連結由搜尋結果來源清單取得。"
+  },
+  {
+   "person": "aravind-srinivas",
+   "url": "https://cryptobriefing.com/perplexity-computer-gemini-4-carbon/",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "產品發布",
+   "summary_zh": "Srinivas 宣布向所有 Perplexity Pro 與 Max 訂閱用戶推出 Gemini 4 Carbon，可用於建立長期 Teammates 或一次性代理任務；他稱 Carbon 在代理研究任務上的能力與 Fable 5.2 相近，成本低 2.5 倍。",
+   "quote_en": "Rolling out Gemini 4 Carbon to all Perplexity Pro and Max subscribers. You can create persistent Teammates with them or use it for one off agentic sessions in Computer. Carbon is 2.5x cheaper than Fable 5.2 with similar capabilities on agentic research tasks.",
+   "topics": [
+    "Gemini 4 Carbon",
+    "Perplexity"
+   ],
+   "evidence_quote": "Rolling out Gemini 4 Carbon",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能開啟（政策封鎖），帖文內容經 Xholic 帖文列表頁及 CryptoBriefing 報道核實；未能取得 status 連結，來源用報道頁。"
+  },
+  {
+   "person": "aravind-srinivas",
+   "url": "https://www.ndtvprofit.com/business/perplexity-ceo-aravind-srinivas-praises-jensen-huang-your-grit-perseverance-should-always-be-remembered-12319494?pfrom=home-business_opinion",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "其他",
+   "summary_zh": "Huang 辭任當日，Srinivas 在 X 公開致謝，讚揚他 33 年領導把 Nvidia 建成美國最有價值的公司，並感謝他對創辦人的提攜。",
+   "quote_en": "Thank you @JensenHuang for 33 years of bold leadership. You built a small startup into America's most valuable company, with relentless improvement. Your grit and perseverance should always be remembered.",
+   "topics": [
+    "Jensen Huang",
+    "NVIDIA"
+   ],
+   "evidence_quote": "Thank you @JensenHuang for 33 years",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能開啟（政策封鎖），帖文內容經 NDTV Profit、Indian Express、Inc 等多處逐字引述核實一致；未能取得 status 連結，來源用報道頁。"
+  },
+  {
+   "person": "jensen-huang",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "職務異動",
+   "summary_zh": "黃仁勳辭任 NVIDIA 總裁、行政總裁及董事，即時生效，結束 33 年掌舵。財務總監 Colette Kress 出任臨時行政總裁，董事會展開繼任人選搜尋，並委任 Harvey C. Jones 為首任董事會主席。官方公告未交代辭任原因。",
+   "quote_en": "Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
+   "topics": [
+    "NVIDIA",
+    "CEO辭任",
+    "Colette Kress"
+   ],
+   "evidence_quote": "Jensen Huang has resigned as President",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "satya-nadella",
+   "url": "https://www.fastcompany.com/91640556/microsoft-ceo-satya-nadella-workers-in-ai-heavy-jobs-are-having-an-identity-crisis",
+   "platform": "web",
+   "page_date": "2026-11-11",
+   "kind": "訪談",
+   "summary_zh": "納德拉接受法國《Le Point》專訪（11 月 10 日刊出），指 AI 令不少從業員的專業身份受衝擊，工作意義面臨危機。他強調 AI 必須賦予人類力量、由人類掌控，否則理應被拒絕。",
+   "quote_en": "[AI] needs to be empowering humans and should be in human control. If not, it should be, by definition, rejected.",
+   "topics": [
+    "AI與工作",
+    "人類主體性",
+    "Microsoft"
+   ],
+   "evidence_quote": "needs to be empowering humans",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "clement-delangue",
+   "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "貼文",
+   "summary_zh": "黃仁勳辭任後，Delangue 在 X 發文，形容當日令人難過，並承諾 Hugging Face 會比以往更堅定捍衛開源 AI。NVIDIA 以 129 億美元收購 Hugging Face 的交易仍預定 2027 年上半年完成。",
+   "quote_en": "we'll keep fighting for open-source AI, harder than ever. This is too important to slow down now. Let's go!",
+   "topics": [
+    "開源AI",
+    "Hugging Face",
+    "NVIDIA收購"
+   ],
+   "evidence_quote": "we'll keep fighting for open-source AI",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能開啟，依 TechCrunch 全文引述核實。"
+  },
+  {
+   "person": "fei-fei-li",
+   "url": "https://worldlabs.ai/atlas",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "產品發布",
+   "summary_zh": "World Labs 正式向所有人開放 Atlas 世界模型，隨附 Viewfinder、Chisel、Splats to Mesh 等工具及開發者 API，可將相片或灰盒場景轉化為可探索的 3D 世界。",
+   "quote_en": "Generate and reconstruct worlds and bring creations into your own workflows with our tools and developer APIs.",
+   "topics": [
+    "Atlas",
+    "世界模型",
+    "World Labs"
+   ],
+   "evidence_quote": "Generate and reconstruct worlds",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "fei-fei-li",
+   "url": "https://finance.biggo.com/news/b3662d88-f92f-4a22-8452-c56395d37403",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "演講",
+   "summary_zh": "李飛飛在 CoRL 2026 發表 Atlas 主題演講，展示單一模型如何統一生成與重建，並與 AMD 行政總裁 Lisa Su 自 AMD 宣布收購 World Labs 以來首次同台對談。兩人均認為實體 AI 與機械人將帶動下一波算力需求。",
+   "quote_en": "Viewpoint is all you need.",
+   "topics": [
+    "Atlas",
+    "CoRL 2026",
+    "機械人"
+   ],
+   "evidence_quote": "Viewpoint is all you need.",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "lisa-damour",
+   "url": "https://drlisadamour.com/resource/why-teens-lie-and-how-to-respond-without-escalating/",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "訪談",
+   "summary_zh": "Damour 以「Office Hours」形式回答家長提問，講解青少年說謊的三類原因，以及如何回應而不激化衝突。",
+   "quote_en": "Good kids do dumb things, but we don't want them to do those dumb things.",
+   "topics": [
+    "青少年說謊",
+    "親子溝通"
+   ],
+   "evidence_quote": "Why Teens Lie—and How to Respond",
+   "checked": "2026-11-13",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "becky-kennedy",
+   "url": "https://www.audible.co.uk/podcast/Good-Inside-with-Dr-Becky/episodes/B08JJHWP8K",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "訪談",
+   "summary_zh": "Dr. Becky 與五屆奧運獎牌得主 Elana Meyers Taylor 對談，談她由壘球轉項雪車的經歷，以及「擅長當新手」的心態如何幫助孩子面對失敗、建立韌性。",
+   "quote_en": "am I good at getting good at things, or am I good at being a novice?",
+   "topics": [
+    "兒童韌性",
+    "面對失敗"
+   ],
+   "evidence_quote": "am I good at being a novice?",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "peter-levine",
+   "url": "https://thetherapytap.com/somatic-approach-to-healing-trauma/",
+   "platform": "web",
+   "page_date": "2026-11-11",
+   "kind": "演講",
+   "summary_zh": "Levine 與 Arielle Schwartz 於 11 月 11 日舉行免費網上直播培訓，以「受傷的療癒者」為題，分享他早年暴力經歷與復原力如何塑造其身體取向創傷工作。",
+   "quote_en": "Join one of the field's most respected voices for a rare and deeply personal conversation on healing, resilience, and the wounded healer's journey.",
+   "topics": [
+    "身體取向創傷治療",
+    "受傷的療癒者"
+   ],
+   "evidence_quote": "a rare and deeply personal conversation",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "jill-stoddard",
+   "url": "https://podcasts.apple.com/us/podcast/sysk-trending-the-surprising-upside-of-imposter-syndrome/id1150124880?i=1000800954790",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "訪談",
+   "summary_zh": "Stoddard 談冒名頂替症候群的另一面：自我懷疑未必是壞事，可能是正在挑戰自己、成長的訊號，重點不在消除懷疑，而是不讓懷疑主宰行動。",
+   "quote_en": "According to Dr. Jill Stoddard, the goal isn't necessarily to eliminate self-doubt but to stop letting it dictate what you do.",
+   "topics": [
+    "冒名頂替症候群",
+    "自我懷疑"
+   ],
+   "evidence_quote": "stop letting it dictate what you do",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "ethan-kross",
+   "url": "https://www.youtube.com/watch?v=2HU8U_NZ2dc",
+   "platform": "web",
+   "page_date": "2026-11-11",
+   "kind": "演講",
+   "summary_zh": "Kross 在 Action for Happiness 的網上活動中分享新書《Shift》的情緒管理工具，包括抽離式自我對話，以及在平靜時預先建立情緒工具箱。錄影為 11 月 10 日現場活動，於 11 月 11 日上載。",
+   "quote_en": "We can't stop difficult feelings from arriving - frustration, worry, anger and sadness are all part of being human.",
+   "topics": [
+    "情緒管理",
+    "情緒調節"
+   ],
+   "evidence_quote": "a live Action for Happiness event",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "lex-fridman",
+   "url": "https://www.linkedin.com/posts/lexfridman_nvidia-letting-jensen-go-is-a-huge-mistake-activity-7526752981682376704-JR9y",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "貼文",
+   "summary_zh": "Lex Fridman 公開為黃仁勳辯護，稱 NVIDIA 讓黃仁勳離開是對美國和人類的巨大錯誤，堪比當年 Apple 解雇 Steve Jobs，但影響更大。他表示與黃仁勳相識多年，從未聽聞關於他的負面評價，並反駁間諜傳聞，表明自己站在黃仁勳一方。",
+   "quote_en": "NVIDIA letting Jensen go is a huge mistake, for America and for humanity. It's Apple firing Steve Jobs all over again, but much bigger, given the role of AI in defining the future of our world.",
+   "topics": [
+    "NVIDIA",
+    "黃仁勳",
+    "AI 產業"
+   ],
+   "evidence_quote": "Apple firing Steve Jobs all over again",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能開啟，依本人 LinkedIn 同文（已打開核對，全文一致，發布時間 2026-11-12T21:09:11Z）及多家媒體搜尋摘要核實。"
+  },
+  {
+   "person": "dylan-patel",
+   "url": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "文章",
+   "summary_zh": "Dylan Patel 在 SemiAnalysis 長文分析，黃仁勳辭任與美國情報界推動、針對中國遠端存取 GPU 的 RASA 法案有關。他們認為對華 AI 及晶片限制將會加速收緊，但警告設計不當的限制會損害美國利益，包括擾亂供應鏈及削弱開源 AI 發展。",
+   "quote_en": "AI and chip restrictions on China are going to ramp now much faster with the biggest defender Jensen, gone.",
+   "topics": [
+    "NVIDIA",
+    "晶片出口管制"
+   ],
+   "evidence_quote": "with the biggest defender Jensen, gone",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "文章",
+   "summary_zh": "Simon Willison 評測 Meta 新推出的輕量推理模型 Muse Ember，比較它與 GPT-6 Luna 及 Claude Haiku 5.5 的定價與性價比。他指出三者在 Artificial Analysis 成本效益圖上，Ember 處於效率前沿，同等成本下智能表現更高。",
+   "quote_en": "For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million output.",
+   "topics": [
+    "Muse Ember",
+    "模型評測"
+   ],
+   "evidence_quote": "our smallest and most efficient model",
+   "checked": "2026-11-13",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/11/llm/",
+   "platform": "web",
+   "page_date": "2026-11-11",
+   "kind": "產品發布",
+   "summary_zh": "Simon Willison 發布 llm 0.37.2，修復一個安全問題：程式在特定情況下可能把已設定的 OpenAI API 金鑰誤傳給其他供應商。問題由 Daniel de Araujo 回報，涉及兩個觸發情境。",
+   "quote_en": "Daniel reported two ways this could accidentally send your configured OpenAI API key to one of those providers.",
+   "topics": [
+    "llm",
+    "安全修復"
+   ],
+   "evidence_quote": "Fixes a security issue",
+   "checked": "2026-11-13",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "產品發布",
+   "summary_zh": "Simon Willison 隨 Google 推出 Gemini 4 Hydrogen 發布 llm-gemini 0.37，並以九格圖比較 Gemini 4 三個模型在不同思考強度下的畫質與成本。他指出 Hydrogen 雖名為廉價版，現價只比高階版便宜約四分之一，但將成為 Google 搜尋 AI 功能的免費層模型。",
+   "quote_en": "Hydrogen is the new free tier model, and is the model that will power AI features in Google Search.",
+   "topics": [
+    "Gemini 4",
+    "llm-gemini"
+   ],
+   "evidence_quote": "Google launched Gemini 4 Hydrogen today",
+   "checked": "2026-11-13",
+   "tier": "A",
+   "verify_needed": false
   }
  ],
- "updated": "2026-11-14"
+ "updated": "2026-11-13"
 }
