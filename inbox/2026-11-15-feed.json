@@ -1,0 +1,139 @@
+{
+ "format": "psypick-muse-v1",
+ "run_date": "2026-11-15",
+ "items": [
+  {
+   "category": "研究與證據",
+   "evidence_hint": "全國登記隊列研究（JCPP）",
+   "evidence_quote": "58.3% occurred among individuals who had attended CAMHS",
+   "key_points_zh": [
+    "樣本：丹麥 1990 至 2020 年出生共 1,978,630 人（48.7% 女性），追蹤 1995 年至 2021 年底，30,855,257 人年；8.4% 曾接觸 CAMHS",
+    "方法：全國登記隊列研究，丹麥精神科中央研究登記冊與全國病人登記冊連結；Cox 比例風險模型，CAMHS 接觸為時間依變暴露；作者說明目的為描述，故報告未調整關聯",
+    "主要結果：全部思覺失調或雙相診斷中，58.3% 出現在曾接觸 CAMHS 者身上；CAMHS 接觸者 HR 15.5（95% CI 15.5–15.9）",
+    "最高風險組：青少年期曾精神科住院者 HR 46.8（44.8–48.9），追蹤至 32 歲時約 50% 已獲診斷",
+    "累積發生率：CAMHS 接觸者追蹤至 32 歲，思覺失調或雙相診斷累積發生率 19.3%；個案中 56.2% 於首次 CAMHS 接觸 3 個月後才獲診斷，中位數 4.5 年後",
+    "限制：描述性、未調整；登記診斷無結構化研究診斷覆核；未測試任何篩檢或預防介入"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-09-17",
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "psychotic-bipolar-disorder-diagnoses-following-camhs-contact",
+   "source": {
+    "author_name": "Gregersen、Kelleher 等（丹麥首都大區兒童青少年精神科中心）",
+    "description": "全國登記研究：197 萬人，近六成思覺失調／雙相診斷出現在曾求助 CAMHS 者身上；青少年住院者風險最高。",
+    "platform": "web",
+    "title": "Psychotic and bipolar disorder diagnoses following contact with child and adolescent mental health services—a longitudinal, nationwide register study of 2 million individuals (JCPP; DOI: 10.1111/jcpp.70232)",
+    "url": "https://doi.org/10.1111/jcpp.70232"
+   },
+   "title_zh": "丹麥 197 萬人登記研究：近六成思覺失調／雙相診斷出現在曾求助兒童青少年精神科者身上，青少年住院者風險最高"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "單中心回顧隊列研究（J Clin Med）",
+   "evidence_quote": "Scores were less favorable at approximately one month in available assessments",
+   "key_points_zh": [
+    "樣本：333 名 9 至 18 歲抑鬱症住院青少年（華西醫院精神衛生中心，2025 年 5 月至 2026 年 8 月）；243 人貢獻 400 次觀察予主模型",
+    "方法：單中心回顧隊列，連結入院評估、臨床紀錄與電子追蹤問卷；隨機截距線性混合效應模型，調整年齡、性別與入院分數；配對分析估計個人內差異",
+    "主要結果：調整後 30 天本地 BDI 分數較出院前後高 7.10 分（95% CI 4.37–9.83）；81 人配對平均差 6.54 分（3.25–9.84）",
+    "次要結果：6 項次要比較經錯誤發現率調整後 p 值低於 0.05；功能影響的置信區間包括零，無明顯差異",
+    "限制：追蹤問卷回覆具選擇性（265 名已過窗口者中僅 49.8% 完成）；無臨床重要變化閾值；單中心；無前瞻註冊"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-14",
+   "population": [
+    "兒童青少年",
+    "臨床工作者",
+    "家長"
+   ],
+   "published": true,
+   "slug": "patient-reported-symptoms-daily-life-outcomes-30-days-after",
+   "source": {
+    "author_name": "四川大學華西醫院精神衛生中心團隊",
+    "description": "回顧隊列：333 名抑鬱症住院青少年，出院 30 天後 BDI 分數較出院前後高 7.1 分，但追蹤回覆具選擇性。",
+    "platform": "web",
+    "title": "Patient-Reported Symptoms and Daily-Life Outcomes Approximately 30 Days After Psychiatric Discharge in Children and Adolescents with Physician-Recorded Depressive Disorders: A Retrospective Cohort Study (J Clin Med; DOI: 10.3390/jcm15228930)",
+    "url": "https://doi.org/10.3390/jcm15228930"
+   },
+   "title_zh": "青少年出院後一個月抑鬱分數反升：華西醫院 333 人回顧隊列，出院後 BDI 高 7.1 分"
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "免費網上直播培訓（每月系列）",
+   "evidence_quote": "participation is offered free of charge",
+   "key_points_zh": [
+    "講者：Barbara van den Hoofdakker 教授（荷蘭格羅寧根大學臨床心理學教授；Accare 兒童研究中心；專研行為困難兒童治療，包括 ADHD）",
+    "主題：ADHD 對家長／祖父母／照顧者在家庭與學校的影響",
+    "日期：2026 年 11 月 18 日星期三 13:00（柏林時間，約香港時間 20:00）",
+    "內容：ADHD 相關行為如何增加壓力、減低自我效能、影響親子與師生關係；常見互動模式：衝突、頻繁糾正、升級的負面交流",
+    "費用：免費參加",
+    "對象：與 ADHD 兒童工作的心理健康專業人員與教師"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-11-15",
+   "population": [
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "world-federation-adhd-webinar-impact-adhd-parents-grandparen",
+   "source": {
+    "author_name": "World Federation of ADHD",
+    "description": "免費網上培訓：2026 年 11 月 18 日，van den Hoofdakker 主講 ADHD 對家長／照顧者的影響。",
+    "platform": "web",
+    "title": "Live Webinars - Education - World Federation of ADHD (18 November 2026: Impact of ADHD on parents / grandparents / carers at home and in schools)",
+    "url": "https://www.adhd-federation.org/education/live-webinars"
+   },
+   "title_zh": "免費網上培訓：ADHD 對家長／祖父母／照顧者的影響——家中與學校的日常挑戰（11 月 18 日，Barbara van den Hoofdakker）"
+  },
+  {
+   "category": "進修與培訓",
+   "evidence_hint": "免費網上直播培訓（每月系列）",
+   "evidence_quote": "free monthly webinar open to anyone providing services to individuals who live with mental health and substance use issues",
+   "key_points_zh": [
+    "講者：Jennifer Piel（醫學博士、法學博士）",
+    "主題：從文字到接觸——現代醫療的專業界線管理",
+    "日期：2026 年 12 月 18 日星期五 11:00–12:00（太平洋時間，約香港時間 12 月 19 日 03:00–04:00）",
+    "形式：免費每月網上講座系列（Zoom），開放予所有為精神健康與物質使用人士提供服務者；每場須個別登記",
+    "費用：免費參加",
+    "對象：為精神健康與物質使用人士提供服務的專業人員"
+   ],
+   "kind": "training",
+   "model_names": [],
+   "page_date": "2026-11-15",
+   "population": [
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "harborview-telebehavioral-health-webinar-professional-bounda",
+   "source": {
+    "author_name": "Harborview Behavioral Health Institute",
+    "description": "免費網上培訓：2026 年 12 月 18 日，Piel 主講現代醫療的專業界線管理。",
+    "platform": "web",
+    "title": "TeleBehavioral Health Series Webinar Registration (18 December 2026: From Text to Touch: Managing Professional Boundaries in Modern Healthcare)",
+    "url": "https://bhinstitute.uw.edu/training-workforce-policy/training/telebehavioral-health/telebehavioral-health-series-webinar-registration/"
+   },
+   "title_zh": "免費網上培訓：從文字到接觸——現代醫療的專業界線管理（12 月 18 日，Jennifer Piel）"
+  }
+ ],
+ "skipped": [
+  "ABCD 青少年與照顧者診斷不一致研究（JAMA Psychiatry 11/11）：站內已有（2026-11-12 上架）",
+  "威權式管教與青少年反社會思維研究（491 人，Journal of Research on Adolescence）：站內已有",
+  "BBRF 免費網上講座「個別化教育計劃」（12/10）：對象含家長／教師，美國 IEP 制度為主，對港澳台家長實用有限；只見新聞稿，未見主辦方原頁",
+  "Greenspace／National Council 量度為本照護講座（12/03）：廠商合辦、美國 CCBHC 制度專屬，地域與產品色彩較重",
+  "CDP 慢性痛 CBT 培訓（12/14–15）：免費但已滿額，只剩候補名單",
+  "Magellan 免費網上培訓「精神健康數據追蹤與成效」12/03：對象限賓州 IBHS 臨床人員，地域太窄（昨日已排除，今日再見仍排除）",
+  "ADHD 神經科學 2026 會議新發現（MedicalXpress 11/14）：會議報告，未經同儕審查，無原始數據",
+  "兒童婚姻與街頭少女心理健康質性研究（12 人）：樣本極小，證據弱",
+  "兒童保護系統心理健康支援文章（amk.news 11/14）：二手綜合，引用的系統回顧為 2016 年舊作"
+ ],
+ "unreachable_sources": [
+  "Wiley JCPP 原文頁（DOI 10.1111/jcpp.70232）：Cloudflare Turnstile 驗證四次重設未能通過（Ray ID a5ae9df7bc426e05）；數字經愛丁堡大學儲存庫同行評審稿件與 Crossref 摘要核實，兩者一致"
+ ],
+ "notes": "Feed 工具在本 run 不可用（與 11-01 至 11-14 run 相同），候選經公開搜尋標題預篩、逐項開原頁核實。四則上架：研究 2 則（CAMHS 登記研究原刊 2026 年 9 月 17 日，因 11 月中旬 PsychHQ 週報與儲存庫紀錄再引起關注，描述性、未調整關聯已在 caution 列明；出院後 30 天隊列研究 2026 年 11 月 14 日刊出，單中心、追蹤回覆具選擇性已列明）、培訓 2 則（ADHD 聯合會 11/18 講座為昨日結轉，昨日因達 5 則上限留待今日；Harborview 專業界線講座香港時間為 12 月 19 日凌晨 03:00，已在摘要註明）。"
+}
