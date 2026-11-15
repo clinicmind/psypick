@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T13:32:07+00:00",
+ "generated_at": "2026-11-15T13:35:18+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,152 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "psychotic-bipolar-disorder-diagnoses-following-camhs-contact",
+   "title_zh": "丹麥 197 萬人登記研究：近六成思覺失調／雙相診斷出現在曾求助兒童青少年精神科者身上，青少年住院者風險最高",
+   "title_en": "Psychotic bipolar disorder diagnoses following CAMHS contact nationwide Danish register study",
+   "summary_zh": "Journal of Child Psychology and Psychiatry 2026 年 9 月 17 日網上刊出丹麥全國登記研究，追蹤 1990 至 2020 年出生共 1,978,630 人（30,855,257 人年）至 2021 年底。8.4% 曾接觸兒童青少年精神科服務（CAMHS）；全部思覺失調或雙相診斷中，58.3% 出現在曾接觸 CAMHS 者身上。CAMHS 接觸者診斷風險較高（HR 15.5；95% CI 15.5–15.9）；青少年期曾精神科住院者風險最高（HR 46.8；44.8–48.9），追蹤至 32 歲時約半數已獲診斷；CAMHS 接觸者追蹤至 32 歲的累積發生率為 19.3%。研究由 Maja Gregersen、Ian Kelleher 等領導；資助來自丹麥首都大區、丹麥自由研究基金等公共機構，無廠商資助。",
+   "summary_en": "The Journal of Child Psychology and Psychiatry published a nationwide Danish register study online on 17 September 2026, following 1,978,630 people born from 1990 to 2020 (30,855,257 person-years) to the end of 2021. About 8.4% had contact with child and adolescent mental health services (CAMHS); 58.3% of all psychotic or bipolar diagnoses in the population occurred among people who had attended CAMHS. CAMHS attendees had a higher risk of diagnosis (HR 15.5; 95% CI 15.5-15.9); risk was highest after a psychiatric inpatient admission in adolescence (HR 46.8; 44.8-48.9), with about half diagnosed by age 32, and the cumulative incidence among CAMHS attendees followed to age 32 was 19.3%. Led by Maja Gregersen and Ian Kelleher; funded by Danish public bodies including Region Hovedstaden and the Danish Independent Research Fund, with no industry funding.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "CAMHS",
+    "思覺失調",
+    "雙相障礙",
+    "登記研究",
+    "風險預測",
+    "JCPP"
+   ],
+   "first_seen_at": "2026-11-15T13:35:18+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-17T00:00:00+00:00"
+  },
+  {
+   "slug": "patient-reported-symptoms-daily-life-outcomes-30-days-after",
+   "title_zh": "青少年出院後一個月抑鬱分數反升：華西醫院 333 人回顧隊列，出院後 BDI 高 7.1 分",
+   "title_en": "Patient reported symptoms daily life outcomes 30 days after psychiatric discharge children adolescents depressive disorders",
+   "summary_zh": "Journal of Clinical Medicine 2026 年 11 月 14 日刊出四川大學華西醫院單中心回顧隊列研究，333 名 9 至 18 歲抑鬱症住院青少年。比較出院前後與出院約 30 天後的自評：調整後出院 30 天本地 BDI 抑鬱分數較出院前後高 7.10 分（95% CI 4.37–9.83）；81 人同時有兩次評估，配對平均差 6.54 分。次要指標中焦慮、快感缺失、睡眠與生活質素亦較差，功能影響則無明顯差異。作者指出只有約半數合資格者在 30 天窗口完成問卷，選擇性偏差限制推論；亦未有已驗證的臨床重要變化閾值，分數差異不等於臨床惡化或復發。研究無外部資助，作者申報無利益衝突。",
+   "summary_en": "The Journal of Clinical Medicine published a single-centre retrospective cohort study on 14 November 2026 from West China Hospital, Sichuan University, covering 333 adolescents aged 9 to 18 hospitalised with depressive disorders. Comparing self-reports near discharge with about 30 days afterwards, the adjusted day-30 local Beck Depression Inventory score was 7.10 points higher than peridischarge (95% CI 4.37-9.83); among the 81 participants with both assessments, the paired mean difference was 6.54 points. Secondary measures including anxiety, anhedonia, sleep and quality of life were also less favourable, while functional impact showed no clear difference. The authors note only about half of eligible participants completed a questionnaire in the day-30 window, so selective availability limits generalisation, and without validated meaningful-change thresholds the score differences do not establish clinical deterioration or relapse. The study received no external funding and the authors declare no conflicts of interest.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "抑鬱症",
+    "出院後追蹤",
+    "青少年",
+    "隊列研究",
+    "J Clin Med"
+   ],
+   "first_seen_at": "2026-11-15T13:35:18+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者",
+    "家長"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-14T00:00:00+00:00"
+  },
+  {
+   "slug": "world-federation-adhd-webinar-impact-adhd-parents-grandparen",
+   "title_zh": "免費網上培訓：ADHD 對家長／祖父母／照顧者的影響——家中與學校的日常挑戰（11 月 18 日，Barbara van den Hoofdakker）",
+   "title_en": "World Federation ADHD webinar impact ADHD parents grandparents carers home schools November 2026",
+   "summary_zh": "世界 ADHD 聯合會免費每月網上講座系列，2026 年 11 月 18 日星期三 13:00（柏林時間，約香港時間 20:00），由荷蘭格羅寧根大學臨床心理學教授 Barbara van den Hoofdakker 主講「ADHD 對家長／祖父母／照顧者在家庭與學校的影響」。講座探討 ADHD 兒童家長與教師面對的日常挑戰：ADHD 相關行為如何增加壓力、減低自我效能，以及影響親子與師生關係；討論常見互動模式，包括衝突、頻繁糾正與升級的負面交流。對象為與 ADHD 兒童工作的心理健康專業人員與教師。費用全免，登記經 Microsoft Forms 連結。",
+   "summary_en": "The World Federation of ADHD's free monthly live webinar series holds its next session on Wednesday 18 November 2026 at 1:00 p.m. Berlin time (about 8:00 p.m. Hong Kong time), with Professor Barbara van den Hoofdakker of the University of Groningen presenting 'Impact of ADHD on parents / grandparents / carers at home and in schools'. It explores the everyday challenges faced by parents and teachers of children with ADHD: how ADHD-related behaviours can add stress, reduce self-efficacy and strain parent-child and teacher-child relationships, including common interaction patterns such as conflict, frequent corrections and escalating negative exchanges. It is aimed at mental health professionals and teachers working with children with ADHD. Attendance is free; registration is via a Microsoft Forms link.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "ADHD",
+    "家長",
+    "照顧者",
+    "教師",
+    "免費培訓",
+    "網上講座"
+   ],
+   "first_seen_at": "2026-11-15T13:35:18+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-15T13:35:18+00:00",
+   "training": {
+    "provider": "World Federation of ADHD（世界 ADHD 聯合會）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-18 13:00（柏林時間，約香港時間 20:00）",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "harborview-telebehavioral-health-webinar-professional-bounda",
+   "title_zh": "免費網上培訓：從文字到接觸——現代醫療的專業界線管理（12 月 18 日，Jennifer Piel）",
+   "title_en": "Harborview TeleBehavioral Health webinar professional boundaries modern healthcare December 2026",
+   "summary_zh": "華盛頓大學 Harborview 行為健康研究所免費每月 TeleBehavioral Health 網上講座系列，2026 年 12 月 18 日星期五 11:00–12:00（太平洋時間，約香港時間 12 月 19 日 03:00–04:00），由 Jennifer Piel（醫學博士、法學博士）主講「從文字到接觸：現代醫療的專業界線管理」。系列開放予所有為精神健康與物質使用人士提供服務者，以 Zoom 舉行，每場須個別登記。費用全免。",
+   "summary_en": "The University of Washington's Harborview Behavioral Health Institute runs a free monthly TeleBehavioral Health webinar series; the next session is Friday 18 December 2026, 11:00 a.m.-12:00 p.m. Pacific time (about 3:00-4:00 a.m. Hong Kong time on 19 December), with Jennifer Piel, MD, JD, presenting 'From Text to Touch: Managing Professional Boundaries in Modern Healthcare'. The series is open to anyone providing services to people living with mental health and substance use issues, is held on Zoom, and each session needs separate registration. Attendance is free.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "專業界線",
+    "遙距醫療",
+    "免費培訓",
+    "網上講座"
+   ],
+   "first_seen_at": "2026-11-15T13:35:18+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-15T13:35:18+00:00",
+   "training": {
+    "provider": "Harborview Behavioral Health Institute（華盛頓大學）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-12-18 11:00–12:00（太平洋時間，約香港時間 12 月 19 日 03:00–04:00）",
+    "format": "線上直播（Zoom）"
+   },
+   "deadline_soon": false
+  },
   {
    "slug": "screen-use-child-adolescent-development-mental-health-outcom",
    "title_zh": "屏幕時間愈多，兒童學業與語言愈弱、情緒行為問題愈多：281 萬名兒童傘狀回顧，效應細小",
