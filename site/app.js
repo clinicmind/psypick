@@ -303,10 +303,7 @@
   var FSTR = {
     zh: {
       navFamily: "親子", famTitle: "親子版", famSub: "給港澳家長的親職、兒童發展與親子活動資訊，整理自政府、專業機構和大學的公開資料。",
-      famTabHome: "精選", famTabRead: "親職文章", famTabEvents: "親子活動", famTabHelp: "發展與求助", famTabDeals: "網購優惠",
-      famDealsSub: "每週整理淘寶和 HKTVmall 的優惠碼與折扣，只收和家庭、孩子有關或全場通用的，不收嬰兒奶粉和嬰幼兒食品。優惠由平台或第三方發布，使用前請在結帳頁確認。",
-      famAllPlatforms: "全部平台", famAllCats: "全部類別", famCode: "優惠碼", famNoCode: "毋須優惠碼", famCopy: "複製", famCopied: "已複製",
-      famValid: "有效期", famMinSpend: "最低消費", famConditions: "條件", famHowTo: "使用方法", famExpired: "已過期（{n}）", famNoDeals: "目前沒有收錄的優惠。", famDeal: "優惠資訊", famUntil: "至 {d}",
+      famTabHome: "精選", famTabRead: "親職文章", famTabEvents: "親子活動", famTabHelp: "發展與求助",
       famThisWeek: "本週和近期活動", famLatest: "最新文章", famByAge: "按年齡看", famMore: "看全部 →",
       famAllAges: "全部年齡", famAllTopics: "全部主題", famAllRegions: "全部地區", famSearch: "搜尋文章…",
       famWhenAll: "全部日期", famWeek: "本週", famNextWeek: "下週", famMonth: "本月", famFreeOnly: "只看免費",
@@ -319,10 +316,7 @@
     },
     en: {
       navFamily: "Parents", famTitle: "For Parents", famSub: "Parenting, child development and family activities for Hong Kong and Macau, drawn from public sources by governments, professional bodies and universities.",
-      famTabHome: "Highlights", famTabRead: "Articles", famTabEvents: "Activities", famTabHelp: "Development & help", famTabDeals: "Online deals",
-      famDealsSub: "Weekly Taobao and HKTVmall promo codes and discounts for family and children's items or store-wide use. No infant formula or baby food deals. Codes come from the platforms or third parties; check at checkout.",
-      famAllPlatforms: "All platforms", famAllCats: "All categories", famCode: "Code", famNoCode: "No code needed", famCopy: "Copy", famCopied: "Copied",
-      famValid: "Valid", famMinSpend: "Minimum spend", famConditions: "Conditions", famHowTo: "How to use", famExpired: "Expired ({n})", famNoDeals: "No deals listed right now.", famDeal: "Deal details", famUntil: "until {d}",
+      famTabHome: "Highlights", famTabRead: "Articles", famTabEvents: "Activities", famTabHelp: "Development & help",
       famThisWeek: "Activities this week and soon", famLatest: "Latest articles", famByAge: "Browse by age", famMore: "See all →",
       famAllAges: "All ages", famAllTopics: "All topics", famAllRegions: "All regions", famSearch: "Search articles…",
       famWhenAll: "Any date", famWeek: "This week", famNextWeek: "Next week", famMonth: "This month", famFreeOnly: "Free only",
@@ -354,9 +348,7 @@
   function famDateText(it) {
     var r = actRange(it); return r[1] && r[1] !== r[0] ? r[0] + " – " + r[1] : r[0];
   }
-  function dealDates(dl) { return (dl.valid_from ? dl.valid_from + " – " : "") + dl.valid_to; }
   function famCard(it) {
-    if (it.deal) return dealCard(it);
     if (it.bounty) return bountyCard(it);
     var a = it.activity, badges = [];
     badges.push('<span class="badge">' + esc(it.region) + "</span>");
@@ -372,38 +364,6 @@
       '<p class="card-summary">' + esc(pick(it, "summary")) + "</p>" +
       '<div class="card-meta">' + badges.join("") + "</div></article>";
   }
-  function dealCard(it) {
-    var dl = it.deal, badges = ['<span class="badge">' + esc(dl.platform) + "</span>"];
-    if (dl.category) badges.push('<span class="badge">' + esc(dl.category) + "</span>");
-    if (it.verify_needed) badges.push('<span class="badge badge-warn">' + t("verify") + "</span>");
-    return '<article class="card fam-card fam-deal">' +
-      '<div class="card-author"><span class="cat-avatar fam-avatar" aria-hidden="true">' + esc(dl.platform.charAt(0)) + "</span>" +
-      '<div class="card-author-names"><span class="card-author-name">' + esc(dl.platform) + "</span><time>" + esc(t("famUntil", { d: dl.valid_to })) + "</time></div></div>" +
-      '<h3 class="card-title"><a href="#/family/item/' + encodeURIComponent(it.slug) + '">' + esc(pick(it, "title")) + "</a></h3>" +
-      (dl.discount ? '<div class="deal-discount">' + esc(dl.discount) + "</div>" : "") +
-      codeBox(dl) +
-      (dl.conditions ? '<p class="card-summary">' + esc(dl.conditions) + "</p>" : "") +
-      '<div class="card-meta">' + badges.join("") + "</div></article>";
-  }
-  function codeBox(dl) {
-    if (!dl.code) return '<div class="deal-code deal-nocode">' + t("famNoCode") + "</div>";
-    return '<div class="deal-code"><code>' + esc(dl.code) + '</code><button type="button" class="chip" data-copy="' + esc(dl.code) + '">' + t("famCopy") + "</button></div>";
-  }
-  function renderFamilyDeals() {
-    var all = FAM.items.filter(function (it) { return it.kind === "deal"; });
-    var cats = []; all.forEach(function (it) { var c = it.deal.category; if (c && cats.indexOf(c) < 0) cats.push(c); });
-    var list = all.filter(function (it) {
-      return !it.ended && (!famState.plat || it.deal.platform === famState.plat) && (!famState.dcat || it.deal.category === famState.dcat);
-    }).sort(function (a, b) { return a.deal.valid_to < b.deal.valid_to ? -1 : a.deal.valid_to > b.deal.valid_to ? 1 : 0; });
-    var expired = all.filter(function (it) { return it.ended; });
-    famShell("deals", '<p class="page-sub">' + t("famDealsSub") + '</p><div class="toolbar">' +
-      famChips("plat", FAM.deal_platforms || ["淘寶", "HKTVmall"], famState.plat, t("famAllPlatforms")) +
-      (cats.length > 1 ? famChips("dcat", cats, famState.dcat, t("famAllCats")) : "") + "</div>" +
-      (list.length ? famGrid(list) : '<div class="status-line">' + t("famNoDeals") + "</div>") +
-      (expired.length ? '<details class="archive-fold"><summary>' + t("famExpired", { n: expired.length }) + "</summary>" + expired.map(function (it) {
-        return '<div class="card-row"><span class="cat-dot"></span><a href="#/family/item/' + encodeURIComponent(it.slug) + '">' + esc(pick(it, "title")) + "</a><time>" + esc(it.deal.valid_to) + "</time></div>";
-      }).join("") + "</details>" : ""));
-  }
   function famGrid(list) { return '<div class="masonry">' + list.map(famCard).join("") + "</div>"; }
   function famChips(name, values, cur, allLabel, label) {
     return '<div class="chip-row">' + '<button class="chip' + (cur ? "" : " on") + '" data-fam="' + name + '" data-v="">' + esc(allLabel) + "</button>" +
@@ -413,7 +373,7 @@
       }).join("") + "</div>";
   }
   function famShell(tab, body) {
-    var tabs = [["", "famTabHome"], ["read", "famTabRead"], ["events", "famTabEvents"], ["deals", "famTabDeals"], ["help", "famTabHelp"]];
+    var tabs = [["", "famTabHome"], ["read", "famTabRead"], ["events", "famTabEvents"], ["help", "famTabHelp"]];
     app.innerHTML = '<h2 class="page-title">' + t("famTitle") + '</h2><p class="page-sub">' + t("famSub") + "</p>" +
       '<nav class="fam-tabs">' + tabs.map(function (x) {
         return '<a href="#/family' + (x[0] ? "/" + x[0] : "") + '" class="' + (tab === x[0] ? "on" : "") + '">' + t(x[1]) + "</a>";
@@ -428,15 +388,12 @@
     var soon = famEvents().filter(function (it) { return !it.ended && actRange(it)[0] <= addDays(FAM.today, 13); }).sort(byStart).slice(0, 6);
     if (soon.length < 3) soon = famEvents().filter(function (it) { return !it.ended; }).sort(byStart).slice(0, 6);
     var latest = famArticles().sort(byPosted).slice(0, 8);
-    var deals = FAM.items.filter(function (it) { return it.kind === "deal" && !it.ended && !it.verify_needed; })
-      .sort(function (a, b) { return a.deal.valid_to < b.deal.valid_to ? -1 : 1; }).slice(0, 3);
     var ages = '<div class="chip-row">' + FAM.ages.map(function (a) {
       return '<a class="chip" href="#/family/read" data-fam-age="' + esc(a) + '">' + esc(a) + "</a>";
     }).join("") + "</div>";
     famShell("", '<h3 class="week-title">' + t("famByAge") + "</h3>" + ages +
       '<h3 class="week-title">' + t("famThisWeek") + ' <a class="fam-more" href="#/family/events">' + t("famMore") + "</a></h3>" +
       (soon.length ? famGrid(soon) : '<div class="status-line">' + t("famNoEvents") + "</div>") +
-      (deals.length ? '<h3 class="week-title">' + t("famTabDeals") + ' <a class="fam-more" href="#/family/deals">' + t("famMore") + "</a></h3>" + famGrid(deals) : "") +
       '<h3 class="week-title">' + t("famLatest") + ' <a class="fam-more" href="#/family/read">' + t("famMore") + "</a></h3>" +
       (latest.length ? famGrid(latest) : '<div class="status-line">' + t("famNoItems") + "</div>"));
   }
@@ -448,7 +405,7 @@
   function renderFamilyRead() {
     famShell("read", '<div class="toolbar"><input class="search" id="fam-search" type="search" placeholder="' + t("famSearch") + '" value="' + esc(famState.q) + '">' +
       famChips("age", FAM.ages, famState.age, t("famAllAges")) +
-      famChips("topic", FAM.topics.filter(function (x) { return x !== "親子活動" && x !== "優惠"; }), famState.topic, t("famAllTopics")) +
+      famChips("topic", FAM.topics.filter(function (x) { return x !== "親子活動"; }), famState.topic, t("famAllTopics")) +
       famChips("region", FAM.regions, famState.region, t("famAllRegions")) + '</div><div id="fam-results"></div>');
     famReadResults();
     document.getElementById("fam-search").addEventListener("input", function (e) { famState.q = e.target.value; famReadResults(); });
@@ -529,19 +486,13 @@
       main += '<h3 class="section-title">' + t("famAct") + '</h3><div class="panel"><dl class="kv">' +
         rows.filter(function (r) { return r[1]; }).map(function (r) { return "<dt>" + t(r[0]) + "</dt><dd>" + linkify(r[1]) + "</dd>"; }).join("") + "</dl></div>";
     }
-    var dl = it.deal;
-    if (dl) {
-      var drows = [["famCode", dl.code || t("famNoCode")], ["famValid", dealDates(dl)], ["famMinSpend", dl.min_spend], ["famConditions", dl.conditions], ["famHowTo", dl.how_to_use], ["famChecked", dl.last_checked]];
-      main += '<h3 class="section-title">' + t("famDeal") + "</h3>" + (dl.code ? codeBox(dl) : "") + '<div class="panel"><dl class="kv">' +
-        drows.filter(function (r) { return r[1]; }).map(function (r) { return "<dt>" + t(r[0]) + "</dt><dd>" + esc(r[1]) + "</dd>"; }).join("") + "</dl></div>";
-    }
     if ((it.tips || []).length) main += '<h3 class="section-title">' + t("famTips") + "</h3><ul>" + it.tips.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul>";
     if (it.when_to_seek_help) main += '<h3 class="section-title">' + t("famSeekHelp") + '</h3><div class="panel fam-seek">' + linkify(it.when_to_seek_help) + "</div>";
     main += '<h3 class="section-title">' + t("source") + '</h3><div class="source-post"><div class="handle">' + esc([it.org, it.source_type].filter(Boolean).join(" · ")) + "</div>" +
       (it.source_title ? "<b>" + esc(it.source_title) + "</b><br>" : "") +
       (safeUrl(it.url) ? '<a href="' + esc(it.url) + '" target="_blank" rel="noopener noreferrer">' + t("openSource") + "</a>" : "") + "</div>" +
       '<p class="ref">' + t("famAI") + "</p>";
-    var back = dl ? "#/family/deals" : a ? "#/family/events" : "#/family/read";
+    var back = a ? "#/family/events" : "#/family/read";
     app.innerHTML = '<div class="detail-page"><p style="margin-top:16px"><a href="' + back + '" id="back">' + t("back") + "</a></p><div class=\"fam-detail\">" + main + "</div>" +
       '<p class="fam-disclaimer">' + t("famDisclaimer") + "</p></div>";
     document.getElementById("back").addEventListener("click", goBack);
@@ -554,7 +505,6 @@
       if (sub === "read") return renderFamilyRead();
       if (sub === "events") return renderFamilyEvents();
       if (sub === "help") return renderFamilyHelp();
-      if (sub === "deals") return renderFamilyDeals();
       renderFamilyHome();
     });
   }
@@ -583,7 +533,7 @@
       '<div class="card-author-names"><span class="card-author-name">' + esc(b.organizer || it.org) + "</span><time>" +
       esc(b.deadline ? t("bDeadline") + " " + b.deadline : t("bNoDeadline")) + "</time></div></div>" +
       '<h3 class="card-title"><a href="#/bounty/' + encodeURIComponent(it.slug) + '">' + esc(pick(it, "title")) + "</a></h3>" +
-      '<div class="deal-discount">' + esc(b.reward) + "</div>" +
+      '<div class="reward-amount">' + esc(b.reward) + "</div>" +
       '<div class="training-line">' + [esc(b.eligibility), esc(b.duration)].filter(Boolean).join(" · ") + "</div>" +
       '<p class="card-summary">' + esc(pick(it, "summary")) + "</p>" +
       '<div class="card-meta">' + badges.join("") + "</div></article>";
@@ -914,7 +864,7 @@
         renderBounty(); return;
       }
       if (fk === "free") famState.free = !famState.free; else famState[fk] = famState[fk] === fv ? null : fv;
-      if (location.hash === "#/family/read") renderFamilyRead(); else if (location.hash === "#/family/deals") renderFamilyDeals(); else renderFamilyEvents();
+      if (location.hash === "#/family/read") renderFamilyRead(); else renderFamilyEvents();
       return;
     }
     var fage = e.target.closest("[data-fam-age]");

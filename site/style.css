@@ -143,13 +143,9 @@ a.chip { text-decoration: none; }
 .fam-help-item a { color: var(--primary); }
 .fam-help-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px; }
 .fam-checks li { margin-bottom: 8px; }
-.fam-card.fam-deal { --cat: #c2416b; }
-.deal-discount { font-weight: 700; font-size: 18px; color: #c2416b; margin: 2px 0 6px; }
-.deal-code { display: flex; align-items: center; gap: 8px; margin: 6px 0 10px; flex-wrap: wrap; }
-.deal-code code { font-size: 15px; font-weight: 700; letter-spacing: .04em; padding: 4px 10px; border: 1.5px dashed #c2416b; border-radius: 8px; background: var(--surface-2); word-break: break-all; }
-.deal-nocode { font-size: 13px; color: var(--ink-2); }
+.reward-amount { font-weight: 700; font-size: 18px; color: #c2416b; margin: 2px 0 6px; }
 .fam-card.fam-bounty { --cat: #2f6fb3; }
-.fam-bounty .deal-discount { color: #2f6fb3; }
+.fam-bounty .reward-amount { color: #2f6fb3; }
 .header-nav a.nav-support { color: var(--accent-text); font-weight: 600; }
 .support-note { display: block; width: 100%; }
 .support-note a { color: var(--accent-text); font-weight: 600; }
