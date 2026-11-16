@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T13:35:18+00:00",
+ "generated_at": "2026-11-16T12:36:20+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -647,7 +647,7 @@
    "hot_score": 0.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-11-12T13:37:10+00:00",
    "training": {
@@ -1417,7 +1417,7 @@
    "hot_score": 0.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-11-10T01:28:21+00:00",
    "training": {
@@ -1459,7 +1459,7 @@
    "hot_score": 0.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-11-10T01:28:21+00:00",
    "training": {
@@ -1500,7 +1500,7 @@
    "hot_score": 0.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-11-10T01:28:21+00:00",
    "training": {
@@ -2305,7 +2305,7 @@
    "hot_score": 0.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-11-05T13:45:00+00:00",
    "training": {
@@ -2670,7 +2670,7 @@
    "hot_score": 0.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-11-03T09:30:00+00:00",
    "training": {
@@ -2750,7 +2750,7 @@
    "hot_score": 0.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-11-01T00:00:00+00:00",
    "training": {
@@ -2853,7 +2853,7 @@
    "hot_score": 0.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-10-31T00:00:00+00:00",
    "training": {
@@ -2924,7 +2924,7 @@
    "hot_score": 0.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-10-30T00:00:00+00:00",
    "training": {
@@ -3042,7 +3042,7 @@
    "hot_score": 0.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-10-29T00:00:00+00:00",
    "training": {
@@ -3150,7 +3150,7 @@
    "hot_score": 0.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-10-27T00:00:00+00:00",
    "training": {
@@ -3727,7 +3727,7 @@
    "hot_score": 0.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-10-28T08:01:01+00:00",
    "training": {
@@ -3766,7 +3766,7 @@
    "hot_score": 0.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-10-28T08:01:01+00:00",
    "training": {
@@ -4234,7 +4234,7 @@
    "hot_score": 4.0,
    "mention_count": 1,
    "featured_at": "2026-10-16T02:38:03+00:00",
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": true,
    "date": "2026-10-06T02:37:46+00:00",
    "training": {
@@ -4653,7 +4653,7 @@
    "hot_score": 3.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": true,
    "date": "2026-10-05T03:24:52+00:00",
    "training": {
@@ -5621,7 +5621,7 @@
    "hot_score": 4.0,
    "mention_count": 1,
    "featured_at": "2026-10-16T02:38:03+00:00",
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-10-03T01:09:46+00:00",
    "training": {
@@ -8654,7 +8654,7 @@
    "hot_score": 2.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-09-30T13:03:54+00:00",
    "training": {
@@ -8776,7 +8776,7 @@
    "hot_score": 1.0,
    "mention_count": 1,
    "featured_at": null,
-   "tier": "live",
+   "tier": "archive",
    "has_ethics_flags": false,
    "date": "2026-09-30T13:03:54+00:00",
    "training": {

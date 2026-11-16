@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T10:26:46+00:00",
+ "generated_at": "2026-11-16T12:36:20+00:00",
  "today": "2026-11-16",
  "ages": [
   "孕期",
@@ -82,7 +82,7 @@
    "org": "渣打藝趣嘉年華",
    "slug": "standard-chartered-arts-in-the-park-2026",
    "created_at": "2026-11-13T01:16:48+00:00",
-   "ended": false
+   "ended": true
   },
   {
    "kind": "activity",
@@ -132,7 +132,7 @@
    "org": "香港公共圖書館",
    "slug": "parent-child-storytelling-workshop-i-can-do-it-hkpl",
    "created_at": "2026-11-13T01:16:48+00:00",
-   "ended": false
+   "ended": true
   },
   {
    "kind": "activity",
@@ -672,7 +672,7 @@
    "org": "香港非物質文化遺產辦事處",
    "slug": "intangible-cultural-heritage-family-fun-day-hong-kong-museum",
    "created_at": "2026-11-06T01:15:33+00:00",
-   "ended": false
+   "ended": true
   },
   {
    "kind": "activity",
@@ -861,7 +861,7 @@
    "org": "澳門環境保護局",
    "slug": "macau-ecozone-november-parent-child-nature-classroom-worksho",
    "created_at": "2026-10-30T01:16:15+00:00",
-   "ended": false
+   "ended": true
   },
   {
    "kind": "activity",
@@ -1418,7 +1418,7 @@
    "org": "shemom.com",
    "slug": "innocarnival-2026",
    "created_at": "2026-10-16T02:38:03+00:00",
-   "ended": false
+   "ended": true
   },
   {
    "kind": "activity",
@@ -1643,7 +1643,7 @@
    "org": "香港科學館",
    "slug": "magnetism-electricity-workshop-for-kids-hong-kong-science-mu",
    "created_at": "2026-10-05T03:24:52+00:00",
-   "ended": false
+   "ended": true
   },
   {
    "kind": "activity",
@@ -1741,7 +1741,7 @@
    "org": "香港公共圖書館",
    "slug": "parent-child-storytelling-workshop-i-can-do-it-hong-kong-cen",
    "created_at": "2026-10-05T03:24:52+00:00",
-   "ended": false
+   "ended": true
   },
   {
    "kind": "activity",
@@ -1940,55 +1940,6 @@
    "slug": "growing-with-books-parent-child-reading-sessions-macao-publi",
    "created_at": "2026-10-05T03:24:52+00:00",
    "ended": false
-  },
-  {
-   "kind": "activity",
-   "title_zh": "澳門政府總部開放日 2026（10 月 10–11 日）",
-   "title_en": "Macao Government Headquarters Open Day 2026",
-   "summary_zh": "澳門政府總部 10 月 10 至 11 日開放，有以「自然共融 和諧澳門」為主題的花卉佈置（20 多種花卉和蝴蝶友善植物）、禮賓大樓參觀、治安警察局銀樂隊表演和紀念郵戳。免費入場，毋須報名，適合一家大小周末走走。",
-   "summary_en": "Free open day at Macao Government Headquarters on 10–11 Oct with floral displays, building tours, band performances and commemorative postmarks; no registration.",
-   "ages": [
-    "3-6歲",
-    "6-12歲",
-    "12-18歲"
-   ],
-   "topic": "親子活動",
-   "region": "澳門",
-   "tips": [
-    "場內不准攜帶寵物、雨傘、飲品和食物，也不准用自拍桿。",
-    "經南灣大馬路入口進場；查詢可看 openday.dsasg.gov.mo 或辦公時間致電 2872 6886。"
-   ],
-   "when_to_seek_help": "",
-   "source_type": "政府",
-   "posted_at": "2026-09-30",
-   "tags": [
-    "開放日",
-    "周末好去處",
-    "免費"
-   ],
-   "verify_needed": false,
-   "verify_reason": "",
-   "activity": {
-    "date_start": "2026-10-10",
-    "date_end": "2026-10-11",
-    "time": "上午 9:00 至下午 6:00（中午不休息）",
-    "venue": "澳門政府總部（南灣湖畔，經南灣大馬路進入）",
-    "price": "免費入場",
-    "free": true,
-    "age_range": "公眾人士",
-    "signup": "毋須報名",
-    "deadline": "",
-    "organizer": "政府新聞局",
-    "last_checked": "2026-10-05"
-   },
-   "deal": null,
-   "bounty": null,
-   "url": "https://www.gov.mo/zh-hant/news/1269272/",
-   "source_title": "政府總部歡迎您！ 2026開放日下月10日、11日舉行",
-   "org": "澳門政府新聞局",
-   "slug": "macao-government-headquarters-open-day-2026",
-   "created_at": "2026-10-05T03:24:52+00:00",
-   "ended": true
   },
   {
    "kind": "article",
@@ -3252,52 +3203,6 @@
   },
   {
    "kind": "activity",
-   "title_zh": "週五科普繪本遊樂園（第10期）",
-   "title_en": "Friday Picture-Book Play Park (Term 10)",
-   "summary_zh": "澳門科學館「週五科普繪本遊樂園」（第 10 期）每逢週五舉行，以繪本結合科普遊戲帶幼兒玩中學，10 月 11 日結束本期。",
-   "summary_en": "Macao Science Center's Friday picture-book play park (10th edition) for young children runs until 11 October 2026.",
-   "ages": [
-    "1-3歲",
-    "3-6歲"
-   ],
-   "topic": "親子活動",
-   "region": "澳門",
-   "tips": [
-    "本期至10月11日，想參加盡快查詢名額"
-   ],
-   "when_to_seek_help": "",
-   "source_type": "政府",
-   "posted_at": "",
-   "tags": [
-    "繪本",
-    "科普"
-   ],
-   "verify_needed": true,
-   "verify_reason": "page_date 缺或格式錯（已標待查證）",
-   "activity": {
-    "date_start": "2026-07-26",
-    "date_end": "2026-10-11",
-    "time": "週五",
-    "venue": "澳門科學館",
-    "price": "",
-    "free": false,
-    "age_range": "",
-    "signup": "詳見科學館官網",
-    "deadline": "",
-    "organizer": "澳門科學館",
-    "last_checked": "2026-10-03"
-   },
-   "deal": null,
-   "bounty": null,
-   "url": "https://www.msc.org.mo/zh",
-   "source_title": "澳門科學館 CENTRO DE CIENCIA DE MACAU",
-   "org": "澳門科學館",
-   "slug": "friday-picture-book-play-park-term-10",
-   "created_at": "2026-10-03T01:09:46+00:00",
-   "ended": true
-  },
-  {
-   "kind": "activity",
    "title_zh": "「麥麥」體驗館",
    "title_en": "Mak Mak Experience Space",
    "summary_zh": "旅遊局吉祥物「麥麥」體驗館在議事亭前地利斯大廈開放，免費入場，平日中午 12 點至下午 6 點，適合順路帶孩子打卡體驗。",
@@ -3339,98 +3244,6 @@
    "source_title": "澳門展覽活動2026｜未來 41 個，34 個免費，每日更新｜萌友",
    "org": "萌友 MoeFriends",
    "slug": "mak-mak-experience-space",
-   "created_at": "2026-10-03T01:09:46+00:00",
-   "ended": true
-  },
-  {
-   "kind": "activity",
-   "title_zh": "漫遊星境 尋夢小王子",
-   "title_en": "Journey to the Stars: The Little Prince",
-   "summary_zh": "以《小王子》為主題的「漫遊星境 尋夢小王子」在澳門巴黎人展出至 10 月 11 日，免費，孩子可走進小王子的星球世界。",
-   "summary_en": "Little Prince themed exhibition at The Parisian Macao runs until 11 October; free entry, suitable for families.",
-   "ages": [
-    "3-6歲",
-    "6-12歲"
-   ],
-   "topic": "親子活動",
-   "region": "澳門",
-   "tips": [
-    "展期只到10月11日，把握最後一週"
-   ],
-   "when_to_seek_help": "",
-   "source_type": "非牟利",
-   "posted_at": "",
-   "tags": [
-    "展覽",
-    "小王子"
-   ],
-   "verify_needed": true,
-   "verify_reason": "資料由第三方聚合網站萌友整理，未在主辦方官方頁確認；page_date 缺或格式錯（已標待查證）",
-   "activity": {
-    "date_start": "2026-10-03",
-    "date_end": "2026-10-11",
-    "time": "",
-    "venue": "澳門巴黎人",
-    "price": "免費",
-    "free": true,
-    "age_range": "",
-    "signup": "詳見官網",
-    "deadline": "",
-    "organizer": "金沙中國",
-    "last_checked": "2026-10-03"
-   },
-   "deal": null,
-   "bounty": null,
-   "url": "https://moefriends.com/topic/exhibition/",
-   "source_title": "澳門展覽活動2026｜未來 41 個，34 個免費，每日更新｜萌友",
-   "org": "萌友 MoeFriends",
-   "slug": "journey-to-the-stars-the-little-prince",
-   "created_at": "2026-10-03T01:09:46+00:00",
-   "ended": true
-  },
-  {
-   "kind": "activity",
-   "title_zh": "樂享·藝博館 ── 東西觀瀾",
-   "title_en": "Enjoy the Museum: East and West Views",
-   "summary_zh": "澳門藝術博物館在 10 月 4 日（週日）下午 4 點舉行親子活動「樂享·藝博館──東西觀瀾」，地點二樓，免費。",
-   "summary_en": "Free family session at Macao Museum of Art on Sunday 4 October, 16:00-16:30, second floor.",
-   "ages": [
-    "3-6歲",
-    "6-12歲"
-   ],
-   "topic": "親子活動",
-   "region": "澳門",
-   "tips": [
-    "只有一場，準時到達二樓會場"
-   ],
-   "when_to_seek_help": "",
-   "source_type": "政府",
-   "posted_at": "",
-   "tags": [
-    "藝術館",
-    "親子活動"
-   ],
-   "verify_needed": true,
-   "verify_reason": "資料由第三方聚合網站萌友整理，未在藝博館官方頁確認；page_date 缺或格式錯（已標待查證）",
-   "activity": {
-    "date_start": "2026-10-04",
-    "date_end": "2026-10-04",
-    "time": "16:00-16:30",
-    "venue": "澳門藝術博物館二樓",
-    "price": "免費",
-    "free": true,
-    "age_range": "",
-    "signup": "詳見藝博館官網",
-    "deadline": "",
-    "organizer": "澳門藝術博物館",
-    "last_checked": "2026-10-03"
-   },
-   "deal": null,
-   "bounty": null,
-   "url": "https://moefriends.com/topic/exhibition/",
-   "source_title": "澳門展覽活動2026｜未來 41 個，34 個免費，每日更新｜萌友",
-   "org": "萌友 MoeFriends",
-   "slug": "enjoy-the-museum-east-and-west-views",
    "created_at": "2026-10-03T01:09:46+00:00",
    "ended": true
   },
@@ -4215,7 +4028,7 @@
    "org": "澳門公共圖書館（文化局）",
    "slug": "sir-robert-ho-tung-library-guided-tour-for-families",
    "created_at": "2026-10-01T15:47:08+00:00",
-   "ended": false
+   "ended": true
   },
   {
    "kind": "activity",
@@ -4310,7 +4123,7 @@
    "org": "市政署",
    "slug": "iam-guofeng-craft-studio-family-workshops-oct",
    "created_at": "2026-10-01T15:47:08+00:00",
-   "ended": false
+   "ended": true
   },
   {
    "kind": "activity",
@@ -4360,7 +4173,7 @@
    "org": "市政署",
    "slug": "iam-october-nature-activities-for-families",
    "created_at": "2026-10-01T15:47:08+00:00",
-   "ended": false
+   "ended": true
   },
   {
    "kind": "activity",
@@ -4458,7 +4271,7 @@
    "org": "環境保護局",
    "slug": "ecozone-parent-child-nature-classroom-workshop-10-oct",
    "created_at": "2026-10-01T15:47:08+00:00",
-   "ended": false
+   "ended": true
   },
   {
    "kind": "activity",
@@ -4506,7 +4319,7 @@
    "org": "聖公會氹仔青少年及家庭綜合服務中心（經 OursEvents 發布）",
    "slug": "children-s-empathy-building-group-ages-6-9-taipa",
    "created_at": "2026-10-01T15:47:08+00:00",
-   "ended": false
+   "ended": true
   },
   {
    "kind": "article",
@@ -6322,53 +6135,6 @@
   },
   {
    "kind": "activity",
-   "title_zh": "兒童藝術展「騎風的艾可」（展至10月11日）",
-   "title_en": "Children's Art Exhibition 'Echo the Wind Wanderer'",
-   "summary_zh": "以黏土、紙、毛線等日常材料做成、可以觸摸的互動藝術展，分設澳門藝術博物館三樓及美獅美高梅金獅大堂，展期到 10月11日，另有延伸工作坊。",
-   "summary_en": "An interactive, touchable children's art exhibition at the Macao Museum of Art and MGM Cotai, on until 11 Oct, with extension workshops.",
-   "ages": [
-    "3-6歲",
-    "6-12歲"
-   ],
-   "topic": "親子活動",
-   "region": "澳門",
-   "tips": [
-    "部分互動體驗區需自備襪子方可進入",
-    "部分配套活動需透過一戶通提前登記"
-   ],
-   "when_to_seek_help": "",
-   "source_type": "政府",
-   "posted_at": "2026-07-26",
-   "tags": [
-    "藝術",
-    "互動展覽",
-    "兒童藝術節",
-    "藝博館"
-   ],
-   "verify_needed": false,
-   "verify_reason": "",
-   "activity": {
-    "date_start": "2026-07-26",
-    "date_end": "2026-10-11",
-    "time": "",
-    "venue": "澳門藝術博物館三樓展廳；美獅美高梅金獅大堂",
-    "price": "新聞稿未列明（萌友標示免費）",
-    "free": true,
-    "age_range": "兒童及家長",
-    "signup": "展覽毋須報名；部分配套活動經一戶通登記",
-    "deadline": "",
-    "organizer": "文化局",
-    "last_checked": "2026-10-01"
-   },
-   "url": "https://www.gov.mo/zh-hant/news/1253554/",
-   "source_title": "澳門國際兒童藝術節亮點展覽 \"騎風的艾可\"即將開幕",
-   "org": "文化局（澳門藝術博物館）",
-   "slug": "children-s-art-exhibition-echo-the-wind-wanderer",
-   "created_at": "2026-10-01T03:55:03+00:00",
-   "ended": true
-  },
-  {
-   "kind": "activity",
    "title_zh": "動物標本展示館專題導賞：鳥類專題（路環）",
    "title_en": "Animal Specimen Gallery Guided Tour – Birds",
    "summary_zh": "在路環澳門動物標本展示館認識雀鳥，約一小時，以粵語進行。5 至 12 歲兒童須有大人陪同，兒童免費，名額 25 人。",
@@ -6456,7 +6222,7 @@
    "org": "菩提青少年及家庭綜合服務中心",
    "slug": "little-hands-make-toys-pou-tai-centre",
    "created_at": "2026-10-01T03:55:03+00:00",
-   "ended": false
+   "ended": true
   },
   {
    "kind": "article",
@@ -7721,7 +7487,7 @@
    "org": "CHAT六廠（Centre for Heritage, Arts and Textile）",
    "slug": "weave-and-shout-at-chat",
    "created_at": "2026-10-01T03:55:02+00:00",
-   "ended": false
+   "ended": true
   },
   {
    "kind": "activity",
@@ -7769,100 +7535,6 @@
    "slug": "smg-parent-child-weather-activities-october",
    "created_at": "2026-10-01T03:55:02+00:00",
    "ended": false
-  },
-  {
-   "kind": "activity",
-   "title_zh": "文化遺產保護推廣嘉年華2026（祐漢街市公園）",
-   "title_en": "Cultural Heritage Protection Carnival 2026",
-   "summary_zh": "10月3日至4日在祐漢街市公園，有互動遊戲攤位、醒獅、民族舞、魔術表演及兒童遊樂區，完成攤位遊戲可獲紀念品。免費，毋須報名。",
-   "summary_en": "A free two-day carnival at Iao Hon Market Park with game booths, lion dance, magic shows and a children's play area; no registration needed.",
-   "ages": [
-    "3-6歲",
-    "6-12歲"
-   ],
-   "topic": "親子活動",
-   "region": "澳門",
-   "tips": [
-    "毋須報名，自由參與",
-    "完成攤位遊戲可獲紀念品"
-   ],
-   "when_to_seek_help": "",
-   "source_type": "政府",
-   "posted_at": "2026-09-30",
-   "tags": [
-    "文化局",
-    "嘉年華",
-    "文化遺產",
-    "祐漢",
-    "免費"
-   ],
-   "verify_needed": false,
-   "verify_reason": "",
-   "activity": {
-    "date_start": "2026-10-03",
-    "date_end": "2026-10-04",
-    "time": "中午12時至下午6時（10月3日下午4時30分開幕）",
-    "venue": "祐漢街市公園",
-    "price": "免費",
-    "free": true,
-    "age_range": "適合不同年齡人士",
-    "signup": "毋須報名（查詢 2836 6320）",
-    "deadline": "",
-    "organizer": "文化局",
-    "last_checked": "2026-10-01"
-   },
-   "url": "https://www.gov.mo/zh-hant/news/1270448/",
-   "source_title": "文化遺產保護推廣嘉年華2026本周末祐漢街市公園舉行",
-   "org": "文化局",
-   "slug": "cultural-heritage-protection-carnival-2026",
-   "created_at": "2026-10-01T03:55:02+00:00",
-   "ended": true
-  },
-  {
-   "kind": "activity",
-   "title_zh": "兒童舞劇《繁花園舞曲》",
-   "title_en": "Children's Dance Drama 'Waltz of the Blossoming Garden'",
-   "summary_zh": "紫羅蘭舞蹈團製作的兒童舞劇，全長約 60 分鐘，以粵語演出，屬 A 組老少咸宜。10月3日晚上及4日下午各一場。",
-   "summary_en": "A 60-minute Cantonese children's dance drama by the Violet Dance Group, suitable for all ages, on 3–4 Oct.",
-   "ages": [
-    "3-6歲",
-    "6-12歲"
-   ],
-   "topic": "親子活動",
-   "region": "澳門",
-   "tips": [
-    "經澳門票務網購票（電話 2855 5555）",
-    "三人或以上同行、全日制學生及長者有折扣"
-   ],
-   "when_to_seek_help": "",
-   "source_type": "專業機構",
-   "posted_at": "",
-   "tags": [
-    "兒童劇場",
-    "舞蹈",
-    "文化中心"
-   ],
-   "verify_needed": false,
-   "verify_reason": "",
-   "activity": {
-    "date_start": "2026-10-03",
-    "date_end": "2026-10-04",
-    "time": "10月3日（六）19:45；10月4日（日）14:45",
-    "venue": "澳門文化中心小劇院",
-    "price": "澳門幣 200、180",
-    "free": false,
-    "age_range": "A組：老少咸宜",
-    "signup": "澳門票務網",
-    "deadline": "",
-    "organizer": "紫羅蘭舞蹈團",
-    "last_checked": "2026-10-01"
-   },
-   "url": "https://www.ccm.gov.mo/othershow/75972",
-   "source_title": "兒童舞劇《繁花園舞曲》",
-   "org": "澳門文化中心",
-   "slug": "children-s-dance-drama-waltz-of-the-blossoming-garden",
-   "created_at": "2026-10-01T03:55:02+00:00",
-   "ended": true
   },
   {
    "kind": "activity",
