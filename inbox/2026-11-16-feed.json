@@ -1,0 +1,166 @@
+{
+ "format": "psypick-muse-v1",
+ "run_date": "2026-11-16",
+ "items": [
+  {
+   "category": "研究與證據",
+   "evidence_hint": "英格蘭三次全國調查趨勢分析（JCPP）",
+   "evidence_quote": "52% of those with a disorder in 2017",
+   "key_points_zh": [
+    "樣本：英格蘭三次全國概率抽樣調查（1999、2004 年英國兒童青少年精神健康調查，2017 年英格蘭兒童青少年精神健康調查），基線 5 至 13 歲兒童，各有三年追蹤（2002、2007、2020 年）",
+    "方法：基線診斷以 DAWBA 結構化診斷評估按 ICD-10 準則評定，包括焦慮、抑鬱、品行、過度活躍／ADHD、飲食與抽動障礙；三年後困難程度以家長與兒童自評 SDQ 總分及影響補充題量度",
+    "主要結果：三個調查中，基線有診斷的兒童三年後困難分數均較高；關聯強度逐代上升，2017 年組別的家長與兒童自評困難均較 1999 與 2004 年組別更強",
+    "個人變化：1999 年組別 34% 在三年後惡化（SDQ 總分升 3 分或以上），2017 年組別升至 52%；好轉比例相應下降",
+    "限制：觀察性趨勢分析；2020 年追蹤程序與之前不同；未探討惡化原因；只包括英格蘭兒童"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-09-30",
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "change-in-severity-and-impact-of-child-psychiatric-disorders",
+   "source": {
+    "author_name": "Armitage、Newlove-Delgado、Ford、Collishaw 等（卡迪夫大學 Wolfson 中心）",
+    "description": "英格蘭三代追蹤：有精神科診斷的兒童三年後惡化比例由 1999 年 34% 升至 2017 年 52%。",
+    "platform": "web",
+    "title": "Change in the severity and impact of child psychiatric disorders over 3 years: an analysis of trends using the national child mental health surveys of England from 1999, 2004, and 2017 (JCPP; DOI: 10.1111/jcpp.70231)",
+    "url": "https://doi.org/10.1111/jcpp.70231"
+   },
+   "title_zh": "英格蘭三代兒童追蹤：有精神科診斷的兒童三年後惡化比例由 34% 升至 52%"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "244 項隨機對照試驗統合分析（JCPP）",
+   "evidence_quote": "Effect sizes are no longer reducing",
+   "key_points_zh": [
+    "樣本：244 項行為親職課程隨機對照試驗，1,100 個效應量，28,916 個家庭，36 個國家；系統性搜尋 22 個國際與地區數據庫、灰色文獻與 4 個試驗註冊庫",
+    "方法：統合分析，檢視親職課程效果估計值隨時間的變化，並測試試驗、樣本與介入特徵能否解釋趨勢",
+    "主要結果：效果估計值早期下降、其後企穩；近年試驗方法更嚴謹（更多主動對照組、偏倚風險較低）、樣本年齡較大、女童較多、節數較少、較常由獨立人員執行、較少使用暫停法",
+    "趨勢解釋：上述變化均未能解釋早期的效應下降；作者提出可能原因包括課程結構與今日家庭生活配合度下降、網上育兒資訊普及令課程內容較少新意、疊加元素未必有效",
+    "限制：下降原因未解明；異質性高；未直接比較課程內容優劣"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2025-09-18",
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "have-parenting-programs-for-disruptive-child-behavior-become",
+   "source": {
+    "author_name": "Leijten、Melendez-Torres、Gardner、Weisz 等（阿姆斯特丹大學）",
+    "description": "244 項試驗統合分析：親職課程效果估計值早期下降、近年企穩，下降原因未解明。",
+    "platform": "web",
+    "title": "Have parenting programs for disruptive child behavior become less effective? (JCPP 2026;67(1):127-137; DOI: 10.1111/jcpp.70049)",
+    "url": "https://doi.org/10.1111/jcpp.70049"
+   },
+   "title_zh": "親職課程對破壞性行為的效果有冇隨時間減弱？244 項試驗統合分析：早期下降、近年企穩"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "橫斷面結構方程模型研究（PLOS Glob Public Health）",
+   "evidence_quote": "mostly associated with each other",
+   "key_points_zh": [
+    "樣本：埃塞俄比亞 GAGE 計劃 2020 年第二輪數據，1,651 名青少年（901 名女童、750 名男童），中位年齡 13 歲，六個地點",
+    "方法：結構方程模型，檢驗六個性別相關構念（出生指定性別、性別規範、性別態度、性別角色、心理能力）與心理困擾（GHQ-12）的關聯；另以探索與驗證因素分析檢驗新編性別規範量表",
+    "主要結果：14 條路徑中，心理能力與心理困擾、性別與心理困擾、性別與性別態度，以及性別規範與心理能力、性別態度、性別角色之間有顯著關聯",
+    "整體發現：性別相關構念多互相關聯，而非直接與心理困擾關聯；機制須以縱向研究探討",
+    "限制：橫斷面；單一國家；性別認同未能操作化；量表未經當地驗證"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2026-11-10",
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "gendered-pathways-to-adolescent-mental-health-empirical-asse",
+   "source": {
+    "author_name": "Alaze、Hagen、Schamberger、Razum、Miani（Bielefeld 大學）",
+    "description": "埃塞俄比亞 1,651 名青少年：性別相關構念多互相關聯，心理能力與心理困擾關聯最明顯。",
+    "platform": "web",
+    "title": "Gendered pathways to adolescent mental health: An empirical assessment of a new conceptual framework (PLOS Glob Public Health 2026;6(11):e0006728; DOI: 10.1371/journal.pgph.0006728)",
+    "url": "https://doi.org/10.1371/journal.pgph.0006728"
+   },
+   "title_zh": "性別規範如何影響青少年心理健康？埃塞俄比亞 1,651 人研究：心理能力最關鍵"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "丹麥全國登記隊列研究（JCPP）",
+   "evidence_quote": "54-319 additional cases per 1,000",
+   "key_points_zh": [
+    "樣本：丹麥 DANLIFE 隊列 613,643 人（1980 年 1 月 1 日至 1992 年 10 月 2 日出生，追蹤至 30 歲）；按 0 至 15 歲每年逆境暴露分為五組",
+    "方法：全國登記隊列研究，精神健康問題以醫院接觸與精神科藥物使用界定；長期領取福利定義為 25 至 30 歲期間連續領取福利 52 週或以上；因果中介分析分解暴露差異與易感性差異",
+    "主要結果：與低逆境組比較，其餘各組每 1,000 人多 54 至 319 宗長期領取福利個案",
+    "中介效應：高逆境組中，精神健康問題暴露差異佔總效應 15.0%（95% CI 14.4–15.6），易感性差異再佔 9.8%（8.8–10.9）",
+    "限制：登記數據；精神健康界定較窄；丹麥制度背景；中介分析假設較強"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2025-10-03",
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "trajectories-of-childhood-adversity-social-welfare-dependenc",
+   "source": {
+    "author_name": "de Vries、Bennetsen、Elsenburg、Rod 等（哥本哈根大學）",
+    "description": "丹麥 613,643 人追蹤：童年逆境組每 1,000 人多 54 至 319 宗長期領取福利，精神健康問題中介約四分之一效應。",
+    "platform": "web",
+    "title": "Trajectories of childhood adversity, social welfare dependence in young adulthood, and the mediating role of mental health problems: a Danish population-based cohort study (JCPP 2026;67(5):707-717; DOI: 10.1111/jcpp.70062)",
+    "url": "https://doi.org/10.1111/jcpp.70062"
+   },
+   "title_zh": "童年逆境如何影響成年後長期領取福利？丹麥 61 萬人追蹤：精神健康問題中介約四分之一效應"
+  },
+  {
+   "category": "研究與證據",
+   "evidence_hint": "多中心隨機對照試驗（JCPP；2026 最佳論文獎）",
+   "evidence_quote": "RR 0.94 [95% CI 0.70, 1.28]",
+   "key_points_zh": [
+    "樣本：英格蘭八間大型 NHS 信託 CAMHS 轉介的 5 至 17 歲情緒困難兒童青少年 1,225 人（58% 女性），隨機分配 615 人介入組、610 人對照組；試驗註冊 ISRCTN15748675",
+    "方法：多中心雙臂平行隨機對照試驗，介入組接受 DAWBA 標準化診斷評估加常規評估，對照組只接受常規評估；主要結果為隨機分配後 12 個月內臨床醫生作出的情緒障礙診斷",
+    "主要結果：12 個月時獲情緒障礙診斷者介入組 68 人（11%），對照組 72 人（12%），調整風險比 0.94（95% CI 0.70–1.28）；介入組依從率（全部或部分完成）80%（494／615）",
+    "次要結果：介入不具成本效益；服務相關與參加者自評次要結果均無差異；CAMHS 接受轉介比例介入組 45%，對照組 43%（風險比 1.06，95% CI 0.94–1.19）",
+    "限制：務實性試驗，未追蹤臨床醫生使用 DAWBA 報告的程度；只包括非緊急轉介；英格蘭 CAMHS 場景"
+   ],
+   "kind": "research",
+   "model_names": [],
+   "page_date": "2025-01-07",
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "published": true,
+   "slug": "clinical-and-cost-effectiveness-of-standardised-diagnostic-a",
+   "source": {
+    "author_name": "Sayal、Wyatt、Partlett、Montgomery 等（諾定咸大學）",
+    "description": "STADIA 試驗：1,225 名 CAMHS 轉介兒童，DAWBA 加常規評估與只常規評估的診斷率相若（11% 對 12%），獲 JCPP 2026 最佳論文獎。",
+    "platform": "web",
+    "title": "The clinical and cost effectiveness of a STAndardised DIagnostic Assessment for children and adolescents with emotional difficulties: the STADIA multi-centre randomised controlled trial (JCPP 2025;66(6):805-820; DOI: 10.1111/jcpp.14090)",
+    "url": "https://doi.org/10.1111/jcpp.14090"
+   },
+   "title_zh": "DAWBA 標準化診斷評估無助 CAMHS 情緒困難兒童診斷：1,225 人 RCT，獲 JCPP 2026 最佳論文獎"
+  }
+ ],
+ "skipped": [
+  "ABCD 青少年與照顧者診斷不一致研究（JAMA Psychiatry 2026-11-11）：站內已有（2026-11-12 上架）",
+  "Harborview 長者認知評估講座（11/20）：站內已有（2026-11-09 上架）",
+  "情感生成式 AI 使用與青少年心理健康（JAMA Pediatrics 2026-08-31）：站內已有（2026-11-11 上架）",
+  "美國青少年焦慮症狀全國調查（JAMA Pediatrics 2026-10-12）：站內已有（2026-11-06 上架）",
+  "屏幕時間傘狀回顧（JAMA Pediatrics 2026-09-28）：站內已有",
+  "青少年荷爾蒙治療後悔追蹤（JAMA Pediatrics 2026-11-09）：站內已有",
+  "Schellhas 兒童內化症狀表觀遺傳統合分析（JCPP，2026 年 6 月 16 日網上刊出）：零結果、技術性較高，臨床應用有限，今次未收",
+  "Tomlinson 冷酷無情特質雙生子研究（JCPP 2026）：無近期新聞契機，今次未收",
+  "Kate Walker 免費 CE 講座（11/19）：美國德州 CE 制度為主，地域太窄",
+  "CORE-BD 雙相障礙網上講座（11/18）：未及開原頁核實講者與報名細節，留待巡查"
+ ],
+ "unreachable_sources": [],
+ "notes": "Feed 工具在本 run 不可用（與 11-01 至 11-15 run 相同），候選經公開搜尋標題預篩、逐項開原頁核實。五則全為研究：Armitage 英格蘭世代趨勢（2026 年 9 月 30 日網上刊出；觀察性趨勢分析，2020 年追蹤程序不同已列明）；Leijten 親職課程統合分析（244 項試驗；效應下降原因未解明已列明）；PLOS 性別路徑研究（2026 年 11 月 10 日刊出；橫斷面、單一國家已列明）；de Vries 丹麥登記隊列（613,643 人；中介分析假設已列明）；STADIA 試驗（JCPP 2026 最佳論文獎，2026 年 11 月 12 日公布；務實性試驗、未追蹤醫生使用 DAWBA 報告程度已列明；倫理旗標：篩檢與標籤）。底本為真網站 2026-11-16T12:36:20 版（index 263 則）；推送前核對 main HEAD：0958bfa5「T1-4」為最新，遠端 index.json 與底本一致（雜湊相同）。"
+}
