@@ -45,13 +45,14 @@
   "ce_credits": "",
   "deadline": "",
   "event_date": "2026-11-20",
-  "format": "線上",
+  "format": "線上直播",
   "language": "English",
   "price": "免費",
   "price_tier": "免費",
   "provider": "Mind HK",
   "signup_url": "",
-  "topic": "文化期望與發聲"
+  "topic": "文化期望與發聲",
+  "format_note": "線上"
  },
  "posts": [
   {

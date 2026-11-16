@@ -36,13 +36,14 @@
   "ce_credits": "另收費（頁面原文：available for a fee）",
   "deadline": "",
   "event_date": "2026-11-03",
-  "format": "線上",
+  "format": "線上直播",
   "language": "英語",
   "price": "免費（直播與重播免費；CE 學分與 CCTP 證書另收費）",
   "price_tier": "免費",
   "provider": "PESI",
   "signup_url": "https://www.pesi.com/sales/bh_s_151122_cctpfreebie_sq_global_partner_affiliate_david_webb-2545197/",
-  "topic": "創傷神經科學與創傷後成長"
+  "topic": "創傷神經科學與創傷後成長",
+  "format_note": "線上"
  },
  "posts": [
   {

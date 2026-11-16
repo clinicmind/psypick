@@ -43,8 +43,10 @@
   "ce_credits": "1 CE Hour（NBCC、PA SW、LPC、LMFT、心理學家；須全程出席）",
   "language": "英語",
   "deadline": "",
-  "event_date": "2026-11-18 12:00–13:00（美國東部時間）",
-  "format": "線上直播（Zoom）"
+  "event_date": "2026-11-18",
+  "format": "線上直播",
+  "event_time_note": "12:00–13:00（美國東部時間）",
+  "format_note": "線上直播（Zoom）"
  },
  "posts": [
   {

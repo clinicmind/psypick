@@ -39,13 +39,14 @@
   "ce_credits": "1",
   "deadline": "",
   "event_date": "2026-11-10",
-  "format": "線上（網上直播）",
+  "format": "線上直播",
   "language": "英語",
   "price": "會員免費，非會員 $39",
   "price_tier": "低價",
   "provider": "Chi Sigma Iota",
   "signup_url": "",
-  "topic": "健康輔導"
+  "topic": "健康輔導",
+  "format_note": "線上（網上直播）"
  },
  "posts": [
   {

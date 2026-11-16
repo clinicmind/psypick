@@ -42,10 +42,11 @@
   "language": "中文",
   "deadline": "2026-11-06",
   "event_date": "2026-11-12",
-  "format": "線上視訊（Microsoft Teams）",
+  "format": "線上直播",
   "audience_level": "孕產婦照護人員",
   "signup_url": "https://forms.gle/Z1nEyFh19WS1bssA6",
-  "topic": "正念自我疼惜於孕產期心理照護"
+  "topic": "正念自我疼惜於孕產期心理照護",
+  "format_note": "線上視訊（Microsoft Teams）"
  },
  "posts": [
   {

@@ -40,13 +40,14 @@
   "ce_credits": "3",
   "deadline": "",
   "event_date": "2026-11-10",
-  "format": "線上（網上直播）",
+  "format": "線上直播",
   "language": "英語",
   "price": "$27",
   "price_tier": "低價",
   "provider": "Drexel University College of Medicine, Behavioral Healthcare Education",
   "signup_url": "",
-  "topic": "希望、靈性與心理健康"
+  "topic": "希望、靈性與心理健康",
+  "format_note": "線上（網上直播）"
  },
  "posts": [
   {

@@ -51,7 +51,7 @@
  "original_prompt": "",
  "training": {
   "provider": "Telehealth Certification Institute",
-  "format": "線上直播（webinar）",
+  "format": "線上直播",
   "price": "免費",
   "price_tier": "免費",
   "ce_credits": "1.5 小時 CE（APA、NBCC、ASWB ACE、NAADAC、紐約州相關委員會認可）",
@@ -60,7 +60,8 @@
   "deadline": "",
   "audience_level": "臨床督導與行為健康臨床工作者",
   "topic": "督導中的困難處理：從擔憂到補救（Amie Bryant 主講）",
-  "signup_url": "https://www.telementalhealthtraining.com/product/clinical-supervision-forum-live-online-webinar-series"
+  "signup_url": "https://www.telementalhealthtraining.com/product/clinical-supervision-forum-live-online-webinar-series",
+  "format_note": "線上直播（webinar）"
  },
  "posts": [
   {

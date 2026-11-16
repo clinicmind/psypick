@@ -42,10 +42,11 @@
   "language": "英語",
   "deadline": "",
   "event_date": "2026-11-11",
-  "format": "線上直播（Zoom）",
+  "format": "線上直播",
   "audience_level": "心理健康專業人員",
   "signup_url": "https://us02web.zoom.us/webinar/register/WN_m8etla53Tv6eCM_PDroQ1Q",
-  "topic": "情緒調節：辨識困難、調節自身情緒、協助來訪者調節情緒"
+  "topic": "情緒調節：辨識困難、調節自身情緒、協助來訪者調節情緒",
+  "format_note": "線上直播（Zoom）"
  },
  "posts": [
   {

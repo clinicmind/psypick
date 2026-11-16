@@ -38,13 +38,14 @@
   "ce_credits": "up to 3 CE hours（須另購 CE 升級方案）",
   "deadline": "",
   "event_date": "2026-10-21",
-  "format": "線上直播（含 3 天免費回放）",
+  "format": "線上直播",
   "language": "英語",
   "price": "0 USD",
   "price_tier": "免費",
   "provider": "PESI（主講：Daniel J. Siegel, MD）",
   "signup_url": "https://www.pesi.com/sales/bh_s_110000_dansiegelmindsight_organic-2485170/",
-  "topic": "人際神經生物學；治療師臨場感、調節、共鳴與整合"
+  "topic": "人際神經生物學；治療師臨場感、調節、共鳴與整合",
+  "format_note": "線上直播（含 3 天免費回放）"
  },
  "posts": [
   {

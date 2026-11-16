@@ -42,8 +42,10 @@
   "ce_credits": "",
   "language": "英語",
   "deadline": "",
-  "event_date": "2026-12-18 11:00–12:00（太平洋時間，約香港時間 12 月 19 日 03:00–04:00）",
-  "format": "線上直播（Zoom）"
+  "event_date": "2026-12-18",
+  "format": "線上直播",
+  "event_time_note": "11:00–12:00（太平洋時間，約香港時間 12 月 19 日 03:00–04:00）",
+  "format_note": "線上直播（Zoom）"
  },
  "posts": [
   {

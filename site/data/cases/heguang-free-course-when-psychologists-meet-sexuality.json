@@ -39,14 +39,15 @@
   "provider": "荷光性諮商性健康聯盟",
   "topic": "當心理師遇見「性」：性諮商專業共學課",
   "event_date": "2026-11-10",
-  "format": "線上直播（Zoom）",
+  "format": "線上直播",
   "language": "中文（繁體）",
   "price": "免費",
   "price_tier": "免費",
   "audience_level": "心理、諮商、臨床研究生、實習心理師及心理師",
   "signup_url": "https://www.beonesexhealth.com/product/psychologists-and-sexuality/",
   "deadline": "",
-  "ce_credits": ""
+  "ce_credits": "",
+  "format_note": "線上直播（Zoom）"
  },
  "posts": [
   {

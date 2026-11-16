@@ -48,13 +48,14 @@
   "ce_credits": "",
   "deadline": "",
   "event_date": "2026-10-22",
-  "format": "線上直播（Live Webcast）",
+  "format": "線上直播",
   "language": "",
   "price": "$0.00（原價 $249.99）",
   "price_tier": "免費",
   "provider": "Psychotherapy Networker",
   "signup_url": "https://catalog.psychotherapynetworker.org/viewer/classroom/53052511/?gid=124306",
-  "topic": "EMDR、部分工作、身體取向技巧治療複雜性創傷"
+  "topic": "EMDR、部分工作、身體取向技巧治療複雜性創傷",
+  "format_note": "線上直播（Live Webcast）"
  },
  "posts": [
   {

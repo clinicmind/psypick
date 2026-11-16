@@ -40,13 +40,14 @@
   "ce_credits": "",
   "deadline": "",
   "event_date": "2026-11-10",
-  "format": "線上（網上講座）",
+  "format": "線上直播",
   "language": "英語",
   "price": "免費",
   "price_tier": "免費",
   "provider": "Brain & Behavior Research Foundation",
   "signup_url": "",
-  "topic": "自殺意念預測與治療反應"
+  "topic": "自殺意念預測與治療反應",
+  "format_note": "線上（網上講座）"
  },
  "posts": [
   {

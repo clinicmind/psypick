@@ -37,7 +37,7 @@
  "original_prompt": "",
  "training": {
   "provider": "IEEE Biometrics Council",
-  "format": "線上直播（Zoom）",
+  "format": "線上直播",
   "price": "免費",
   "price_tier": "免費",
   "ce_credits": "",
@@ -46,7 +46,8 @@
   "deadline": "",
   "audience_level": "行為與臨床科學研究者、從業人員、學生",
   "topic": "設計行為與臨床科學的計算工具（Albert Ali Salah 主講）",
-  "signup_url": "https://us06web.zoom.us/webinar/register/WN_uaf_6-kfQq-J7fuFt6coKA"
+  "signup_url": "https://us06web.zoom.us/webinar/register/WN_uaf_6-kfQq-J7fuFt6coKA",
+  "format_note": "線上直播（Zoom）"
  },
  "posts": [
   {

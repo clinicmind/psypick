@@ -41,8 +41,9 @@
   "ce_credits": "CE 學分須另付費（頁面未註明學分時數）",
   "language": "英語",
   "deadline": "",
-  "event_date": "2026-11-13 12:00（美國東部時間），90 分鐘",
-  "format": "線上直播"
+  "event_date": "2026-11-13",
+  "format": "線上直播",
+  "event_time_note": "12:00（美國東部時間），90 分鐘"
  },
  "posts": [
   {

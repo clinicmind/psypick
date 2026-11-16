@@ -43,8 +43,9 @@
   "ce_credits": "",
   "language": "英語",
   "deadline": "",
-  "event_date": "2026-12-16 13:00（柏林時間，約香港時間 20:00）",
-  "format": "線上直播"
+  "event_date": "2026-12-16",
+  "format": "線上直播",
+  "event_time_note": "13:00（柏林時間，約香港時間 20:00）"
  },
  "posts": [
   {

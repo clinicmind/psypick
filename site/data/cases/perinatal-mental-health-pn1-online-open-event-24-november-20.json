@@ -37,13 +37,14 @@
   "ce_credits": "",
   "deadline": "",
   "event_date": "2026-11-24",
-  "format": "線上",
+  "format": "線上直播",
   "language": "English",
   "price": "免費",
   "price_tier": "免費",
   "provider": "Tavistock Education and Training",
   "signup_url": "",
-  "topic": "圍產期心理健康深造單元"
+  "topic": "圍產期心理健康深造單元",
+  "format_note": "線上"
  },
  "posts": [
   {

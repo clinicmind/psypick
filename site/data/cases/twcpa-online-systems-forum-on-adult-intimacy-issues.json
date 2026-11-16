@@ -42,7 +42,7 @@
  "original_prompt": "",
  "training": {
   "provider": "臺灣諮商心理學會系統工作推展委員會",
-  "format": "線上直播（Google Meet；第一場 Zoom 已結束）",
+  "format": "線上直播",
   "price": "單場會員 500 元（限已繳 115 年度會費）、非會員 1,000 元（新台幣）",
   "price_tier": "低價",
   "ce_credits": "符合「系統工作師認證辦法」核心領域課程（協力照顧與系統合作、處理特殊議題的實務能力）；心理師繼續教育積分未載明",
@@ -51,7 +51,8 @@
   "deadline": "2026-11-13",
   "audience_level": "專業人員（諮商心理師、社工師、輔導教師、助人專業人員）",
   "topic": "10/18 家暴的系統修復（江文賢、謝景然心理師，李佩樺社工督導）；11/15「當走向離婚訴訟」的系統合作（江文賢心理師、黃心怡社工師、曾嘉妙心理師）",
-  "signup_url": "https://www.twcpa.org.tw/event-details/1018-1115-qiu-ji-xi-tong-lun-tan-jian-goucheng-ren-qin-mi-yi-ti-de-xi-tong-he-zuo-mo-shi"
+  "signup_url": "https://www.twcpa.org.tw/event-details/1018-1115-qiu-ji-xi-tong-lun-tan-jian-goucheng-ren-qin-mi-yi-ti-de-xi-tong-he-zuo-mo-shi",
+  "format_note": "線上直播（Google Meet；第一場 Zoom 已結束）"
  },
  "posts": [
   {

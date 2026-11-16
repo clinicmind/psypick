@@ -42,8 +42,9 @@
   "ce_credits": "1 CE Hour（符合德州 50% 要求；其他地區須自行核對）",
   "language": "英語",
   "deadline": "",
-  "event_date": "2026-11-19 17:00（頁面未註明時區；主辦機構位於德州）",
-  "format": "線上直播"
+  "event_date": "2026-11-19",
+  "format": "線上直播",
+  "event_time_note": "17:00（頁面未註明時區；主辦機構位於德州）"
  },
  "posts": [
   {
