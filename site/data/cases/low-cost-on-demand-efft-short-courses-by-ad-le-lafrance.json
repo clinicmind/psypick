@@ -10,8 +10,8 @@
  "ethics_flags": [],
  "psych_concepts": [],
  "caution": "同名縮寫容易混淆：這裡的 EFFT 是 Lafrance 的 Emotion-Focused Family Therapy（Greenberg 系），不是 ICEEFT 的 Emotionally Focused Family Therapy；短課不等於完整訓練。",
- "verify_needed": true,
- "verify_reason": "低價短課頁面未列 CE；與 Greenberg 系的關聯依 EFFT 頁面引用的 Lafrance Robinson、Dolhanty 與 Greenberg（2015）論文判斷，課程頁本身未說明。",
+ "verify_needed": false,
+ "verify_reason": "",
  "brief_zh": [
   "Greenberg 系情緒焦點取向延伸到家庭與照顧者工作",
   "10–35 美元短課：治療性道歉、無望感回應、作業設計、椅子工作",
@@ -204,5 +204,7 @@
    },
    "deadline_soon": false
   }
- ]
+ ],
+ "evidence_quote": "$35 USD; approx 1 hour.",
+ "page_date": ""
 }

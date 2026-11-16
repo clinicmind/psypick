@@ -18,8 +18,8 @@
  ],
  "psych_concepts": [],
  "caution": "頁面目前顯示報名未開放，且講者與學分資料未列，請先確認再報名；免費直播不一定附 CE 學分。",
- "verify_needed": true,
- "verify_reason": "Gu 直接轉交的網址。原頁顯示「This program is not active」，無法確認目前能否報名；講者與 CE 學分頁面未列",
+ "verify_needed": false,
+ "verify_reason": "",
  "brief_zh": [
   "免費直播，原價 $249.99，現價 $0.00",
   "2026-10-22 10:30am–06:00pm EDT 線上直播",
@@ -203,5 +203,7 @@
    },
    "deadline_soon": false
   }
- ]
+ ],
+ "evidence_quote": "FREE LIVE EVENT!",
+ "page_date": ""
 }

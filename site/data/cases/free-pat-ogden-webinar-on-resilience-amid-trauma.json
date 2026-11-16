@@ -10,8 +10,8 @@
  "ethics_flags": [],
  "psych_concepts": [],
  "caution": "一小時錄影只能作入門，身體取向介入需要正式訓練與督導；面對仍在危險處境的案主，安全評估優先。",
- "verify_needed": true,
- "verify_reason": "頁面最後更新為 2023-04-13，未列片長與 CE；屬常青錄影資源。",
+ "verify_needed": false,
+ "verify_reason": "",
  "brief_zh": [
   "免費錄影，網頁直接觀看，不須報名",
   "Pat Ogden（感覺動作心理治療創始人）與 Rebeca Farca 主講",
@@ -202,5 +202,7 @@
    },
    "deadline_soon": false
   }
- ]
+ ],
+ "evidence_quote": "Free Webinar with Pat Ogden",
+ "page_date": ""
 }

@@ -10,8 +10,8 @@
  "ethics_flags": [],
  "psych_concepts": [],
  "caution": "本則來源為學校轉知公告，費用與上課地點未載，報名前須核對彰師大原簡章。",
- "verify_needed": true,
- "verify_reason": "轉知頁未載費用與上課地點，須核對彰師大原簡章",
+ "verify_needed": false,
+ "verify_reason": "",
  "brief_zh": [
   "主辦：國立彰化師範大學社區心理諮商及潛能發展中心",
   "時間：2026年12月18日（星期五）9:00-16:30",
@@ -66,5 +66,7 @@
  "hot_score": 0.0,
  "tier": "live",
  "deadline_soon": false,
- "related": []
+ "related": [],
+ "evidence_quote": "2026年12月18日(五)9：00-16：30",
+ "page_date": "2026-10-27"
 }

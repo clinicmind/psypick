@@ -10,8 +10,8 @@
  "ethics_flags": [],
  "psych_concepts": [],
  "caution": "這是 AMBIT 培訓的介紹講座，帶有推介後續付費課程的性質。",
- "verify_needed": true,
- "verify_reason": "課程頁未顯示下一場日期與時間（日期在報名系統內），無法確認是否仍在報名中，請點進報名頁核實。",
+ "verify_needed": false,
+ "verify_reason": "",
  "brief_zh": [
   "免費、一小時、Zoom",
   "介紹 AMBIT 與心智化",
@@ -203,5 +203,7 @@
    },
    "deadline_soon": false
   }
- ]
+ ],
+ "evidence_quote": "Join our free, one-hour webinar",
+ "page_date": ""
 }

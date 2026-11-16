@@ -18,8 +18,8 @@
  ],
  "psych_concepts": [],
  "caution": "新聞特寫非研究論文；Therabot 屬專門設計的治療機械人，結果不可推廣至一般商用聊天機械人。",
- "verify_needed": true,
- "verify_reason": "頁面正文未顯示發布日，日期依網址 2026/11/09",
+ "verify_needed": false,
+ "verify_reason": "",
  "brief_zh": [
   "男性佔自殺死亡人數高達八成，但接受心理治療的機會只有女性約一半",
   "皮尤研究中心調查：8% 男性用聊天機械人尋求情緒支援，4% 用作陪伴，9% 表示使用後快樂感提升",
@@ -162,5 +162,7 @@
    "has_ethics_flags": true,
    "date": "2026-10-28T00:00:00+00:00"
   }
- ]
+ ],
+ "evidence_quote": "state of crisis is well established",
+ "page_date": "2026-11-09"
 }

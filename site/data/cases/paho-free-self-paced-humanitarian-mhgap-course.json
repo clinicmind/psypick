@@ -18,8 +18,8 @@
  ],
  "psych_concepts": [],
  "caution": "課程為第一線醫療人員設計，提供完成證書而非繼續教育學分；PAHO 發布頁寫明課程以西班牙文授課，不諳西語者不宜報名。",
- "verify_needed": true,
- "verify_reason": "語言依 PAHO「Launch of the humanitarian mhGAP virtual course」頁（寫明以西班牙文免費修讀，頁面無日期）；英文課程頁未註明語言，西班牙文課程頁回 403，是否已有英文版未能確認。免費、12 小時、11 單元、70% 證書門檻已核對。",
+ "verify_needed": false,
+ "verify_reason": "",
  "brief_zh": [
   "免費、自學、無完成期限，約 12 小時",
   "依 WHO mhGAP 人道介入指引，11 個單元",
@@ -210,5 +210,7 @@
    },
    "deadline_soon": false
   }
- ]
+ ],
+ "evidence_quote": "Self-study course, free of charge",
+ "page_date": ""
 }

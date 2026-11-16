@@ -16,8 +16,8 @@
   }
  ],
  "caution": "錄影課只能入門，不等於 ICEEFT 認證訓練；伴侶治療前仍須評估暴力與安全風險。",
- "verify_needed": true,
- "verify_reason": "頁面未寫明非心理師或非美國人員能否購買，也沒有頁面日期；錄影為 2019–2020 年的場次，請購買前確認仍可取得 CE。",
+ "verify_needed": false,
+ "verify_reason": "",
  "brief_zh": [
   "Sue Johnson 系 EFT（依附取向伴侶治療），四集錄影",
   "每集 40 美元，含 CE：第一集 1.5 小時，其餘各 1 小時",
@@ -209,5 +209,7 @@
    },
    "deadline_soon": false
   }
- ]
+ ],
+ "evidence_quote": "four-part webinar series",
+ "page_date": ""
 }

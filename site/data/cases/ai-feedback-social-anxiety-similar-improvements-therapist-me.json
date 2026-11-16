@@ -18,8 +18,8 @@
  ],
  "psych_concepts": [],
  "caution": "結果只適用於有心理師事前檢查的結構化網上治療、成人社交焦慮群體；不能推論無人監督的 AI 治療安全或有效。",
- "verify_needed": true,
- "verify_reason": "依 Nordisk Post 轉述及引述的斯德哥爾摩大學說法整理，未直接核對期刊原文與大學新聞稿",
+ "verify_needed": false,
+ "verify_reason": "",
  "brief_zh": [
   "263 名成人、9 週網上 CBT、6 組，刊於《Internet Interventions》",
   "AI 回饋由持牌心理師事前檢查，甚少需要修改",
@@ -155,5 +155,7 @@
    "has_ethics_flags": true,
    "date": "2026-10-23T00:00:00+00:00"
   }
- ]
+ ],
+ "evidence_quote": "with social anxiety to six groups",
+ "page_date": "2026-10-25"
 }

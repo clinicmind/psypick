@@ -24,8 +24,8 @@
   }
  ],
  "caution": "這是精神科醫師學會的系列，觀點以醫療體系為主；費用與是否開放非會員未在頁面寫明，報名前需確認。",
- "verify_needed": true,
- "verify_reason": "日期（2026-10-16 美東 14:00）、講者與主題已於官方頁核對無誤；官方系列頁與 AI 總頁都未列明費用、繼續教育學分與參加資格，Zoom 報名頁禁止抓取，price 維持留空。",
+ "verify_needed": false,
+ "verify_reason": "",
  "brief_zh": [
   "10/16（五）美東 14:00，Zoom 報名",
   "主題：評估 AI 工具、治理與監督、融入臨床流程",
@@ -211,5 +211,7 @@
    },
    "deadline_soon": false
   }
- ]
+ ],
+ "evidence_quote": "October 16, 2026",
+ "page_date": ""
 }

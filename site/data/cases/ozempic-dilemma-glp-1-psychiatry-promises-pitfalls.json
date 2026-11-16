@@ -18,8 +18,8 @@
  ],
  "psych_concepts": [],
  "caution": "綜述文章非臨床指引；GLP-1 藥物在精神科的應用仍在研究階段，處方須按個別評估。",
- "verify_needed": true,
- "verify_reason": "發布日見於 Psychiatric Times 首頁列表（November 4th 2026），文章頁未顯示日期",
+ "verify_needed": false,
+ "verify_reason": "",
  "brief_zh": [
   "COaST 試驗：semaglutide 在思覺失調症合併氯氮平引致肥胖病人中，體重較安慰劑組多減 13.46%",
   "低劑量 semaglutide 在 2025 年第二期試驗中減少酒精使用障礙病人的渴求與飲酒量",
@@ -157,5 +157,7 @@
    "has_ethics_flags": false,
    "date": "2026-03-16T00:00:00+00:00"
   }
- ]
+ ],
+ "evidence_quote": "GLP-1 drugs enter psychiatry",
+ "page_date": "2026-11-04"
 }

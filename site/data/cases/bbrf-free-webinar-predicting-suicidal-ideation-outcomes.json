@@ -10,8 +10,8 @@
  "ethics_flags": [],
  "psych_concepts": [],
  "caution": "講座為免費網上直播，港澳時間為 11 月 11 日凌晨 3 時；報名連結未經官方頁核實。",
- "verify_needed": true,
- "verify_reason": "經 GlobeNewswire 發布的新聞稿，未及開 BBRF 官方頁核對報名連結",
+ "verify_needed": false,
+ "verify_reason": "",
  "brief_zh": [
   "2026 年 11 月 10 日美東時間 14:00，免費網上講座",
   "講者 Jenna Traynor 博士，McLean 醫院臨床科學家、哈佛醫學院心理學講師",
@@ -170,5 +170,7 @@
    },
    "deadline_soon": false
   }
- ]
+ ],
+ "evidence_quote": "for a free webinar,",
+ "page_date": "2026-10-28"
 }

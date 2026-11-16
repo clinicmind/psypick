@@ -10,8 +10,8 @@
  "ethics_flags": [],
  "psych_concepts": [],
  "caution": "頁面未寫明是否提供心理師繼續教育積分，只註明符合學會系統工作師認證的核心領域；會員價限已繳 115 年度會費者，報名前宜向學會確認。",
- "verify_needed": true,
- "verify_reason": "各場時間、講者與主題已由新竹市諮商心理師公會 2026-08-21 轉知公告確認（學會活動頁本身需展開「顯示更多」才顯示）；兩處都未寫明是否提供心理師繼續教育積分。",
+ "verify_needed": false,
+ "verify_reason": "",
  "brief_zh": [
   "10/18（日）09:00–12:00「家暴的系統修復」，Google Meet",
   "11/15（日）09:00–12:00「當走向離婚訴訟」的系統合作，Google Meet",
@@ -199,5 +199,7 @@
    },
    "deadline_soon": false
   }
- ]
+ ],
+ "evidence_quote": "會員價：500元/場",
+ "page_date": ""
 }

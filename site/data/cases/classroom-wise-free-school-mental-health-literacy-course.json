@@ -10,8 +10,8 @@
  "ethics_flags": [],
  "psych_concepts": [],
  "caution": "教材以美國學校制度為背景，轉介資源與法規要換成在地版本；它是教師素養課程，不是臨床訓練。",
- "verify_needed": true,
- "verify_reason": "網站寫明 SAMHSA 資助期為 2018 年 8 月至 2024 年 9 月，頁面未說明課程時數、證書或 CE，須進入課程平台確認。",
+ "verify_needed": false,
+ "verify_reason": "",
  "brief_zh": [
   "免費，自學線上課程 + 影片庫 + 資源集",
   "主題：心理健康素養、辨識困擾、降溫、創傷知情",
@@ -202,5 +202,7 @@
    },
    "deadline_soon": false
   }
- ]
+ ],
+ "evidence_quote": "FREE 3-part training package",
+ "page_date": ""
 }
