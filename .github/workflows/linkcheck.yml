@@ -1,0 +1,28 @@
+name: linkcheck-weekly
+
+# 每週一自動跑連結健康檢查（計劃 T1-7）。只出報告，不擋部署。
+on:
+  schedule:
+    - cron: "17 2 * * 1"
+  workflow_dispatch:
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run link check
+        run: |
+          python3 tools/linkcheck.py --data-dir site/data \
+            --out linkcheck-report.json --timeout 15 --workers 12 \
+            | tee linkcheck-summary.txt
+      - name: Upload report
+        uses: actions/upload-artifact@v4
+        with:
+          name: linkcheck-report
+          path: |
+            linkcheck-report.json
+            linkcheck-summary.txt
