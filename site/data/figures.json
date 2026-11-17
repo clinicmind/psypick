@@ -1696,7 +1696,97 @@
    "checked": "2026-11-13",
    "tier": "A",
    "verify_needed": false
+  },
+  {
+   "person": "andrew-huberman",
+   "url": "https://www.hubermanlab.com/episode/mushrooms-for-the-mind-and-immune-system-paul-stamets",
+   "platform": "web",
+   "page_date": "2026-11-16",
+   "kind": "訪談",
+   "summary_zh": "Huberman 訪問真菌學家 Paul Stamets，談蘑菇如何支援免疫系統與腦部健康，以及裸蓋菇素對抑鬱、焦慮等精神健康問題的臨床研究證據、風險與安全須知。",
+   "quote_en": "Paul Stamets explains how mushrooms support immune defense and brain health, and what clinical research shows about psilocybin's benefits, risks and safety.",
+   "topics": [
+    "蘑菇與免疫",
+    "裸蓋菇素",
+    "精神健康"
+   ],
+   "evidence_quote": "Paul Stamets explains how mushrooms support immune defense and brain health, and what clinical research shows about psilocybin's benefits, risks and safety.",
+   "checked": "2026-11-17",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+   "platform": "web",
+   "page_date": "2026-11-14",
+   "kind": "產品發布",
+   "summary_zh": "Simon 發布 datasette-llm 0.1a11，新增支援 OpenAI 兼容端點，Datasette Agent 可接駁 LM Studio、Ollama 或 llama.cpp 等本地模型運作。",
+   "quote_en": "This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol.",
+   "topics": [
+    "Datasette",
+    "本地模型",
+    "LLM"
+   ],
+   "evidence_quote": "This release adds support for OpenAI-compatible endpoints",
+   "checked": "2026-11-17",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+   "platform": "web",
+   "page_date": "2026-11-15",
+   "kind": "產品發布",
+   "summary_zh": "Simon 發布首個新 Datasette 地理插件 datasette-maplibre 0.1a0，結合 MapLibre GL 與免費向量地圖伺服器 OpenFreeMap，可在地圖上顯示 GeoJSON 圖形與經緯度點。",
+   "quote_en": "The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap, the free vector map server",
+   "topics": [
+    "Datasette",
+    "地圖",
+    "開源插件"
+   ],
+   "evidence_quote": "The first new Datasette geospatial plugin in quite a while!",
+   "checked": "2026-11-17",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+   "platform": "web",
+   "page_date": "2026-11-15",
+   "kind": "產品發布",
+   "summary_zh": "Simon 發布 Datasette 1.0a43，1.0 里程碑已完成 53%，最大新功能是輸出渲染器的串流支援，另修復兩處安全問題，包括私人儲存查詢可能外洩的漏洞。",
+   "quote_en": "The biggest 1.0 item in this release is streaming support for output renderers",
+   "topics": [
+    "Datasette",
+    "串流輸出",
+    "安全修復"
+   ],
+   "evidence_quote": "The biggest 1.0 item in this release is streaming support for output renderers",
+   "checked": "2026-11-17",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "fei-fei-li",
+   "url": "https://newsroom.amd.com/news/amd-completes-acquisition-world-labs/",
+   "platform": "web",
+   "page_date": "2026-11-16",
+   "kind": "職務異動",
+   "summary_zh": "AMD 宣布完成收購李飛飛創辦的 World Labs，李飛飛出任 AMD 執行副總裁兼首席科學家，直接向 CEO Lisa Su 匯報。交易於 11 月 13 日完成，AMD 為此發行近 1,498 萬股新股。",
+   "quote_en": "Dr. Fei-Fei Li joins AMD as executive vice president and chief scientist, reporting directly to Su.",
+   "topics": [
+    "AMD",
+    "World Labs",
+    "職務異動"
+   ],
+   "evidence_quote": "Dr. Fei-Fei Li joins AMD as executive vice president and chief scientist.",
+   "checked": "2026-11-17",
+   "tier": "A",
+   "verify_needed": false
   }
  ],
- "updated": "2026-11-16"
+ "updated": "2026-11-17"
 }
