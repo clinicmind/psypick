@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T01:43:46+00:00",
+ "generated_at": "2026-11-17T13:32:16+00:00",
  "config": {
   "site_name_zh": "知心選",
   "site_name_en": "PsyPick",
@@ -131,6 +131,166 @@
   "featured_top_n": 8
  },
  "cases": [
+  {
+   "slug": "comparative-efficacy-and-acceptability-of-antidepressants-in",
+   "title_zh": "長期抗抑鬱藥比較：115 項試驗統合分析——escitalopram、duloxetine、agomelatine 維持療效較 fluoxetine 佳",
+   "title_en": "Comparative efficacy and acceptability of antidepressants in the long-term treatment of major depressive disorder",
+   "summary_zh": "The Lancet Psychiatry 2026 年 11 月 10 日網上刊出系統性回顧與網絡統合分析，綜合 115 項雙盲隨機對照試驗、30,428 名成人單相重性抑鬱患者（平均年齡 45.3 歲，66% 女性），比較 20 種抗抑鬱藥維持治療（超過 12 週）的持續反應與可接受性。主要分析為 35 項頭對頭延續／延續延伸設計試驗（9,888 人）：與 fluoxetine 比較，escitalopram（OR 1.62，95% CI 1.21–2.18）、duloxetine（OR 1.57，1.08–2.26）與 agomelatine（OR 1.40，1.06–1.85）的持續反應率較高；escitalopram 與 duloxetine 的全因停藥率亦較低。研究由 Radboudumc 的 Paul van Haaren 等領導，無資助。",
+   "summary_en": "The Lancet Psychiatry published online on 10 November 2026 a systematic review and network meta-analysis of 115 double-blind randomised controlled trials (30,428 adults with unipolar major depressive disorder; mean age 45.3 years, 66% female), comparing 20 antidepressants for long-term treatment (over 12 weeks) on sustained response and acceptability. In the primary analysis of 35 head-to-head continuation and continuation-extension trials (n=9,888), escitalopram (OR 1.62, 95% CI 1.21-2.18), duloxetine (OR 1.57, 1.08-2.26) and agomelatine (OR 1.40, 1.06-1.85) showed higher sustained response rates than fluoxetine; escitalopram and duloxetine also had lower all-cause discontinuation. Led by Paul van Haaren and colleagues (Radboudumc); no funding.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "抗抑鬱藥",
+    "escitalopram",
+    "長期治療",
+    "統合分析",
+    "抑鬱"
+   ],
+   "first_seen_at": "2026-11-17T13:32:16+00:00",
+   "evidence_level": 4,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-10T00:00:00+00:00"
+  },
+  {
+   "slug": "copsy-ninth-wave-german-children-adolescents-mental-health-s",
+   "title_zh": "德國 COPSY 第九輪調查：疫情六年後兒童青少年心理健康仍差過疫情前，約 6% 持續受困",
+   "title_en": "COPSY ninth wave German children adolescents mental health six years after pandemic",
+   "summary_zh": "德國漢堡-埃彭多夫大學醫院（UKE）2026 年 11 月 17 日公布 COPSY 研究第九輪調查結果。德國兒童青少年的心理健康在疫情開始六年後仍差過疫情前：21% 年輕人自述生活質素下降，24% 據家長報告有心理異常徵象，每四人中一人有焦慮症狀；抑鬱症狀佔 13%，已回到疫情前水平。第九輪有 1,531 個家庭參加；自 2020 年 5 月起累計 3,573 個家庭參加過至少一輪。數據未顯示有一個受長期影響的「新冠世代」，但約 6% 的人在疫情初已較少家庭與社會資源，至今持續受困；戰爭、經濟不明朗與氣候危機帶來新的未來焦慮。",
+   "summary_en": "The University Medical Center Hamburg-Eppendorf (UKE) published on 17 November 2026 the ninth wave of the COPSY study. Children and adolescents' mental health in Germany remains worse than before the pandemic, six years after it began: 21% of young people report reduced quality of life, 24% show signs of psychological problems according to their parents, and one in four has anxiety symptoms; depressive symptoms (13%) are back at pre-pandemic levels. The ninth wave included 1,531 families; 3,573 families have taken part in at least one wave since May 2020. The data show no lasting 'corona generation', but about 6% of participants who had fewer family and social resources at the start of the pandemic remain persistently burdened; wars, economic uncertainty and the climate crisis bring new anxieties about the future.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "COPSY",
+    "德國",
+    "兒童青少年",
+    "疫情後",
+    "焦慮",
+    "生活質素"
+   ],
+   "first_seen_at": "2026-11-17T13:32:16+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-17T00:00:00+00:00"
+  },
+  {
+   "slug": "longitudinal-associations-between-dietary-intake-and-common",
+   "title_zh": "多食一份水果，青少年抑鬱風險低 13%：澳洲 6,537 人四年追蹤",
+   "title_en": "Longitudinal associations between dietary intake and common mental disorders among adolescents in Australia",
+   "summary_zh": "悉尼大學 Matilda 中心團隊在 Child and Adolescent Mental Health 刊出縱貫研究，以 Health4Life 研究數據追蹤澳洲新南威爾士、昆士蘭與西澳 71 間中學的 6,537 名青少年，由七年級至十年級、每年問卷一次，平均起始年齡 12.5 歲。每天多食一份任何種類的水果，與三年追蹤期內抑鬱症狀風險低 13%、焦慮症狀風險低 7% 相關；平均水果攝取量為每天 2 至 2.5 份。含糖飲品攝取量較高則與抑鬱與焦慮風險較高相關，對焦慮的關聯在男性較強。研究排除了基線時已達抑鬱或焦慮閾值的青少年，並調整了體能活動、年齡、性別與社經地位。",
+   "summary_en": "A University of Sydney Matilda Centre team published in Child and Adolescent Mental Health a longitudinal study using Health4Life data, following 6,537 adolescents from 71 secondary schools in New South Wales, Queensland and Western Australia from Year 7 to Year 10 with annual surveys (mean age 12.5 years at baseline). Each additional daily serving of any type of fruit was associated with a 13% lower risk of depression symptoms and a 7% lower risk of anxiety symptoms over the three-year follow-up; average fruit intake was 2 to 2.5 servings a day. Higher consumption of sugar-sweetened drinks was associated with higher risk of depression and anxiety, with the anxiety association stronger in males. The study excluded adolescents who already met thresholds for depression or anxiety at baseline and adjusted for physical activity, age, sex and socioeconomic status.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "飲食",
+    "水果",
+    "抑鬱",
+    "焦慮",
+    "青少年",
+    "預防"
+   ],
+   "first_seen_at": "2026-11-17T13:32:16+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-19T00:00:00+00:00"
+  },
+  {
+   "slug": "the-effect-of-an-integrated-application-supported-mindfulnes",
+   "title_zh": "RCT：應用程式輔助正念認知課程減輕有非自殺自傷行為青少年的抑鬱（泰國，96 人）",
+   "title_en": "The effect of an integrated application-supported mindfulness-based cognitive therapy programme on depression among adolescents with non-suicidal self-injury",
+   "summary_zh": "British Journal of Clinical Psychology 2026 年刊出隨機對照試驗，在泰國兩間公立中學進行。兩間學校隨機分配至介入組或常規照顧對照組，合資格參加者按性別與基線抑鬱嚴重程度配對，每組 48 人，共 96 人。介入為每週一次、每次 60 分鐘、共八週的混合式（學校面授加應用程式支援）正念認知治療（MBCT）課程，於基線、介入後兩週及一個月後以重複量數變異數分析評估。結果顯示時間與組別有顯著交互作用（F(1.73, 162.17) = 62.59，p < .001，ηp² = .40），介入組抑鬱症狀分數整體較低。研究以非自殺自傷行為（NSSI）界定目標群體，並非治療結果，因此不能推論對自傷行為本身的效果。",
+   "summary_en": "The British Journal of Clinical Psychology (2026) published a randomised controlled trial in two public secondary schools in Thailand. The schools were randomly allocated to the intervention or usual-care control condition, with eligible participants pair-matched by sex and baseline depressive symptom severity (n = 48 per group, 96 total). The intervention was a blended school-based and application-supported mindfulness-based cognitive therapy (MBCT) programme, delivered once a week for 60 minutes over eight weeks, evaluated at baseline, two weeks post-intervention and one-month follow-up using repeated-measures ANOVA. There was a significant time-by-group interaction (F(1.73, 162.17) = 62.59, p < .001, ηp² = .40), with lower depressive symptom scores overall in the intervention group. Non-suicidal self-injury (NSSI) defined the target population and was not a treatment outcome, so effects on NSSI itself cannot be interpreted.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "正念認知治療",
+    "MBCT",
+    "非自殺自傷",
+    "抑鬱",
+    "青少年",
+    "隨機對照試驗"
+   ],
+   "first_seen_at": "2026-11-17T13:32:16+00:00",
+   "evidence_level": 3,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-12T00:00:00+00:00"
+  },
+  {
+   "slug": "family-environment-and-subjective-wellbeing-in-adolescents-t",
+   "title_zh": "家庭環境如何影響求助青少年的主觀幸福感？1,284 人研究：焦慮抑鬱症狀起中介作用",
+   "title_en": "Family environment and subjective wellbeing in adolescents the mediating roles of anxiety and depressive symptoms",
+   "summary_zh": "Frontiers in Public Health 2026 年 11 月 10 日刊出研究，分析 1,284 名 12 至 17 歲求助青少年（2021 年 9 月至 2024 年 2 月於山東省立醫院心理科求助），以問卷量度四項家庭環境指標（獨生與否、父母婚姻質素、家庭月收入、家族精神病史）與主觀幸福感（生活滿意度量表），焦慮與抑鬱症狀以 GAD-7 與 PHQ-9 量度。結果顯示，父母婚姻質素較好與較低焦慮抑鬱及較高幸福感相關，家族精神病史則相反；焦慮症狀部分中介父母婚姻質素與家族精神病史跟幸福感的關聯，抑鬱症狀完全中介獨生狀態與整體生活滿意度的關聯、並部分中介其餘路徑。性別差異主要見於家庭收入經焦慮影響幸福感的路徑。",
+   "summary_en": "Frontiers in Public Health published on 10 November 2026 a study of 1,284 treatment-seeking adolescents aged 12 to 17 (recruited September 2021 to February 2024 from the psychology department of Shandong Provincial Hospital), examining four family-environment indicators (sibling status, parental marital quality, family monthly income, family psychiatric history) and subjective wellbeing (life satisfaction scale), with anxiety and depressive symptoms measured by GAD-7 and PHQ-9. Better parental marital quality was associated with lower anxiety and depression and higher wellbeing, while a positive family psychiatric history showed the opposite pattern; anxiety symptoms partially mediated the links from parental marital quality and family psychiatric history to wellbeing, and depressive symptoms fully mediated the sibling-status link to overall life satisfaction and partially mediated other pathways. Gender differences appeared mainly in the family-income-to-wellbeing pathway via anxiety.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "家庭環境",
+    "主觀幸福感",
+    "焦慮",
+    "抑鬱",
+    "青少年"
+   ],
+   "first_seen_at": "2026-11-17T13:32:16+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-10T00:00:00+00:00"
+  },
   {
    "slug": "generative-ai-maternal-health-chatbot-rosie-rct-no-improveme",
    "title_zh": "RCT：孕產婦 AI 聊天機械人 Rosie 一年後未改善焦慮抑鬱（400 人）",
