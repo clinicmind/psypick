@@ -1,0 +1,96 @@
+{
+  "format": "psypick-muse-v1",
+  "run_date": "2026-11-18",
+  "items": [
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "培訓頁面（Relational Life Institute；2026 年 11 月 19 日美國東部時間 12:00–13:30；免費；經原頁核實；頁面未提及 CE 學分）",
+      "evidence_quote": "How To Get Past a Couple's Defenses",
+      "key_points_zh": [
+        "講者：Terry Real（LICSW，Relational Life Therapy 創立人，紐約時報暢銷書作者）",
+        "內容：觀看真實夫婦首次會談片段，逐段講解辨認傷害—退縮循環、介入點與所用工具，另有 9 個月後跟進分享與即場問答",
+        "日期：2026 年 11 月 19 日 12:00–13:30（美國東部時間）；香港／澳門時間 11 月 20 日凌晨 1:00–2:30",
+        "費用：免費參加；報名後可收重播",
+        "對象：從事伴侶工作的治療師、輔導員、心理學家、社工與關係教練；不需具備 Relational Life Therapy 背景",
+        "形式：全程線上直播"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-11-19",
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "couples-experiential-webinar-terry-real-relational-life",
+      "source": {
+        "author_name": "Relational Life Institute",
+        "description": "Relational Life Institute 免費 90 分鐘網上直播培訓，由 Terry Real（LICSW，Relational Life Therapy 創立人）主講。參加者觀看一對夫婦首次會談的真實片段，Terry Real 逐段講解他如何辨認二人互相傷害與退縮的循環、在哪裡介入、用了哪些 Relational Life Therapy 工具，以及如何引導雙方理解彼此行為背後的童年",
+        "platform": "web",
+        "title": "Couples Experiential Webinar: How To Get Past a Couple's Defenses to the Hurt That's Keeping Them Apart (19 November 2026)",
+        "url": "https://relationallife.com/couples-experiential-webinar-november-2026/"
+      },
+      "title_zh": "免費網上培訓：Terry Real 伴侶治療體驗課——穿過防衛，觸及受傷的核心（11 月 19 日，有重播）"
+    },
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "培訓頁面（ICHTP；2026 年 11 月 28 日智利時間 12:00–13:30；免費；經原頁核實；頁面為西班牙語，未提及英語傳譯，待查證）",
+      "evidence_quote": "Trastornos de personalidad",
+      "key_points_zh": [
+        "講者：Otto Kernberg（精神科醫生、精神分析師，移情焦點治療 TFP 發展者）",
+        "內容：人格障礙入門、分辨不同人格障礙的準則、防衛機制與人際關係的關連",
+        "日期：2026 年 11 月 28 日（星期六）12:00–13:30（智利時間）；香港／澳門時間 11 月 28 日 23:00 至 11 月 29 日 00:30",
+        "費用：免費參加，須預先報名",
+        "對象：精神健康專業人員與學生",
+        "形式：全程線上（Zoom）"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-11-28",
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "otto-kernberg-personality-disorders-treatment-free-webinar",
+      "source": {
+        "author_name": "Instituto Chileno de Trastornos de la Personalidad（ICHTP）",
+        "description": "智利人格障礙學院（Instituto Chileno de Trastornos de la Personalidad，ICHTP）舉辦免費 90 分鐘網上研討會，由 Otto Kernberg（精神科醫生、精神分析師，移情焦點治療 TFP 的發展者）主講，介紹人格障礙及其治療、分辨不同人格障礙的準則，以及主導防衛機制與人際關係的關連。2026 年 11 月 28 日（星期六）智利時間 12:00",
+        "platform": "web",
+        "title": "Webinar gratuito con Otto Kernberg: Trastornos de personalidad y su tratamiento (28 November 2026)",
+        "url": "https://postitulo.ichtp.cl/webinar-otto-kernberg/"
+      },
+      "title_zh": "免費網上講座：Otto Kernberg 談人格障礙及其治療（11 月 28 日，西班牙語）"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "觀點文章（Frontiers in Psychiatry，2026 年 11 月 4 日；DOI: 10.3389/fpsyt.2026.1948689）：系統性文獻搜尋（2020 年 1 月至 2026 年 6 月，四個數據庫）加兩個隊列的量化數據綜述，非原始研究；證據基礎僅兩個小隊列",
+      "evidence_quote": "10.5 million children lost a parent",
+      "key_points_zh": [
+        "規模：截至 2022 年 5 月，全球約 1,050 萬名兒童失去父母或照顧者（約 750 萬人成為孤兒）",
+        "搜尋：系統性搜尋 2020 年 1 月至 2026 年 6 月文獻（PubMed、PsycINFO、Web of Science、Scopus），僅兩個隊列有量化心理健康數據",
+        "伊朗隊列（44 名喪親青少年，對照 44 人，追蹤 18 個月）：內化症狀由 43.2% 升至 61.4%；自殺意念由 0% 升至 34.1%；無一人曾接受精神健康服務",
+        "南非 OCAY 隊列（421 人）：喪親組中重度焦慮 14.7%（對照 8.1%）、自殺意念 9.0%（對照 3.8%）、自傷意念 9.5%（對照 3.8%）；追蹤一年後喪親組的可能精神障礙下降幅度遠小於對照組",
+        "缺口：秘魯、墨西哥、巴西、印度、美國等負擔最重的國家全無量化數據；試驗登記冊至 2026 年 6 月亦無進一步前瞻研究",
+        "作者呼籲：及早辨認、追蹤並按臨床與家庭需要支援這批已步入青少年或成年早期的喪親兒童"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-11-04",
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "covid-19-caregiver-loss-children-mental-health-evidence-gap",
+      "source": {
+        "author_name": "Sumegi Went、Markfeld（Frontiers in Psychiatry）",
+        "description": "Frontiers in Psychiatry 2026 年 11 月 4 日刊出的觀點文章：截至 2022 年 5 月，全球估計有 1,050 萬名兒童因 COVID-19 失去父母或照顧者（其中約 750 萬人成為孤兒）。作者系統性搜尋 2020 年 1 月至 2026 年 6 月的文獻（PubMed、APA PsycINFO、Web of Science、Scopus），只找到兩個有量化心理",
+        "platform": "web",
+        "title": "Mental health outcomes following COVID-19-associated caregiver loss in children and adolescents: a six-year evidence gap (Frontiers in Psychiatry 2026; DOI: 10.3389/fpsyt.2026.1948689)",
+        "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1948689/full"
+      },
+      "title_zh": "疫情喪親兒童青少年心理健康：全球約 1,050 萬人受影響，但六年來僅兩個隊列有量化數據"
+    }
+  ]
+}
