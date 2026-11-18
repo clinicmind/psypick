@@ -91,6 +91,119 @@
         "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1948689/full"
       },
       "title_zh": "疫情喪親兒童青少年心理健康：全球約 1,050 萬人受影響，但六年來僅兩個隊列有量化數據"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "隨機對照試驗（Journal of Child Psychology and Psychiatry，2026;67(10):1752–1765；2026-06-04 線上發表；DOI: 10.1111/jcpp.70174；開放取用）",
+      "evidence_quote": "‘Sawa Aqwa’ (Stronger Together)",
+      "key_points_zh": [
+        "n=351 個家庭（介入組 174／等候對照組 177），400 個家庭接受篩選；青少年 12–17 歲，家庭屬中至高兒童保護風險",
+        "介入：六節全家系統介入「Sawa Aqwa」，由非專業人員透過當地兒童保護系統帶領",
+        "家庭功能、照顧者心理健康與親職顯著改善；青少年心理困擾無組間變化",
+        "完成介入者福祉有改善；父親出席與青少年福祉較佳相關；三個月追蹤時家庭功能與照顧者福祉回落"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-06-04",
+      "population": [
+        "兒童青少年",
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "sawa-aqwa-family-intervention-adolescent-mental-health",
+      "source": {
+        "author_name": "Bosqui et al.",
+        "description": "Journal of Child Psychology and Psychiatry 2026 年 10 月刊出（67 卷 10 期，1752–1765 頁；2026-06-04 線上發表）。黎巴嫩北部與貝卡省的多中心隨機對照試驗，351 個中至高兒童保護風險家庭（174 個介入組／177 個等候對照組），家中有 12–17 歲出現心理困擾的青少年。六節全家系統介入「Sawa Aqwa」（意為「同",
+        "platform": "web",
+        "title": "Journal of Child Psychology and Psychiatry 論文（DOI: 10.1111/jcpp.70174）",
+        "url": "https://pureadmin.qub.ac.uk/ws/files/690205224/JCPP_2026_Sawa_Aqwa.pdf"
+      },
+      "title_zh": "RCT：黎巴嫩六節全家系統介入改善家庭功能與照顧者心理健康，但青少年心理困擾無變化"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "隨機對照試驗（Journal of the American Academy of Child & Adolescent Psychiatry，期刊預印本，2026-11-05 接受；DOI: 10.1016/j.jaac.2026.11.001；尚未定稿）",
+      "evidence_quote": "no overall superiority of THOPAS",
+      "key_points_zh": [
+        "n=159 名 8–12 歲情緒調節困難兒童，德國多中心隨機對照試驗",
+        "介入：THOPAS，24 節模組化認知行為治療；對照為常規治療；評估於基線、介入後與 32 週追蹤",
+        "主要結果（盲評嚴重度）無組間差異；次要結果僅個別有效；兩組皆有小至中度改善",
+        "基線症狀較重者可能較受惠；研究未有足夠檢定力偵測小效果；THOPAS 可行、治療師忠誠度與家長參與度高"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-11-05",
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "adopt-treatment-cbt-affective-dysregulation-children-rct",
+      "source": {
+        "author_name": "Treier et al.",
+        "description": "Journal of the American Academy of Child & Adolescent Psychiatry 期刊預印本（2026-11-05 接受）。德國多中心隨機對照試驗，159 名 8–12 歲情緒調節困難兒童，隨機分入 24 節模組化認知行為介入 THOPAS 或常規治療。主要結果（盲評情緒調節困難嚴重度）無組間差異；次要結果僅個別有效；兩組皆有小至中度改善。探索性亞組",
+        "platform": "web",
+        "title": "Journal of the American Academy of Child & Adolescent Psychiatry 論文（DOI: 10.1016/j.jaac.2026.11.001）",
+        "url": "https://www.jaacap.org/action/showPdf?pii=S0890-8567%2826%2902217-3"
+      },
+      "title_zh": "RCT：24 節模組化認知行為治療 THOPAS 對 8–12 歲情緒調節困難兒童，整體不優於常規治療"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "系統性回顧與統合分析（Frontiers in Public Health，2026-11-04 刊出；PROSPERO CRD420261429956；DOI: 10.3389/fpubh.2026.1922220）",
+      "evidence_quote": "certainty of evidence was very low",
+      "key_points_zh": [
+        "11,575 篇篩選後納入 13 項研究；主要統合分析 7 項隨機比較，n=345（運動四項、音樂兩項、瑜伽一項）",
+        "合併 SMD −0.59（95% CI −0.97 至 −0.20）；異質性 I²=63%，預測區間 −1.75 至 0.58，包含無效",
+        "無試驗屬低偏倚風險，四項屬高風險；證據確定性極低",
+        "作者結論：現有隨機證據不足以定論，需更大規模、預先註冊、盲評結果的試驗"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-11-04",
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "exercise-yoga-music-adolescent-depression-meta-analysis",
+      "source": {
+        "author_name": "Zeng et al.",
+        "description": "Frontiers in Public Health 2026-11-04 刊出。系統性回顧統合 13 項研究；主要統合分析納入 7 項隨機比較、共 345 人（運動四項、音樂兩項、瑜伽一項）。合併估計 favour 介入（SMD −0.59，95% CI −0.97 至 −0.20），但異質性高（I²=63%），95% 預測區間包含無效（−1.75 至 0.58）；無試驗屬低偏倚風險，四項屬高風",
+        "platform": "web",
+        "title": "Frontiers in Public Health 論文（DOI: 10.3389/fpubh.2026.1922220）",
+        "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1922220/full"
+      },
+      "title_zh": "統合分析：結構化運動、瑜伽與音樂介入對青少年抑鬱症狀，現有隨機證據不足以定論"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "隨機對照試驗（JAMA Pediatrics，2026-11-16 刊出；DOI: 10.1001/jamapediatrics.2026.5152；ClinicalTrials.gov NCT04821856）",
+      "evidence_quote": "CBD was not effective",
+      "key_points_zh": [
+        "n=131 名 6–18 歲智力障礙兼嚴重行為問題青少年，澳洲三間兒童醫院；平均年齡 11.2 歲，84.0% 合併自閉症",
+        "介入：CBD 分離物油劑 10 mg/kg/日或安慰劑，口服 8 週，另 4 週追蹤",
+        "主要結果 ABC-I：CBD 組 21.7 對安慰劑組 19.2，平均差 2.4（95% CI −1.5 至 6.3），無差異",
+        "不良事件比例相近（63.1% 對 60.6%）；試驗註冊 NCT04821856"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-11-16",
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "cbd-severe-behavioral-problems-youth-intellectual-disability",
+      "source": {
+        "author_name": "Efron et al.",
+        "description": "JAMA Pediatrics 2026-11-16 刊出。澳洲三間兒童醫院的平行組雙盲安慰劑對照隨機對照試驗，131 名 6–18 歲智力障礙兼嚴重行為問題青少年（平均年齡 11.2 歲，74.8% 男性，84.0% 合併自閉症），隨機分入大麻二酚分離物油劑 10 mg/kg/日或安慰劑口服 8 週。意向治療分析顯示，主要結果家長評 Aberrant Behavior Checklist 易激惹",
+        "platform": "web",
+        "title": "JAMA Pediatrics 論文（DOI: 10.1001/jamapediatrics.2026.5152）",
+        "url": "https://jamanetwork.com/journals/jamapediatrics/article-abstract/2856567"
+      },
+      "title_zh": "RCT：大麻二酚對智力障礙青少年嚴重行為問題無效，不優於安慰劑（n=131）"
     }
   ]
 }
