@@ -1,0 +1,148 @@
+{
+  "format": "psypick-muse-v1",
+  "run_date": "2026-11-19",
+  "items": [
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "培訓頁面（The Psych Hive；2026 年 12 月 1 日澳洲東部時間 19:00–20:00；免費 A$0.00；經原頁核實；頁面未提及 CE 學分）",
+      "evidence_quote": "worse than writing progress notes",
+      "key_points_zh": [
+        "講者：Dr Jade Goodman 及 Brianna Thomas（The Psych Hive，澳洲）",
+        "內容：低負荷的文件與行政系統，精簡進度筆記，保護認知資源、減少行政倦怠；45 分鐘內容加 15 分鐘問答",
+        "日期：2026 年 12 月 1 日（星期二）19:00–20:00（澳洲東部時間）；香港／澳門時間同日 16:00–17:00",
+        "費用：免費（A$0.00），經商店頁加入購物車登記",
+        "對象：心理學家",
+        "形式：全程線上直播，另有錄影重溫"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-12-01",
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "psych-hive-managing-admin-without-burnout-webinar",
+      "source": {
+        "author_name": "The Psych Hive",
+        "description": "The Psych Hive（澳洲）免費網上研討會，由 Dr Jade Goodman 及 Brianna Thomas 主講，教授實用、低負荷的文件與行政系統，精簡進度筆記等文書工作，保護臨床工作者的認知資源。2026 年 12 月 1 日（星期二）澳洲東部時間 19:00–20:00 舉行，費用全免（A$0.00）。來源為 2026-11-19 Feed IG 海報 run 的公開搜尋後備，按 Gu 指示回饋上架 PsyPick。",
+        "platform": "web",
+        "title": "Free Psychologist Webinar 1: Managing Admin Without The Burnout",
+        "url": "https://thepsychhive.com/shop/p/free-psychologist-webinar-1-managing-admin-without-the-burnout"
+      },
+      "title_zh": "免費網上研討會：寫進度筆記寫到攰？The Psych Hive 教你用低負荷系統處理行政工作（12 月 1 日）"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "隨機對照試驗（The Journal of Pain，2026；DOI: 10.1016/j.jpain.2026.106406；兩項預先註冊實驗；PMID: 42567239）",
+      "evidence_quote": "even without active application",
+      "key_points_zh": [
+        "兩項預先註冊隨機對照實驗，共 187 名健康成人（研究一 N=121、研究二 N=66），以冷水按壓測試量度痛楚反應",
+        "研究一：擁有止痛膏並與之建立連結的組別 8.03 秒才感到痛（其他組 3.92–5.14 秒），忍痛約 105 秒（其他組 53–66 秒）",
+        "研究二：擁有組忍痛 85.3 秒對無擁有組 53.8 秒，長近六成；毋須刻意思考止痛膏的重要性",
+        "參加者全程未使用止痛膏，膏不含任何止痛成分；研究團隊建議探索個人化治療物件作為低成本輔助方向"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-11-17",
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "ownership-placebo-cream-pain-tolerance-rct",
+      "source": {
+        "author_name": "Ng et al.",
+        "description": "The Journal of Pain 2026 年刊出（DOI: 10.1016/j.jpain.2026.106406）。嶺南大學心理學系兩項預先註冊的隨機對照實驗，共 187 名無慢性痛的健康成人。擁有安慰劑止痛膏並與之建立心理連結者，痛閾與忍痛時間顯著較高，即使從未使用該膏。來源為 2026-11-19 Feed IG 海報 run 的公開搜尋後備，按 Gu 指示回饋上架 PsyPick。",
+        "platform": "web",
+        "title": "Ownership and cognitive connectedness with placebo objects predict pain-related behavioral responses (The Journal of Pain 2026; DOI: 10.1016/j.jpain.2026.106406)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567239/"
+      },
+      "title_zh": "RCT：擁有感提升忍痛能力——安慰劑止痛膏從未使用都有效（嶺南大學，n=187）"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "隨機對照試驗（JAMA Network Open，2026-10-22 刊出；DOI: 10.1001/jamanetworkopen.2026.39867；ClinicalTrials.gov NCT03674944）",
+      "evidence_quote": "adding emotion regulation skills to FBT can attenuate weight regain among adolescents with overweight or obesity",
+      "key_points_zh": [
+        "n=166 對家長與青少年（13–16 歲，BMI 在第 85 至 99.9 百分位；平均年齡 14.3 歲），美國兩間大學診所",
+        "六個月家庭行為治療（FBT）或 FBT 加情緒調節技巧（DBT 與 EFT 技巧），另 12 個月追蹤",
+        "治療期間減重相若；治療結束後 12 個月，FBT+ER 組反彈較少（BMI z 分數差 −0.09），臨床顯著減重者 22% 對 4%",
+        "情緒性進食較少，但情緒調節量表（DERS）本身無組間差異"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-10-22",
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "emotion-regulation-family-based-treatment-adolescent-obesity-rct",
+      "source": {
+        "author_name": "Boutelle et al.",
+        "description": "JAMA Network Open 2026-10-22 刊出。166 對家長與青少年隨機分入家庭行為治療或加情緒調節技巧，治療期間減重相若，治療結束後 12 個月加技巧組反彈較少、情緒性進食較少。",
+        "platform": "web",
+        "title": "JAMA Network Open 論文（DOI: 10.1001/jamanetworkopen.2026.39867）",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855701"
+      },
+      "title_zh": "RCT：家庭行為治療加情緒調節技巧，青少年減重後較少反彈（n=166）"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "交叉隨機對照試驗（JAMA Pediatrics，2026-11-13 線上刊出；DOI: 10.1001/jamapediatrics.2026.5973；ClinicalTrials.gov NCT05469386）",
+      "evidence_quote": "academic accommodations did not significantly improve behavior or academic outcomes",
+      "key_points_zh": [
+        "n=280 名幼稚園至六年級 ADHD 兒童入組，255 名開始介入，235 名完成；美國兩地暑期治療課程",
+        "四種課堂調適（加時、頻密小休、企枱、低干擾工作間）單獨或配合其他治療均無顯著改善",
+        "哌甲酯 0.3 mg/kg：獨立做功課正確完成量升 22%，測驗分數升 3.9 分，課堂違規減少 61%",
+        "行為治療：課堂違規減少 37%；研究在結構化暑期課室進行，非日常學校課室"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-11-13",
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "adhd-accommodations-behavior-therapy-stimulant-medication-rct",
+      "source": {
+        "author_name": "Fabiano et al.",
+        "description": "JAMA Pediatrics 2026-11-13 線上刊出。交叉隨機對照試驗：四種常用 ADHD 課堂調適無顯著效果，哌甲酯與行為治療則有效。",
+        "platform": "web",
+        "title": "JAMA Pediatrics 論文（DOI: 10.1001/jamapediatrics.2026.5973）",
+        "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2856649"
+      },
+      "title_zh": "RCT：ADHD 課堂調適（加時、休息、企枱、靜角）無效，藥物與行為治療才有效（n=255）"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "隨機對照試驗（Current Psychology，2026-11-03 刊出；DOI: 10.1007/s12144-026-10234-1；ChiCTR2600134593）",
+      "evidence_quote": "SFGT reduced self-reported interpersonal distress in adolescents with depressive disorder",
+      "key_points_zh": [
+        "n=74 名 12–18 歲抑鬱症青少年（鄭州精神科門診），實驗組 n=38、對照組 n=36；66 人完成三次評估",
+        "八週焦點解決小組治療（每週 120 分鐘）輔助常規治療",
+        "人際困擾 ICDS 由 18.00 降至 8 週 6.59、12 週 4.78；臨床整體改善較佳",
+        "焦慮與抑鬱症狀改善與常規治療相若；試驗未前瞻註冊，追蹤僅治療後 4 週"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-11-03",
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "solution-focused-brief-group-therapy-adolescent-depression-rct",
+      "source": {
+        "author_name": "Gu et al.",
+        "description": "Current Psychology 2026-11-03 刊出。74 名抑鬱青少年隨機對照試驗：焦點解決小組治療輔助常規治療，減輕人際困擾，但抑鬱焦慮症狀改善與常規治療相若。",
+        "platform": "web",
+        "title": "Current Psychology 論文（DOI: 10.1007/s12144-026-10234-1）",
+        "url": "https://link.springer.com/article/10.1007/s12144-026-10234-1"
+      },
+      "title_zh": "RCT：焦點解決小組治療輔助常規治療，減輕抑鬱青少年人際困擾（n=74，單中心）"
+    }
+  ]
+}
