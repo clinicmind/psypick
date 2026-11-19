@@ -1,0 +1,64 @@
+{
+  "format": "psypick-muse-v1",
+  "run_date": "2026-11-19",
+  "items": [
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "培訓頁面（The Psych Hive；2026 年 12 月 1 日澳洲東部時間 19:00–20:00；免費 A$0.00；經原頁核實；頁面未提及 CE 學分）",
+      "evidence_quote": "worse than writing progress notes",
+      "key_points_zh": [
+        "講者：Dr Jade Goodman 及 Brianna Thomas（The Psych Hive，澳洲）",
+        "內容：低負荷的文件與行政系統，精簡進度筆記，保護認知資源、減少行政倦怠；45 分鐘內容加 15 分鐘問答",
+        "日期：2026 年 12 月 1 日（星期二）19:00–20:00（澳洲東部時間）；香港／澳門時間同日 16:00–17:00",
+        "費用：免費（A$0.00），經商店頁加入購物車登記",
+        "對象：心理學家",
+        "形式：全程線上直播，另有錄影重溫"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-12-01",
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "psych-hive-managing-admin-without-burnout-webinar",
+      "source": {
+        "author_name": "The Psych Hive",
+        "description": "The Psych Hive（澳洲）免費網上研討會，由 Dr Jade Goodman 及 Brianna Thomas 主講，教授實用、低負荷的文件與行政系統，精簡進度筆記等文書工作，保護臨床工作者的認知資源。2026 年 12 月 1 日（星期二）澳洲東部時間 19:00–20:00 舉行，費用全免（A$0.00）。來源為 2026-11-19 Feed IG 海報 run 的公開搜尋後備，按 Gu 指示回饋上架 PsyPick。",
+        "platform": "web",
+        "title": "Free Psychologist Webinar 1: Managing Admin Without The Burnout",
+        "url": "https://thepsychhive.com/shop/p/free-psychologist-webinar-1-managing-admin-without-the-burnout"
+      },
+      "title_zh": "免費網上研討會：寫進度筆記寫到攰？The Psych Hive 教你用低負荷系統處理行政工作（12 月 1 日）"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "隨機對照試驗（The Journal of Pain，2026；DOI: 10.1016/j.jpain.2026.106406；兩項預先註冊實驗；PMID: 42567239）",
+      "evidence_quote": "even without active application",
+      "key_points_zh": [
+        "兩項預先註冊隨機對照實驗，共 187 名健康成人（研究一 N=121、研究二 N=66），以冷水按壓測試量度痛楚反應",
+        "研究一：擁有止痛膏並與之建立連結的組別 8.03 秒才感到痛（其他組 3.92–5.14 秒），忍痛約 105 秒（其他組 53–66 秒）",
+        "研究二：擁有組忍痛 85.3 秒對無擁有組 53.8 秒，長近六成；毋須刻意思考止痛膏的重要性",
+        "參加者全程未使用止痛膏，膏不含任何止痛成分；研究團隊建議探索個人化治療物件作為低成本輔助方向"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-11-17",
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "ownership-placebo-cream-pain-tolerance-rct",
+      "source": {
+        "author_name": "Ng et al.",
+        "description": "The Journal of Pain 2026 年刊出（DOI: 10.1016/j.jpain.2026.106406）。嶺南大學心理學系兩項預先註冊的隨機對照實驗，共 187 名無慢性痛的健康成人。擁有安慰劑止痛膏並與之建立心理連結者，痛閾與忍痛時間顯著較高，即使從未使用該膏。來源為 2026-11-19 Feed IG 海報 run 的公開搜尋後備，按 Gu 指示回饋上架 PsyPick。",
+        "platform": "web",
+        "title": "Ownership and cognitive connectedness with placebo objects predict pain-related behavioral responses (The Journal of Pain 2026; DOI: 10.1016/j.jpain.2026.106406)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567239/"
+      },
+      "title_zh": "RCT：擁有感提升忍痛能力——安慰劑止痛膏從未使用都有效（嶺南大學，n=187）"
+    }
+  ]
+}
