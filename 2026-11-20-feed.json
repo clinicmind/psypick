@@ -1,0 +1,200 @@
+{
+  "format": "psypick-muse-v1",
+  "items": [
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "培訓頁面（Seasons Clinical Institute；2026 年 12 月 4 日美中時間 9:00–10:00；免費 Price: 0 USD；經原頁核實；頁面註明不設 CE 學分）",
+      "evidence_quote": "more than a reproductive transition",
+      "key_points_zh": [
+        "講者：Dr. Kimberly Dolan，PhD，LPC，NCC，CST（Seasons Clinical Institute）",
+        "內容：更年期與圍絕經期對心理健康的影響——焦慮、抑鬱、失眠、認知抱怨與性功能變化",
+        "評估：荷爾蒙波動、睡眠問題與心理社會因素一齊睇，唔好只當情緒問題",
+        "實務：更年期知情評估問題，可以直接放入 intake 同持續治療",
+        "日期：2026 年 12 月 4 日（星期五）9:00–10:00（美中時間）；香港／澳門時間同日 23:00–24:00",
+        "費用：免費，全程線上直播；唔包 CE 學分；全程英語"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-12-04",
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "seasons-menopause-mental-health-webinar",
+      "source": {
+        "author_name": "Seasons Clinical Institute",
+        "description": "Seasons Clinical Institute 免費 60 分鐘網上研討會，由 Dr. Kimberly Dolan 主講，介紹更年期與圍絕經期對心理健康的影響及更年期知情評估。2026 年 12 月 4 日（星期五）美中時間 9:00–10:00 舉行，費用全免。來源為 2026-11-20 Feed IG 海報 run 的公開搜尋後備，按 Gu 指示回饋上架 PsyPick。",
+        "platform": "web",
+        "title": "Menopause & Mental Health: Free Live Webinar for Clinicians",
+        "url": "https://www.seasonsclinicalinstitute.com/live-trainings/p/menopause-and-mental-health-what-clinicians-are-missing"
+      },
+      "title_zh": "免費網上研討會：更年期與心理健康——臨床常忽略的一課（12 月 4 日）"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "縱向觀察研究（Communications Psychology，2026；DOI: 10.1038/s44271-026-00539-z；家居錄影數據；KU 新聞稿 2026-11-17）",
+      "evidence_quote": "it's still only 12% of the time",
+      "key_points_zh": [
+        "6–17 個月大嬰兒，每月一小時家居錄影（SEEDLingS 縱向數據），分析日常見到嘅臉同表情",
+        "BB 平日見到嘅臉多數係半邊臉，唔係成塊臉；全臉時間本身已經好少",
+        "就算只計見到成塊臉嘅時間，最常見嘅快樂原型表情都只佔 12%",
+        "實驗室用開嘅誇張表情日常極少出現，出現嗰陣處境往往出乎意料，未必代表預設情緒意思"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-09-24",
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "infant-facial-expressions-emotion-prototypes",
+      "source": {
+        "author_name": "Hoemann et al.",
+        "description": "Communications Psychology 2026 年刊出（DOI: 10.1038/s44271-026-00539-z）。堪薩斯大學團隊分析 6–17 個月大嬰兒嘅縱向家居錄影，發現誇張表情原型日常極少出現，嬰兒學情緒靠成個處境。來源為 2026-11-20 Feed IG 海報 run 的公開搜尋後備，按 Gu 指示回饋上架 PsyPick。",
+        "platform": "web",
+        "title": "Infants' facial input from 6 to 17 months rarely includes hypothesized expressive emotion prototypes (Communications Psychology 2026; DOI: 10.1038/s44271-026-00539-z)",
+        "url": "https://www.nature.com/articles/s44271-026-00539-z"
+      },
+      "title_zh": "嬰兒眼中嘅表情唔係實驗室嗰套：誇張表情日常好少見（Communications Psychology 2026）"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "系統性回顧與統合分析（Psychotherapy Research，2026-04-19 線上刊出；DOI: 10.1080/10503307.2026.2650152；PMID: 42002402；經 PubMed 核實）",
+      "evidence_quote": "EFT appears to be modestly effective",
+      "key_points_zh": [
+        "納入 13 篇臨床試驗：EFT 組 n=348，對照組 n=201",
+        "與非積極對照組比較 g=1.39（95% CI 1.06–1.72）；與其他心理治療比較 g=0.28，差異不顯著",
+        "研究質素普遍較差、樣本小，有出版偏倚；樣本以女性及白人／伊朗人為主"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-04-19",
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "emotion-focused-therapy-distress-psychopathology-meta-analysis",
+      "source": {
+        "author_name": "Whittington et al.",
+        "description": "情緒聚焦治療對成人困擾型精神病理的系統性回顧與統合分析：EFT 明顯優於非積極對照組，但不比其他心理治療優勝；研究質素普遍較差，結論為中等療效。",
+        "platform": "web",
+        "title": "Emotion-focused therapy for distress-based psychopathology in adults: A systematic review and meta-analysis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42002402/"
+      },
+      "title_zh": "統合分析：EFT 對成人困擾型精神病理有中等療效，但不比其他心理治療優勝"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "橫斷面研究（Family Process，2026-10-26 刊出；DOI: 10.1111/famp.70214；作者聲明無利益衝突；經 Wiley 核實）",
+      "evidence_quote": "regard emerged as the dominant predictor",
+      "key_points_zh": [
+        "全國配額代表性樣本 1,090 人（545 對伴侶）",
+        "依附單一模型解釋 47% 關係滿意度變異；加入吸引與尊重後升至 70.5%",
+        "尊重是最大預測因子（41.3%），其次為吸引（29.8%）與依附（29.0%）",
+        "橫斷面、非臨床樣本，不能推論臨床機制"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-10-26",
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "the-great-eft-schism-johnson-greenberg-couple-satisfaction",
+      "source": {
+        "author_name": "Halamová",
+        "description": "直接比較 EFT-C 兩大理論：Johnson 依附模型與 Greenberg–Goldman 多動機模型；結果顯示尊重比依附更能預測伴侶滿意度，與「依附首要」假設的強版本不一致。",
+        "platform": "web",
+        "title": "The Great EFT Schism: Testing Johnson's and Greenberg's Alternative Models of What Drives Couple Satisfaction",
+        "url": "http://onlinelibrary.wiley.com/doi/10.1111/famp.70214"
+      },
+      "title_zh": "EFT 大分歧：尊重而非單靠依附，最能預測伴侶滿意度（n=1,090）"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "隨機對照試驗（Frontiers in Public Health，2026-06-05 刊出；DOI: 10.3389/fpubh.2026.1828667；試驗註冊 ChiCTR2100043855；經 Frontiers 全文核實）",
+      "evidence_quote": "effectively reduces NSSI behaviors",
+      "key_points_zh": [
+        "192 名 12–18 歲抑鬱兼非自殺自傷青少年，三組各 64 人，介入 8 週",
+        "DBT＋STEPPS 組自傷分數低於 DBT 組與對照組；適應性情緒調節最高、焦慮抑鬱最低（p<0.05）",
+        "中重度自殺風險者已排除；追蹤只到介入後 48 小時內"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-06-05",
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "dbt-stepps-adolescent-nssi-rct",
+      "source": {
+        "author_name": "Wang et al.",
+        "description": "DBT 結合 STEPPS 對抑鬱兼非自殺自傷青少年的隨機對照試驗：合併介入比單用 DBT 更有效減少自傷行為，並改善情緒調節、焦慮與抑鬱。",
+        "platform": "web",
+        "title": "A study on the effects of combined DBT and STEPPS interventions for adolescents with non-suicidal self-injury: a randomized controlled trial",
+        "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1828667/full"
+      },
+      "title_zh": "RCT：DBT 結合 STEPPS，比單用 DBT 更有效減少青少年非自殺自傷（n=192）"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "隨機試驗的次級分析（PLOS Mental Health，2026-03-24 刊出；DOI: 10.1371/journal.pmen.0000564；作者申報利益衝突；經 PLOS 全文核實）",
+      "evidence_quote": "emotion dysregulation as a key correlate",
+      "key_points_zh": [
+        "72 名物質使用障礙者，隨機分入即時或延遲 12 週自助式網上 DBT",
+        "個人內情緒失調上升，與物質使用嚴重程度及功能缺損上升相關",
+        "DBT 技巧與正念的關聯經多重比較校正後不顯著；一位作者為 Pocket Skills 開發者並收取諮詢費"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-03-24",
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "internet-delivered-dbt-substance-use-engagement",
+      "source": {
+        "author_name": "Downie et al.",
+        "description": "自助式網上 DBT 治療物質使用障礙的次級分析：情緒失調而非技巧運用，與療效相關；各項投入度指標均無顯著調節作用。",
+        "platform": "web",
+        "title": "Multilevel associations between skills use, engagement, and treatment outcome in self-guided internet-delivered dialectical behavior therapy for substance use disorders",
+        "url": "https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000564"
+      },
+      "title_zh": "網上 DBT 治物質使用：情緒失調而非技巧運用，與療效相關（n=72）"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "準實驗研究（Counselling and Psychotherapy Research，2026-11-18 刊出；DOI: 10.1002/capr.70234；摘要經 NYU information for practice 頁面核對；原刊 Wiley 頁面 403 未能開啟）",
+      "evidence_quote": "EFT-T can be a promising treatment",
+      "key_points_zh": [
+        "40 名大學生，12–16 節遙距跨診斷 EFT-T，治療前 4 週等候期，追蹤至 12 個月",
+        "各項量度大幅改善，效果在 6 個月與 12 個月追蹤時大致維持",
+        "無對照組、樣本小、只限大學生，結果屬初步性質"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-11-18",
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "transdiagnostic-eft-teletherapy-depression-anxiety-quasi-experimental",
+      "source": {
+        "author_name": "Counselling and Psychotherapy Research",
+        "description": "遙距跨診斷情緒聚焦治療對大學生抑鬱與焦慮症狀的準實驗研究：大幅改善並維持至 12 個月追蹤，但無對照組、樣本小。",
+        "platform": "web",
+        "title": "Efficacy of Transdiagnostic Emotion-Focused Therapy in the Treatment of Depression and Anxiety Symptoms: A Quasi-Experimental Study",
+        "url": "https://ifp.nyu.edu/2026/journal-article-abstracts/capr-70234/"
+      },
+      "title_zh": "準實驗研究：遙距跨診斷 EFT-T 改善大學生抑鬱焦慮，效果維持 12 個月（n=40）"
+    }
+  ],
+  "run_date": "2026-11-20"
+}
