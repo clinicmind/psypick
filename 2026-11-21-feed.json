@@ -1,0 +1,203 @@
+{
+  "format": "psypick-muse-v1",
+  "items": [
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "培訓頁面（Brown 大學 CME；2026 年 12 月 2 日美東時間 11:00–12:15；免費 Cost: $0.00；經原頁核實；須預先報名；1.25 AMA 學分）",
+      "evidence_quote": "Cost: $0.00",
+      "key_points_zh": [
+        "講者：Shannon Wiltsey-Stirman 教授（史丹福大學精神及行為科學系）",
+        "內容：AI 心理治療工具嘅證據現況——邊啲應用有實證支持，邊啲未有",
+        "評估：考慮用大型語言模型（LLM）做心理治療前，要評估嘅重要因素",
+        "實務：三個實際應用場景，LLM 點樣支援治療實施",
+        "日期：2026 年 12 月 2 日（星期三）11:00–12:15（美東時間）；香港／澳門時間 12 月 3 日（星期四）凌晨 12:00–1:15",
+        "費用：免費，全程線上直播（Zoom）；1.25 AMA 學分；全程英語；須預先報名"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-12-02",
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "brown-ai-mental-health",
+      "source": {
+        "author_name": "Brown University Warren Alpert Medical School",
+        "description": "Brown 大學 Warren Alpert 醫學院精神科 Grand Rounds 免費 75 分鐘網上研討會，由史丹福大學 Shannon Wiltsey-Stirman 教授主講，講解 AI 心理治療工具嘅證據現況及 LLM 臨床應用。2026 年 12 月 2 日美東時間 11:00–12:15 舉行，費用全免。來源為 2026-11-21 Feed IG 海報 run 的公開搜尋後備，按 Gu 指示回饋上架 PsyPick。",
+        "platform": "web",
+        "title": "AI and Mental Health: Consumer Use, Clinical Use Cases, and Ethical Considerations",
+        "url": "https://cme-learning.brown.edu/content/12022026-ai-and-mental-health-consumer-use-clinical-use-cases-and-ethical-considerations"
+      },
+      "title_zh": "免費網上研討會：AI 與心理健康——臨床應用與倫理考量（12 月 3 日香港時間）"
+    },
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "活動頁面（BehaviorLive／Gracent；2026 年 11 月 24 日美中時間 8:00–9:00；免費登記；經即時瀏覽器核實；1 BACB 學分、0.1 ASHA 學分）",
+      "evidence_quote": "Register now Free!",
+      "key_points_zh": [
+        "講者：Paula Kenyon 博士（BCBA-D）",
+        "內容：倦怠三個面向，以及點樣影響服務延續性、照顧質素同安全",
+        "評估：正念作為可學習嘅注意能力，結合行為概念（私人事件、辨別、動機操作）理解",
+        "實務：兩節簡短引導練習，以及將正念策略融入工作日同屋企嘅具體方法",
+        "日期：2026 年 11 月 24 日（星期二）8:00–9:00（美中時間）；香港／澳門時間同日晚上 10:00–11:00",
+        "費用：免費，全程線上直播；1 BACB 學分、0.1 ASHA 學分；全程英語；須預先報名"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-11-24",
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "gracent-burnout-balance-mindfulness",
+      "source": {
+        "author_name": "Gracent",
+        "description": "Gracent（經 BehaviorLive）免費 60 分鐘網上研討會，由 Paula Kenyon 博士（BCBA-D）主講，講解倦怠三個面向及正念實證與實踐策略。2026 年 11 月 24 日美中時間 8:00–9:00 舉行，費用全免。來源為 2026-11-21 Feed IG 海報 run 的公開搜尋後備，按 Gu 指示回饋上架 PsyPick。",
+        "platform": "web",
+        "title": "From Burnout to Balance: Mindfulness Practices for BCBAs, SLPs, and OTs in Leadership",
+        "url": "https://behaviorlive.com/events/from-burnout-to-balance-mindfulness-practices-for-bcbas-slps-and-ots-in-leader"
+      },
+      "title_zh": "免費網上研討會：從倦怠到平衡——臨床領導者的正念實踐（11 月 24 日）"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "隨機對照試驗（Frontiers in Psychology，2026-02-11 刊出；DOI: 10.3389/fpsyg.2026.1780192）",
+      "evidence_quote": "ACT and EFT are more effective",
+      "key_points_zh": [
+        "100 名 13–18 歲遊戲成癮青少年，隨機分 ACT、EFT、ABT 與等候對照組，每組 25 人",
+        "三組功能性情緒調節顯著提升、功能失調顯著下降（p<0.001）",
+        "ACT 與 EFT 效應量遠大於 ABT，兩者之間無顯著差異；效果維持到 6 週後追蹤",
+        "EFT 按 Greenberg 模式改編為青少年小組版；目的抽樣、土耳其單一地區"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-02-11",
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "act-eft-abt-adolescent-gaming-addiction-emotion-regulation-rct",
+      "source": {
+        "author_name": "Güngör S",
+        "description": "Frontiers in Psychology 2026 年刊出（DOI: 10.3389/fpsyg.2026.1780192）。比較 ACT、EFT 與依附取向治療對遊戲成癮青少年情緒調節的效果：ACT 與 EFT 同樣有效，效應量遠大於 ABT。",
+        "platform": "web",
+        "title": "ACT, EFT and attachment-based therapy for emotion regulation in adolescents with digital game addiction (Frontiers in Psychology 2026; DOI: 10.3389/fpsyg.2026.1780192)",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1780192/full"
+      },
+      "title_zh": "RCT：ACT 與 EFT 同樣有效改善遊戲成癮青少年的情緒調節（n=100）"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "試點研究（Archives of Psychiatry and Psychotherapy，2026-10-21 刊出；DOI: 10.12740/APP/221257）",
+      "evidence_quote": "supporting basic hope",
+      "key_points_zh": [
+        "32 名精神科住院病人，4FM 接納訓練加常規治療（n=13）vs 常規治療（n=19），非隨機分組",
+        "4FM 組基本希望升幅顯著高於對照組（t(15)=-5.16，p<0.001）",
+        "擔憂、抑鬱、存在實現感無組間差異；完整前後數據僅 17 人",
+        "全部參加者曾受情緒虐待，96.9% 曾受情緒忽略"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-10-21",
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "existential-4fm-acceptance-training-complex-trauma-pilot",
+      "source": {
+        "author_name": "Draczyńska D, Nowakowska A",
+        "description": "Archives of Psychiatry and Psychotherapy 2026 年刊出（DOI: 10.12740/APP/221257）。存在主義 4FM 接納訓練對複雜創傷住院病人的試點研究：基本希望顯著提升，其餘症狀指標無組間差異。",
+        "platform": "web",
+        "title": "Brief existential group intervention in complex trauma and personality disorders (Archives of Psychiatry and Psychotherapy 2026; DOI: 10.12740/APP/221257)",
+        "url": "https://www.archivespp.pl/pdf-221257-149411?filename=Brief-Existential-Group-I.pdf"
+      },
+      "title_zh": "存在主義小組試點：4FM 接納訓練提升複雜創傷住院病人的基本希望（n=32）"
+    },
+    {
+      "category": "研究與證據",
+      "evidence_hint": "隨機對照試驗（Frontiers in Psychology，2026-10-12 刊出；DOI: 10.3389/fpsyg.2026.1965838）",
+      "evidence_quote": "flexibility mindset may be amenable",
+      "key_points_zh": [
+        "44 名大學生隨機分介入組與主動對照組，每日微練習三週，培養六種情緒資源",
+        "介入組彈性心態由前測到後測 d=0.91、到兩週後追蹤 d=1.05，對照組無變化",
+        "抑鬱、焦慮與壓力在兩組都下降，組間無差異；負面情緒無變化",
+        "此處「情緒聚焦自省」並非 Greenberg 的情緒聚焦治療（EFT），不可混淆"
+      ],
+      "kind": "research",
+      "model_names": [],
+      "page_date": "2026-10-12",
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "flexibility-mindset-daily-emotion-focused-self-reflection-rct",
+      "source": {
+        "author_name": "Eilert DW et al.",
+        "description": "Frontiers in Psychology 2026 年刊出（DOI: 10.3389/fpsyg.2026.1965838）。每日情緒聚焦自省提升彈性心態的隨機對照試驗：介入組彈性心態顯著提升，症狀改善則兩組相若。",
+        "platform": "web",
+        "title": "Enhancing flexibility mindset: a randomized controlled trial using daily emotion-focused self-reflection (Frontiers in Psychology 2026; DOI: 10.3389/fpsyg.2026.1965838)",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1965838/full"
+      },
+      "title_zh": "RCT：每日情緒聚焦自省提升彈性心態（n=44，三週微練習）"
+    },
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "培訓頁面（Mind Body Training Institute；2026 年 12 月 16 日 13:00 美國太平洋時間；免費；經原頁核實）",
+      "evidence_quote": "",
+      "key_points_zh": [
+        "講者：Monica Bhatara，加拿大創傷治療師及全國培訓師，25 年以上經驗",
+        "主題：用表達性治療調節創傷復元中的神經系統，適用於兒童及成人",
+        "日期：2026 年 12 月 16 日星期三 13:00（美國太平洋時間，約香港時間 12 月 17 日 05:00）",
+        "費用：免費，全程線上；登記即可參加及收看重播"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-12-16",
+      "population": [
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "mind-body-expressive-therapies-nervous-system-trauma-webinar",
+      "source": {
+        "author_name": "Mind Body Training Institute",
+        "description": "Mind Body Training Institute 免費每月網上研討會，2026 年 12 月 16 日舉行，由 Monica Bhatara 主講表達性治療在創傷復元中的神經系統調節。",
+        "platform": "web",
+        "title": "Using Expressive Therapies to Support Regulating the Nervous System Within Trauma Recovery Work (Mind Body Training Institute, 16 December 2026)",
+        "url": "https://mindbodytraininginstitute.com/free-online-training/"
+      },
+      "title_zh": "免費網上研討會：用表達性治療調節創傷復元中的神經系統（12 月 16 日，Monica Bhatara）"
+    },
+    {
+      "category": "進修與培訓",
+      "evidence_hint": "培訓頁面（華盛頓大學 Harborview Behavioral Health Institute；2026 年 12 月 18 日 11:00–12:00 美國太平洋時間；免費；經原頁核實）",
+      "evidence_quote": "",
+      "key_points_zh": [
+        "講者：Jennifer Piel，醫學博士、法學博士",
+        "主題：從文字到觸碰——管理現代醫療中的專業界線",
+        "日期：2026 年 12 月 18 日星期五 11:00–12:00（美國太平洋時間，約香港時間 12 月 19 日 03:00–04:00）",
+        "費用：免費，Zoom 線上；每月系列需逐場登記"
+      ],
+      "kind": "training",
+      "model_names": [],
+      "page_date": "2026-12-18",
+      "population": [
+        "臨床工作者"
+      ],
+      "published": true,
+      "slug": "harborview-telebehavioral-health-professional-boundaries-webinar",
+      "source": {
+        "author_name": "Harborview Behavioral Health Institute",
+        "description": "華盛頓大學 Harborview Behavioral Health Institute 免費每月 TeleBehavioral Health 研討會，2026 年 12 月 18 日舉行，由 Jennifer Piel 主講現代醫療中的專業界線管理。",
+        "platform": "web",
+        "title": "From Text to Touch: Managing Professional Boundaries in Modern Healthcare (Harborview Behavioral Health Institute, 18 December 2026)",
+        "url": "https://bhinstitute.uw.edu/training-workforce-policy/training/telebehavioral-health/telebehavioral-health-series-webinar-registration/"
+      },
+      "title_zh": "免費網上研討會：從文字到觸碰——現代醫療中的專業界線（12 月 18 日，Jennifer Piel）"
+    }
+  ]
+}
