@@ -1,0 +1,429 @@
+{
+ "format": "psypick-muse-v1",
+ "items": [
+  {
+   "brief_en": [],
+   "caution": "直播名額限 500 人，先到先得；不設 CEU／學分，登記後可收看錄影重溫。",
+   "date": "2026-11-22T01:49:45+00:00",
+   "ethics_flags": [],
+   "evidence_level": 0,
+   "featured_at": null,
+   "first_seen_at": "2026-11-22T01:49:45+00:00",
+   "hero_media": null,
+   "hot_score": 0.0,
+   "include": true,
+   "model_names": [],
+   "original_prompt": "",
+   "psych_concepts": [],
+   "reject_reason": "",
+   "related": null,
+   "tier": "live",
+   "verify_needed": false,
+   "verify_reason": "",
+   "brief_zh": [
+    "主辦：Center for Collegiate Mental Health（CCMH）× The Hope Center for Student Basic Needs",
+    "內容：以 CCMH 數據比較兩年制／社區學院與四年制大學輔導中心的學生心理健康需要",
+    "實務：數據主導決策、減低污名、擴大求助途徑、支援通勤學生",
+    "協作：加強校園與社區夥伴協調，建立可持續、以學生為中心的照顧",
+    "日期：2026 年 12 月 10 日（星期四）12:00–14:00（美東時間）；香港／澳門時間 12 月 11 日（星期五）凌晨 1:00–3:00",
+    "費用：免費，全程線上直播（Zoom）；不設 CEU；設錄影重溫；直播名額限 500 人"
+   ],
+   "category": "進修培訓",
+   "evidence_note": "活動頁面（CCMH；2026 年 12 月 10 日美東時間 12:00–14:00；免費；經原頁及傳單核實；不設 CEU；設錄影；直播名額限 500 人）",
+   "evidence_quote": "December 10, 2026 from 12-2 pm EST",
+   "kind": "training",
+   "page_date": "2026-12-10",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "posts": [
+    {
+     "author_handle": "",
+     "author_name": "Center for Collegiate Mental Health (CCMH)",
+     "content": "培訓頁面：CCMH 免費網上研討會，2026 年 12 月 10 日美東時間 12:00–14:00，Zoom 線上直播。",
+     "platform": "web",
+     "posted_at": "2026-12-10T17:00:00+00:00",
+     "title": "Advancing Student Mental Health at Community Colleges: Research, Practice, and Pathways Forward",
+     "url": "https://ccmh.psu.edu/ceu"
+    }
+   ],
+   "slug": "ccmh-community-college-student-mental-health",
+   "summary_en": "A free 2-hour live webinar from the Center for Collegiate Mental Health (CCMH) and The Hope Center for Student Basic Needs. Using CCMH data, it compares the mental health needs and counselling services of community colleges with four-year institutions, covering data-informed decision making, reducing stigma, expanding access to care, supporting commuter-based students, and coordinating support across campus and community partners. Held Thursday 10 December 2026, 12:00-14:00 Eastern Time (01:00-03:00 Hong Kong/Macau time on 11 December), fully online via Zoom, free of charge, in English, with advance registration required. No CEU; a recording will be available to registrants. Aimed at counselling centre staff, clinicians and higher-education professionals working in collegiate mental health.",
+   "summary_zh": "CCMH 與 The Hope Center for Student Basic Needs 合辦免費 2 小時網上研討會，以 CCMH 數據比較兩年制／社區學院與四年制大學輔導中心的學生心理健康需要，探討數據主導決策、減低污名、擴大求助途徑、支援通勤學生，以及校園與社區協作。2026 年 12 月 10 日（星期四）美東時間 12:00–14:00 舉行（香港／澳門時間 12 月 11 日星期五凌晨 1:00–3:00），全程 Zoom 線上直播，費用全免，全程英語，須預先報名。不設 CEU；設錄影重溫，登記後可收看。對象為大專院校輔導中心人員、臨床心理學家、輔導員、社工及高等教育學生心理健康工作者。",
+   "supervision_questions": [
+    "你機構入面嘅社區學院學生，求助時最大嘅阻礙係污名、時間，定係唔知有服務？下次團隊會議你會點樣提出？",
+    "數據顯示社區學院同四年制大學嘅學生需要唔同，你手頭嘅服務有冇針對呢啲唔同作出調整？如果冇，第一步可以係咩？"
+   ],
+   "tags": [
+    "學生心理健康",
+    "社區學院",
+    "免費培訓",
+    "CCMH"
+   ],
+   "title_en": "Free webinar: Advancing Student Mental Health at Community Colleges: Research, Practice, and Pathways Forward (CCMH, 10 December)",
+   "title_zh": "免費網上研討會：社區學院學生心理健康——研究、實務與前行路徑（12 月 11 日香港時間）",
+   "training": {
+    "provider": "Center for Collegiate Mental Health (CCMH)",
+    "format": "線上直播（Zoom）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "不設 CEU",
+    "language": "英語",
+    "event_date": "2026-12-10",
+    "event_time_note": "12:00–14:00（美東時間 EST；香港／澳門時間 12 月 11 日 01:00–03:00）",
+    "deadline": ""
+   }
+  },
+  {
+   "brief_en": [],
+   "caution": "CE 學分須另加 $49.99 升級；免費重溫只開放 3 日。ART 正式培訓另有要求，本工作坊只作入門介紹。",
+   "date": "2026-11-22T01:49:45+00:00",
+   "ethics_flags": [],
+   "evidence_level": 0,
+   "featured_at": null,
+   "first_seen_at": "2026-11-22T01:49:45+00:00",
+   "hero_media": null,
+   "hot_score": 0.0,
+   "include": true,
+   "model_names": [],
+   "original_prompt": "",
+   "psych_concepts": [],
+   "reject_reason": "",
+   "related": null,
+   "tier": "live",
+   "verify_needed": false,
+   "verify_reason": "",
+   "brief_zh": [
+    "講者：Laney Rosenzweig（ART 創始人）、Amy Shuman（ART 首席培訓師）、Kevin Kip 博士（ART 研究學者）",
+    "內容：ART 的基礎概念、目的、發展，以及在創傷知情照顧中的角色",
+    "研究：情緒記憶的神經科學與記憶再鞏固新興研究，眼動在 ART 中的作用",
+    "實務：ART 如何在不需詳細重述創傷下快速減輕情緒負荷，及正式培訓要求",
+    "日期：2026 年 12 月 21 日（星期一）9:00–12:15（美中時間）；香港／澳門時間 12 月 21 日（星期一）晚上 11:00 至 12 月 22 日（星期二）凌晨 2:15",
+    "費用：免費，全程線上直播；3 日免費重溫；3 CE 學分另加 $49.99；全程英語；須預先報名"
+   ],
+   "category": "進修培訓",
+   "evidence_note": "培訓頁面（PESI；2026 年 12 月 21 日美中時間 9:00–12:15；免費 Price: 0 USD；經原頁核實；3 日免費重溫；CE 另加 $49.99）",
+   "evidence_quote": "Price: 0 USD",
+   "kind": "training",
+   "page_date": "2026-12-21",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "posts": [
+    {
+     "author_handle": "",
+     "author_name": "PESI",
+     "content": "培訓頁面：PESI 免費 3 小時網上工作坊，2026 年 12 月 21 日美中時間 9:00–12:15，線上直播。",
+     "platform": "web",
+     "posted_at": "2026-12-21T15:00:00+00:00",
+     "title": "3-Hour Intro to Accelerated Resolution Therapy (ART) for PTSD and Trauma: Foundations, Emerging Research and Clinical Applications",
+     "url": "https://www.pesi.com/sales/bh_s_151031_artforptsdandtrauma_sum96596_organic-2509695/"
+    }
+   ],
+   "slug": "pesi-art-ptsd-trauma-intro",
+   "summary_en": "A free 3-hour live virtual workshop from PESI, presented by ART developer Laney Rosenzweig, lead trainer Amy Shuman and researcher Dr. Kevin Kip. It introduces Accelerated Resolution Therapy (ART): its foundational concepts, the neuroscience of emotional memory and memory reconsolidation, the proposed role of eye movements, and the clinical populations for which ART may be appropriate. ART reprocesses painful memories so the emotional charge fades without requiring detailed retellings. Held Monday 21 December 2026, 09:00-12:15 Central Time (23:00 Hong Kong/Macau time on 21 December to 02:15 on 22 December), fully online, free of charge, in English, with advance registration required. Free replay access for 3 days; up to 3 CE hours available for a $49.99 upgrade. Aimed at counsellors, social workers, psychologists, marriage and family therapists and other mental health professionals.",
+   "summary_zh": "PESI 免費 3 小時網上工作坊，由 ART 創始人 Laney Rosenzweig、首席培訓師 Amy Shuman 及研究學者 Kevin Kip 博士主講，介紹加速解決治療（ART）的基礎概念、情緒記憶的神經科學與記憶再鞏固研究、眼動在 ART 中的作用，以及適合使用 ART 的臨床群體。ART 透過治療師引導的眼動與自願影像替換，令創傷記憶的情緒負荷減輕，而無需詳細重述創傷。2026 年 12 月 21 日（星期一）美中時間 9:00–12:15 舉行（香港／澳門時間 12 月 21 日星期一晚上 11:00 至 12 月 22 日星期二凌晨 2:15），全程線上直播，費用全免，全程英語，須預先報名。3 日免費重溫；3 CE 學分另加 $49.99。對象為輔導員、社工、心理學家、婚姻及家庭治療師及其他心理健康專業人員。",
+   "supervision_questions": [
+    "有個案一諗起創傷就呆咗、唞唔到氣，ART 嘅做法同你慣用嘅方法有咩唔同？你會點樣同個案解釋？",
+    "ART 強調唔使詳細重述創傷，呢一點對邊類個案最有幫助？對邊類個案你要特別小心？"
+   ],
+   "tags": [
+    "創傷治療",
+    "ART",
+    "PTSD",
+    "免費培訓"
+   ],
+   "title_en": "Free workshop: 3-Hour Intro to Accelerated Resolution Therapy (ART) for PTSD and Trauma (PESI, 21 December)",
+   "title_zh": "免費網上工作坊：ART 創傷治療三小時入門——基礎、研究與臨床應用（12 月 21 日香港時間）",
+   "training": {
+    "provider": "PESI",
+    "format": "線上直播",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "3 CE 學分另加 $49.99",
+    "language": "英語",
+    "event_date": "2026-12-21",
+    "event_time_note": "9:00–12:15（美中時間 CST；香港／澳門時間 12 月 21 日 23:00 至 12 月 22 日 02:15）",
+    "deadline": ""
+   }
+  },
+  {
+   "brief_en": [],
+   "brief_zh": [
+    "204 名 18–65 歲邊緣型人格障礙（BPD）門診病人，荷蘭 9 間中心，隨機分入辯證行為治療（DBT，n=95）或基模治療（ST，n=109）",
+    "兩種治療各為期 2 年，結合小組與個別形式；評估由不知分組的評估員進行",
+    "主要結果為 DSM-5 BPD 嚴重程度（BPDSI-5），由基線到治療後 1 年追蹤（基線起計 3 年）",
+    "36 個月追蹤時，兩組 BPDSI-5 平均差 −1.09（Cohen d=0.15，95% CI −0.17 至 0.47），組間無顯著差異（p=0.27）",
+    "次要結果（症狀嚴重度、功能、生活質素、幸福感、睡眠、脫落率）亦無組間差異，兩組皆大幅改善",
+    "脫落率：1 年時 DBT 34%、ST 29%；2 年時 DBT 52%、ST 46%"
+   ],
+   "category": "研究與證據",
+   "caution": "優越性試驗設計，未能證明兩種治療等效；脫落率高（2 年約五成）；荷蘭門診樣本，女性佔 84.3%；作者指需進一步研究邊種治療對邊種個案最有效。",
+   "date": "2026-11-22T13:30:00+00:00",
+   "deadline_soon": false,
+   "ethics_flags": [],
+   "evidence_level": 3,
+   "evidence_note": "多中心隨機對照試驗（JAMA Psychiatry，2026-04-22 線上刊出；DOI: 10.1001/jamapsychiatry.2026.0418；試驗註冊 NL-OMON49443）",
+   "evidence_quote": "no statistically significant differences",
+   "featured_at": null,
+   "first_seen_at": "2026-11-22T13:30:00+00:00",
+   "hero_media": null,
+   "hot_score": 0.0,
+   "include": true,
+   "kind": "research",
+   "model_names": [],
+   "original_prompt": "",
+   "page_date": "2026-04-22",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "posts": [
+    {
+     "author_handle": "",
+     "author_name": "JAMA Psychiatry",
+     "content": "JAMA Psychiatry 全文：BOOTS 多中心隨機對照試驗比較辯證行為治療與基模治療對邊緣型人格障礙的效果，含設計、樣本與主要結果。",
+     "platform": "web",
+     "posted_at": "2026-04-22T00:00:00+00:00",
+     "title": "JAMA Psychiatry 論文（DOI: 10.1001/jamapsychiatry.2026.0418）",
+     "url": "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2848044"
+    }
+   ],
+   "psych_concepts": [],
+   "reject_reason": "",
+   "related": [],
+   "slug": "dbt-vs-schema-therapy-bpd-boots-rct",
+   "summary_en": "Published online 22 April 2026 in JAMA Psychiatry. The BOOTS multicentre randomised clinical trial compared dialectical behavior therapy (DBT) with schema therapy (ST) in 204 adults aged 18-65 with borderline personality disorder across 9 Dutch outpatient centres (DBT n=95, ST n=109). Both treatments ran for 2 years in a combined group-individual format, with blinded assessment. At 36-month follow-up there was no significant difference between treatments in reducing BPD severity (BPDSI-5 mean difference -1.09, Cohen d=0.15, 95% CI -0.17 to 0.47; P=.27), and no differences on any secondary outcome, with large improvements in both treatments. Dropout was high in both arms (52% for DBT and 46% for ST at 2 years).",
+   "summary_zh": "JAMA Psychiatry 2026-04-22 線上刊出。BOOTS 多中心隨機對照試驗比較辯證行為治療（DBT）與基模治療（ST）對邊緣型人格障礙（BPD）的效果，204 名 18–65 歲門診病人來自荷蘭 9 間中心（DBT n=95，ST n=109），兩種治療各為期 2 年，結合小組與個別形式，評估員不知分組。36 個月追蹤時，兩組在 BPD 嚴重程度（BPDSI-5）上無顯著差異（平均差 −1.09，Cohen d=0.15，95% CI −0.17 至 0.47；p=0.27），次要結果亦無組間差異，兩組皆大幅改善。脫落率高，2 年時 DBT 52%、ST 46%。",
+   "supervision_questions": [
+    "兩種治療效果相若，你會用甚麼臨床線索幫個案選擇 DBT 還是基模治療？",
+    "脫落率兩年達約一半，督導上如何及早辨識有脫落風險的個案？"
+   ],
+   "tags": [
+    "DBT",
+    "基模治療",
+    "邊緣型人格障礙",
+    "隨機對照試驗"
+   ],
+   "tier": "live",
+   "title_en": "BOOTS multicentre RCT: DBT and schema therapy equally effective for borderline personality disorder (N=204)",
+   "title_zh": "多中心 RCT：DBT 與基模治療對邊緣型人格障礙同樣有效（n=204，追蹤 3 年）",
+   "training": null,
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "brief_en": [],
+   "brief_zh": [
+    "108 名自殺行為障礙（SBD）患者的家屬照顧者，西班牙 11 間精神健康服務招募，隨機分入 Family Connections（FC）組或單次心理教育組，完成研究者 75 人",
+    "FC：12 節每週 2 小時網上小組，為期 3 個月，六大模組包括自殺心理教育、情緒覺察、人際效能、效能行為、徹底接納與解難；對照組：單次 3 小時心理教育小組",
+    "主要結果：兩組的主客觀照顧負擔都顯著下降，組間無差異；FC 組的主觀負擔效應量較大（d=0.58，對照組 d=0.27）",
+    "FC 組的家庭賦權升幅顯著大於對照組（F=13.19，p<0.001，d=0.42），壓力與效能行為亦顯著優於對照組",
+    "患者自傷頻率：FC 組照顧者回報顯著下降（p=0.04），對照組無顯著變化；自殺嘗試頻率兩組都下降，但組間無差異"
+   ],
+   "category": "研究與證據",
+   "caution": "無追蹤期，效果維持未知；完成樣本僅 75 人，統計效力有限；自傷與自殺嘗試頻率由照顧者回報，未必準確；FC 24 小時對照組只 3 小時，劑量差異大，組間差異未必全因 DBT 成分；西班牙樣本，量表未經西班牙語家屬樣本驗證。",
+   "date": "2026-11-22T13:30:00+00:00",
+   "deadline_soon": false,
+   "ethics_flags": [
+    {
+     "flag": "危機處理",
+     "note": "照顧者本身是自殺風險較高群體，介入時需同時評估照顧者的自殺風險與支援網絡，不能只教技巧。",
+     "refs": [
+      "危機處理｜自殺與自傷風險"
+     ]
+    }
+   ],
+   "evidence_level": 3,
+   "evidence_note": "隨機對照試驗（Borderline Personality Disorder and Emotion Dysregulation，2026-06-13 刊出；DOI: 10.1186/s40479-026-00353-3；試驗註冊 NCT05157607；華倫西亞大學倫理委員會批准）",
+   "evidence_quote": "increasing mastery and empowerment",
+   "featured_at": null,
+   "first_seen_at": "2026-11-22T13:30:00+00:00",
+   "hero_media": null,
+   "hot_score": 0.0,
+   "include": true,
+   "kind": "research",
+   "model_names": [],
+   "original_prompt": "",
+   "page_date": "2026-06-13",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "posts": [
+    {
+     "author_handle": "",
+     "author_name": "Marco-Salvador JH et al.",
+     "content": "期刊全文：DBT 家庭連結課程對自殺未遂者家屬的隨機對照試驗，含設計、樣本與主要結果。",
+     "platform": "web",
+     "posted_at": "2026-06-13T00:00:00+00:00",
+     "title": "Borderline Personality Disorder and Emotion Dysregulation 論文（DOI: 10.1186/s40479-026-00353-3）",
+     "url": "https://link.springer.com/article/10.1186/s40479-026-00353-3"
+    }
+   ],
+   "psych_concepts": [],
+   "reject_reason": "",
+   "related": [],
+   "slug": "dbt-family-connections-caregivers-suicide-attempters-rct",
+   "summary_en": "Published 13 June 2026 in Borderline Personality Disorder and Emotion Dysregulation. A randomised controlled trial tested Family Connections (FC), a DBT-based skills training programme, against a single-session psychoeducational intervention in 108 family caregivers of patients with suicidal behavior disorder, recruited across 11 mental health services in Spain (75 completed). FC comprised 12 weekly two-hour online group sessions over three months. Both conditions significantly reduced objective and subjective caregiver burden, with no between-group difference. FC produced significantly greater gains in family empowerment (F=13.19, p<.001, d=0.42), stress reduction and validating behaviours. Patients' non-suicidal self-injury frequency fell significantly in the FC condition only, as reported by caregivers.",
+   "summary_zh": "Borderline Personality Disorder and Emotion Dysregulation 2026-06-13 刊出。隨機對照試驗比較 DBT 家庭連結課程（Family Connections）與單次心理教育對自殺未遂者家屬的效果，108 名家屬照顧者來自西班牙 11 間精神健康服務（完成者 75 人）。FC 為 12 節每週 2 小時網上小組，為期 3 個月。兩組的主客觀照顧負擔都顯著下降，組間無差異；FC 組的家庭賦權升幅顯著大於對照組（F=13.19，p<0.001，d=0.42），壓力與效能行為亦顯著較佳。照顧者回報的患者自傷頻率只在 FC 組顯著下降。",
+   "supervision_questions": [
+    "對照組單次 3 小時已能減輕負擔，臨床上你會如何決定何時提供簡短心理教育、何時轉介 12 節課程？",
+    "照顧者回報患者自傷減少，但數據來自照顧者觀察，你會如何向團隊說明這個限制？"
+   ],
+   "tags": [
+    "DBT",
+    "Family Connections",
+    "自殺未遂者家屬",
+    "照顧者負擔",
+    "隨機對照試驗"
+   ],
+   "tier": "live",
+   "title_en": "RCT: DBT-based Family Connections improves empowerment in family members of suicide attempters (N=108)",
+   "title_zh": "RCT：DBT 家庭連結課程提升自殺未遂者家屬的賦權與效能感（n=108）",
+   "training": null,
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "brief_en": [],
+   "brief_zh": [
+    "111 名抑鬱求助者，挪威常規短期治療計劃，隨機分入認知行為治療（CBT，n=55）或情緒聚焦治療（EFT，n=56），9–18 節個別治療（平均約 13.5 節）",
+    "主要結果 BDI-II：兩組由治療前到治療後都大幅改善（CBT d=1.06，EFT d=0.84），組間無顯著差異，效果維持到 12 個月追蹤",
+    "兩組各約 50% 達可靠改善；臨床顯著改善：CBT 40%、EFT 30%，差異不顯著",
+    "脫落率低：CBT 10.9%、EFT 1.8%；完成者平均節數兩組相若",
+    "焦慮改善幅度小，兩組各約 10% 達可靠改善；EFT 組治療結束時 80% 處於焦慮正常範圍，CBT 組 65%，差異不顯著"
+   ],
+   "category": "研究與證據",
+   "caution": "先導試驗、樣本小，未能定論兩者等效；無結構式診斷訪談，樣本同質性高、資源較多；結果全靠自填量表；不少合資格者因需錄影及填問卷而拒絕參加，代表性有限。",
+   "date": "2026-11-22T13:30:00+00:00",
+   "deadline_soon": false,
+   "ethics_flags": [],
+   "evidence_level": 3,
+   "evidence_note": "隨機對照先導試驗（Psychotherapy Research，2026 年第 36 卷第 8 期；2026-11-17 線上刊出；DOI: 10.1080/10503307.2025.2560935；挪威常規門診）",
+   "evidence_quote": "EFT and CBT exhibit comparable efficacy",
+   "featured_at": null,
+   "first_seen_at": "2026-11-22T13:30:00+00:00",
+   "hero_media": null,
+   "hot_score": 0.0,
+   "include": true,
+   "kind": "research",
+   "model_names": [],
+   "original_prompt": "",
+   "page_date": "2026-11-17",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "posts": [
+    {
+     "author_handle": "",
+     "author_name": "Psychotherapy Research",
+     "content": "期刊全文：常規治療中 CBT 與 EFT 治療抑鬱的隨機對照先導試驗，含設計、樣本與主要結果。",
+     "platform": "web",
+     "posted_at": "2026-11-17T00:00:00+00:00",
+     "title": "Psychotherapy Research 論文（DOI: 10.1080/10503307.2025.2560935）",
+     "url": "https://www.tandfonline.com/doi/abs/10.1080/10503307.2025.2560935"
+    }
+   ],
+   "psych_concepts": [],
+   "reject_reason": "",
+   "related": [],
+   "slug": "cbt-vs-eft-depression-routine-care-pilot-rct",
+   "summary_en": "Published online 17 November 2026 in Psychotherapy Research (Vol 36, No 8). A randomised controlled pilot trial compared cognitive behavioral therapy (CBT) with emotion-focused therapy (EFT) for depression in a Norwegian routine-care short-term programme: 111 clients randomised (CBT n=55, EFT n=56) to 9-18 individual sessions (mean about 13.5). Both groups improved substantially on the BDI-II from pre to post-treatment (CBT d=1.06, EFT d=0.84), with no significant between-group differences, and gains held at 12-month follow-up. About 50% in each group achieved reliable change; clinically significant change was 40% for CBT and 30% for EFT (not significant). Dropout was low (CBT 10.9%, EFT 1.8%).",
+   "summary_zh": "Psychotherapy Research 2026-11-17 線上刊出（第 36 卷第 8 期）。隨機對照先導試驗比較認知行為治療（CBT）與情緒聚焦治療（EFT）在挪威常規短期治療中治療抑鬱的效果，111 名求助者隨機分入 CBT（n=55）或 EFT（n=56），接受 9–18 節個別治療（平均約 13.5 節）。兩組的 BDI-II 由治療前到治療後都大幅改善（CBT d=1.06，EFT d=0.84），組間無顯著差異，效果維持到 12 個月追蹤。兩組各約 50% 達可靠改善，臨床顯著改善為 CBT 40%、EFT 30%（差異不顯著）。脫落率低，CBT 10.9%、EFT 1.8%。",
+   "supervision_questions": [
+    "兩種治療效果相若但歷程可能不同，你會如何幫個案按偏好與特質選擇？",
+    "一半個案未達可靠改善，督導上如何及早辨識反應不佳者並調整方向？"
+   ],
+   "tags": [
+    "EFT",
+    "CBT",
+    "抑鬱",
+    "常規治療",
+    "隨機對照試驗"
+   ],
+   "tier": "live",
+   "title_en": "Pilot RCT: CBT and emotion-focused therapy equally effective for depression in routine care (N=111)",
+   "title_zh": "先導 RCT：常規治療中 CBT 與 EFT 治療抑鬱效果相若（n=111，追蹤 12 個月）",
+   "training": null,
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "brief_en": [],
+   "brief_zh": [
+    "講者：Christie L. M. Petrenko，臨床心理學家，羅徹斯特大學醫學院發展及行為兒科高級研究主任，專研胎兒酒精譜系障礙（FASD）",
+    "主題：FASD 知情照顧，包括 FASD 是甚麼、診斷如何幫忙、FASD 知情照顧的要點，並介紹 FMF Connect Pro 應用程式",
+    "日期：2026 年 12 月 15 日星期二 12:00–13:00（美國東岸時間，約香港時間 12 月 16 日 01:00–02:00）",
+    "費用：免費參加；1 個免費 CEU，適用於心理學家、社工、婚姻及家庭治療師、精神健康輔導員",
+    "形式：Zoom 線上；對象為照顧 FASD 或產前酒精暴露兒童（3–13 歲）的專業人員"
+   ],
+   "category": "進修與培訓",
+   "caution": "時間為美國東岸時間（約香港時間 12 月 16 日凌晨 01:00–02:00）；講座同時介紹講者開發的 FMF Connect Pro 應用程式及相關研究招募，屬講者個人研究項目；報名前請再核對 CEU 安排。",
+   "date": "2026-11-22T13:30:00+00:00",
+   "deadline_soon": false,
+   "ethics_flags": [],
+   "evidence_level": 0,
+   "evidence_note": "培訓頁面（Florida Center Training Institute；2026 年 12 月 15 日星期二 12:00–13:00 美國東岸時間；免費；Zoom 線上；1 個免費 CEU；經原頁核實）",
+   "evidence_quote": "1 FREE CEU for Psychologists",
+   "featured_at": null,
+   "first_seen_at": "2026-11-22T13:30:00+00:00",
+   "hero_media": null,
+   "hot_score": 0.0,
+   "include": true,
+   "kind": "training",
+   "model_names": [],
+   "original_prompt": "",
+   "page_date": "2026-12-15",
+   "population": [
+    "臨床工作者"
+   ],
+   "posts": [
+    {
+     "author_handle": "",
+     "author_name": "Florida Center Training Institute",
+     "content": "免費網上研討會：2026 年 12 月 15 日，Christie Petrenko 主講胎兒酒精譜系障礙知情照顧。",
+     "platform": "web",
+     "posted_at": "2026-11-22T00:00:00+00:00",
+     "title": "Introductory Webinar – FASD-Informed Care: Striving for Equity（2026 年 12 月 15 日場次）",
+     "url": "https://floridacentertraining.org/training/introductory-webinar-fasd-informed-care-striving-for-equity-2/"
+    }
+   ],
+   "psych_concepts": [],
+   "reject_reason": "",
+   "related": [],
+   "slug": "fasd-informed-care-striving-for-equity-webinar",
+   "summary_en": "The Florida Center Training Institute's free introductory webinar takes place on Tuesday 15 December 2026, 12:00-1:00 p.m. Eastern Time (about 1:00-2:00 a.m. Hong Kong time on 16 December), presented by Christie L. M. Petrenko, PhD, clinical psychologist and Senior Research Director of Developmental & Behavioral Pediatrics at the University of Rochester Medical Center: 'FASD-Informed Care: Striving for Equity'. The session covers what fetal alcohol spectrum disorders (FASD) are, how a diagnosis helps, and what FASD-informed care looks like, and introduces the FMF Connect Pro app. Attendance is free and carries 1 free CEU for psychologists, social workers, marriage and family therapists and mental health counselors. It is aimed at professionals working with children aged 3-13 with FASD or prenatal alcohol exposure.",
+   "summary_zh": "Florida Center Training Institute 免費入門研討會，2026 年 12 月 15 日星期二 12:00–13:00（美國東岸時間，約香港時間 12 月 16 日 01:00–02:00），由 Christie L. M. Petrenko（臨床心理學家，羅徹斯特大學醫學院發展及行為兒科高級研究主任）主講「胎兒酒精譜系障礙知情照顧，邁向公平」。講座介紹 FASD 是甚麼、診斷如何幫忙、FASD 知情照顧的要點，並介紹 FMF Connect Pro 應用程式。費用全免，附 1 個免費 CEU（心理學家、社工、婚姻及家庭治療師、精神健康輔導員）。對象為照顧 FASD 或產前酒精暴露兒童（3–13 歲）的專業人員。",
+   "supervision_questions": [
+    "面對疑似 FASD 的兒童，診斷標籤與支援之間如何取捨？"
+   ],
+   "tags": [
+    "FASD",
+    "胎兒酒精譜系障礙",
+    "免費培訓",
+    "網上研討會",
+    "兒童"
+   ],
+   "tier": "live",
+   "title_en": "Free webinar: FASD-Informed Care — Striving for Equity (15 December 2026, Christie Petrenko)",
+   "title_zh": "免費網上研討會：胎兒酒精譜系障礙知情照顧，邁向公平（12 月 15 日，Christie Petrenko）",
+   "training": {
+    "ce_credits": "1 個免費 CEU（心理學家、社工、婚姻及家庭治療師、精神健康輔導員）",
+    "deadline": "",
+    "event_date": "2026-12-15",
+    "format": "線上直播（Zoom）",
+    "language": "英語",
+    "price": "免費",
+    "price_tier": "免費",
+    "provider": "Florida Center Training Institute"
+   },
+   "verify_needed": false,
+   "verify_reason": ""
+  }
+ ],
+ "run_date": "2026-11-22"
+}
