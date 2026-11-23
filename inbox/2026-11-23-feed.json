@@ -1,0 +1,150 @@
+{
+ "format": "psypick-muse-v1",
+ "run_date": "2026-11-23",
+ "items": [
+  {
+   "brief_en": [],
+   "brief_zh": [
+    "講者：Savannah Erwin 博士（Equip 臨床心理學家）、Ally Duvall（Equip 資深項目發展主管）",
+    "內容：體重偏見的危險與常見迷思、大體型飲食失調患者的照顧要點、協助患者擁抱體重包容的策略",
+    "數據：少於 6% 飲食失調患者體重過輕，大體型患者常被漏診或誤診",
+    "日期：2026 年 12 月 1 日（星期二）11:30–13:00（美西時間）；香港／澳門時間 12 月 2 日（星期三）凌晨 3:30–5:00",
+    "費用：免費，全程線上直播（TPN.health），亦可按需重溫；全程出席可獲 CE 學分；全程英語；須預先報名"
+   ],
+   "category": "進修培訓",
+   "caution": "須經 TPN.health 免費註冊報名，須有 Zoom 帳號；投影片未必全部提供。",
+   "date": "2026-11-23T00:45:00+00:00",
+   "ethics_flags": [],
+   "evidence_level": 0,
+   "evidence_note": "培訓頁面（Equip Academy；2026 年 12 月 1 日美東時間 14:30–16:00；免費 Registration cost: Free；經原頁核實；直播及按需重溫；全程出席可獲 CE）",
+   "evidence_quote": "Registration cost: Free",
+   "featured_at": null,
+   "first_seen_at": "2026-11-23T00:45:00+00:00",
+   "hero_media": null,
+   "hot_score": 0.0,
+   "include": true,
+   "kind": "training",
+   "model_names": [],
+   "original_prompt": "",
+   "page_date": "2026-12-01",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "posts": [
+    {
+     "author_handle": "",
+     "author_name": "Equip Academy",
+     "content": "培訓頁面：Equip Academy 免費 90 分鐘網上講座，2026 年 12 月 1 日美東時間 14:30–16:00，線上直播。",
+     "platform": "web",
+     "posted_at": "2026-12-01T19:30:00+00:00",
+     "title": "Dismantling Weight Bias in Eating Disorder Treatment: How to Support Patients in Large Bodies",
+     "url": "https://equip.health/equipacademy/dismantling-weight-bias-Dec2026?catchall=eatest%2C__pm__plasmic_seed%3D6"
+    }
+   ],
+   "psych_concepts": [],
+   "reject_reason": "",
+   "related": null,
+   "slug": "equip-weight-bias-eating-disorders",
+   "summary_en": "A free 90-minute live webinar from Equip Academy, presented by clinical psychologist Dr. Savannah Erwin and Ally Duvall. It explains why weight bias harms eating disorder care: fewer than 6% of people with eating disorders are underweight, yet people in larger bodies are often undiagnosed, misdiagnosed, or stigmatised when they seek help. The session covers three common weight myths and their dangers, key considerations when caring for larger-bodied patients, and strategies to help patients embrace weight inclusivity. Held Tuesday 1 December 2026, 11:30-13:00 Pacific Time (14:30-16:00 Eastern; 03:30-05:00 Hong Kong/Macau time on 2 December), live online via TPN.health with on-demand replay, free of charge, in English, with advance registration required. Full attendance earns CE credit. Aimed at physicians, nurses, dietitians, psychologists, social workers, marriage and family therapists, addiction counsellors and other healthcare providers.",
+   "summary_zh": "Equip Academy 免費 90 分鐘網上講座，由臨床心理學家 Savannah Erwin 博士及 Ally Duvall 主講，拆解飲食失調治療中的體重偏見：少於 6% 飲食失調患者體重過輕，但大體型患者往往被漏診、誤診，求助時更面對 stigma。講座講解三大常見體重迷思及其危險、照顧大體型患者的要點，以及協助患者擁抱體重包容的策略。2026 年 12 月 1 日（星期二）美西時間 11:30–13:00 舉行（美東時間 14:30–16:00；香港／澳門時間 12 月 2 日星期三凌晨 3:30–5:00），全程線上直播（TPN.health），亦可按需重溫，費用全免，全程英語，須預先報名。全程出席可獲 CE 學分。對象為醫生、護士、營養師、心理學家、社工、婚姻家庭治療師、成癮輔導員及其他醫護專業人員。",
+   "supervision_questions": [
+    "有個案體型較大，但飲食失調徵狀明顯，你過去有冇因為體重而遲咗考慮飲食失調診斷？下次你會點樣提醒自己？",
+    "個案對體重包容有保留，你會點樣用今次學到嘅策略同佢傾，而唔令佢覺得被否定？"
+   ],
+   "tags": [
+    "飲食失調",
+    "體重偏見",
+    "免費培訓"
+   ],
+   "tier": "live",
+   "title_en": "Free webinar: Dismantling Weight Bias in Eating Disorder Treatment (Equip Academy, 1 December)",
+   "title_zh": "免費網上講座：拆解體重偏見——大體型患者的飲食失調治療（12 月 2 日香港時間）",
+   "training": {
+    "ce_credits": "全程出席可獲 CE 學分（數目以 TPN.health 報名頁為準）",
+    "deadline": "",
+    "event_date": "2026-12-01",
+    "event_time_note": "11:30–13:00（美西時間 PT；14:30–16:00 美東時間；香港／澳門時間 12 月 2 日 03:30–05:00）",
+    "format": "線上直播",
+    "language": "英語",
+    "price": "免費",
+    "price_tier": "免費",
+    "provider": "Equip Academy"
+   },
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "brief_en": [],
+   "brief_zh": [
+    "講者：Christie Petrenko 博士（臨床心理學家，羅徹斯特大學醫學院）",
+    "內容：甚麼是 FASD、診斷如何幫到孩子與家庭、FASD 知情照顧的實務要點、FMF Connect Pro 應用程式介紹",
+    "對象：照顧 3 至 13 歲 FASD 或曾受產前酒精影響兒童的專業人員",
+    "日期：2026 年 12 月 15 日（星期二）12:00–13:00（美東時間）；香港／澳門時間 12 月 16 日（星期三）凌晨 1:00–2:00",
+    "費用：免費，Zoom 線上舉行；1 免費 CEU；全程英語；須預先報名"
+   ],
+   "category": "進修培訓",
+   "caution": "講座亦介紹 FMF Connect Pro 應用程式研究，參加研究屬自願；全程英語。",
+   "date": "2026-11-23T00:45:00+00:00",
+   "ethics_flags": [],
+   "evidence_level": 0,
+   "evidence_note": "培訓頁面（Florida Center Training Institute；2026 年 12 月 15 日美東時間 12:00–13:00；免費 Cost: FREE；經原頁核實；Zoom 線上；1 免費 CEU）",
+   "evidence_quote": "Cost: FREE",
+   "featured_at": null,
+   "first_seen_at": "2026-11-23T00:45:00+00:00",
+   "hero_media": null,
+   "hot_score": 0.0,
+   "include": true,
+   "kind": "training",
+   "model_names": [],
+   "original_prompt": "",
+   "page_date": "2026-12-15",
+   "population": [
+    "兒童",
+    "臨床工作者"
+   ],
+   "posts": [
+    {
+     "author_handle": "",
+     "author_name": "Florida Center Training Institute",
+     "content": "培訓頁面：Florida Center Training Institute 免費 60 分鐘網上講座，2026 年 12 月 15 日美東時間 12:00–13:00，Zoom 線上。",
+     "platform": "web",
+     "posted_at": "2026-12-15T17:00:00+00:00",
+     "title": "Introductory Webinar - FASD-Informed Care: Striving for Equity",
+     "url": "https://floridacentertraining.org/training/introductory-webinar-fasd-informed-care-striving-for-equity-2/"
+    }
+   ],
+   "psych_concepts": [],
+   "reject_reason": "",
+   "related": null,
+   "slug": "fasd-informed-care-equity",
+   "summary_en": "A free 60-minute introductory webinar from the Florida Center Training Institute, presented by clinical psychologist Dr. Christie Petrenko. It introduces FASD-informed care: what fetal alcohol spectrum disorders (FASD) are, how a diagnosis helps children and families, and the practical principles of FASD-informed care. Dr. Petrenko also introduces FMF Connect Pro, an app-based tool to support provider competence, and invites professionals to join an upcoming research cohort. Held Tuesday 15 December 2026, 12:00-13:00 Eastern Time (01:00-02:00 Hong Kong/Macau time on 16 December), live on Zoom, free of charge, in English, with advance registration required. One free CEU is available for psychologists, social workers, marriage and family therapists and mental health counsellors. Designed for professionals working with children aged 3-13 with FASD or prenatal alcohol exposure.",
+   "summary_zh": "Florida Center Training Institute 免費 60 分鐘網上講座，由臨床心理學家 Christie Petrenko 博士主講，介紹 FASD 知情照顧：甚麼是胎兒酒精譜系障礙（FASD）、診斷如何幫到孩子與家庭，以及 FASD 知情照顧的實務原則。講者亦介紹 FMF Connect Pro 應用程式（提升專業人員照顧能力的手機工具），並邀請專業人員加入研究團隊。2026 年 12 月 15 日（星期二）美東時間 12:00–13:00 舉行（香港／澳門時間 12 月 16 日星期三凌晨 1:00–2:00），Zoom 線上，費用全免，全程英語，須預先報名。可獲 1 個免費 CEU（心理學家、社工、婚姻家庭治療師、精神健康輔導員）。對象為照顧 3 至 13 歲 FASD 或曾受產前酒精影響兒童的專業人員。",
+   "supervision_questions": [
+    "有個案被標籤為「唔聽話」，你會點樣用 FASD 知情照顧嘅角度，重新理解佢嘅行為同需要？",
+    "診斷對孩子同家庭有咩實際幫助，又有咩風險？你會點樣同家長講解？"
+   ],
+   "tags": [
+    "FASD",
+    "兒童",
+    "免費培訓"
+   ],
+   "tier": "live",
+   "title_en": "Free webinar: FASD-Informed Care — Striving for Equity (Florida Center, 15 December)",
+   "title_zh": "免費網上講座：FASD 知情照顧——為孩子爭取公平（12 月 16 日香港時間）",
+   "training": {
+    "ce_credits": "1 免費 CEU",
+    "deadline": "",
+    "event_date": "2026-12-15",
+    "event_time_note": "12:00–13:00（美東時間 EST；香港／澳門時間 12 月 16 日 01:00–02:00）",
+    "format": "線上直播",
+    "language": "英語",
+    "price": "免費",
+    "price_tier": "免費",
+    "provider": "Florida Center Training Institute"
+   },
+   "verify_needed": false,
+   "verify_reason": ""
+  }
+ ]
+}
