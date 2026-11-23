@@ -145,6 +145,277 @@
    },
    "verify_needed": false,
    "verify_reason": ""
+  },
+  {
+   "brief_en": [],
+   "brief_zh": [
+    "100 名 12–18 歲抑鬱兼非自殺式自傷（NSSI）青少年，河南一間三級精神科醫院，隨機分入 DBT＋家長支援組（n=50）或單用 DBT 組（n=50）",
+    "DBT 為期 13 週（首 6 週面對面，其後 7 週線上）；家長支援為期 10 週，每週一次面對面小組，內容為改善家庭互動模式與家長情緒管理",
+    "完成研究 91 人（介入組 44 人，對照組 47 人）；主要量度為 NSSI 頻率、功能、自殺意念、情緒調節與抑鬱症狀",
+    "介入組在 6 週時 NSSI 頻率降幅已較大（p=0.027），13 週時所有量度結果降幅皆較大（p<0.01），包括自殺意念、NSSI 頻率與功能、情緒調節困難、抑鬱症狀",
+    "結果顯示在 DBT 加入結構化家長支援，比單用 DBT 更有效減少青少年自傷行為與相關症狀"
+   ],
+   "category": "研究與證據",
+   "caution": "單一醫院樣本、中國青少年，結果未必適用其他地區；無長期追蹤，只量度至 13 週；線上治療平台由未具名的資訊科技公司開發；完成率 91%。",
+   "date": "2026-11-23T13:30:00+00:00",
+   "deadline_soon": false,
+   "ethics_flags": [
+    {
+     "flag": "危機處理",
+     "note": "參與者為有自傷行為與自殺意念的青少年，臨床應用時須同時評估自殺風險與安全計劃，不能只教技巧。",
+     "refs": [
+      "危機處理｜自殺與自傷風險"
+     ]
+    }
+   ],
+   "evidence_level": 3,
+   "evidence_note": "隨機對照試驗（Child and Adolescent Psychiatry and Mental Health，2026-01-30 刊出；DOI: 10.1186/s13034-026-01036-1；試驗註冊 ChiCTR2500107404）",
+   "evidence_quote": "lower scores than the control group",
+   "featured_at": null,
+   "first_seen_at": "2026-11-23T13:30:00+00:00",
+   "hero_media": null,
+   "hot_score": 0.0,
+   "include": true,
+   "kind": "research",
+   "model_names": [],
+   "original_prompt": "",
+   "page_date": "2026-01-30",
+   "population": [
+    "青少年",
+    "臨床工作者"
+   ],
+   "posts": [
+    {
+     "author_handle": "",
+     "author_name": "Child and Adolescent Psychiatry and Mental Health",
+     "content": "期刊全文：DBT 結合家長支援對青少年非自殺式自傷的隨機對照試驗，含設計、樣本與主要結果。",
+     "platform": "web",
+     "posted_at": "2026-01-30T00:00:00+00:00",
+     "title": "期刊論文（DOI: 10.1186/s13034-026-01036-1）",
+     "url": "https://doi.org/10.1186/s13034-026-01036-1"
+    }
+   ],
+   "psych_concepts": [],
+   "reject_reason": "",
+   "related": [],
+   "slug": "dbt-parental-support-adolescent-nssi-rct",
+   "summary_en": "Published 30 January 2026 in Child and Adolescent Psychiatry and Mental Health. A randomised controlled trial of 100 adolescents aged 12-18 with depression and non-suicidal self-injury (NSSI) at a tertiary psychiatric hospital in Henan, China, comparing 13 weeks of dialectical behavior therapy (DBT) plus a 10-week structured parental support programme (n=50) with DBT alone (n=50); 91 participants completed the study. The combined group showed significantly greater reductions in NSSI frequency by mid-intervention (p=0.027) and in all measured outcomes at 13 weeks (all p<0.01), including suicidal ideation, NSSI frequency and function, emotion dysregulation and depressive symptoms.",
+   "summary_zh": "Child and Adolescent Psychiatry and Mental Health 2026-01-30 刊出。隨機對照試驗比較 DBT 結合家長支援與單用 DBT 對青少年非自殺式自傷（NSSI）的效果，100 名 12–18 歲抑鬱兼 NSSI 青少年來自河南一間三級精神科醫院（每組 n=50），DBT 為期 13 週，家長支援為期 10 週，91 人完成研究。介入組在 6 週時 NSSI 頻率降幅已較大（p=0.027），13 週時所有量度結果降幅皆較大（p<0.01），包括自殺意念、NSSI 頻率與功能、情緒調節困難、抑鬱症狀。",
+   "supervision_questions": [
+    "家長支援令 DBT 效果更好，你手頭的青少年自傷個案，家長參與程度如何？下一步可以怎樣邀請家長加入？",
+    "線上結合面對面的混合模式省時但要顧及私隱與安全，督導上如何檢視這類混合治療的界線與風險？"
+   ],
+   "tags": [
+    "DBT",
+    "家長支援",
+    "非自殺式自傷",
+    "隨機對照試驗"
+   ],
+   "tier": "live",
+   "title_en": "DBT combined with parental support in adolescents with non-suicidal self-injury: a randomized controlled trial (N=100)",
+   "title_zh": "DBT 結合家長支援對青少年非自殺式自傷的隨機對照試驗（n=100）",
+   "training": null,
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "brief_en": [],
+   "brief_zh": [
+    "196 名有精神障礙兼非自殺式自傷（NSSI）的病人，中國多間中心，隨機分入 13 週 DBT 技巧訓練組（n=97）或社交支援小組組（n=99）",
+    "主要結果為 NSSI 想法與行為頻率（Ottawa Self-Injury Inventory），另量度邊緣症狀、情緒調節、衝動、述情障礙、正念、心理韌性與情緒智力",
+    "DBT 技巧訓練組在減少 NSSI 行為頻率上顯著優於社交支援組；在邊緣症狀與多個心理功能範疇亦有較佳效果",
+    "兩組在 NSSI 想法、自殺意念與企圖、抑鬱方面皆有顯著減少，但組間無顯著差異",
+    "結果支持 13 週 DBT 技巧訓練是中國臨床環境下治療 NSSI 的有效方法"
+   ],
+   "category": "研究與證據",
+   "caution": "中國臨床樣本，結果未必適用其他地區；兩組在自殺意念、抑鬱等結果上無組間差異；摘要未提及長期追蹤。",
+   "date": "2026-11-23T13:30:00+00:00",
+   "deadline_soon": false,
+   "ethics_flags": [
+    {
+     "flag": "危機處理",
+     "note": "參與者為有自傷行為的病人，臨床應用時須同時評估自殺風險與安全計劃，不能只教技巧。",
+     "refs": [
+      "危機處理｜自殺與自傷風險"
+     ]
+    }
+   ],
+   "evidence_level": 3,
+   "evidence_note": "多中心隨機臨床試驗（Psychological Medicine，2026-05-28 線上刊出；DOI: 10.1017/s0033291726104553）",
+   "evidence_quote": "more effective than SSGT in reducing",
+   "featured_at": null,
+   "first_seen_at": "2026-11-23T13:30:00+00:00",
+   "hero_media": null,
+   "hot_score": 0.0,
+   "include": true,
+   "kind": "research",
+   "model_names": [],
+   "original_prompt": "",
+   "page_date": "2026-05-28",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "posts": [
+    {
+     "author_handle": "",
+     "author_name": "Psychological Medicine",
+     "content": "期刊摘要：13 週 DBT 技巧訓練對非自殺式自傷的多中心隨機臨床試驗，含設計、樣本與主要結果。",
+     "platform": "web",
+     "posted_at": "2026-05-28T00:00:00+00:00",
+     "title": "期刊論文（DOI: 10.1017/s0033291726104553）",
+     "url": "https://doi.org/10.1017/s0033291726104553"
+    }
+   ],
+   "psych_concepts": [],
+   "reject_reason": "",
+   "related": [],
+   "slug": "dbt-skills-training-13-week-nssi-multicentre-rct",
+   "summary_en": "Published online 28 May 2026 in Psychological Medicine. A multicentre randomised clinical trial in China evaluated 13 weeks of dialectical behavior therapy skills training (DBT-ST) against social support group therapy (SSGT) in 196 people with mental disorders and non-suicidal self-injury (DBT-ST n=97, SSGT n=99). DBT-ST was significantly more effective than SSGT in reducing the frequency of NSSI behaviours, and showed superior effects on borderline symptoms and multiple domains of psychological functioning, including emotion dysregulation, impulsivity, alexithymia, mindfulness, psychological resilience and emotional intelligence. Both groups showed significant reductions in NSSI thoughts, suicidal ideation and attempts, and depression, with no significant between-group differences on those outcomes.",
+   "summary_zh": "Psychological Medicine 2026-05-28 線上刊出。中國多中心隨機臨床試驗比較 13 週 DBT 技巧訓練與社交支援小組治療對非自殺式自傷（NSSI）的效果，196 名有精神障礙兼 NSSI 的病人（DBT-ST n=97，社交支援組 n=99）。DBT 技巧訓練在減少 NSSI 行為頻率上顯著優於社交支援組，在邊緣症狀、情緒調節、衝動、述情障礙、正念、心理韌性與情緒智力亦有較佳效果。兩組在 NSSI 想法、自殺意念與企圖、抑鬱方面皆有顯著減少，但組間無顯著差異。",
+   "supervision_questions": [
+    "DBT 技巧訓練對自傷行為有效，但對自殺意念與抑鬱無額外優勢，你會怎樣向個案解釋這個分別？",
+    "13 週的短程 DBT 技巧訓練適合哪些自傷個案？督導上如何判斷個案需要完整 DBT 還是技巧訓練已足夠？"
+   ],
+   "tags": [
+    "DBT",
+    "非自殺式自傷",
+    "隨機對照試驗"
+   ],
+   "tier": "live",
+   "title_en": "Effectiveness of 13-week dialectical behavior therapy skills training for non-suicidal self-injury: a multi-center randomized clinical trial in China (N=196)",
+   "title_zh": "13 週 DBT 技巧訓練對非自殺式自傷的多中心隨機試驗（n=196）",
+   "training": null,
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "brief_en": [],
+   "brief_zh": [
+    "266 名 18 歲以上確診自閉症兼有抑鬱症狀的成人（PHQ-9 ≥10），多中心隨機分入自閉症改編引導式自助組（n=132）或常規治療組（n=134）",
+    "改編引導式自助（AASH-DEP）包括心理教育與行為活化，另有 9 次教練會面；主要結果為 16 週時的貝克抑鬱量表（BDI-II）分數",
+    "16 週時，組間 BDI-II 平均差 −5.05（95% CI −7.85 至 −2.24，P<0.001，d=0.47），改編組較佳，差異維持至 52 週",
+    "引導式自助組 81% 完成最少 6 節的最低劑量；5 人未開始介入，28 人中途退出",
+    "結果支持為自閉症成人改編的引導式自助抑鬱治療，值得推廣應用"
+   ],
+   "category": "研究與證據",
+   "caution": "接受稿（accepted manuscript），尚未經最終排版，內容或有微調；對照為常規治療而非主動對照；樣本為確診自閉症的成人，結果未必適用未確診或青少年群體。",
+   "date": "2026-11-23T13:30:00+00:00",
+   "deadline_soon": false,
+   "ethics_flags": [],
+   "evidence_level": 3,
+   "evidence_note": "多中心隨機對照三期試驗（Psychotherapy and Psychosomatics，2026-11-13 刊出；DOI: 10.1159/pps/aemag025；試驗註冊 ISRCTN 17547011）",
+   "evidence_quote": "difference sustained at 52-weeks",
+   "featured_at": null,
+   "first_seen_at": "2026-11-23T13:30:00+00:00",
+   "hero_media": null,
+   "hot_score": 0.0,
+   "include": true,
+   "kind": "research",
+   "model_names": [],
+   "original_prompt": "",
+   "page_date": "2026-11-13",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "posts": [
+    {
+     "author_handle": "",
+     "author_name": "Psychotherapy and Psychosomatics",
+     "content": "期刊摘要：為自閉症成人改編的引導式自助抑鬱治療多中心三期隨機試驗 ADEPT-2，含設計、樣本與主要結果。",
+     "platform": "web",
+     "posted_at": "2026-11-13T00:00:00+00:00",
+     "title": "期刊論文（DOI: 10.1159/pps/aemag025）",
+     "url": "https://academic.oup.com/pps/advance-article/doi/10.1159/pps/aemag025/9045833"
+    }
+   ],
+   "psych_concepts": [],
+   "reject_reason": "",
+   "related": [],
+   "slug": "adept-2-guided-self-help-depression-autistic-adults-rct",
+   "summary_en": "Published 13 November 2026 in Psychotherapy and Psychosomatics. The ADEPT-2 multicentre randomised controlled phase 3 trial tested autism-adapted guided self-help (GSH) for depression against treatment as usual in 266 adults aged 18 or over with a confirmed autism diagnosis and depressive symptoms (PHQ-9 >= 10; GSH n=132, TAU n=134). Adapted GSH comprised psychoeducation and behavioural activation supported by nine meetings with a coach. The estimated between-group mean difference in Beck Depression Inventory (BDI-II) scores at 16 weeks was -5.05 (95% CI -7.85 to -2.24, P<0.001, d=0.47) in favour of GSH, with the difference sustained at 52 weeks; 81% of the GSH group completed the minimum 6-session dose.",
+   "summary_zh": "Psychotherapy and Psychosomatics 2026-11-13 刊出。ADEPT-2 多中心隨機對照三期試驗測試為自閉症成人改編的引導式自助（GSH）對抑鬱的效果，266 名 18 歲以上確診自閉症兼有抑鬱症狀的成人（GSH 組 n=132，常規治療組 n=134）。改編 GSH 包括心理教育與行為活化，另有 9 次教練會面。16 週時組間 BDI-II 平均差 −5.05（95% CI −7.85 至 −2.24，P<0.001，d=0.47），改編組較佳，差異維持至 52 週；81% 完成最少 6 節的最低劑量。",
+   "supervision_questions": [
+    "標準引導式自助未必切合自閉症成人的需要，你手頭的自閉症個案，現有抑鬱治療有哪些地方需要改編？",
+    "教練會面的支援是這個模式的重要部分，督導上如何訓練教練在不過度介入下保持支持？"
+   ],
+   "tags": [
+    "自閉症",
+    "抑鬱",
+    "引導式自助",
+    "隨機對照試驗"
+   ],
+   "tier": "live",
+   "title_en": "Guided self-help for depression adapted for autistic adults: a multi-centre randomised controlled phase 3 trial (ADEPT-2) (N=266)",
+   "title_zh": "為自閉症成人改編的引導式自助抑鬱治療：多中心三期隨機試驗 ADEPT-2（n=266）",
+   "training": null,
+   "verify_needed": false,
+   "verify_reason": ""
+  },
+  {
+   "brief_en": [],
+   "brief_zh": [
+    "835 名重性抑鬱症病人，歐洲 9 國常規照護，隨機分入混合式 CBT 組或常規治療組（主要為面對面 CBT）",
+    "混合式 CBT 結合面對面治療與結構化網上治療模組；主要結果為 PHQ-9，另量度 12 個月時的抑鬱復發、治療聯盟與成本",
+    "混合式 CBT 在治療期間（3 個月，d=−0.26）、治療後（6 個月，d=−0.21）及 12 個月追蹤（d=−0.01）的 PHQ-9 上皆不劣於常規治療",
+    "混合式 CBT 組在 12 個月時出現抑鬱發作的機會較低（OR 0.67，95% CI 0.45–0.99）；兩組惡化率皆低於 5%，治療聯盟皆強",
+    "從醫療角度看，混合式 CBT 在 12 個月時不具成本效益，總成本與常規治療無顯著差異"
+   ],
+   "category": "研究與證據",
+   "caution": "非劣性設計，未能證明優於常規治療；12 個月時從醫療角度看不具成本效益；歐洲常規照護樣本，結果未必適用其他醫療體系。",
+   "date": "2026-11-23T13:30:00+00:00",
+   "deadline_soon": false,
+   "ethics_flags": [],
+   "evidence_level": 3,
+   "evidence_note": "多中心非劣性隨機對照試驗（Interactive Journal of Medical Research，2026-09-24 刊出；DOI: 10.2196/72866；試驗註冊 NCT02796573 等）",
+   "evidence_quote": "bCBT was shown to be noninferior to TAU",
+   "featured_at": null,
+   "first_seen_at": "2026-11-23T13:30:00+00:00",
+   "hero_media": null,
+   "hot_score": 0.0,
+   "include": true,
+   "kind": "research",
+   "model_names": [],
+   "original_prompt": "",
+   "page_date": "2026-09-24",
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "posts": [
+    {
+     "author_handle": "",
+     "author_name": "Interactive Journal of Medical Research",
+     "content": "期刊全文：混合式 CBT 對重性抑鬱的臨床與成本效益非劣性隨機對照試驗，含設計、樣本與主要結果。",
+     "platform": "web",
+     "posted_at": "2026-09-24T00:00:00+00:00",
+     "title": "期刊論文（DOI: 10.2196/72866）",
+     "url": "https://doi.org/10.2196/72866"
+    }
+   ],
+   "psych_concepts": [],
+   "reject_reason": "",
+   "related": [],
+   "slug": "blended-cbt-major-depression-europe-noninferiority-rct",
+   "summary_en": "Published 24 September 2026 in the Interactive Journal of Medical Research. A multisite noninferiority randomised controlled trial across 9 European countries compared blended cognitive behavioral therapy (bCBT), combining face-to-face therapy with structured guided digital modules, with treatment as usual (mainly face-to-face CBT) in 835 patients with major depressive disorder in routine care. bCBT was noninferior to TAU on the primary PHQ-9 outcome during treatment (3 months, d=-0.26), at 6 months post-treatment (d=-0.21) and at 12-month follow-up (d=-0.01). The bCBT group had a significantly lower likelihood of a major depression episode at 12 months (odds ratio 0.67, 95% CI 0.45-0.99). Deterioration rates were below 5% in both groups, with a strong working alliance in both. From a health care perspective, bCBT was not cost-effective at 12 months.",
+   "summary_zh": "Interactive Journal of Medical Research 2026-09-24 刊出。歐洲 9 國多中心非劣性隨機對照試驗比較混合式 CBT（面對面治療結合結構化網上模組）與常規治療（主要為面對面 CBT）對重性抑鬱症的效果，835 名常規照護病人。混合式 CBT 在治療期間（3 個月，d=−0.26）、治療後（6 個月，d=−0.21）及 12 個月追蹤（d=−0.01）的 PHQ-9 上皆不劣於常規治療；混合式 CBT 組在 12 個月時出現抑鬱發作的機會較低（OR 0.67，95% CI 0.45–0.99）；兩組惡化率皆低於 5%，治療聯盟皆強。從醫療角度看，混合式 CBT 在 12 個月時不具成本效益。",
+   "supervision_questions": [
+    "混合式 CBT 效果不劣於面對面治療，你機構的輪候名單長，哪些抑鬱個案適合先用混合模式？",
+    "網上模組改變了治療聯盟的建立方式，督導上如何檢視治療師與個案在混合模式下的聯盟質素？"
+   ],
+   "tags": [
+    "CBT",
+    "混合式治療",
+    "抑鬱",
+    "隨機對照試驗"
+   ],
+   "tier": "live",
+   "title_en": "Clinical Effectiveness and Cost-Effectiveness of Blended Treatment for Major Depression Compared With Treatment as Usual Within Routine Care in Europe: A Noninferiority Randomized Controlled Trial (N=835)",
+   "title_zh": "混合式 CBT 對重性抑鬱：歐洲九國常規照護非劣性隨機試驗（n=835）",
+   "training": null,
+   "verify_needed": false,
+   "verify_reason": ""
   }
  ]
 }
