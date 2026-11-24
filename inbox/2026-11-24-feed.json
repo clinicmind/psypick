@@ -1,1 +1,152 @@
-{"date":"2026-11-24","items":[{"note":"免費；線上直播（TPN.health）；1.5 CE；香港時間 12 月 5 日（六）凌晨 1:00–2:30","slug":"revolve-trauma-ecology-integration-model","source":"https://www.revolverecovery.com/post/moving-beyond-symptoms-dr-georgina-smith-to-present-on-the-trauma-ecology-integration-model","title":"Human Adaptation Beyond Diagnosis: Applying the Trauma Ecology Integration Model (Revolve Recovery, Georgina Smith)","type":"training"},{"note":"免費參加；錄影及 6 CE 須付費升級；香港時間 12 月 8 日 23:00 至 12 月 9 日 6:30；頁面 FAQ 區仍顯示上一場 12 月 3 日 Polyvagal 內容","slug":"ecare-bipolar-overlap-masterclass","source":"https://webinar.ecarebehavioralinstitute.com/december-8th-2026-webinar","title":"Bipolar Overlap Masterclass (eCare, Jim Phelps, MD)","type":"training"}],"run":"feed-ig-poster","source_note":"公開搜尋後備（Feed 工具不可用：feed 命名空間只提供 feed.unit_create），非 Feed 單位","training_count":2}
+{
+  "version": 2,
+  "run_at": "2026-11-24T13:30:00+00:00",
+  "items": [
+    {
+      "type": "case",
+      "slug": "vr-cognitive-enhancement-schizophrenia-rct",
+      "title_zh": "體感虛擬實境訓練改善思覺失調患者的認知：隨機對照試驗",
+      "title_en": "Virtual Reality for Cognitive Enhancement in Schizophrenia: A Randomized Controlled Trial",
+      "summary_zh": "土耳其單中心評估者盲法隨機對照試驗：124 名思覺失調門診患者隨機分組，在常規職能治療之外加做體感虛擬實境訓練，六個認知範疇的改善全部優於只做常規治療的一組。",
+      "summary_en": "A single-centre, assessor-blinded randomized controlled trial in Türkiye: 124 outpatients with schizophrenia were randomized to conventional occupational therapy alone or with added motion-controlled virtual reality training; all six cognitive domains improved more in the VR group.",
+      "category": "研究與證據",
+      "kind": "research",
+      "evidence_hint": "對照試驗",
+      "evidence_note": "評估者盲法單中心隨機對照試驗，124 人隨機分組，95 人完成分析；VR 組治療時間較多，23.4% 未納入分析，試驗事後註冊。",
+      "evidence_quote": "All six adjusted domain comparisons",
+      "page_date": "2026-11-23",
+      "brief_zh": [
+        "124 名思覺失調門診患者隨機分組（每組 62 人），114 人完成八週課程，95 人有完整前後評估數據",
+        "兩組每週三次各 45 分鐘個別常規職能治療；VR 組每次另加 45 分鐘體感 VR 訓練（Xbox 360 Kinect，非頭戴式）",
+        "六個 LOTCA-II 認知範疇經基線校正後全部優於對照組；組間差異由視覺感知 1.87 分至思考運作 5.37 分",
+        "作者提醒：VR 組治療時間較多、部分評估數據不完整，需以時間配對試驗及功能結果再驗證"
+      ],
+      "caution": "VR 組多了治療時間，未能分開 VR 本身的效果；23.4% 隨機分組者未納入分析；單中心、短期認知測驗結果，未量度日常功能；試驗事後註冊（ClinicalTrials.gov NCT07111689）。",
+      "supervision_questions": [
+        "認知測驗分數進步，怎樣才算轉化為病人日常功能的改善？下次覆診你會問病人什麼來驗證？",
+        "如果機構想引入類似 VR 訓練，時間成本與人手如何計算，才不會令治療變成「加時等於有效」？"
+      ],
+      "tags": [
+        "思覺失調",
+        "認知復健",
+        "虛擬實境",
+        "職能治療",
+        "隨機對照試驗"
+      ],
+      "population": [
+        "成人",
+        "思覺失調患者"
+      ],
+      "verify_needed": false,
+      "verify_reason": "",
+      "source": {
+        "url": "https://www.mdpi.com/2076-328X/16/12/2221",
+        "title": "Virtual Reality for Cognitive Enhancement in Schizophrenia: A Randomized Controlled Trial",
+        "author_name": "Behavioral Sciences (MDPI)",
+        "content": "期刊全文：體感 VR 訓練加常規職能治療對思覺失調患者認知的隨機對照試驗，含設計、樣本與主要結果。"
+      }
+    },
+    {
+      "type": "case",
+      "slug": "re-process-trauma-therapy-ptsd-psychosis-rct",
+      "title_zh": "三種創傷治療皆減輕思覺失調患者的創傷後壓力症（RE.PROCESS 試驗）",
+      "title_en": "Prolonged Exposure, EMDR, and Cognitive Restructuring versus Waiting-List for PTSD and Psychosis (RE.PROCESS): A Multicenter RCT",
+      "summary_zh": "多中心四組隨機對照試驗：162 名同時患思覺失調及創傷後壓力症的患者，接受延長暴露、EMDR 或認知重構治療，六個月後 PTSD 症狀減幅全部明顯大於等候名單組，效應值達大水平；三種治療均未改善精神病症狀。",
+      "summary_en": "A multicentre, four-arm randomized controlled trial: 162 patients with both a schizophrenia spectrum disorder and PTSD received prolonged exposure, EMDR or cognitive restructuring; all three reduced PTSD symptoms significantly more than a waiting list at six months, with large effects, but none improved psychosis symptoms.",
+      "category": "研究與證據",
+      "kind": "research",
+      "evidence_hint": "對照試驗",
+      "evidence_note": "多中心四組評估者盲法隨機對照試驗，162 人，追蹤至隨機分組後六個月；刊於 Psychological Medicine。",
+      "evidence_quote": "effective in reducing PTSD symptoms",
+      "page_date": "2026-11-09",
+      "brief_zh": [
+        "162 名患思覺失調譜系障礙及 PTSD 的患者，按 1:1:1:1 隨機分入延長暴露、EMDR、認知重構或等候名單組，治療最多 16 節、每週兩次",
+        "六個月時 CAPS-5 組間差異：延長暴露 -9.76（d=-0.90）、EMDR -11.74（d=-1.04）、認知重構 -12.72（d=-1.00），三組皆顯著優於等候名單",
+        "次要 PTSD 相關結果亦見治療效果，但精神病症狀沒有改善",
+        "作者指結果支持擴大此類患者接受創傷治療的機會，但需更大樣本複製"
+      ],
+      "caution": "樣本仍偏小，需更大樣本複製；對照組為等候名單，未與主動治療比較；三種治療均未改善精神病症狀；長期效果未明。",
+      "supervision_questions": [
+        "病人同時有思覺失調與 PTSD，你以往會先處理哪一邊？這項結果會改變你的先後次序嗎？",
+        "三種治療效果相近時，你會按什麼準則與病人一起選擇：病人偏好、治療師專長，還是服務輪候時間？"
+      ],
+      "tags": [
+        "創傷後壓力症",
+        "思覺失調",
+        "延長暴露",
+        "EMDR",
+        "認知重構",
+        "隨機對照試驗"
+      ],
+      "population": [
+        "成人",
+        "思覺失調及創傷後壓力症患者"
+      ],
+      "verify_needed": false,
+      "verify_reason": "",
+      "source": {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43000852/",
+        "title": "Prolonged exposure, eye movement desensitization and reprocessing therapy, and cognitive restructuring versus waiting-list for individuals with PTSD and psychosis (RE.PROCESS): A multicenter, four-arm, assessor-masked, superiority randomized controlled trial",
+        "author_name": "Psychological Medicine",
+        "content": "期刊摘要：三種創傷治療對思覺失調兼 PTSD 患者的隨機對照試驗，含樣本、設計與主要結果。"
+      }
+    },
+    {
+      "type": "case",
+      "slug": "divit-mindspace-therapists-emotional-compass-webinar",
+      "title_zh": "免費網上講座：治療師的情緒羅盤——誰來照顧照顧者（12 月 5 日）",
+      "title_en": "The Therapist's Emotional Compass: Who Cares for the Ones Who Care? (Divit Mindspace, 5 December)",
+      "summary_zh": "Divit Mindspace 免費網上講座，由 RCI 註冊臨床心理學家 Ankita Bhatnagar 主講，對象為心理健康專業人員。內容圍繞治療師如何辨認自己的耗竭訊號，談同情疲勞、倦怠、替代性創傷與實用自我照顧策略。2026 年 12 月 5 日星期六 18:00–19:30（印度時間）Google Meet 舉行，須預先報名。",
+      "summary_en": "A free online webinar from Divit Mindspace, presented by RCI-licensed clinical psychologist Ankita Bhatnagar, for mental health professionals. It covers how therapists can recognise their own exhaustion signals, including compassion fatigue, burnout, vicarious trauma and practical self-care strategies. Held Saturday 5 December 2026, 18:00-19:30 (India time) on Google Meet; advance registration required.",
+      "category": "進修培訓",
+      "kind": "training",
+      "evidence_hint": "個人經驗或評論",
+      "evidence_note": "活動資料來自主辦方 Instagram 帖文（2026 年 11 月 23 日）及機構網站；免費、全程線上、須預先報名。",
+      "evidence_quote": "Who cares for the ones who care?",
+      "page_date": "2026-11-23",
+      "brief_zh": [
+        "講者：Ankita Bhatnagar，RCI 註冊臨床心理學家，Divit Mindspace 顧問",
+        "對象：心理健康專業人員；內容：辨認情緒耗竭、同情疲勞與倦怠、替代性創傷、孤立與觸發因素、實用自我照顧策略",
+        "日期：2026 年 12 月 5 日星期六 18:00–19:30（印度時間；約香港／澳門時間 20:30–22:00），Google Meet 全程線上",
+        "費用：免費；須預先報名（Google 表格）"
+      ],
+      "caution": "活動時間的時區未在來源帖文明示，按主辦方所在地推算為印度時間，參加前請核對；只有 Instagram 帖文作官方來源，未見獨立活動頁；未註明有否學分或錄影重溫。",
+      "supervision_questions": [
+        "你最近一次留意到自己的耗竭訊號是什麼時候？當時你做了什麼，還是繼續工作？",
+        "督導中談治療師的情緒耗竭，你覺得最難開口的是哪一部分？"
+      ],
+      "tags": [
+        "同情疲勞",
+        "倦怠",
+        "治療師自我照顧",
+        "免費培訓",
+        "Divit Mindspace"
+      ],
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "verify_needed": true,
+      "verify_reason": "活動時區未在來源頁面明示（按主辦方所在地推算為印度時間）；只得 Instagram 帖文作官方來源，未見獨立活動頁。",
+      "source": {
+        "url": "https://www.instagram.com/p/DgF4gRxpBRv/",
+        "title": "The Therapist's Emotional Compass: Who cares for the ones who care?",
+        "author_name": "Divit Mindspace",
+        "content": "主辦方 Instagram 帖文：免費網上講座，2026 年 12 月 5 日，Ankita Bhatnagar 主講，報名用 Google 表格。"
+      },
+      "training": {
+        "provider": "Divit Mindspace",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英語",
+        "event_date": "2026-12-05",
+        "deadline": "",
+        "audience_level": "心理健康專業人員",
+        "topic": "同情疲勞與治療師自我照顧",
+        "signup_url": "https://forms.gle/zQaux162A25UqTRH6"
+      }
+    }
+  ]
+}
