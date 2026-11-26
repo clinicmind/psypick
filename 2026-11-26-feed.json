@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "run_at": "2026-11-26T13:30:00+00:00",
+  "items": [
+    {
+      "type": "case",
+      "title_zh": "精神運動遲滯者抑鬱治療反應較差（九項隨機試驗個別數據分析）",
+      "title_en": "Is psychomotor retardation associated with treatment response in adults with depression? A secondary analysis of nine randomized controlled trials",
+      "summary_zh": "九項隨機試驗共 4,290 名成人抑鬱患者的個別數據分析發現，出現精神運動遲滯者治療後症狀較重、緩解機會較低；但計入整體基線嚴重程度後，關連不再穩固，遲滯更可能是嚴重程度的標記，而非獨立預測指標。",
+      "summary_en": "A secondary analysis of individual participant data from nine randomised controlled trials (n=4,290 adults with depression) found psychomotor retardation was associated with poorer treatment outcomes, but the association did not hold after adjusting for overall baseline severity, suggesting retardation may mark severity rather than independently predict response.",
+      "category": "研究與證據",
+      "kind": "research",
+      "evidence_hint": "系統性回顧或統合分析",
+      "evidence_note": "九項隨機試驗個別數據的匯集分析（隨機效應統合分析）；關連在計入整體基線嚴重程度後不再穩固。",
+      "evidence_quote": "Psychomotor retardation is associated",
+      "page_date": "2026-11-23",
+      "brief_zh": [
+        "4,290 名參加者中 64.2% 報告精神運動遲滯",
+        "遲滯者追蹤時抑鬱較重（pooled z = 0.184），緩解勝算較低（OR = 0.737）",
+        "計入整體基線嚴重程度後，關連不再穩固"
+      ],
+      "caution": "觀察性二次分析，結果是關連而非因果；遲滯可能是嚴重程度的標記，而非獨立預測指標。",
+      "supervision_questions": [
+        "見到精神運動遲滯的求助者，治療計劃要如何調整？",
+        "如何向求助者解釋遲滯與預後的關係而不致絕望？"
+      ],
+      "tags": [
+        "抑鬱",
+        "精神運動遲滯",
+        "治療反應",
+        "統合分析"
+      ],
+      "population": [
+        "成人抑鬱患者"
+      ],
+      "verify_needed": false,
+      "verify_reason": "",
+      "ethics_flags": [],
+      "model_names": [],
+      "source": {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43068977/",
+        "title": "Is psychomotor retardation associated with treatment response in adults with depression? A secondary analysis of nine randomized controlled trials",
+        "author_name": "Psychological Medicine / Badenoch 等"
+      },
+      "key_points_zh": [
+        "九項 RCT 個別數據，n=4,290，64.2% 有精神運動遲滯",
+        "遲滯與較差治療反應相關，但可能只是嚴重程度的標記"
+      ]
+    }
+  ]
+}
